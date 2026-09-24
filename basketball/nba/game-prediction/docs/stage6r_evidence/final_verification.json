@@ -1,0 +1,21 @@
+{
+  "execution_passed": false,
+  "feature_changes": false,
+  "final_metrics_computed": false,
+  "final_prediction_games": 0,
+  "fit_calls": 0,
+  "full_season_validated": false,
+  "individual_prediction_errors_inspected": false,
+  "model_changes": false,
+  "normal_network_still_blocked": true,
+  "part_a_passed": true,
+  "passed": true,
+  "protected_files_unchanged": 313,
+  "raw_games": 1230,
+  "recovery_acquisition_attempts": 1,
+  "recovery_code_unchanged_after_gate": true,
+  "structurally_accepted_games": 1225,
+  "transport_success": true,
+  "tuning": false,
+  "unresolved_games": 5
+}

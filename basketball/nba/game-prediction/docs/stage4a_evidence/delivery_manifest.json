@@ -1,0 +1,12 @@
+{
+  "files": {
+    "docs/stage4a_evidence/build_manifest.json": "402277e39042801efccaf8dd8f8d0d2361c3283e74e354ca578ba9c922b61217",
+    "docs/stage4a_evidence/code_change_audit.json": "d58249b164b0ad120e0602064f91cd77d94b9ca3d4314fba4fa926952f4c679c",
+    "docs/stage4a_evidence/ordinary_test_run.txt": "b13d61dd9533b0c3c17f323997d7479436b9eb146e3015e87849861219ac68fe",
+    "docs/stage4a_evidence/replay_verification.json": "65704c38176d30ff15bf8524c5110bdfab97979104317283068703b47cc73567",
+    "docs/stage4a_sealed_evaluation_hardening.md": "6b43cecaeb89289ff0d20a7711705eff335c16b9536da72b7ab13ede45aad5b9"
+  },
+  "passed": true,
+  "protected_artifacts": 210,
+  "tests": 102
+}

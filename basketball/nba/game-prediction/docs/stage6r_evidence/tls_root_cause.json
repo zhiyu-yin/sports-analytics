@@ -1,0 +1,26 @@
+{
+  "attempts": [
+    {
+      "local_socket_replaced": false,
+      "tls_construction": "Development network blocked"
+    },
+    {
+      "local_socket_replaced": true,
+      "tls_construction": "Development network blocked"
+    }
+  ],
+  "base_is_blocked": true,
+  "blocked_socket_id": 4674993872,
+  "explanation": "Startup pth imports nba_game_prediction and installs BlockedSocket before ssl imports socket as its class base. Later socket.socket rebinding cannot change SSLSocket.__mro__.",
+  "network_connect_calls": 0,
+  "original_socket_id": 5645601808,
+  "reproduced": true,
+  "ssl_base_id": 4674993872,
+  "ssl_mro": [
+    "ssl.SSLSocket",
+    "nba_game_prediction.sealed_access.install.<locals>.BlockedSocket",
+    "socket.socket",
+    "_socket.socket",
+    "builtins.object"
+  ]
+}

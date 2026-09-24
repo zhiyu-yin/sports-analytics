@@ -1,0 +1,86 @@
+{
+  "$comment": "SCHEMA ONLY \u2014 NOT EXECUTED. No actual authorization or access timestamps populated. Future explicit Stage 6 authorization required.",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "properties": {
+    "aggregate_results_persisted_at_utc": {
+      "default": null,
+      "format": "date-time",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "authorized_season": {
+      "const": "2025-26"
+    },
+    "benchmark_sha256": {
+      "type": "string"
+    },
+    "code_sha256": {
+      "type": "object"
+    },
+    "confirmatory_candidate_sha256": {
+      "type": "string"
+    },
+    "expected_dataset_scope": {
+      "type": "object"
+    },
+    "explicit_user_authorization": {
+      "properties": {
+        "recorded_at_utc": {
+          "format": "date-time",
+          "type": "string"
+        },
+        "text_sha256": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "text_sha256",
+        "recorded_at_utc"
+      ],
+      "type": "object"
+    },
+    "first_outcome_decode_at_utc": {
+      "default": null,
+      "format": "date-time",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "first_physical_data_access_at_utc": {
+      "default": null,
+      "format": "date-time",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "metric_definitions": {
+      "type": "object"
+    },
+    "protocol_sha256": {
+      "type": "string"
+    },
+    "uncertainty_method": {
+      "type": "object"
+    }
+  },
+  "required": [
+    "explicit_user_authorization",
+    "authorized_season",
+    "protocol_sha256",
+    "confirmatory_candidate_sha256",
+    "benchmark_sha256",
+    "code_sha256",
+    "metric_definitions",
+    "uncertainty_method",
+    "expected_dataset_scope",
+    "first_physical_data_access_at_utc",
+    "first_outcome_decode_at_utc",
+    "aggregate_results_persisted_at_utc"
+  ],
+  "type": "object"
+}

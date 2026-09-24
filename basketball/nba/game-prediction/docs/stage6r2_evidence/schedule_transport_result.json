@@ -1,0 +1,62 @@
+{
+  "authorization_sha256": "37c3d5e554cb9fe0d246d8651497e5105dfe04320a4d3046f6de33266945a00e",
+  "connects": [
+    [
+      "23.9.156.4",
+      443
+    ]
+  ],
+  "dns_calls": [
+    [
+      "stats.nba.com",
+      443
+    ]
+  ],
+  "endpoint": "ScheduleLeagueV2",
+  "facts_sha256": "ef78491eca2879483a084e39225e717139a443ecc735a965472fad2dbf7fd3ba",
+  "field_projection": "Endpoint has season-only parameters and no field/game filter; full JSON received transiently, only five factual records retained; no scores, winners, records or standings selected or used",
+  "final_data_access": true,
+  "http_status": 200,
+  "mode": "schedule",
+  "nba_api_version": "1.11.4",
+  "normal_socket_is_blocked": true,
+  "parameters": {
+    "LeagueID": "00",
+    "Season": "2025-26"
+  },
+  "passed": true,
+  "retained_fields": [
+    "gameId",
+    "gameDate",
+    "gameDateEst",
+    "gameCode",
+    "homeTeam.teamId",
+    "homeTeam.teamTricode",
+    "awayTeam.teamId",
+    "awayTeam.teamTricode",
+    "arenaName",
+    "arenaCity",
+    "isNeutral"
+  ],
+  "retained_game_ids": [
+    "0022500147",
+    "0022500578",
+    "0022500602",
+    "0022501229",
+    "0022501230"
+  ],
+  "retrieval_started_utc": "2026-09-24T20:59:20.449758+00:00",
+  "retrieved_at_utc": "2026-09-24T20:59:20.823884+00:00",
+  "returncode": 0,
+  "revocation_blocks_socket": true,
+  "source_response_bytes": 4435106,
+  "source_response_sha256": "ba9324d0ed5633b2d655d3937e375f3fe0919f778ee4d00670f27d3a2ab53b4e",
+  "ssl_base_is_original_socket": true,
+  "ssl_mro": [
+    "ssl.SSLSocket",
+    "socket.socket",
+    "_socket.socket",
+    "builtins.object"
+  ],
+  "url": "https://stats.nba.com/stats/scheduleleaguev2?LeagueID=00&Season=2025-26"
+}

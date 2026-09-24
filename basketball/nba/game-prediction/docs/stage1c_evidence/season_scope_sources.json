@@ -1,0 +1,17 @@
+{
+  "sources": {
+    "2015-16": "https://pr.nba.com/nba-schedule-2015-16-season/",
+    "2016-17": "https://pr.nba.com/nba-schedule-2016-17-season/",
+    "2017-18": "https://pr.nba.com/nba-2017-18-game-broadcast-schedules/",
+    "2018-19": "https://pr.nba.com/2018-19-nba-schedule/",
+    "2019-20 restart": "https://pr.nba.com/seeding-games-awards/",
+    "2019-20 historical game total": "https://www.nba.com/news/power-rankings-notebook-week-12-2022-23",
+    "2020-21": "https://official.nba.com/nba-announces-structure-and-format-for-2020-21-season/",
+    "2021-22": "https://pr.nba.com/2021-22-nba-schedule-75th-anniversary-season/",
+    "2022-23": "https://pr.nba.com/2022-23-nba-regular-season-schedule-europe-middle-east-africa/",
+    "2023-24": "https://pr.nba.com/2023-24-nba-regular-season-schedule/",
+    "2024-25": "https://pr.nba.com/2024-25-nba-regular-season-schedule/",
+    "2024 Cup dates": "https://www.nba.com/news/nba-unveils-new-logo-and-game-dates-for-emirates-nba-cup-2024"
+  },
+  "distinction": "Sources document schedule formats; scope_audit.json contains observations and seasons.py contains implementation admission boundaries."
+}

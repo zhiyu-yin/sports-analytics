@@ -1,0 +1,10 @@
+{
+  "network_socket_blocked": true,
+  "offline_builds": 2,
+  "output_hashes_identical": true,
+  "input_hashes_identical": true,
+  "source_hashes_identical": true,
+  "first_build_timestamp_utc": "2026-09-24T16:06:05.599678+00:00",
+  "second_build_timestamp_utc": "2026-09-24T16:06:05.798576+00:00",
+  "audit_script_sha256": "618f1da497ec01200be93ca3f2fe858f789d3790508c743f8d903084e8cf6d30"
+}

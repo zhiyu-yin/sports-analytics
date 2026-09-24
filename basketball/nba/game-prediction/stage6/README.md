@@ -1,0 +1,13 @@
+# Stage 6 execution boundary
+
+Run `.venv/bin/python stage6/run.py` only for the explicitly authorized opening. It refuses an existing ledger. The process verifies the unchanged Stage 5A freeze and historical code, runs synthetic preflight, then durably creates the schema-compatible ledger before the first network call. Any failure after access stops; rerunning is not an authorized recovery.
+
+This additive directory is outside historical `src`, `scripts`, and `tests` checkpoints. Those files and the virtualenv development policy remain unchanged. The executor's separate hashes are frozen in the gate and ledger before access. The ordinary development policy still denies final-season reads, network access and model execution.
+
+The narrow Stage 6 capability admits one maintained NBA Stats LeagueGameLog request with exact NBA/Regular Season/2025–26/team parameters and no redirects. The socket exception exists only inside that checked request. Raw response text and source provenance are retained. Outcome decode begins only after its event is durable. Canonical ingestion needs scores and W/L before feature generation, so that first decode is recorded before normalization, not incorrectly deferred to metric evaluation.
+
+The only historical data exception is the exact hash-verified Stage 5 prediction artifact, projected to identities and home_win to advance frozen Elo state. The final prediction output uses its single fixed authorized filename. Reproduction reads only the verified raw cache after successful completion. Saved estimator loading is integrity-checked; sklearn fits and all frozen-runtime fit/selection entry points are disabled.
+
+The season scope overlay is local to unchanged normalization, validation, feature, and Elo functions. Actual source date bounds are recorded after retrieval, source-season/game-ID contracts remain enforced, and all 30 registered NBA teams must have 82 regular-season games with zero rejected source records. Unresolved designation anomalies stop without subset evaluation. The executor does not infer home designation, add neutral-site predictors or change Elo's designated-home convention.
+
+The synthetic tests cover authorization, ledger ordering, exact scope, candidate/recipe/estimator/metric hashes, zero fits, selection rejection, whole-date paired bootstrap against an independent row-expansion reference, fixed calibration bins, pre-aggregate inspection rejection, duplicate opening/replay rejection, and deterministic output persistence. Historical 138-test evidence is separately preserved. No actual final-season records occur in synthetic tests.

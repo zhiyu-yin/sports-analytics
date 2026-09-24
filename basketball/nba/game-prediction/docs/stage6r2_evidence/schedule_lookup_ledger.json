@@ -1,0 +1,21 @@
+{
+  "authorization_sha256": "37c3d5e554cb9fe0d246d8651497e5105dfe04320a4d3046f6de33266945a00e",
+  "authorized_endpoint": "ScheduleLeagueV2",
+  "authorized_game_ids": [
+    "0022500147",
+    "0022500578",
+    "0022500602",
+    "0022501229",
+    "0022501230"
+  ],
+  "final_performance_previously_exposed": false,
+  "final_source_outcomes_already_structurally_decoded": true,
+  "first_physical_data_access_at_utc": "2026-09-24T20:59:20.449758+00:00",
+  "note": "Schedule-only acquisition; original LeagueGameLog outcomes already structurally decoded; no model performance exposed",
+  "parameters": {
+    "LeagueID": "00",
+    "Season": "2025-26"
+  },
+  "scientific_protocol_changed": false,
+  "status": "access_started"
+}

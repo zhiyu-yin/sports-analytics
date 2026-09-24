@@ -1,0 +1,6 @@
+{
+  "automatic_retry_forbidden": true,
+  "error": "ValueError: Incomplete or structurally unresolved season: STOP without scoring",
+  "timestamp_utc": "2026-09-24T20:50:00.122600+00:00",
+  "traceback": "Traceback (most recent call last):\n  File \"/Users/zhiyuyin/Documents/last time job hunting material/proj/sports-analytics/basketball/nba/game-prediction/stage6r/execute.py\", line 36, in run\n    scope,teams,games=r.validate_body(body,s.E);session.phase='validated'\n  File \"/Users/zhiyuyin/Documents/last time job hunting material/proj/sports-analytics/basketball/nba/game-prediction/stage6/runtime.py\", line 141, in validate_body\n    if not valid:raise ValueError('Incomplete or structurally unresolved season: STOP without scoring')\nValueError: Incomplete or structurally unresolved season: STOP without scoring\n"
+}

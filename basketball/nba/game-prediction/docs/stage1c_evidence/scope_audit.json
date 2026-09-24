@@ -1,0 +1,2440 @@
+[
+  {
+    "anomaly_reasons": {},
+    "bubble_team_counts": {},
+    "completeness_issues": [],
+    "configuration": {
+      "bubble_start": null,
+      "cup_final": null,
+      "end": "2016-04-13",
+      "games_per_team": 82,
+      "season": "2015-16",
+      "start": "2015-10-27",
+      "suspension_start": null
+    },
+    "cup_championship_date_rows": 0,
+    "games_per_team": {
+      "1610612737": 82,
+      "1610612738": 82,
+      "1610612739": 82,
+      "1610612740": 82,
+      "1610612741": 82,
+      "1610612742": 82,
+      "1610612743": 82,
+      "1610612744": 82,
+      "1610612745": 82,
+      "1610612746": 82,
+      "1610612747": 82,
+      "1610612748": 82,
+      "1610612749": 82,
+      "1610612750": 82,
+      "1610612751": 82,
+      "1610612752": 82,
+      "1610612753": 82,
+      "1610612754": 82,
+      "1610612755": 82,
+      "1610612756": 82,
+      "1610612757": 82,
+      "1610612758": 82,
+      "1610612759": 82,
+      "1610612760": 82,
+      "1610612761": 82,
+      "1610612762": 82,
+      "1610612763": 82,
+      "1610612764": 82,
+      "1610612765": 82,
+      "1610612766": 82
+    },
+    "games_per_team_distribution": {
+      "82": 30
+    },
+    "raw_column_null_counts": {
+      "AST": 0,
+      "BLK": 0,
+      "DREB": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "FG3_PCT": 0,
+      "FGA": 0,
+      "FGM": 0,
+      "FG_PCT": 0,
+      "FTA": 0,
+      "FTM": 0,
+      "FT_PCT": 0,
+      "GAME_DATE": 0,
+      "GAME_ID": 0,
+      "MATCHUP": 0,
+      "MIN": 0,
+      "OREB": 0,
+      "PF": 0,
+      "PLUS_MINUS": 0,
+      "PTS": 0,
+      "REB": 0,
+      "SEASON_ID": 0,
+      "STL": 0,
+      "TEAM_ABBREVIATION": 0,
+      "TEAM_ID": 0,
+      "TEAM_NAME": 0,
+      "TOV": 0,
+      "VIDEO_AVAILABLE": 0,
+      "WL": 0
+    },
+    "season": "2015-16",
+    "source_game_prefixes": {
+      "00215": 2460
+    },
+    "source_season_ids": {
+      "22015": 2460
+    },
+    "within_season_team_identity_map": [
+      {
+        "team_abbreviation": "ATL",
+        "team_id": 1610612737,
+        "team_name": "Atlanta Hawks"
+      },
+      {
+        "team_abbreviation": "BOS",
+        "team_id": 1610612738,
+        "team_name": "Boston Celtics"
+      },
+      {
+        "team_abbreviation": "CLE",
+        "team_id": 1610612739,
+        "team_name": "Cleveland Cavaliers"
+      },
+      {
+        "team_abbreviation": "NOP",
+        "team_id": 1610612740,
+        "team_name": "New Orleans Pelicans"
+      },
+      {
+        "team_abbreviation": "CHI",
+        "team_id": 1610612741,
+        "team_name": "Chicago Bulls"
+      },
+      {
+        "team_abbreviation": "DAL",
+        "team_id": 1610612742,
+        "team_name": "Dallas Mavericks"
+      },
+      {
+        "team_abbreviation": "DEN",
+        "team_id": 1610612743,
+        "team_name": "Denver Nuggets"
+      },
+      {
+        "team_abbreviation": "GSW",
+        "team_id": 1610612744,
+        "team_name": "Golden State Warriors"
+      },
+      {
+        "team_abbreviation": "HOU",
+        "team_id": 1610612745,
+        "team_name": "Houston Rockets"
+      },
+      {
+        "team_abbreviation": "LAC",
+        "team_id": 1610612746,
+        "team_name": "LA Clippers"
+      },
+      {
+        "team_abbreviation": "LAL",
+        "team_id": 1610612747,
+        "team_name": "Los Angeles Lakers"
+      },
+      {
+        "team_abbreviation": "MIA",
+        "team_id": 1610612748,
+        "team_name": "Miami Heat"
+      },
+      {
+        "team_abbreviation": "MIL",
+        "team_id": 1610612749,
+        "team_name": "Milwaukee Bucks"
+      },
+      {
+        "team_abbreviation": "MIN",
+        "team_id": 1610612750,
+        "team_name": "Minnesota Timberwolves"
+      },
+      {
+        "team_abbreviation": "BKN",
+        "team_id": 1610612751,
+        "team_name": "Brooklyn Nets"
+      },
+      {
+        "team_abbreviation": "NYK",
+        "team_id": 1610612752,
+        "team_name": "New York Knicks"
+      },
+      {
+        "team_abbreviation": "ORL",
+        "team_id": 1610612753,
+        "team_name": "Orlando Magic"
+      },
+      {
+        "team_abbreviation": "IND",
+        "team_id": 1610612754,
+        "team_name": "Indiana Pacers"
+      },
+      {
+        "team_abbreviation": "PHI",
+        "team_id": 1610612755,
+        "team_name": "Philadelphia 76ers"
+      },
+      {
+        "team_abbreviation": "PHX",
+        "team_id": 1610612756,
+        "team_name": "Phoenix Suns"
+      },
+      {
+        "team_abbreviation": "POR",
+        "team_id": 1610612757,
+        "team_name": "Portland Trail Blazers"
+      },
+      {
+        "team_abbreviation": "SAC",
+        "team_id": 1610612758,
+        "team_name": "Sacramento Kings"
+      },
+      {
+        "team_abbreviation": "SAS",
+        "team_id": 1610612759,
+        "team_name": "San Antonio Spurs"
+      },
+      {
+        "team_abbreviation": "OKC",
+        "team_id": 1610612760,
+        "team_name": "Oklahoma City Thunder"
+      },
+      {
+        "team_abbreviation": "TOR",
+        "team_id": 1610612761,
+        "team_name": "Toronto Raptors"
+      },
+      {
+        "team_abbreviation": "UTA",
+        "team_id": 1610612762,
+        "team_name": "Utah Jazz"
+      },
+      {
+        "team_abbreviation": "MEM",
+        "team_id": 1610612763,
+        "team_name": "Memphis Grizzlies"
+      },
+      {
+        "team_abbreviation": "WAS",
+        "team_id": 1610612764,
+        "team_name": "Washington Wizards"
+      },
+      {
+        "team_abbreviation": "DET",
+        "team_id": 1610612765,
+        "team_name": "Detroit Pistons"
+      },
+      {
+        "team_abbreviation": "CHA",
+        "team_id": 1610612766,
+        "team_name": "Charlotte Hornets"
+      }
+    ]
+  },
+  {
+    "anomaly_reasons": {},
+    "bubble_team_counts": {},
+    "completeness_issues": [],
+    "configuration": {
+      "bubble_start": null,
+      "cup_final": null,
+      "end": "2017-04-12",
+      "games_per_team": 82,
+      "season": "2016-17",
+      "start": "2016-10-25",
+      "suspension_start": null
+    },
+    "cup_championship_date_rows": 0,
+    "games_per_team": {
+      "1610612737": 82,
+      "1610612738": 82,
+      "1610612739": 82,
+      "1610612740": 82,
+      "1610612741": 82,
+      "1610612742": 82,
+      "1610612743": 82,
+      "1610612744": 82,
+      "1610612745": 82,
+      "1610612746": 82,
+      "1610612747": 82,
+      "1610612748": 82,
+      "1610612749": 82,
+      "1610612750": 82,
+      "1610612751": 82,
+      "1610612752": 82,
+      "1610612753": 82,
+      "1610612754": 82,
+      "1610612755": 82,
+      "1610612756": 82,
+      "1610612757": 82,
+      "1610612758": 82,
+      "1610612759": 82,
+      "1610612760": 82,
+      "1610612761": 82,
+      "1610612762": 82,
+      "1610612763": 82,
+      "1610612764": 82,
+      "1610612765": 82,
+      "1610612766": 82
+    },
+    "games_per_team_distribution": {
+      "82": 30
+    },
+    "raw_column_null_counts": {
+      "AST": 0,
+      "BLK": 0,
+      "DREB": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "FG3_PCT": 0,
+      "FGA": 0,
+      "FGM": 0,
+      "FG_PCT": 0,
+      "FTA": 0,
+      "FTM": 0,
+      "FT_PCT": 0,
+      "GAME_DATE": 0,
+      "GAME_ID": 0,
+      "MATCHUP": 0,
+      "MIN": 0,
+      "OREB": 0,
+      "PF": 0,
+      "PLUS_MINUS": 0,
+      "PTS": 0,
+      "REB": 0,
+      "SEASON_ID": 0,
+      "STL": 0,
+      "TEAM_ABBREVIATION": 0,
+      "TEAM_ID": 0,
+      "TEAM_NAME": 0,
+      "TOV": 0,
+      "VIDEO_AVAILABLE": 0,
+      "WL": 0
+    },
+    "season": "2016-17",
+    "source_game_prefixes": {
+      "00216": 2460
+    },
+    "source_season_ids": {
+      "22016": 2460
+    },
+    "within_season_team_identity_map": [
+      {
+        "team_abbreviation": "ATL",
+        "team_id": 1610612737,
+        "team_name": "Atlanta Hawks"
+      },
+      {
+        "team_abbreviation": "BOS",
+        "team_id": 1610612738,
+        "team_name": "Boston Celtics"
+      },
+      {
+        "team_abbreviation": "CLE",
+        "team_id": 1610612739,
+        "team_name": "Cleveland Cavaliers"
+      },
+      {
+        "team_abbreviation": "NOP",
+        "team_id": 1610612740,
+        "team_name": "New Orleans Pelicans"
+      },
+      {
+        "team_abbreviation": "CHI",
+        "team_id": 1610612741,
+        "team_name": "Chicago Bulls"
+      },
+      {
+        "team_abbreviation": "DAL",
+        "team_id": 1610612742,
+        "team_name": "Dallas Mavericks"
+      },
+      {
+        "team_abbreviation": "DEN",
+        "team_id": 1610612743,
+        "team_name": "Denver Nuggets"
+      },
+      {
+        "team_abbreviation": "GSW",
+        "team_id": 1610612744,
+        "team_name": "Golden State Warriors"
+      },
+      {
+        "team_abbreviation": "HOU",
+        "team_id": 1610612745,
+        "team_name": "Houston Rockets"
+      },
+      {
+        "team_abbreviation": "LAC",
+        "team_id": 1610612746,
+        "team_name": "LA Clippers"
+      },
+      {
+        "team_abbreviation": "LAL",
+        "team_id": 1610612747,
+        "team_name": "Los Angeles Lakers"
+      },
+      {
+        "team_abbreviation": "MIA",
+        "team_id": 1610612748,
+        "team_name": "Miami Heat"
+      },
+      {
+        "team_abbreviation": "MIL",
+        "team_id": 1610612749,
+        "team_name": "Milwaukee Bucks"
+      },
+      {
+        "team_abbreviation": "MIN",
+        "team_id": 1610612750,
+        "team_name": "Minnesota Timberwolves"
+      },
+      {
+        "team_abbreviation": "BKN",
+        "team_id": 1610612751,
+        "team_name": "Brooklyn Nets"
+      },
+      {
+        "team_abbreviation": "NYK",
+        "team_id": 1610612752,
+        "team_name": "New York Knicks"
+      },
+      {
+        "team_abbreviation": "ORL",
+        "team_id": 1610612753,
+        "team_name": "Orlando Magic"
+      },
+      {
+        "team_abbreviation": "IND",
+        "team_id": 1610612754,
+        "team_name": "Indiana Pacers"
+      },
+      {
+        "team_abbreviation": "PHI",
+        "team_id": 1610612755,
+        "team_name": "Philadelphia 76ers"
+      },
+      {
+        "team_abbreviation": "PHX",
+        "team_id": 1610612756,
+        "team_name": "Phoenix Suns"
+      },
+      {
+        "team_abbreviation": "POR",
+        "team_id": 1610612757,
+        "team_name": "Portland Trail Blazers"
+      },
+      {
+        "team_abbreviation": "SAC",
+        "team_id": 1610612758,
+        "team_name": "Sacramento Kings"
+      },
+      {
+        "team_abbreviation": "SAS",
+        "team_id": 1610612759,
+        "team_name": "San Antonio Spurs"
+      },
+      {
+        "team_abbreviation": "OKC",
+        "team_id": 1610612760,
+        "team_name": "Oklahoma City Thunder"
+      },
+      {
+        "team_abbreviation": "TOR",
+        "team_id": 1610612761,
+        "team_name": "Toronto Raptors"
+      },
+      {
+        "team_abbreviation": "UTA",
+        "team_id": 1610612762,
+        "team_name": "Utah Jazz"
+      },
+      {
+        "team_abbreviation": "MEM",
+        "team_id": 1610612763,
+        "team_name": "Memphis Grizzlies"
+      },
+      {
+        "team_abbreviation": "WAS",
+        "team_id": 1610612764,
+        "team_name": "Washington Wizards"
+      },
+      {
+        "team_abbreviation": "DET",
+        "team_id": 1610612765,
+        "team_name": "Detroit Pistons"
+      },
+      {
+        "team_abbreviation": "CHA",
+        "team_id": 1610612766,
+        "team_name": "Charlotte Hornets"
+      }
+    ]
+  },
+  {
+    "anomaly_reasons": {},
+    "bubble_team_counts": {},
+    "completeness_issues": [],
+    "configuration": {
+      "bubble_start": null,
+      "cup_final": null,
+      "end": "2018-04-11",
+      "games_per_team": 82,
+      "season": "2017-18",
+      "start": "2017-10-17",
+      "suspension_start": null
+    },
+    "cup_championship_date_rows": 0,
+    "games_per_team": {
+      "1610612737": 82,
+      "1610612738": 82,
+      "1610612739": 82,
+      "1610612740": 82,
+      "1610612741": 82,
+      "1610612742": 82,
+      "1610612743": 82,
+      "1610612744": 82,
+      "1610612745": 82,
+      "1610612746": 82,
+      "1610612747": 82,
+      "1610612748": 82,
+      "1610612749": 82,
+      "1610612750": 82,
+      "1610612751": 82,
+      "1610612752": 82,
+      "1610612753": 82,
+      "1610612754": 82,
+      "1610612755": 82,
+      "1610612756": 82,
+      "1610612757": 82,
+      "1610612758": 82,
+      "1610612759": 82,
+      "1610612760": 82,
+      "1610612761": 82,
+      "1610612762": 82,
+      "1610612763": 82,
+      "1610612764": 82,
+      "1610612765": 82,
+      "1610612766": 82
+    },
+    "games_per_team_distribution": {
+      "82": 30
+    },
+    "raw_column_null_counts": {
+      "AST": 0,
+      "BLK": 0,
+      "DREB": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "FG3_PCT": 0,
+      "FGA": 0,
+      "FGM": 0,
+      "FG_PCT": 0,
+      "FTA": 0,
+      "FTM": 0,
+      "FT_PCT": 0,
+      "GAME_DATE": 0,
+      "GAME_ID": 0,
+      "MATCHUP": 0,
+      "MIN": 0,
+      "OREB": 0,
+      "PF": 0,
+      "PLUS_MINUS": 0,
+      "PTS": 0,
+      "REB": 0,
+      "SEASON_ID": 0,
+      "STL": 0,
+      "TEAM_ABBREVIATION": 0,
+      "TEAM_ID": 0,
+      "TEAM_NAME": 0,
+      "TOV": 0,
+      "VIDEO_AVAILABLE": 0,
+      "WL": 0
+    },
+    "season": "2017-18",
+    "source_game_prefixes": {
+      "00217": 2460
+    },
+    "source_season_ids": {
+      "22017": 2460
+    },
+    "within_season_team_identity_map": [
+      {
+        "team_abbreviation": "ATL",
+        "team_id": 1610612737,
+        "team_name": "Atlanta Hawks"
+      },
+      {
+        "team_abbreviation": "BOS",
+        "team_id": 1610612738,
+        "team_name": "Boston Celtics"
+      },
+      {
+        "team_abbreviation": "CLE",
+        "team_id": 1610612739,
+        "team_name": "Cleveland Cavaliers"
+      },
+      {
+        "team_abbreviation": "NOP",
+        "team_id": 1610612740,
+        "team_name": "New Orleans Pelicans"
+      },
+      {
+        "team_abbreviation": "CHI",
+        "team_id": 1610612741,
+        "team_name": "Chicago Bulls"
+      },
+      {
+        "team_abbreviation": "DAL",
+        "team_id": 1610612742,
+        "team_name": "Dallas Mavericks"
+      },
+      {
+        "team_abbreviation": "DEN",
+        "team_id": 1610612743,
+        "team_name": "Denver Nuggets"
+      },
+      {
+        "team_abbreviation": "GSW",
+        "team_id": 1610612744,
+        "team_name": "Golden State Warriors"
+      },
+      {
+        "team_abbreviation": "HOU",
+        "team_id": 1610612745,
+        "team_name": "Houston Rockets"
+      },
+      {
+        "team_abbreviation": "LAC",
+        "team_id": 1610612746,
+        "team_name": "LA Clippers"
+      },
+      {
+        "team_abbreviation": "LAL",
+        "team_id": 1610612747,
+        "team_name": "Los Angeles Lakers"
+      },
+      {
+        "team_abbreviation": "MIA",
+        "team_id": 1610612748,
+        "team_name": "Miami Heat"
+      },
+      {
+        "team_abbreviation": "MIL",
+        "team_id": 1610612749,
+        "team_name": "Milwaukee Bucks"
+      },
+      {
+        "team_abbreviation": "MIN",
+        "team_id": 1610612750,
+        "team_name": "Minnesota Timberwolves"
+      },
+      {
+        "team_abbreviation": "BKN",
+        "team_id": 1610612751,
+        "team_name": "Brooklyn Nets"
+      },
+      {
+        "team_abbreviation": "NYK",
+        "team_id": 1610612752,
+        "team_name": "New York Knicks"
+      },
+      {
+        "team_abbreviation": "ORL",
+        "team_id": 1610612753,
+        "team_name": "Orlando Magic"
+      },
+      {
+        "team_abbreviation": "IND",
+        "team_id": 1610612754,
+        "team_name": "Indiana Pacers"
+      },
+      {
+        "team_abbreviation": "PHI",
+        "team_id": 1610612755,
+        "team_name": "Philadelphia 76ers"
+      },
+      {
+        "team_abbreviation": "PHX",
+        "team_id": 1610612756,
+        "team_name": "Phoenix Suns"
+      },
+      {
+        "team_abbreviation": "POR",
+        "team_id": 1610612757,
+        "team_name": "Portland Trail Blazers"
+      },
+      {
+        "team_abbreviation": "SAC",
+        "team_id": 1610612758,
+        "team_name": "Sacramento Kings"
+      },
+      {
+        "team_abbreviation": "SAS",
+        "team_id": 1610612759,
+        "team_name": "San Antonio Spurs"
+      },
+      {
+        "team_abbreviation": "OKC",
+        "team_id": 1610612760,
+        "team_name": "Oklahoma City Thunder"
+      },
+      {
+        "team_abbreviation": "TOR",
+        "team_id": 1610612761,
+        "team_name": "Toronto Raptors"
+      },
+      {
+        "team_abbreviation": "UTA",
+        "team_id": 1610612762,
+        "team_name": "Utah Jazz"
+      },
+      {
+        "team_abbreviation": "MEM",
+        "team_id": 1610612763,
+        "team_name": "Memphis Grizzlies"
+      },
+      {
+        "team_abbreviation": "WAS",
+        "team_id": 1610612764,
+        "team_name": "Washington Wizards"
+      },
+      {
+        "team_abbreviation": "DET",
+        "team_id": 1610612765,
+        "team_name": "Detroit Pistons"
+      },
+      {
+        "team_abbreviation": "CHA",
+        "team_id": 1610612766,
+        "team_name": "Charlotte Hornets"
+      }
+    ]
+  },
+  {
+    "anomaly_reasons": {},
+    "bubble_team_counts": {},
+    "completeness_issues": [],
+    "configuration": {
+      "bubble_start": null,
+      "cup_final": null,
+      "end": "2019-04-10",
+      "games_per_team": 82,
+      "season": "2018-19",
+      "start": "2018-10-16",
+      "suspension_start": null
+    },
+    "cup_championship_date_rows": 0,
+    "games_per_team": {
+      "1610612737": 82,
+      "1610612738": 82,
+      "1610612739": 82,
+      "1610612740": 82,
+      "1610612741": 82,
+      "1610612742": 82,
+      "1610612743": 82,
+      "1610612744": 82,
+      "1610612745": 82,
+      "1610612746": 82,
+      "1610612747": 82,
+      "1610612748": 82,
+      "1610612749": 82,
+      "1610612750": 82,
+      "1610612751": 82,
+      "1610612752": 82,
+      "1610612753": 82,
+      "1610612754": 82,
+      "1610612755": 82,
+      "1610612756": 82,
+      "1610612757": 82,
+      "1610612758": 82,
+      "1610612759": 82,
+      "1610612760": 82,
+      "1610612761": 82,
+      "1610612762": 82,
+      "1610612763": 82,
+      "1610612764": 82,
+      "1610612765": 82,
+      "1610612766": 82
+    },
+    "games_per_team_distribution": {
+      "82": 30
+    },
+    "raw_column_null_counts": {
+      "AST": 0,
+      "BLK": 0,
+      "DREB": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "FG3_PCT": 0,
+      "FGA": 0,
+      "FGM": 0,
+      "FG_PCT": 0,
+      "FTA": 0,
+      "FTM": 0,
+      "FT_PCT": 0,
+      "GAME_DATE": 0,
+      "GAME_ID": 0,
+      "MATCHUP": 0,
+      "MIN": 0,
+      "OREB": 0,
+      "PF": 0,
+      "PLUS_MINUS": 0,
+      "PTS": 0,
+      "REB": 0,
+      "SEASON_ID": 0,
+      "STL": 0,
+      "TEAM_ABBREVIATION": 0,
+      "TEAM_ID": 0,
+      "TEAM_NAME": 0,
+      "TOV": 0,
+      "VIDEO_AVAILABLE": 0,
+      "WL": 0
+    },
+    "season": "2018-19",
+    "source_game_prefixes": {
+      "00218": 2460
+    },
+    "source_season_ids": {
+      "22018": 2460
+    },
+    "within_season_team_identity_map": [
+      {
+        "team_abbreviation": "ATL",
+        "team_id": 1610612737,
+        "team_name": "Atlanta Hawks"
+      },
+      {
+        "team_abbreviation": "BOS",
+        "team_id": 1610612738,
+        "team_name": "Boston Celtics"
+      },
+      {
+        "team_abbreviation": "CLE",
+        "team_id": 1610612739,
+        "team_name": "Cleveland Cavaliers"
+      },
+      {
+        "team_abbreviation": "NOP",
+        "team_id": 1610612740,
+        "team_name": "New Orleans Pelicans"
+      },
+      {
+        "team_abbreviation": "CHI",
+        "team_id": 1610612741,
+        "team_name": "Chicago Bulls"
+      },
+      {
+        "team_abbreviation": "DAL",
+        "team_id": 1610612742,
+        "team_name": "Dallas Mavericks"
+      },
+      {
+        "team_abbreviation": "DEN",
+        "team_id": 1610612743,
+        "team_name": "Denver Nuggets"
+      },
+      {
+        "team_abbreviation": "GSW",
+        "team_id": 1610612744,
+        "team_name": "Golden State Warriors"
+      },
+      {
+        "team_abbreviation": "HOU",
+        "team_id": 1610612745,
+        "team_name": "Houston Rockets"
+      },
+      {
+        "team_abbreviation": "LAC",
+        "team_id": 1610612746,
+        "team_name": "LA Clippers"
+      },
+      {
+        "team_abbreviation": "LAL",
+        "team_id": 1610612747,
+        "team_name": "Los Angeles Lakers"
+      },
+      {
+        "team_abbreviation": "MIA",
+        "team_id": 1610612748,
+        "team_name": "Miami Heat"
+      },
+      {
+        "team_abbreviation": "MIL",
+        "team_id": 1610612749,
+        "team_name": "Milwaukee Bucks"
+      },
+      {
+        "team_abbreviation": "MIN",
+        "team_id": 1610612750,
+        "team_name": "Minnesota Timberwolves"
+      },
+      {
+        "team_abbreviation": "BKN",
+        "team_id": 1610612751,
+        "team_name": "Brooklyn Nets"
+      },
+      {
+        "team_abbreviation": "NYK",
+        "team_id": 1610612752,
+        "team_name": "New York Knicks"
+      },
+      {
+        "team_abbreviation": "ORL",
+        "team_id": 1610612753,
+        "team_name": "Orlando Magic"
+      },
+      {
+        "team_abbreviation": "IND",
+        "team_id": 1610612754,
+        "team_name": "Indiana Pacers"
+      },
+      {
+        "team_abbreviation": "PHI",
+        "team_id": 1610612755,
+        "team_name": "Philadelphia 76ers"
+      },
+      {
+        "team_abbreviation": "PHX",
+        "team_id": 1610612756,
+        "team_name": "Phoenix Suns"
+      },
+      {
+        "team_abbreviation": "POR",
+        "team_id": 1610612757,
+        "team_name": "Portland Trail Blazers"
+      },
+      {
+        "team_abbreviation": "SAC",
+        "team_id": 1610612758,
+        "team_name": "Sacramento Kings"
+      },
+      {
+        "team_abbreviation": "SAS",
+        "team_id": 1610612759,
+        "team_name": "San Antonio Spurs"
+      },
+      {
+        "team_abbreviation": "OKC",
+        "team_id": 1610612760,
+        "team_name": "Oklahoma City Thunder"
+      },
+      {
+        "team_abbreviation": "TOR",
+        "team_id": 1610612761,
+        "team_name": "Toronto Raptors"
+      },
+      {
+        "team_abbreviation": "UTA",
+        "team_id": 1610612762,
+        "team_name": "Utah Jazz"
+      },
+      {
+        "team_abbreviation": "MEM",
+        "team_id": 1610612763,
+        "team_name": "Memphis Grizzlies"
+      },
+      {
+        "team_abbreviation": "WAS",
+        "team_id": 1610612764,
+        "team_name": "Washington Wizards"
+      },
+      {
+        "team_abbreviation": "DET",
+        "team_id": 1610612765,
+        "team_name": "Detroit Pistons"
+      },
+      {
+        "team_abbreviation": "CHA",
+        "team_id": 1610612766,
+        "team_name": "Charlotte Hornets"
+      }
+    ]
+  },
+  {
+    "anomaly_reasons": {},
+    "bubble_team_counts": {
+      "1610612738": 8,
+      "1610612740": 8,
+      "1610612742": 8,
+      "1610612743": 8,
+      "1610612745": 8,
+      "1610612746": 8,
+      "1610612747": 8,
+      "1610612748": 8,
+      "1610612749": 8,
+      "1610612751": 8,
+      "1610612753": 8,
+      "1610612754": 8,
+      "1610612755": 8,
+      "1610612756": 8,
+      "1610612757": 8,
+      "1610612758": 8,
+      "1610612759": 8,
+      "1610612760": 8,
+      "1610612761": 8,
+      "1610612762": 8,
+      "1610612763": 8,
+      "1610612764": 8
+    },
+    "completeness_issues": [],
+    "configuration": {
+      "bubble_start": "2020-07-30",
+      "cup_final": null,
+      "end": "2020-08-14",
+      "games_per_team": null,
+      "season": "2019-20",
+      "start": "2019-10-22",
+      "suspension_start": "2020-03-12"
+    },
+    "cup_championship_date_rows": 0,
+    "games_per_team": {
+      "1610612737": 67,
+      "1610612738": 72,
+      "1610612739": 65,
+      "1610612740": 72,
+      "1610612741": 65,
+      "1610612742": 75,
+      "1610612743": 73,
+      "1610612744": 65,
+      "1610612745": 72,
+      "1610612746": 72,
+      "1610612747": 71,
+      "1610612748": 73,
+      "1610612749": 73,
+      "1610612750": 64,
+      "1610612751": 72,
+      "1610612752": 66,
+      "1610612753": 73,
+      "1610612754": 73,
+      "1610612755": 73,
+      "1610612756": 73,
+      "1610612757": 74,
+      "1610612758": 72,
+      "1610612759": 71,
+      "1610612760": 72,
+      "1610612761": 72,
+      "1610612762": 72,
+      "1610612763": 73,
+      "1610612764": 72,
+      "1610612765": 66,
+      "1610612766": 65
+    },
+    "games_per_team_distribution": {
+      "64": 1,
+      "65": 4,
+      "66": 2,
+      "67": 1,
+      "71": 2,
+      "72": 10,
+      "73": 8,
+      "74": 1,
+      "75": 1
+    },
+    "raw_column_null_counts": {
+      "AST": 0,
+      "BLK": 0,
+      "DREB": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "FG3_PCT": 0,
+      "FGA": 0,
+      "FGM": 0,
+      "FG_PCT": 0,
+      "FTA": 0,
+      "FTM": 0,
+      "FT_PCT": 0,
+      "GAME_DATE": 0,
+      "GAME_ID": 0,
+      "MATCHUP": 0,
+      "MIN": 0,
+      "OREB": 0,
+      "PF": 0,
+      "PLUS_MINUS": 0,
+      "PTS": 0,
+      "REB": 0,
+      "SEASON_ID": 0,
+      "STL": 0,
+      "TEAM_ABBREVIATION": 0,
+      "TEAM_ID": 0,
+      "TEAM_NAME": 0,
+      "TOV": 0,
+      "VIDEO_AVAILABLE": 0,
+      "WL": 0
+    },
+    "season": "2019-20",
+    "source_game_prefixes": {
+      "00219": 2118
+    },
+    "source_season_ids": {
+      "22019": 2118
+    },
+    "within_season_team_identity_map": [
+      {
+        "team_abbreviation": "ATL",
+        "team_id": 1610612737,
+        "team_name": "Atlanta Hawks"
+      },
+      {
+        "team_abbreviation": "BOS",
+        "team_id": 1610612738,
+        "team_name": "Boston Celtics"
+      },
+      {
+        "team_abbreviation": "CLE",
+        "team_id": 1610612739,
+        "team_name": "Cleveland Cavaliers"
+      },
+      {
+        "team_abbreviation": "NOP",
+        "team_id": 1610612740,
+        "team_name": "New Orleans Pelicans"
+      },
+      {
+        "team_abbreviation": "CHI",
+        "team_id": 1610612741,
+        "team_name": "Chicago Bulls"
+      },
+      {
+        "team_abbreviation": "DAL",
+        "team_id": 1610612742,
+        "team_name": "Dallas Mavericks"
+      },
+      {
+        "team_abbreviation": "DEN",
+        "team_id": 1610612743,
+        "team_name": "Denver Nuggets"
+      },
+      {
+        "team_abbreviation": "GSW",
+        "team_id": 1610612744,
+        "team_name": "Golden State Warriors"
+      },
+      {
+        "team_abbreviation": "HOU",
+        "team_id": 1610612745,
+        "team_name": "Houston Rockets"
+      },
+      {
+        "team_abbreviation": "LAC",
+        "team_id": 1610612746,
+        "team_name": "LA Clippers"
+      },
+      {
+        "team_abbreviation": "LAL",
+        "team_id": 1610612747,
+        "team_name": "Los Angeles Lakers"
+      },
+      {
+        "team_abbreviation": "MIA",
+        "team_id": 1610612748,
+        "team_name": "Miami Heat"
+      },
+      {
+        "team_abbreviation": "MIL",
+        "team_id": 1610612749,
+        "team_name": "Milwaukee Bucks"
+      },
+      {
+        "team_abbreviation": "MIN",
+        "team_id": 1610612750,
+        "team_name": "Minnesota Timberwolves"
+      },
+      {
+        "team_abbreviation": "BKN",
+        "team_id": 1610612751,
+        "team_name": "Brooklyn Nets"
+      },
+      {
+        "team_abbreviation": "NYK",
+        "team_id": 1610612752,
+        "team_name": "New York Knicks"
+      },
+      {
+        "team_abbreviation": "ORL",
+        "team_id": 1610612753,
+        "team_name": "Orlando Magic"
+      },
+      {
+        "team_abbreviation": "IND",
+        "team_id": 1610612754,
+        "team_name": "Indiana Pacers"
+      },
+      {
+        "team_abbreviation": "PHI",
+        "team_id": 1610612755,
+        "team_name": "Philadelphia 76ers"
+      },
+      {
+        "team_abbreviation": "PHX",
+        "team_id": 1610612756,
+        "team_name": "Phoenix Suns"
+      },
+      {
+        "team_abbreviation": "POR",
+        "team_id": 1610612757,
+        "team_name": "Portland Trail Blazers"
+      },
+      {
+        "team_abbreviation": "SAC",
+        "team_id": 1610612758,
+        "team_name": "Sacramento Kings"
+      },
+      {
+        "team_abbreviation": "SAS",
+        "team_id": 1610612759,
+        "team_name": "San Antonio Spurs"
+      },
+      {
+        "team_abbreviation": "OKC",
+        "team_id": 1610612760,
+        "team_name": "Oklahoma City Thunder"
+      },
+      {
+        "team_abbreviation": "TOR",
+        "team_id": 1610612761,
+        "team_name": "Toronto Raptors"
+      },
+      {
+        "team_abbreviation": "UTA",
+        "team_id": 1610612762,
+        "team_name": "Utah Jazz"
+      },
+      {
+        "team_abbreviation": "MEM",
+        "team_id": 1610612763,
+        "team_name": "Memphis Grizzlies"
+      },
+      {
+        "team_abbreviation": "WAS",
+        "team_id": 1610612764,
+        "team_name": "Washington Wizards"
+      },
+      {
+        "team_abbreviation": "DET",
+        "team_id": 1610612765,
+        "team_name": "Detroit Pistons"
+      },
+      {
+        "team_abbreviation": "CHA",
+        "team_id": 1610612766,
+        "team_name": "Charlotte Hornets"
+      }
+    ]
+  },
+  {
+    "anomaly_reasons": {},
+    "bubble_team_counts": {},
+    "completeness_issues": [],
+    "configuration": {
+      "bubble_start": null,
+      "cup_final": null,
+      "end": "2021-05-16",
+      "games_per_team": 72,
+      "season": "2020-21",
+      "start": "2020-12-22",
+      "suspension_start": null
+    },
+    "cup_championship_date_rows": 0,
+    "games_per_team": {
+      "1610612737": 72,
+      "1610612738": 72,
+      "1610612739": 72,
+      "1610612740": 72,
+      "1610612741": 72,
+      "1610612742": 72,
+      "1610612743": 72,
+      "1610612744": 72,
+      "1610612745": 72,
+      "1610612746": 72,
+      "1610612747": 72,
+      "1610612748": 72,
+      "1610612749": 72,
+      "1610612750": 72,
+      "1610612751": 72,
+      "1610612752": 72,
+      "1610612753": 72,
+      "1610612754": 72,
+      "1610612755": 72,
+      "1610612756": 72,
+      "1610612757": 72,
+      "1610612758": 72,
+      "1610612759": 72,
+      "1610612760": 72,
+      "1610612761": 72,
+      "1610612762": 72,
+      "1610612763": 72,
+      "1610612764": 72,
+      "1610612765": 72,
+      "1610612766": 72
+    },
+    "games_per_team_distribution": {
+      "72": 30
+    },
+    "raw_column_null_counts": {
+      "AST": 0,
+      "BLK": 0,
+      "DREB": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "FG3_PCT": 0,
+      "FGA": 0,
+      "FGM": 0,
+      "FG_PCT": 0,
+      "FTA": 0,
+      "FTM": 0,
+      "FT_PCT": 0,
+      "GAME_DATE": 0,
+      "GAME_ID": 0,
+      "MATCHUP": 0,
+      "MIN": 0,
+      "OREB": 0,
+      "PF": 0,
+      "PLUS_MINUS": 0,
+      "PTS": 0,
+      "REB": 0,
+      "SEASON_ID": 0,
+      "STL": 0,
+      "TEAM_ABBREVIATION": 0,
+      "TEAM_ID": 0,
+      "TEAM_NAME": 0,
+      "TOV": 0,
+      "VIDEO_AVAILABLE": 0,
+      "WL": 0
+    },
+    "season": "2020-21",
+    "source_game_prefixes": {
+      "00220": 2160
+    },
+    "source_season_ids": {
+      "22020": 2160
+    },
+    "within_season_team_identity_map": [
+      {
+        "team_abbreviation": "ATL",
+        "team_id": 1610612737,
+        "team_name": "Atlanta Hawks"
+      },
+      {
+        "team_abbreviation": "BOS",
+        "team_id": 1610612738,
+        "team_name": "Boston Celtics"
+      },
+      {
+        "team_abbreviation": "CLE",
+        "team_id": 1610612739,
+        "team_name": "Cleveland Cavaliers"
+      },
+      {
+        "team_abbreviation": "NOP",
+        "team_id": 1610612740,
+        "team_name": "New Orleans Pelicans"
+      },
+      {
+        "team_abbreviation": "CHI",
+        "team_id": 1610612741,
+        "team_name": "Chicago Bulls"
+      },
+      {
+        "team_abbreviation": "DAL",
+        "team_id": 1610612742,
+        "team_name": "Dallas Mavericks"
+      },
+      {
+        "team_abbreviation": "DEN",
+        "team_id": 1610612743,
+        "team_name": "Denver Nuggets"
+      },
+      {
+        "team_abbreviation": "GSW",
+        "team_id": 1610612744,
+        "team_name": "Golden State Warriors"
+      },
+      {
+        "team_abbreviation": "HOU",
+        "team_id": 1610612745,
+        "team_name": "Houston Rockets"
+      },
+      {
+        "team_abbreviation": "LAC",
+        "team_id": 1610612746,
+        "team_name": "LA Clippers"
+      },
+      {
+        "team_abbreviation": "LAL",
+        "team_id": 1610612747,
+        "team_name": "Los Angeles Lakers"
+      },
+      {
+        "team_abbreviation": "MIA",
+        "team_id": 1610612748,
+        "team_name": "Miami Heat"
+      },
+      {
+        "team_abbreviation": "MIL",
+        "team_id": 1610612749,
+        "team_name": "Milwaukee Bucks"
+      },
+      {
+        "team_abbreviation": "MIN",
+        "team_id": 1610612750,
+        "team_name": "Minnesota Timberwolves"
+      },
+      {
+        "team_abbreviation": "BKN",
+        "team_id": 1610612751,
+        "team_name": "Brooklyn Nets"
+      },
+      {
+        "team_abbreviation": "NYK",
+        "team_id": 1610612752,
+        "team_name": "New York Knicks"
+      },
+      {
+        "team_abbreviation": "ORL",
+        "team_id": 1610612753,
+        "team_name": "Orlando Magic"
+      },
+      {
+        "team_abbreviation": "IND",
+        "team_id": 1610612754,
+        "team_name": "Indiana Pacers"
+      },
+      {
+        "team_abbreviation": "PHI",
+        "team_id": 1610612755,
+        "team_name": "Philadelphia 76ers"
+      },
+      {
+        "team_abbreviation": "PHX",
+        "team_id": 1610612756,
+        "team_name": "Phoenix Suns"
+      },
+      {
+        "team_abbreviation": "POR",
+        "team_id": 1610612757,
+        "team_name": "Portland Trail Blazers"
+      },
+      {
+        "team_abbreviation": "SAC",
+        "team_id": 1610612758,
+        "team_name": "Sacramento Kings"
+      },
+      {
+        "team_abbreviation": "SAS",
+        "team_id": 1610612759,
+        "team_name": "San Antonio Spurs"
+      },
+      {
+        "team_abbreviation": "OKC",
+        "team_id": 1610612760,
+        "team_name": "Oklahoma City Thunder"
+      },
+      {
+        "team_abbreviation": "TOR",
+        "team_id": 1610612761,
+        "team_name": "Toronto Raptors"
+      },
+      {
+        "team_abbreviation": "UTA",
+        "team_id": 1610612762,
+        "team_name": "Utah Jazz"
+      },
+      {
+        "team_abbreviation": "MEM",
+        "team_id": 1610612763,
+        "team_name": "Memphis Grizzlies"
+      },
+      {
+        "team_abbreviation": "WAS",
+        "team_id": 1610612764,
+        "team_name": "Washington Wizards"
+      },
+      {
+        "team_abbreviation": "DET",
+        "team_id": 1610612765,
+        "team_name": "Detroit Pistons"
+      },
+      {
+        "team_abbreviation": "CHA",
+        "team_id": 1610612766,
+        "team_name": "Charlotte Hornets"
+      }
+    ]
+  },
+  {
+    "anomaly_reasons": {},
+    "bubble_team_counts": {},
+    "completeness_issues": [],
+    "configuration": {
+      "bubble_start": null,
+      "cup_final": null,
+      "end": "2022-04-10",
+      "games_per_team": 82,
+      "season": "2021-22",
+      "start": "2021-10-19",
+      "suspension_start": null
+    },
+    "cup_championship_date_rows": 0,
+    "games_per_team": {
+      "1610612737": 82,
+      "1610612738": 82,
+      "1610612739": 82,
+      "1610612740": 82,
+      "1610612741": 82,
+      "1610612742": 82,
+      "1610612743": 82,
+      "1610612744": 82,
+      "1610612745": 82,
+      "1610612746": 82,
+      "1610612747": 82,
+      "1610612748": 82,
+      "1610612749": 82,
+      "1610612750": 82,
+      "1610612751": 82,
+      "1610612752": 82,
+      "1610612753": 82,
+      "1610612754": 82,
+      "1610612755": 82,
+      "1610612756": 82,
+      "1610612757": 82,
+      "1610612758": 82,
+      "1610612759": 82,
+      "1610612760": 82,
+      "1610612761": 82,
+      "1610612762": 82,
+      "1610612763": 82,
+      "1610612764": 82,
+      "1610612765": 82,
+      "1610612766": 82
+    },
+    "games_per_team_distribution": {
+      "82": 30
+    },
+    "raw_column_null_counts": {
+      "AST": 0,
+      "BLK": 0,
+      "DREB": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "FG3_PCT": 0,
+      "FGA": 0,
+      "FGM": 0,
+      "FG_PCT": 0,
+      "FTA": 0,
+      "FTM": 0,
+      "FT_PCT": 0,
+      "GAME_DATE": 0,
+      "GAME_ID": 0,
+      "MATCHUP": 0,
+      "MIN": 0,
+      "OREB": 0,
+      "PF": 0,
+      "PLUS_MINUS": 0,
+      "PTS": 0,
+      "REB": 0,
+      "SEASON_ID": 0,
+      "STL": 0,
+      "TEAM_ABBREVIATION": 0,
+      "TEAM_ID": 0,
+      "TEAM_NAME": 0,
+      "TOV": 0,
+      "VIDEO_AVAILABLE": 0,
+      "WL": 0
+    },
+    "season": "2021-22",
+    "source_game_prefixes": {
+      "00221": 2460
+    },
+    "source_season_ids": {
+      "22021": 2460
+    },
+    "within_season_team_identity_map": [
+      {
+        "team_abbreviation": "ATL",
+        "team_id": 1610612737,
+        "team_name": "Atlanta Hawks"
+      },
+      {
+        "team_abbreviation": "BOS",
+        "team_id": 1610612738,
+        "team_name": "Boston Celtics"
+      },
+      {
+        "team_abbreviation": "CLE",
+        "team_id": 1610612739,
+        "team_name": "Cleveland Cavaliers"
+      },
+      {
+        "team_abbreviation": "NOP",
+        "team_id": 1610612740,
+        "team_name": "New Orleans Pelicans"
+      },
+      {
+        "team_abbreviation": "CHI",
+        "team_id": 1610612741,
+        "team_name": "Chicago Bulls"
+      },
+      {
+        "team_abbreviation": "DAL",
+        "team_id": 1610612742,
+        "team_name": "Dallas Mavericks"
+      },
+      {
+        "team_abbreviation": "DEN",
+        "team_id": 1610612743,
+        "team_name": "Denver Nuggets"
+      },
+      {
+        "team_abbreviation": "GSW",
+        "team_id": 1610612744,
+        "team_name": "Golden State Warriors"
+      },
+      {
+        "team_abbreviation": "HOU",
+        "team_id": 1610612745,
+        "team_name": "Houston Rockets"
+      },
+      {
+        "team_abbreviation": "LAC",
+        "team_id": 1610612746,
+        "team_name": "LA Clippers"
+      },
+      {
+        "team_abbreviation": "LAL",
+        "team_id": 1610612747,
+        "team_name": "Los Angeles Lakers"
+      },
+      {
+        "team_abbreviation": "MIA",
+        "team_id": 1610612748,
+        "team_name": "Miami Heat"
+      },
+      {
+        "team_abbreviation": "MIL",
+        "team_id": 1610612749,
+        "team_name": "Milwaukee Bucks"
+      },
+      {
+        "team_abbreviation": "MIN",
+        "team_id": 1610612750,
+        "team_name": "Minnesota Timberwolves"
+      },
+      {
+        "team_abbreviation": "BKN",
+        "team_id": 1610612751,
+        "team_name": "Brooklyn Nets"
+      },
+      {
+        "team_abbreviation": "NYK",
+        "team_id": 1610612752,
+        "team_name": "New York Knicks"
+      },
+      {
+        "team_abbreviation": "ORL",
+        "team_id": 1610612753,
+        "team_name": "Orlando Magic"
+      },
+      {
+        "team_abbreviation": "IND",
+        "team_id": 1610612754,
+        "team_name": "Indiana Pacers"
+      },
+      {
+        "team_abbreviation": "PHI",
+        "team_id": 1610612755,
+        "team_name": "Philadelphia 76ers"
+      },
+      {
+        "team_abbreviation": "PHX",
+        "team_id": 1610612756,
+        "team_name": "Phoenix Suns"
+      },
+      {
+        "team_abbreviation": "POR",
+        "team_id": 1610612757,
+        "team_name": "Portland Trail Blazers"
+      },
+      {
+        "team_abbreviation": "SAC",
+        "team_id": 1610612758,
+        "team_name": "Sacramento Kings"
+      },
+      {
+        "team_abbreviation": "SAS",
+        "team_id": 1610612759,
+        "team_name": "San Antonio Spurs"
+      },
+      {
+        "team_abbreviation": "OKC",
+        "team_id": 1610612760,
+        "team_name": "Oklahoma City Thunder"
+      },
+      {
+        "team_abbreviation": "TOR",
+        "team_id": 1610612761,
+        "team_name": "Toronto Raptors"
+      },
+      {
+        "team_abbreviation": "UTA",
+        "team_id": 1610612762,
+        "team_name": "Utah Jazz"
+      },
+      {
+        "team_abbreviation": "MEM",
+        "team_id": 1610612763,
+        "team_name": "Memphis Grizzlies"
+      },
+      {
+        "team_abbreviation": "WAS",
+        "team_id": 1610612764,
+        "team_name": "Washington Wizards"
+      },
+      {
+        "team_abbreviation": "DET",
+        "team_id": 1610612765,
+        "team_name": "Detroit Pistons"
+      },
+      {
+        "team_abbreviation": "CHA",
+        "team_id": 1610612766,
+        "team_name": "Charlotte Hornets"
+      }
+    ]
+  },
+  {
+    "anomaly_reasons": {},
+    "bubble_team_counts": {},
+    "completeness_issues": [],
+    "configuration": {
+      "bubble_start": null,
+      "cup_final": null,
+      "end": "2023-04-09",
+      "games_per_team": 82,
+      "season": "2022-23",
+      "start": "2022-10-18",
+      "suspension_start": null
+    },
+    "cup_championship_date_rows": 0,
+    "games_per_team": {
+      "1610612737": 82,
+      "1610612738": 82,
+      "1610612739": 82,
+      "1610612740": 82,
+      "1610612741": 82,
+      "1610612742": 82,
+      "1610612743": 82,
+      "1610612744": 82,
+      "1610612745": 82,
+      "1610612746": 82,
+      "1610612747": 82,
+      "1610612748": 82,
+      "1610612749": 82,
+      "1610612750": 82,
+      "1610612751": 82,
+      "1610612752": 82,
+      "1610612753": 82,
+      "1610612754": 82,
+      "1610612755": 82,
+      "1610612756": 82,
+      "1610612757": 82,
+      "1610612758": 82,
+      "1610612759": 82,
+      "1610612760": 82,
+      "1610612761": 82,
+      "1610612762": 82,
+      "1610612763": 82,
+      "1610612764": 82,
+      "1610612765": 82,
+      "1610612766": 82
+    },
+    "games_per_team_distribution": {
+      "82": 30
+    },
+    "raw_column_null_counts": {
+      "AST": 0,
+      "BLK": 0,
+      "DREB": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "FG3_PCT": 0,
+      "FGA": 0,
+      "FGM": 0,
+      "FG_PCT": 0,
+      "FTA": 0,
+      "FTM": 0,
+      "FT_PCT": 0,
+      "GAME_DATE": 0,
+      "GAME_ID": 0,
+      "MATCHUP": 0,
+      "MIN": 0,
+      "OREB": 0,
+      "PF": 0,
+      "PLUS_MINUS": 0,
+      "PTS": 0,
+      "REB": 0,
+      "SEASON_ID": 0,
+      "STL": 0,
+      "TEAM_ABBREVIATION": 0,
+      "TEAM_ID": 0,
+      "TEAM_NAME": 0,
+      "TOV": 0,
+      "VIDEO_AVAILABLE": 0,
+      "WL": 0
+    },
+    "season": "2022-23",
+    "source_game_prefixes": {
+      "00222": 2460
+    },
+    "source_season_ids": {
+      "22022": 2460
+    },
+    "within_season_team_identity_map": [
+      {
+        "team_abbreviation": "ATL",
+        "team_id": 1610612737,
+        "team_name": "Atlanta Hawks"
+      },
+      {
+        "team_abbreviation": "BOS",
+        "team_id": 1610612738,
+        "team_name": "Boston Celtics"
+      },
+      {
+        "team_abbreviation": "CLE",
+        "team_id": 1610612739,
+        "team_name": "Cleveland Cavaliers"
+      },
+      {
+        "team_abbreviation": "NOP",
+        "team_id": 1610612740,
+        "team_name": "New Orleans Pelicans"
+      },
+      {
+        "team_abbreviation": "CHI",
+        "team_id": 1610612741,
+        "team_name": "Chicago Bulls"
+      },
+      {
+        "team_abbreviation": "DAL",
+        "team_id": 1610612742,
+        "team_name": "Dallas Mavericks"
+      },
+      {
+        "team_abbreviation": "DEN",
+        "team_id": 1610612743,
+        "team_name": "Denver Nuggets"
+      },
+      {
+        "team_abbreviation": "GSW",
+        "team_id": 1610612744,
+        "team_name": "Golden State Warriors"
+      },
+      {
+        "team_abbreviation": "HOU",
+        "team_id": 1610612745,
+        "team_name": "Houston Rockets"
+      },
+      {
+        "team_abbreviation": "LAC",
+        "team_id": 1610612746,
+        "team_name": "LA Clippers"
+      },
+      {
+        "team_abbreviation": "LAL",
+        "team_id": 1610612747,
+        "team_name": "Los Angeles Lakers"
+      },
+      {
+        "team_abbreviation": "MIA",
+        "team_id": 1610612748,
+        "team_name": "Miami Heat"
+      },
+      {
+        "team_abbreviation": "MIL",
+        "team_id": 1610612749,
+        "team_name": "Milwaukee Bucks"
+      },
+      {
+        "team_abbreviation": "MIN",
+        "team_id": 1610612750,
+        "team_name": "Minnesota Timberwolves"
+      },
+      {
+        "team_abbreviation": "BKN",
+        "team_id": 1610612751,
+        "team_name": "Brooklyn Nets"
+      },
+      {
+        "team_abbreviation": "NYK",
+        "team_id": 1610612752,
+        "team_name": "New York Knicks"
+      },
+      {
+        "team_abbreviation": "ORL",
+        "team_id": 1610612753,
+        "team_name": "Orlando Magic"
+      },
+      {
+        "team_abbreviation": "IND",
+        "team_id": 1610612754,
+        "team_name": "Indiana Pacers"
+      },
+      {
+        "team_abbreviation": "PHI",
+        "team_id": 1610612755,
+        "team_name": "Philadelphia 76ers"
+      },
+      {
+        "team_abbreviation": "PHX",
+        "team_id": 1610612756,
+        "team_name": "Phoenix Suns"
+      },
+      {
+        "team_abbreviation": "POR",
+        "team_id": 1610612757,
+        "team_name": "Portland Trail Blazers"
+      },
+      {
+        "team_abbreviation": "SAC",
+        "team_id": 1610612758,
+        "team_name": "Sacramento Kings"
+      },
+      {
+        "team_abbreviation": "SAS",
+        "team_id": 1610612759,
+        "team_name": "San Antonio Spurs"
+      },
+      {
+        "team_abbreviation": "OKC",
+        "team_id": 1610612760,
+        "team_name": "Oklahoma City Thunder"
+      },
+      {
+        "team_abbreviation": "TOR",
+        "team_id": 1610612761,
+        "team_name": "Toronto Raptors"
+      },
+      {
+        "team_abbreviation": "UTA",
+        "team_id": 1610612762,
+        "team_name": "Utah Jazz"
+      },
+      {
+        "team_abbreviation": "MEM",
+        "team_id": 1610612763,
+        "team_name": "Memphis Grizzlies"
+      },
+      {
+        "team_abbreviation": "WAS",
+        "team_id": 1610612764,
+        "team_name": "Washington Wizards"
+      },
+      {
+        "team_abbreviation": "DET",
+        "team_id": 1610612765,
+        "team_name": "Detroit Pistons"
+      },
+      {
+        "team_abbreviation": "CHA",
+        "team_id": 1610612766,
+        "team_name": "Charlotte Hornets"
+      }
+    ]
+  },
+  {
+    "anomaly_reasons": {},
+    "bubble_team_counts": {},
+    "completeness_issues": [],
+    "configuration": {
+      "bubble_start": null,
+      "cup_final": "2023-12-09",
+      "end": "2024-04-14",
+      "games_per_team": 82,
+      "season": "2023-24",
+      "start": "2023-10-24",
+      "suspension_start": null
+    },
+    "cup_championship_date_rows": 0,
+    "games_per_team": {
+      "1610612737": 82,
+      "1610612738": 82,
+      "1610612739": 82,
+      "1610612740": 82,
+      "1610612741": 82,
+      "1610612742": 82,
+      "1610612743": 82,
+      "1610612744": 82,
+      "1610612745": 82,
+      "1610612746": 82,
+      "1610612747": 82,
+      "1610612748": 82,
+      "1610612749": 82,
+      "1610612750": 82,
+      "1610612751": 82,
+      "1610612752": 82,
+      "1610612753": 82,
+      "1610612754": 82,
+      "1610612755": 82,
+      "1610612756": 82,
+      "1610612757": 82,
+      "1610612758": 82,
+      "1610612759": 82,
+      "1610612760": 82,
+      "1610612761": 82,
+      "1610612762": 82,
+      "1610612763": 82,
+      "1610612764": 82,
+      "1610612765": 82,
+      "1610612766": 82
+    },
+    "games_per_team_distribution": {
+      "82": 30
+    },
+    "raw_column_null_counts": {
+      "AST": 0,
+      "BLK": 0,
+      "DREB": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "FG3_PCT": 0,
+      "FGA": 0,
+      "FGM": 0,
+      "FG_PCT": 0,
+      "FTA": 0,
+      "FTM": 0,
+      "FT_PCT": 1,
+      "GAME_DATE": 0,
+      "GAME_ID": 0,
+      "MATCHUP": 0,
+      "MIN": 0,
+      "OREB": 0,
+      "PF": 0,
+      "PLUS_MINUS": 0,
+      "PTS": 0,
+      "REB": 0,
+      "SEASON_ID": 0,
+      "STL": 0,
+      "TEAM_ABBREVIATION": 0,
+      "TEAM_ID": 0,
+      "TEAM_NAME": 0,
+      "TOV": 0,
+      "VIDEO_AVAILABLE": 0,
+      "WL": 0
+    },
+    "season": "2023-24",
+    "source_game_prefixes": {
+      "00223": 2460
+    },
+    "source_season_ids": {
+      "22023": 2460
+    },
+    "within_season_team_identity_map": [
+      {
+        "team_abbreviation": "ATL",
+        "team_id": 1610612737,
+        "team_name": "Atlanta Hawks"
+      },
+      {
+        "team_abbreviation": "BOS",
+        "team_id": 1610612738,
+        "team_name": "Boston Celtics"
+      },
+      {
+        "team_abbreviation": "CLE",
+        "team_id": 1610612739,
+        "team_name": "Cleveland Cavaliers"
+      },
+      {
+        "team_abbreviation": "NOP",
+        "team_id": 1610612740,
+        "team_name": "New Orleans Pelicans"
+      },
+      {
+        "team_abbreviation": "CHI",
+        "team_id": 1610612741,
+        "team_name": "Chicago Bulls"
+      },
+      {
+        "team_abbreviation": "DAL",
+        "team_id": 1610612742,
+        "team_name": "Dallas Mavericks"
+      },
+      {
+        "team_abbreviation": "DEN",
+        "team_id": 1610612743,
+        "team_name": "Denver Nuggets"
+      },
+      {
+        "team_abbreviation": "GSW",
+        "team_id": 1610612744,
+        "team_name": "Golden State Warriors"
+      },
+      {
+        "team_abbreviation": "HOU",
+        "team_id": 1610612745,
+        "team_name": "Houston Rockets"
+      },
+      {
+        "team_abbreviation": "LAC",
+        "team_id": 1610612746,
+        "team_name": "LA Clippers"
+      },
+      {
+        "team_abbreviation": "LAL",
+        "team_id": 1610612747,
+        "team_name": "Los Angeles Lakers"
+      },
+      {
+        "team_abbreviation": "MIA",
+        "team_id": 1610612748,
+        "team_name": "Miami Heat"
+      },
+      {
+        "team_abbreviation": "MIL",
+        "team_id": 1610612749,
+        "team_name": "Milwaukee Bucks"
+      },
+      {
+        "team_abbreviation": "MIN",
+        "team_id": 1610612750,
+        "team_name": "Minnesota Timberwolves"
+      },
+      {
+        "team_abbreviation": "BKN",
+        "team_id": 1610612751,
+        "team_name": "Brooklyn Nets"
+      },
+      {
+        "team_abbreviation": "NYK",
+        "team_id": 1610612752,
+        "team_name": "New York Knicks"
+      },
+      {
+        "team_abbreviation": "ORL",
+        "team_id": 1610612753,
+        "team_name": "Orlando Magic"
+      },
+      {
+        "team_abbreviation": "IND",
+        "team_id": 1610612754,
+        "team_name": "Indiana Pacers"
+      },
+      {
+        "team_abbreviation": "PHI",
+        "team_id": 1610612755,
+        "team_name": "Philadelphia 76ers"
+      },
+      {
+        "team_abbreviation": "PHX",
+        "team_id": 1610612756,
+        "team_name": "Phoenix Suns"
+      },
+      {
+        "team_abbreviation": "POR",
+        "team_id": 1610612757,
+        "team_name": "Portland Trail Blazers"
+      },
+      {
+        "team_abbreviation": "SAC",
+        "team_id": 1610612758,
+        "team_name": "Sacramento Kings"
+      },
+      {
+        "team_abbreviation": "SAS",
+        "team_id": 1610612759,
+        "team_name": "San Antonio Spurs"
+      },
+      {
+        "team_abbreviation": "OKC",
+        "team_id": 1610612760,
+        "team_name": "Oklahoma City Thunder"
+      },
+      {
+        "team_abbreviation": "TOR",
+        "team_id": 1610612761,
+        "team_name": "Toronto Raptors"
+      },
+      {
+        "team_abbreviation": "UTA",
+        "team_id": 1610612762,
+        "team_name": "Utah Jazz"
+      },
+      {
+        "team_abbreviation": "MEM",
+        "team_id": 1610612763,
+        "team_name": "Memphis Grizzlies"
+      },
+      {
+        "team_abbreviation": "WAS",
+        "team_id": 1610612764,
+        "team_name": "Washington Wizards"
+      },
+      {
+        "team_abbreviation": "DET",
+        "team_id": 1610612765,
+        "team_name": "Detroit Pistons"
+      },
+      {
+        "team_abbreviation": "CHA",
+        "team_id": 1610612766,
+        "team_name": "Charlotte Hornets"
+      }
+    ]
+  },
+  {
+    "anomaly_reasons": {
+      "not_one_home_and_one_away": 5
+    },
+    "bubble_team_counts": {},
+    "completeness_issues": [
+      "rejected_games_break_history",
+      "documented_games_per_team_not_met"
+    ],
+    "configuration": {
+      "bubble_start": null,
+      "cup_final": "2024-12-17",
+      "end": "2025-04-13",
+      "games_per_team": 82,
+      "season": "2024-25",
+      "start": "2024-10-22",
+      "suspension_start": null
+    },
+    "cup_championship_date_rows": 0,
+    "games_per_team": {
+      "1610612737": 81,
+      "1610612738": 82,
+      "1610612739": 82,
+      "1610612740": 82,
+      "1610612741": 82,
+      "1610612742": 82,
+      "1610612743": 82,
+      "1610612744": 82,
+      "1610612745": 81,
+      "1610612746": 82,
+      "1610612747": 82,
+      "1610612748": 81,
+      "1610612749": 81,
+      "1610612750": 82,
+      "1610612751": 82,
+      "1610612752": 82,
+      "1610612753": 82,
+      "1610612754": 80,
+      "1610612755": 82,
+      "1610612756": 82,
+      "1610612757": 82,
+      "1610612758": 82,
+      "1610612759": 80,
+      "1610612760": 81,
+      "1610612761": 82,
+      "1610612762": 82,
+      "1610612763": 82,
+      "1610612764": 81,
+      "1610612765": 82,
+      "1610612766": 82
+    },
+    "games_per_team_distribution": {
+      "80": 2,
+      "81": 6,
+      "82": 22
+    },
+    "raw_column_null_counts": {
+      "AST": 0,
+      "BLK": 0,
+      "DREB": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "FG3_PCT": 0,
+      "FGA": 0,
+      "FGM": 0,
+      "FG_PCT": 0,
+      "FTA": 0,
+      "FTM": 0,
+      "FT_PCT": 0,
+      "GAME_DATE": 0,
+      "GAME_ID": 0,
+      "MATCHUP": 0,
+      "MIN": 0,
+      "OREB": 0,
+      "PF": 0,
+      "PLUS_MINUS": 0,
+      "PTS": 0,
+      "REB": 0,
+      "SEASON_ID": 0,
+      "STL": 0,
+      "TEAM_ABBREVIATION": 0,
+      "TEAM_ID": 0,
+      "TEAM_NAME": 0,
+      "TOV": 0,
+      "VIDEO_AVAILABLE": 0,
+      "WL": 0
+    },
+    "season": "2024-25",
+    "source_game_prefixes": {
+      "00224": 2460
+    },
+    "source_season_ids": {
+      "22024": 2460
+    },
+    "within_season_team_identity_map": [
+      {
+        "team_abbreviation": "ATL",
+        "team_id": 1610612737,
+        "team_name": "Atlanta Hawks"
+      },
+      {
+        "team_abbreviation": "BOS",
+        "team_id": 1610612738,
+        "team_name": "Boston Celtics"
+      },
+      {
+        "team_abbreviation": "CLE",
+        "team_id": 1610612739,
+        "team_name": "Cleveland Cavaliers"
+      },
+      {
+        "team_abbreviation": "NOP",
+        "team_id": 1610612740,
+        "team_name": "New Orleans Pelicans"
+      },
+      {
+        "team_abbreviation": "CHI",
+        "team_id": 1610612741,
+        "team_name": "Chicago Bulls"
+      },
+      {
+        "team_abbreviation": "DAL",
+        "team_id": 1610612742,
+        "team_name": "Dallas Mavericks"
+      },
+      {
+        "team_abbreviation": "DEN",
+        "team_id": 1610612743,
+        "team_name": "Denver Nuggets"
+      },
+      {
+        "team_abbreviation": "GSW",
+        "team_id": 1610612744,
+        "team_name": "Golden State Warriors"
+      },
+      {
+        "team_abbreviation": "HOU",
+        "team_id": 1610612745,
+        "team_name": "Houston Rockets"
+      },
+      {
+        "team_abbreviation": "LAC",
+        "team_id": 1610612746,
+        "team_name": "LA Clippers"
+      },
+      {
+        "team_abbreviation": "LAL",
+        "team_id": 1610612747,
+        "team_name": "Los Angeles Lakers"
+      },
+      {
+        "team_abbreviation": "MIA",
+        "team_id": 1610612748,
+        "team_name": "Miami Heat"
+      },
+      {
+        "team_abbreviation": "MIL",
+        "team_id": 1610612749,
+        "team_name": "Milwaukee Bucks"
+      },
+      {
+        "team_abbreviation": "MIN",
+        "team_id": 1610612750,
+        "team_name": "Minnesota Timberwolves"
+      },
+      {
+        "team_abbreviation": "BKN",
+        "team_id": 1610612751,
+        "team_name": "Brooklyn Nets"
+      },
+      {
+        "team_abbreviation": "NYK",
+        "team_id": 1610612752,
+        "team_name": "New York Knicks"
+      },
+      {
+        "team_abbreviation": "ORL",
+        "team_id": 1610612753,
+        "team_name": "Orlando Magic"
+      },
+      {
+        "team_abbreviation": "IND",
+        "team_id": 1610612754,
+        "team_name": "Indiana Pacers"
+      },
+      {
+        "team_abbreviation": "PHI",
+        "team_id": 1610612755,
+        "team_name": "Philadelphia 76ers"
+      },
+      {
+        "team_abbreviation": "PHX",
+        "team_id": 1610612756,
+        "team_name": "Phoenix Suns"
+      },
+      {
+        "team_abbreviation": "POR",
+        "team_id": 1610612757,
+        "team_name": "Portland Trail Blazers"
+      },
+      {
+        "team_abbreviation": "SAC",
+        "team_id": 1610612758,
+        "team_name": "Sacramento Kings"
+      },
+      {
+        "team_abbreviation": "SAS",
+        "team_id": 1610612759,
+        "team_name": "San Antonio Spurs"
+      },
+      {
+        "team_abbreviation": "OKC",
+        "team_id": 1610612760,
+        "team_name": "Oklahoma City Thunder"
+      },
+      {
+        "team_abbreviation": "TOR",
+        "team_id": 1610612761,
+        "team_name": "Toronto Raptors"
+      },
+      {
+        "team_abbreviation": "UTA",
+        "team_id": 1610612762,
+        "team_name": "Utah Jazz"
+      },
+      {
+        "team_abbreviation": "MEM",
+        "team_id": 1610612763,
+        "team_name": "Memphis Grizzlies"
+      },
+      {
+        "team_abbreviation": "WAS",
+        "team_id": 1610612764,
+        "team_name": "Washington Wizards"
+      },
+      {
+        "team_abbreviation": "DET",
+        "team_id": 1610612765,
+        "team_name": "Detroit Pistons"
+      },
+      {
+        "team_abbreviation": "CHA",
+        "team_id": 1610612766,
+        "team_name": "Charlotte Hornets"
+      }
+    ]
+  }
+]

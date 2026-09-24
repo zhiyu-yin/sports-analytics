@@ -1,0 +1,51 @@
+{
+  "basketball_features_hgb": {
+    "bins_below_30": 1,
+    "fixed_bin_ece": 0.03857359564759825,
+    "mean_predicted_probability": 0.5580497339620797,
+    "observed_designated_home_win_rate": 0.5439024390243903,
+    "populated_bins": 8
+  },
+  "basketball_features_logistic": {
+    "bins_below_30": 3,
+    "fixed_bin_ece": 0.04395417840246298,
+    "mean_predicted_probability": 0.5603565631870151,
+    "observed_designated_home_win_rate": 0.5439024390243903,
+    "populated_bins": 10
+  },
+  "constant_home_prior": {
+    "bins_below_30": 0,
+    "fixed_bin_ece": 0.027271003564116825,
+    "mean_predicted_probability": 0.5711734425885071,
+    "observed_designated_home_win_rate": 0.5439024390243903,
+    "populated_bins": 1
+  },
+  "elo_logistic": {
+    "bins_below_30": 3,
+    "fixed_bin_ece": 0.032008355106061086,
+    "mean_predicted_probability": 0.5709492358122662,
+    "observed_designated_home_win_rate": 0.5439024390243903,
+    "populated_bins": 10
+  },
+  "features_plus_elo_hgb": {
+    "bins_below_30": 2,
+    "fixed_bin_ece": 0.02457196185586286,
+    "mean_predicted_probability": 0.5581087389967364,
+    "observed_designated_home_win_rate": 0.5439024390243903,
+    "populated_bins": 9
+  },
+  "features_plus_elo_logistic": {
+    "bins_below_30": 2,
+    "fixed_bin_ece": 0.03400898434859409,
+    "mean_predicted_probability": 0.5597669718520849,
+    "observed_designated_home_win_rate": 0.5439024390243903,
+    "populated_bins": 10
+  },
+  "raw_elo": {
+    "bins_below_30": 3,
+    "fixed_bin_ece": 0.02413827376149289,
+    "mean_predicted_probability": 0.563652545896535,
+    "observed_designated_home_win_rate": 0.5439024390243903,
+    "populated_bins": 10
+  }
+}

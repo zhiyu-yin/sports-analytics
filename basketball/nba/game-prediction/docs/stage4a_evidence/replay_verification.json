@@ -1,0 +1,27 @@
+{
+  "access_audit_equal": true,
+  "all_output_hashes_equal": true,
+  "candidate_freeze_equal": true,
+  "draft_protocol_equal": true,
+  "full_guarded_verifications": 2,
+  "holdout_accessed": false,
+  "manifest_equal": true,
+  "model_fitting_or_evaluation": false,
+  "ordinary_command": ".venv/bin/python -m unittest discover -s tests -v",
+  "ordinary_tests": 102,
+  "output_sha256": {
+    "docs/preholdout_protocol_2024_25_draft.md": "68c40786e35ae1afe443ce59dede57915b9fbe9b3a19f2d14e4729cee6094667",
+    "docs/stage4a_evidence/access_spy_results.json": "a69aa625ea000bb9786e6e3c0f417dd214ca2669a2d69aed635298d379a9bb34",
+    "docs/stage4a_evidence/candidate_freeze.json": "aa9b7cabf805fb24b40327401e203cbfc74bf44448f8fa5c337db3c7791465d5",
+    "docs/stage4a_evidence/protected_artifact_hashes_after.json": "cd9e5a4c32b7e782e90c003da7bc8c9db62ca724396afb59ede773ab2111a92f",
+    "docs/stage4a_evidence/protected_artifact_hashes_before.json": "cd9e5a4c32b7e782e90c003da7bc8c9db62ca724396afb59ede773ab2111a92f",
+    "docs/stage4a_evidence/sealed_access_audit.csv": "92038f675bf124f76b81e05e7e83242146b4732b55af58215be172715bb999d4",
+    "docs/stage4a_evidence/sealed_data_policy.json": "12613067aeac2e2407f9226c1030fa739055de7c6d0bed096b39b2e1514636e4",
+    "docs/stage4a_evidence/test_run.txt": "95b7ac620efe10722242fff4f00ac78fbf5d6369c124f116d74dfe20b8786342",
+    "docs/stage4a_evidence/test_summary.json": "b656d14dfb92f866646a62375c5dfcf837cda0e51c1aa939b658f1170a0c6da0"
+  },
+  "passed": true,
+  "protected_artifacts_equal": true,
+  "sealed_label_reads": 0,
+  "test_results_equal": true
+}

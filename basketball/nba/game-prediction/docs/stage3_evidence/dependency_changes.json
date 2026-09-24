@@ -1,0 +1,13 @@
+{
+  "added": {
+    "cloudpickle": "3.1.2",
+    "joblib": "1.6.0",
+    "scikit-learn": "1.7.2",
+    "scipy": "1.15.3",
+    "threadpoolctl": "3.7.0"
+  },
+  "current_requirements_sha256": "6ab5feb8e53b991d79f21b976e7cb4019b93ac1de70ee0a56c829a245ac29e3c",
+  "existing_versions_unchanged": true,
+  "pip_check": "No broken requirements found.",
+  "prior_requirements_sha256": "be9e743df57ac8d9eab43679640fc5b2ee114d7640cec5e1b5a3be0892e57df4"
+}

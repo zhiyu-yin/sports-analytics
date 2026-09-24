@@ -1,0 +1,11 @@
+{
+  "errors": 0,
+  "existing_tests": 138,
+  "failures": 0,
+  "no_final_model_scoring_in_preflight": true,
+  "passed": true,
+  "skips": 0,
+  "stage6_synthetic_tests": 20,
+  "stage6r2_tests": 20,
+  "tests": 178
+}

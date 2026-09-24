@@ -1,0 +1,798 @@
+We are continuing the project at:
+
+/Users/zhiyuyin/Documents/last time job hunting material/proj/sports-analytics/
+
+Active subproject:
+
+basketball/nba/game-prediction/
+
+Before doing anything, read:
+
+docs/stage1d_home_away_reconciliation.md
+docs/stage2_probabilistic_baselines.md
+docs/stage3_logistic_regression.md
+docs/stage4_gradient_boosting.md
+docs/stage4a_sealed_evaluation_hardening.md
+docs/preholdout_protocol_2024_25_draft.md
+
+Also inspect:
+
+docs/stage4a_evidence/candidate_freeze.json
+docs/stage4a_evidence/sealed_data_policy.json
+docs/stage4a_evidence/protected_artifact_hashes_after.json
+
+# Stage 5 — ONE-TIME 2024-25 PRE-HOLDOUT EVALUATION
+
+## IMPORTANT AUTHORIZATION
+
+This message explicitly authorizes ONE evaluation opening of the previously sealed
+2024-25 pre-holdout outcomes for the already-frozen candidate set.
+
+This authorization applies ONLY to:
+
+2024-25
+
+and ONLY for the frozen candidates and metrics defined below.
+
+2025-26 remains completely forbidden and untouched.
+
+This is NOT authorization to:
+
+- tune models
+- add models
+- add features
+- change preprocessing
+- change Elo
+- change hyperparameters
+- recalibrate probabilities
+- inspect 2024-25 and then modify recipes
+- run exploratory model selection on 2024-25
+- access 2025-26
+
+The candidate/model-development process is frozen.
+
+--------------------------------------------------
+1. SCIENTIFIC QUESTION
+--------------------------------------------------
+
+The primary question is:
+
+Does the previously frozen Stage 3 leading model:
+
+features_plus_elo_logistic
+
+retain its improvement over raw Elo on a completely unseen subsequent NBA season,
+2024-25?
+
+The primary comparison is:
+
+features_plus_elo_logistic
+vs
+raw_elo
+
+Primary metrics:
+
+- log loss
+- Brier score
+
+Secondary metrics:
+
+- accuracy
+- ROC-AUC
+- calibration
+
+All seven frozen candidates should also be reported transparently.
+
+--------------------------------------------------
+2. FROZEN CANDIDATE SET
+--------------------------------------------------
+
+The candidate set is exactly:
+
+1. constant_home_prior
+2. raw_elo
+3. basketball_features_logistic
+4. elo_logistic
+5. features_plus_elo_logistic
+6. basketball_features_hgb
+7. features_plus_elo_hgb
+
+Do NOT add:
+
+- XGBoost
+- LightGBM
+- CatBoost
+- neural networks
+- new logistic variants
+- new Elo variants
+- ensembles
+- calibrators
+- feature subsets
+- new feature engineering
+
+If a candidate cannot be reproduced exactly from its frozen recipe, STOP.
+
+Do not substitute a modified version.
+
+--------------------------------------------------
+3. FROZEN RECIPES
+--------------------------------------------------
+
+Verify before opening 2024-25 labels that all recipes match the freeze artifact.
+
+At minimum verify:
+
+Raw Elo:
+K = 20
+H = 50
+alpha = 0.50
+
+Stage 3 logistic:
+C_A = 0.01
+C_B = 0.01
+C_C = 0.01
+
+Stage 4 HGB selected parameters:
+
+Model D:
+learning_rate = 0.03
+max_leaf_nodes = 7
+l2_regularization = 5.0
+
+Model E:
+learning_rate = 0.03
+max_leaf_nodes = 7
+l2_regularization = 1.0
+
+Also verify:
+
+- exact feature allowlists
+- exact missingness policies
+- exact preprocessing
+- exact model family / solver settings
+- frozen Stage 2/3/4 code/protocol hashes where applicable
+
+Do not proceed if the current implementation no longer corresponds to the frozen
+recipes.
+
+--------------------------------------------------
+4. TRAINING DATA POLICY
+--------------------------------------------------
+
+Reconstruct/finalize every candidate using ONLY the originally authorized training
+history:
+
+2015-16 through 2022-23
+
+Do NOT retrain logistic/HGB models using 2023-24.
+
+2023-24 remains external development validation evidence, not additional training
+data for this pre-holdout evaluation.
+
+This preserves the exact model-development protocol under which candidates were
+selected.
+
+For Elo:
+
+use the frozen chronological state evolution through training and then legitimate
+sequential updates through 2023-24 before entering 2024-25.
+
+This is allowed because Elo is a stateful online model whose parameters are frozen.
+
+For logistic/HGB:
+
+their fitted statistical model parameters remain based on the original frozen
+training protocol.
+
+Do not refit them on 2023-24 unless the existing freeze artifact explicitly says
+otherwise.
+
+If the frozen artifact and historical implementation require exact reconstruction,
+follow them exactly and document it.
+
+--------------------------------------------------
+5. PRE-OPENING VERIFICATION GATE
+--------------------------------------------------
+
+Before reading ANY 2024-25 outcome label:
+
+verify and save:
+
+- candidate_freeze hash
+- frozen artifact hashes
+- Stage 2 selected parameters
+- Stage 3 selected parameters
+- Stage 4 selected parameters
+- exact feature allowlists
+- exact modeling dependencies
+- 2023-24 protected prediction hashes
+- protected validation metrics
+
+Reproduce or verify that the frozen 2023-24 results remain unchanged.
+
+Do NOT compute any new 2024-25 value before this gate passes.
+
+Create:
+
+docs/stage5_evidence/preopening_verification.json
+
+If any required frozen artifact mismatch occurs:
+
+STOP.
+
+--------------------------------------------------
+6. ONE-TIME OPENING LEDGER
+--------------------------------------------------
+
+Create an explicit ledger before label access:
+
+docs/stage5_evidence/preholdout_opening_ledger.json
+
+Record:
+
+- authorization stage = Stage 5
+- authorized season = 2024-25
+- authorization timestamp
+- candidate set hash
+- protocol hash
+- code hash
+- training-period definition
+- metrics to be computed
+- target definition
+- expected game count = validated Stage 1D 2024-25 games
+- statement that 2025-26 remains forbidden
+
+Then record the exact timestamp of FIRST 2024-25 outcome decode.
+
+This file should make it impossible to later pretend the pre-holdout was still
+sealed after Stage 5.
+
+--------------------------------------------------
+7. 2024-25 DATA
+--------------------------------------------------
+
+Use the validated/reconciled 2024-25 Stage 1D dataset:
+
+1,230 games.
+
+All five reconciled neutral-site games are already part of the canonical history.
+
+Do not alter their designated-home mapping.
+
+Target remains:
+
+P(designated home team wins)
+
+Do not introduce neutral_site as a new predictor.
+
+The Stage 5 experiment must use exactly the information contract under which the
+models were frozen.
+
+--------------------------------------------------
+8. PREDICTION GENERATION
+--------------------------------------------------
+
+Generate one probability per 2024-25 game for all seven frozen candidates.
+
+For Elo:
+
+- prediction before target-game update
+- then legitimate rating update after completed game
+- frozen K/H/alpha
+- no margin of victory
+
+For logistic/HGB candidates:
+
+- frozen trained recipes
+- no fitting on 2024-25
+- no recalibration
+- no adaptation based on 2024-25 outcomes
+
+Do not inspect individual model errors during generation.
+
+Generate the full season first.
+
+--------------------------------------------------
+9. PRIMARY METRICS
+--------------------------------------------------
+
+Use the exact existing metric implementations.
+
+For each candidate:
+
+- n_games
+- log_loss
+- brier_score
+- accuracy
+- roc_auc
+
+All should use exactly 1,230 games unless a fatal data-integrity issue occurs.
+
+Do not change probability clipping or metric definitions.
+
+--------------------------------------------------
+10. PRIMARY COMPARISON
+--------------------------------------------------
+
+The predeclared primary comparison is:
+
+features_plus_elo_logistic
+minus
+raw_elo
+
+Report:
+
+delta_log_loss
+delta_brier
+delta_accuracy
+delta_roc_auc
+
+Definition:
+
+new model - raw Elo
+
+Therefore:
+
+negative delta_log_loss = Model C improves
+negative delta_brier = Model C improves
+
+Do NOT redefine the comparison after seeing results.
+
+--------------------------------------------------
+11. REPLICATION QUESTION
+--------------------------------------------------
+
+Explicitly compare the direction of Model C's incremental value across:
+
+2023-24 validation
+
+and
+
+2024-25 pre-holdout
+
+The 2023-24 development result was approximately:
+
+Model C vs raw Elo:
+
+delta_log_loss = -0.005465
+delta_brier = -0.002744
+
+Do not require the same magnitude.
+
+Ask only:
+
+- is the direction replicated?
+- is the improvement larger/smaller?
+- does it disappear?
+- does it reverse?
+
+Do not claim statistical significance unless a predeclared uncertainty procedure
+exists.
+
+--------------------------------------------------
+12. ALL-CANDIDATE TRANSPARENCY
+--------------------------------------------------
+
+Report all seven frozen candidates:
+
+constant_home_prior
+raw_elo
+basketball_features_logistic
+elo_logistic
+features_plus_elo_logistic
+basketball_features_hgb
+features_plus_elo_hgb
+
+Do not hide models that perform poorly.
+
+Do not choose a new "winner" by inventing a different metric after opening.
+
+Primary probability metrics remain log loss and Brier.
+
+--------------------------------------------------
+13. CALIBRATION
+--------------------------------------------------
+
+Use the exact existing fixed-bin calibration system.
+
+For all seven models produce:
+
+- fixed-bin calibration tables
+- mean predicted probability
+- observed designated-home win rate
+- fixed-bin ECE as descriptive evidence
+- populated-bin counts
+
+For the primary models:
+
+raw_elo
+features_plus_elo_logistic
+
+also produce a clear comparison figure.
+
+Do NOT recalibrate any model after observing 2024-25.
+
+No isotonic regression.
+No Platt scaling.
+No temperature scaling.
+
+Calibration results are observational evidence only.
+
+--------------------------------------------------
+14. PRE-HOLDOUT PREDICTION ARTIFACT
+--------------------------------------------------
+
+Create:
+
+data/processed/stage5_predictions_2024_25.parquet
+
+Suggested schema:
+
+season
+game_id
+game_date
+home_team_id
+away_team_id
+home_win
+
+constant_probability
+raw_elo_probability
+basketball_features_logistic_probability
+elo_logistic_probability
+features_plus_elo_logistic_probability
+basketball_features_hgb_probability
+features_plus_elo_hgb_probability
+
+Do not include final game score.
+
+This is explicitly an evaluation artifact containing y.
+
+--------------------------------------------------
+15. METRICS ARTIFACT
+--------------------------------------------------
+
+Create:
+
+docs/stage5_evidence/preholdout_metrics.csv
+
+Rows:
+
+all seven frozen candidates
+
+Columns:
+
+split
+n_games
+log_loss
+brier_score
+accuracy
+roc_auc
+
+Split:
+
+2024-25 pre-holdout
+
+--------------------------------------------------
+16. PRIMARY COMPARISON ARTIFACT
+--------------------------------------------------
+
+Create:
+
+docs/stage5_evidence/primary_comparison.csv
+
+At minimum:
+
+comparison
+delta_log_loss
+delta_brier
+delta_accuracy
+delta_roc_auc
+
+Required:
+
+features_plus_elo_logistic vs raw_elo
+
+Also report:
+
+basketball_features_logistic vs raw_elo
+features_plus_elo_hgb vs raw_elo
+features_plus_elo_hgb vs features_plus_elo_logistic
+
+for transparency.
+
+--------------------------------------------------
+17. CROSS-SEASON REPLICATION TABLE
+--------------------------------------------------
+
+Create:
+
+docs/stage5_evidence/cross_season_replication.csv
+
+Rows:
+
+2023-24 validation
+2024-25 pre-holdout
+
+Columns should include:
+
+raw_elo_log_loss
+model_c_log_loss
+delta_log_loss
+
+raw_elo_brier
+model_c_brier
+delta_brier
+
+raw_elo_accuracy
+model_c_accuracy
+
+raw_elo_auc
+model_c_auc
+
+Do not pool the two seasons and pretend they were one untouched test.
+
+Keep their roles distinct.
+
+--------------------------------------------------
+18. NO POST-OPENING TUNING
+--------------------------------------------------
+
+After first 2024-25 label access:
+
+DO NOT:
+
+- change C
+- change Elo parameters
+- change HGB parameters
+- change feature set
+- change missingness handling
+- add neutral-site feature
+- change training window
+- change calibration method
+- add another model
+- select only favorable games
+- remove outliers
+- rerun with another random seed
+- alter metric definitions
+
+Any such change would make subsequent 2024-25 results development evidence, not
+pre-holdout evidence.
+
+If a genuine implementation BUG is found:
+
+STOP.
+
+Document it.
+
+Do not quietly fix and rerun.
+
+A corrected rerun must be explicitly labeled as no longer pristine pre-holdout
+unless the bug can be proven not to have exposed model-performance information.
+
+--------------------------------------------------
+19. INDIVIDUAL-GAME INSPECTION
+--------------------------------------------------
+
+Do not inspect individual prediction errors before the aggregate metrics are
+persisted.
+
+After aggregate results are irreversibly recorded, a limited error-analysis table
+may be created for descriptive purposes.
+
+However:
+
+no model changes may follow from it while preserving pre-holdout status.
+
+Prefer to defer individual-game error analysis to a later stage.
+
+--------------------------------------------------
+20. 2025-26 HARD GUARD
+--------------------------------------------------
+
+2025-26 remains forbidden.
+
+The Stage 5 authorization must NOT weaken the final holdout guard.
+
+Any request for:
+
+- 2025-26 identity
+- features
+- outcomes
+- predictions
+- schedules for modeling
+- metrics
+
+must fail before physical data access.
+
+Do not fetch the 2025-26 season.
+
+--------------------------------------------------
+21. TESTS
+--------------------------------------------------
+
+Add tests proving:
+
+A. Stage 5 authorization allows only 2024-25 outcomes.
+
+B. 2025-26 remains blocked before read.
+
+C. Candidate set exactly matches candidate_freeze.json.
+
+D. Frozen recipes exactly match prior artifacts.
+
+E. No post-opening fit call occurs.
+
+F. Logistic/HGB estimators are never fit using 2024-25 rows.
+
+G. Elo predicts before update.
+
+H. Exactly 1,230 predictions per candidate.
+
+I. No score columns enter candidate matrices.
+
+J. Primary comparison is Model C vs raw Elo.
+
+K. Existing 2023-24 frozen metrics remain unchanged.
+
+L. Opening ledger is created before first label decode.
+
+M. Opening timestamp is recorded.
+
+N. No unapproved model family appears.
+
+--------------------------------------------------
+22. REPRODUCIBILITY AFTER OPENING
+--------------------------------------------------
+
+After the one-time opening, deterministic replay is allowed ONLY to reproduce the
+same frozen evaluation.
+
+Such replay is not a second independent test.
+
+Document this explicitly.
+
+Run twice if needed to verify implementation reproducibility, but both runs use the
+already-opened pre-holdout and must not be described as independent evidence.
+
+Verify identical:
+
+- predictions
+- metrics
+- calibration
+- comparisons
+
+--------------------------------------------------
+23. DOCUMENTATION
+--------------------------------------------------
+
+Create:
+
+docs/stage5_preholdout_evaluation.md
+
+Include:
+
+1. Objective
+2. Explicit authorization
+3. Frozen candidate set
+4. Frozen recipes
+5. Pre-opening verification
+6. Opening ledger
+7. 2024-25 dataset
+8. Prediction protocol
+9. All candidate metrics
+10. Primary Model C vs Elo comparison
+11. 2023-24 vs 2024-25 replication
+12. Calibration
+13. Tests
+14. Reproducibility
+15. Interpretation
+16. Known limitations
+17. What may no longer be changed after opening
+18. Status of 2025-26 final holdout
+19. Recommended next step
+
+--------------------------------------------------
+24. REQUIRED EVIDENCE
+--------------------------------------------------
+
+Create:
+
+docs/stage5_evidence/
+
+At minimum:
+
+preopening_verification.json
+preholdout_opening_ledger.json
+
+preholdout_metrics.csv
+primary_comparison.csv
+cross_season_replication.csv
+
+calibration_raw_elo.csv
+calibration_features_plus_elo_logistic.csv
+
+test_run.txt
+test_summary.json
+
+build_manifest.json
+replay_verification.json
+
+Do not overwrite Stage 2–4A evidence.
+
+--------------------------------------------------
+25. STAGE 5 EXIT CRITERIA
+--------------------------------------------------
+
+Stage 5 passes as an EXECUTION stage if:
+
+1. Pre-opening verification succeeds.
+
+2. Candidate set is unchanged.
+
+3. Recipes are unchanged.
+
+4. Opening ledger exists before label decode.
+
+5. Exactly 1,230 2024-25 games are evaluated.
+
+6. All seven frozen candidates are reported.
+
+7. Model C vs raw Elo primary comparison is reported exactly as predeclared.
+
+8. No tuning/refitting on 2024-25 occurs.
+
+9. 2023-24 protected evidence remains unchanged.
+
+10. 2025-26 remains completely untouched.
+
+11. Aggregate metrics are persisted before any optional individual-game analysis.
+
+12. Replays reproduce the same frozen results.
+
+Scientific success is NOT required.
+
+If Model C loses to Elo, Stage 5 can still be a fully successful experiment.
+
+--------------------------------------------------
+26. FINAL RESPONSE TO ME
+--------------------------------------------------
+
+When complete, report:
+
+1. Did Stage 5 execute cleanly?
+
+2. Confirm:
+   candidate set unchanged?
+   recipes unchanged?
+   no post-opening tuning?
+
+3. 2024-25 metrics for all seven candidates.
+
+4. PRIMARY:
+   Model C vs raw Elo:
+   delta log loss
+   delta Brier
+
+5. Did the 2023-24 improvement direction replicate in 2024-25?
+
+6. Which model has lowest 2024-25 log loss?
+   Report descriptively only; do not retune anything.
+
+7. Which model has lowest Brier?
+
+8. How did Model C calibration compare with raw Elo?
+
+9. Did any frozen model materially behave differently from 2023-24?
+
+10. How many tests pass?
+
+11. Confirm no 2025-26 access.
+
+12. Exact path:
+    docs/stage5_preholdout_evaluation.md
+
+13. Recommended next scientific step.
+
+Do not commit.
+Do not push.
+Do not change models after seeing results.

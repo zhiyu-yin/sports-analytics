@@ -1,0 +1,10 @@
+{
+  "features": 32,
+  "neutral_site_in_features": false,
+  "passed": true,
+  "prefix_invariance": true,
+  "rows": 1230,
+  "season_reset": true,
+  "target_and_future_result_invariance": true,
+  "version": "1.0.0"
+}

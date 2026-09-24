@@ -1,0 +1,32 @@
+test_cache_avoids_network_even_with_fetch_allowed (test_ingestion.CacheTests) ... ok
+test_cache_scope_mismatch_rejected (test_ingestion.CacheTests) ... ok
+test_corrupt_cache_fails_without_network_repair (test_ingestion.CacheTests) ... ok
+test_empty_cache_defaults_to_no_network (test_ingestion.CacheTests) ... ok
+test_away_win (test_ingestion.NormalizationTests) ... ok
+test_bad_date_not_silently_coerced (test_ingestion.NormalizationTests) ... ok
+test_bad_score_type (test_ingestion.NormalizationTests) ... ok
+test_cup_championship (test_ingestion.NormalizationTests) ... ok
+test_different_dates (test_ingestion.NormalizationTests) ... ok
+test_duplicate_detection (test_ingestion.NormalizationTests) ... ok
+test_home_and_away (test_ingestion.NormalizationTests) ... ok
+test_invalid_game_id_is_not_padded (test_ingestion.NormalizationTests) ... ok
+test_malformed_matchups (test_ingestion.NormalizationTests) ... ok
+test_malformed_response_schema (test_ingestion.NormalizationTests) ... ok
+test_missing_opponent_row (test_ingestion.NormalizationTests) ... ok
+test_missing_result (test_ingestion.NormalizationTests) ... ok
+test_noncomplementary_wl (test_ingestion.NormalizationTests) ... ok
+test_optional_missing_fields_remain_null_and_flagged (test_ingestion.NormalizationTests) ... ok
+test_optional_plus_minus_is_not_authoritative (test_ingestion.NormalizationTests) ... ok
+test_pairing_independent_of_row_order (test_ingestion.NormalizationTests) ... ok
+test_reciprocal_team_validation (test_ingestion.NormalizationTests) ... ok
+test_same_team_id (test_ingestion.NormalizationTests) ... ok
+test_score_wl_disagree (test_ingestion.NormalizationTests) ... ok
+test_scoring_components (test_ingestion.NormalizationTests) ... ok
+test_tie_is_not_a_completed_binary_outcome (test_ingestion.NormalizationTests) ... ok
+test_two_home_rows (test_ingestion.NormalizationTests) ... ok
+test_wrong_season_and_postseason (test_ingestion.NormalizationTests) ... ok
+
+----------------------------------------------------------------------
+Ran 27 tests in 0.376s
+
+OK

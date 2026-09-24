@@ -1,0 +1,76 @@
+{
+  "known_anomaly_identity_rows": [
+    {
+      "GAME_DATE": "2025-11-01",
+      "GAME_ID": "0022500147",
+      "MATCHUP": "DAL @ DET",
+      "TEAM_ABBREVIATION": "DAL",
+      "TEAM_ID": 1610612742
+    },
+    {
+      "GAME_DATE": "2025-11-01",
+      "GAME_ID": "0022500147",
+      "MATCHUP": "DET @ DAL",
+      "TEAM_ABBREVIATION": "DET",
+      "TEAM_ID": 1610612765
+    },
+    {
+      "GAME_DATE": "2025-12-13",
+      "GAME_ID": "0022501229",
+      "MATCHUP": "NYK @ ORL",
+      "TEAM_ABBREVIATION": "NYK",
+      "TEAM_ID": 1610612752
+    },
+    {
+      "GAME_DATE": "2025-12-13",
+      "GAME_ID": "0022501229",
+      "MATCHUP": "ORL @ NYK",
+      "TEAM_ABBREVIATION": "ORL",
+      "TEAM_ID": 1610612753
+    },
+    {
+      "GAME_DATE": "2025-12-13",
+      "GAME_ID": "0022501230",
+      "MATCHUP": "SAS @ OKC",
+      "TEAM_ABBREVIATION": "SAS",
+      "TEAM_ID": 1610612759
+    },
+    {
+      "GAME_DATE": "2025-12-13",
+      "GAME_ID": "0022501230",
+      "MATCHUP": "OKC @ SAS",
+      "TEAM_ABBREVIATION": "OKC",
+      "TEAM_ID": 1610612760
+    },
+    {
+      "GAME_DATE": "2026-01-15",
+      "GAME_ID": "0022500578",
+      "MATCHUP": "ORL @ MEM",
+      "TEAM_ABBREVIATION": "ORL",
+      "TEAM_ID": 1610612753
+    },
+    {
+      "GAME_DATE": "2026-01-15",
+      "GAME_ID": "0022500578",
+      "MATCHUP": "MEM @ ORL",
+      "TEAM_ABBREVIATION": "MEM",
+      "TEAM_ID": 1610612763
+    },
+    {
+      "GAME_DATE": "2026-01-18",
+      "GAME_ID": "0022500602",
+      "MATCHUP": "ORL @ MEM",
+      "TEAM_ABBREVIATION": "ORL",
+      "TEAM_ID": 1610612753
+    },
+    {
+      "GAME_DATE": "2026-01-18",
+      "GAME_ID": "0022500602",
+      "MATCHUP": "MEM @ ORL",
+      "TEAM_ABBREVIATION": "MEM",
+      "TEAM_ID": 1610612763
+    }
+  ],
+  "raw_sha256": "c82453a22995e14a8b0b4a2c49a566e8463dc4ce30561f66111067652f901651",
+  "rows": 2460
+}

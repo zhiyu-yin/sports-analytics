@@ -1,0 +1,25 @@
+{
+  "complete": [
+    "313-file preservation checkpoint",
+    "TLS root-cause reproduction without network",
+    "Isolated exact-endpoint single-use capability",
+    "169 passing tests including real local HTTPS/TLS",
+    "Exact 2023-24 and 2024-25 seven-model prediction and metric reproduction with zero fits",
+    "Part A exit gate PASS",
+    "New recovery ledger linked to original stopped attempt",
+    "One successful HTTP 200 acquisition with raw provenance",
+    "Structural validation and five score-free review cases"
+  ],
+  "final_outcomes_decoded": true,
+  "final_performance_exposed": false,
+  "no_additional_request_made": true,
+  "not_started": [
+    "Final-season pregame feature generation",
+    "Final-season Elo replay or saved-model predictions",
+    "Final metrics, primary deltas, bootstrap and calibration",
+    "Completed-evaluation replay"
+  ],
+  "stopped": [
+    "Full season validation: five both-away MATCHUP pairs need authoritative designation review"
+  ]
+}

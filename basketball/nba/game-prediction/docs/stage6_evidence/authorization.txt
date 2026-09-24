@@ -1,0 +1,935 @@
+We are continuing the project at:
+
+/Users/zhiyuyin/Documents/last time job hunting material/proj/sports-analytics/
+
+Active subproject:
+
+basketball/nba/game-prediction/
+
+Before doing anything, read:
+
+docs/final_holdout_protocol_2025_26.md
+docs/stage5_preholdout_evaluation.md
+docs/stage4a_sealed_evaluation_hardening.md
+
+Also inspect:
+
+docs/stage5a_evidence/final_holdout_freeze.json
+docs/stage5a_evidence/final_opening_ledger.schema.json
+docs/stage5a_evidence/uncertainty_protocol.json
+docs/stage4a_evidence/candidate_freeze.json
+
+# Stage 6 — ONE-TIME 2025-26 FINAL HOLDOUT EVALUATION
+
+## EXPLICIT AUTHORIZATION
+
+This message explicitly authorizes the ONE-TIME opening of the previously
+untouched 2025-26 NBA regular-season final holdout.
+
+This authorization applies ONLY to:
+
+2025-26 NBA Regular Season
+
+and ONLY under the already frozen Stage 5A protocol.
+
+This is final confirmatory evaluation.
+
+It is NOT authorization to:
+
+- change any model
+- tune any hyperparameter
+- change any feature
+- change any preprocessing
+- retrain logistic/HGB on 2023-24 or 2024-25
+- recalibrate
+- alter Elo parameters
+- alter the training window
+- add a new model family
+- change metric definitions
+- change the bootstrap method
+- cherry-pick games
+- exclude unfavorable cases
+- commit or push
+
+Once final-holdout access occurs, the season can never again be described as
+untouched.
+
+--------------------------------------------------
+1. PRIMARY SCIENTIFIC QUESTION
+--------------------------------------------------
+
+The single confirmatory question is:
+
+Does the frozen Stage 3 Model C:
+
+features_plus_elo_logistic
+
+retain better probability quality than frozen raw Elo on the final untouched
+2025-26 NBA regular season?
+
+Directional replication requires BOTH:
+
+delta_log_loss < 0
+
+and
+
+delta_brier < 0
+
+where:
+
+delta =
+Model C metric - Raw Elo metric
+
+A mixed direction is a mixed result.
+
+Secondary metrics cannot override the primary result.
+
+--------------------------------------------------
+2. FROZEN PRIMARY MODEL
+--------------------------------------------------
+
+Primary confirmatory candidate:
+
+features_plus_elo_logistic
+
+Use the exact frozen recipe from Stage 5A.
+
+Inputs:
+
+exactly 32 frozen Stage 1B basketball pregame features
++
+frozen elo_logit
+
+Logistic:
+
+C = 0.01
+penalty = L2
+solver = lbfgs
+max_iter = 5000
+tol = 1e-4
+random_state = 0
+
+Preprocessing:
+
+training-fit median imputation
++
+missingness indicators
++
+StandardScaler
+
+No recipe change is allowed.
+
+--------------------------------------------------
+3. FROZEN PRIMARY BENCHMARK
+--------------------------------------------------
+
+Benchmark:
+
+raw_elo
+
+Exact frozen Elo:
+
+initial rating = 1500
+scale = 400
+K = 20
+H = 50
+alpha = 0.50
+
+Prediction must occur before each game's result update.
+
+No margin-of-victory adjustment.
+
+No neutral-site adjustment.
+
+No parameter change.
+
+--------------------------------------------------
+4. FROZEN TRAINING POLICY
+--------------------------------------------------
+
+Logistic/HGB statistical estimators remain trained ONLY on:
+
+2015-16 through 2022-23
+
+Do NOT refit statistical models using:
+
+2023-24
+2024-25
+2025-26
+
+Use the previously frozen/saved estimators after exact integrity checks.
+
+Elo is different because it is an online state model.
+
+Its PARAMETERS remain frozen, but its state may legitimately evolve through
+completed games:
+
+training history
+→ 2023-24
+→ 2024-25
+→ 2025-26
+
+For every 2025-26 game:
+
+predict first
+then update rating from that completed game's binary result.
+
+--------------------------------------------------
+5. SEVEN-CANDIDATE TRANSPARENCY SET
+--------------------------------------------------
+
+Report exactly the frozen seven candidates:
+
+1. constant_home_prior
+2. raw_elo
+3. basketball_features_logistic
+4. elo_logistic
+5. features_plus_elo_logistic
+6. basketball_features_hgb
+7. features_plus_elo_hgb
+
+However:
+
+PRIMARY CONFIRMATORY MODEL:
+features_plus_elo_logistic
+
+PRIMARY BENCHMARK:
+raw_elo
+
+The remaining candidates are secondary descriptive comparisons.
+
+Do not select a different primary model after seeing results.
+
+--------------------------------------------------
+6. PRE-ACCESS FINAL FREEZE VERIFICATION
+--------------------------------------------------
+
+Before ANY physical 2025-26 access:
+
+verify:
+
+- final_holdout_protocol hash
+- final_holdout_freeze hash
+- candidate freeze hash
+- Model C recipe hash
+- raw Elo recipe hash
+- seven candidate recipes
+- feature allowlists
+- metric implementation hashes
+- calibration implementation
+- bootstrap protocol
+- saved estimator hashes
+- dependency versions
+- code checkpoint
+- Stage 2–5 protected artifact hashes
+
+Also verify frozen historical results remain unchanged.
+
+If any required artifact fails:
+
+STOP BEFORE FINAL-SEASON ACCESS.
+
+Create:
+
+docs/stage6_evidence/preopening_verification.json
+
+--------------------------------------------------
+7. CREATE FINAL OPENING LEDGER BEFORE ACCESS
+--------------------------------------------------
+
+Before even reading the 2025-26 schedule or identity metadata, create:
+
+docs/stage6_evidence/final_opening_ledger.json
+
+It must record:
+
+- explicit Stage 6 authorization
+- authorization text/hash
+- authorized season = 2025-26
+- protocol hash
+- final freeze hash
+- candidate freeze hash
+- confirmatory Model C hash
+- benchmark Elo hash
+- code/dependency hashes
+- exact primary/secondary metrics
+- uncertainty specification
+- training policy
+- intended dataset scope
+- timestamp immediately before first physical 2025-26 access
+
+The ledger MUST exist durably before the first access call.
+
+Then separately record:
+
+first physical 2025-26 access timestamp
+
+and later:
+
+first 2025-26 outcome decode timestamp
+
+and:
+
+aggregate-results persistence timestamp
+
+No silent restart after opening.
+
+--------------------------------------------------
+8. ACQUIRE / VALIDATE 2025-26 REGULAR SEASON
+--------------------------------------------------
+
+This is the first authorized access to 2025-26.
+
+Retrieve the 2025-26 NBA Regular Season using the same maintained and
+provenance-preserving data approach as earlier stages.
+
+Do not assume the number of games before retrieval.
+
+Determine from actual validated data:
+
+- team-game rows
+- unique games
+- teams
+- first game date
+- last game date
+- games per team
+- missingness
+- home/away structure
+- anomalies
+- neutral-site / special schedule issues where available
+
+Use the established structural validation:
+
+- unique (game_id, team_id)
+- two teams per game
+- exactly one designated home / away
+- reciprocal opponent identities
+- same game date
+- complementary W/L
+- valid scores
+- scoring arithmetic
+- rebound consistency
+- explicit anomaly handling
+
+Do NOT score models until the complete final-season dataset passes integrity
+validation.
+
+If data are incomplete or structurally unresolved:
+
+STOP.
+
+Do not evaluate a convenient subset.
+
+--------------------------------------------------
+9. FINAL-SEASON FEATURE GENERATION
+--------------------------------------------------
+
+Generate the exact frozen Stage 1B V1 pregame features.
+
+Do not add:
+
+- neutral_site
+- new rest definitions
+- player availability
+- injuries
+- lineup information
+- travel
+- betting odds
+- new rolling windows
+
+Use exactly the existing definitions.
+
+Season history resets as frozen.
+
+No final outcome information may enter its own pregame feature vector.
+
+Run the established leakage/invariance checks.
+
+--------------------------------------------------
+10. PRE-OUTCOME PREDICTION GENERATION
+--------------------------------------------------
+
+Where technically possible, construct all predictor inputs and frozen candidate
+state before decoding final targets.
+
+Then decode only the required target:
+
+home_win
+
+Do not read final scores for model evaluation unless structurally required by the
+existing canonical ingestion process.
+
+No individual-game error inspection.
+
+Generate the full-season prediction matrix first.
+
+--------------------------------------------------
+11. PRIMARY METRICS
+--------------------------------------------------
+
+For each frozen candidate report:
+
+n_games
+log_loss
+brier_score
+accuracy
+roc_auc
+
+Use the exact frozen implementations.
+
+PRIMARY:
+
+log loss
+Brier score
+
+SECONDARY:
+
+accuracy
+ROC-AUC
+calibration
+
+No metric substitution after opening.
+
+--------------------------------------------------
+12. PRIMARY CONFIRMATORY COMPARISON
+--------------------------------------------------
+
+Calculate:
+
+features_plus_elo_logistic
+minus
+raw_elo
+
+Report:
+
+delta_log_loss
+delta_brier
+delta_accuracy
+delta_roc_auc
+
+Interpretation:
+
+delta_log_loss < 0
+→ Model C better
+
+delta_brier < 0
+→ Model C better
+
+FINAL DIRECTIONAL REPLICATION:
+
+SUCCESSFUL DIRECTIONAL REPLICATION
+only if BOTH are negative.
+
+MIXED
+if one improves and one worsens.
+
+NOT REPLICATED
+if both are nonnegative.
+
+Do not impose a post-hoc magnitude threshold.
+
+Do not turn this into a statistical-significance claim.
+
+--------------------------------------------------
+13. CROSS-SEASON CONFIRMATION TABLE
+--------------------------------------------------
+
+Create:
+
+docs/stage6_evidence/cross_season_confirmation.csv
+
+Rows:
+
+2023-24 development validation
+2024-25 pre-holdout
+2025-26 final holdout
+
+Columns:
+
+raw_elo_log_loss
+model_c_log_loss
+delta_log_loss
+
+raw_elo_brier
+model_c_brier
+delta_brier
+
+raw_elo_accuracy
+model_c_accuracy
+
+raw_elo_auc
+model_c_auc
+
+Keep the roles of all three seasons explicit.
+
+Do NOT pool them and call the result one untouched test.
+
+--------------------------------------------------
+14. PREDECLARED UNCERTAINTY ANALYSIS
+--------------------------------------------------
+
+Use the frozen Stage 5A procedure exactly.
+
+For every final-holdout game calculate paired differences:
+
+logloss_ModelC - logloss_Elo
+
+brierloss_ModelC - brierloss_Elo
+
+Report for each:
+
+- mean
+- median
+- interquartile range
+
+Then perform the predeclared calendar-date cluster bootstrap.
+
+Exactly:
+
+10,000 bootstrap replicates
+
+random seed = 0
+
+numpy.random.default_rng(0)
+
+Cluster = calendar game date.
+
+For each replicate:
+
+sample G unique dates with replacement
+
+retain all games from each selected date cluster
+
+use the SAME sampled date indices for both log-loss and Brier differences
+
+compute game-weighted mean difference
+
+Report:
+
+bootstrap mean
+descriptive standard error
+2.5th percentile
+97.5th percentile
+
+using:
+
+numpy.quantile(method="linear")
+
+Label clearly:
+
+DATE-CLUSTERED DESCRIPTIVE BOOTSTRAP INTERVAL
+
+Do NOT call it definitive statistical significance.
+
+No p-values.
+
+Do not change method after seeing results.
+
+--------------------------------------------------
+15. CALIBRATION
+--------------------------------------------------
+
+Use the existing fixed ten bins:
+
+[0,.1)
+...
+[.9,1]
+
+Primary calibration comparison:
+
+raw Elo
+Model C
+
+Report:
+
+fixed-bin ECE
+mean predicted probability
+observed designated-home win rate
+bin counts
+populated bins
+sparse bins
+
+Also report the other five frozen models descriptively.
+
+Do not recalibrate.
+
+--------------------------------------------------
+16. FINAL PREDICTION ARTIFACT
+--------------------------------------------------
+
+Create:
+
+data/processed/stage6_predictions_2025_26.parquet
+
+Include:
+
+season
+game_id
+game_date
+home_team_id
+away_team_id
+home_win
+
+constant_probability
+raw_elo_probability
+basketball_features_logistic_probability
+elo_logistic_probability
+features_plus_elo_logistic_probability
+basketball_features_hgb_probability
+features_plus_elo_hgb_probability
+
+No final game score.
+
+This is an evaluation artifact containing y.
+
+--------------------------------------------------
+17. FINAL METRICS ARTIFACT
+--------------------------------------------------
+
+Create:
+
+docs/stage6_evidence/final_holdout_metrics.csv
+
+All seven candidates.
+
+Columns:
+
+split
+n_games
+log_loss
+brier_score
+accuracy
+roc_auc
+
+Split:
+
+2025-26 final holdout
+
+--------------------------------------------------
+18. PRIMARY COMPARISON ARTIFACT
+--------------------------------------------------
+
+Create:
+
+docs/stage6_evidence/primary_comparison.csv
+
+At minimum:
+
+features_plus_elo_logistic vs raw_elo
+
+Include:
+
+delta_log_loss
+delta_brier
+delta_accuracy
+delta_roc_auc
+directional_replication_status
+
+Secondary comparisons may include the other frozen candidates but must not
+replace the primary comparison.
+
+--------------------------------------------------
+19. UNCERTAINTY ARTIFACTS
+--------------------------------------------------
+
+Create:
+
+docs/stage6_evidence/paired_loss_summary.csv
+
+and:
+
+docs/stage6_evidence/date_cluster_bootstrap.csv
+
+The bootstrap artifact should contain one row per primary metric with:
+
+metric
+n_games
+n_unique_dates
+observed_mean_difference
+median_difference
+q25_difference
+q75_difference
+bootstrap_replicates
+bootstrap_seed
+bootstrap_mean
+bootstrap_standard_error
+ci_lower_2_5
+ci_upper_97_5
+
+Do not dump all 10,000 replicate values unless useful for reproducibility;
+a compressed/internal artifact is acceptable.
+
+--------------------------------------------------
+20. ORDER OF OPERATIONS
+--------------------------------------------------
+
+Strict order:
+
+1. verify final freeze
+2. create opening ledger
+3. first final-season access
+4. acquire/validate complete season
+5. generate frozen pregame features
+6. reconstruct/load frozen candidate state
+7. generate full-season predictions
+8. first outcome decode as required by evaluation
+9. persist aggregate predictions/metrics
+10. persist primary comparison
+11. persist uncertainty results
+12. persist calibration
+13. only AFTER aggregate results are durable may optional individual-game
+    descriptive analysis occur
+
+Do not inspect individual prediction errors before step 9.
+
+--------------------------------------------------
+21. NO POST-OPENING CHANGES
+--------------------------------------------------
+
+After final-season access:
+
+NO:
+
+- tuning
+- refit
+- feature changes
+- neutral-site feature
+- extra model
+- different C
+- different Elo
+- expanded HGB grid
+- calibration fitting
+- new training period
+- changed bootstrap
+- changed metric
+- dropped games
+- favorable subgroup selection
+
+If an implementation bug is discovered after aggregate performance is visible:
+
+STOP.
+
+Preserve evidence.
+
+Document the bug.
+
+Do not silently rerun and call it pristine final-holdout evidence.
+
+--------------------------------------------------
+22. TESTS / PREFLIGHT
+--------------------------------------------------
+
+Before first actual final-season access, run synthetic preflight tests proving:
+
+A. authorization required
+
+B. ledger creation precedes access
+
+C. only 2025-26 regular season is authorized
+
+D. candidate set exact
+
+E. Model C recipe exact
+
+F. Elo recipe exact
+
+G. saved logistic/HGB estimator hashes exact
+
+H. no fit calls permitted
+
+I. no model selection code permitted
+
+J. metric definitions exact
+
+K. bootstrap implementation matches frozen synthetic reference
+
+L. date clustering preserves whole dates
+
+M. same bootstrap draw used for both primary metrics
+
+N. calibration bins exact
+
+O. individual-game inspection disabled until aggregate persistence
+
+P. duplicate opening rejected
+
+Q. replay cannot be represented as independent test
+
+--------------------------------------------------
+23. REPRODUCIBILITY
+--------------------------------------------------
+
+After the first final evaluation is complete, one deterministic replay may be used
+to verify reproducibility.
+
+The replay is NOT independent confirmation.
+
+It must:
+
+- use already-opened cached final data
+- use saved frozen estimators
+- make zero fit calls
+- reproduce identical predictions
+- reproduce identical metrics
+- reproduce identical bootstrap results
+- reproduce identical calibration
+
+Record this distinction.
+
+--------------------------------------------------
+24. FINAL DOCUMENT
+--------------------------------------------------
+
+Create:
+
+docs/stage6_final_holdout_evaluation.md
+
+Include:
+
+1. Scientific hypothesis
+2. Explicit final authorization
+3. Frozen confirmatory model
+4. Frozen benchmark
+5. Frozen training policy
+6. Pre-opening verification
+7. Opening ledger
+8. Final-season acquisition and validation
+9. Final prediction protocol
+10. All seven candidate metrics
+11. PRIMARY Model C vs Elo result
+12. Three-season directional replication
+13. Paired loss differences
+14. Date-clustered bootstrap intervals
+15. Calibration
+16. Tests / preflight
+17. Reproducibility
+18. Interpretation
+19. Limitations
+20. Final status of confirmatory hypothesis
+21. What can no longer be claimed/changed
+22. Recommended post-holdout analysis
+
+--------------------------------------------------
+25. REQUIRED EVIDENCE
+--------------------------------------------------
+
+Create:
+
+docs/stage6_evidence/
+
+At minimum:
+
+authorization.txt
+preopening_verification.json
+final_opening_ledger.json
+first_access.json
+first_outcome_decode.json
+
+final_holdout_metrics.csv
+primary_comparison.csv
+cross_season_confirmation.csv
+
+paired_loss_summary.csv
+date_cluster_bootstrap.csv
+
+calibration_raw_elo.csv
+calibration_model_c.csv
+calibration_summary.csv
+
+test_run.txt
+test_summary.json
+
+build_manifest.json
+replay_verification.json
+
+Do not overwrite any prior-stage evidence.
+
+--------------------------------------------------
+26. STAGE 6 EXECUTION SUCCESS CRITERIA
+--------------------------------------------------
+
+Stage 6 execution passes if:
+
+1. final freeze verifies before access
+
+2. ledger exists before physical access
+
+3. full 2025-26 regular season is validated
+
+4. no candidate recipe changes
+
+5. no fit/tuning after authorization
+
+6. all seven candidates produce one probability per accepted game
+
+7. primary comparison is reported exactly as frozen
+
+8. uncertainty method is executed exactly as frozen
+
+9. calibration uses frozen bins
+
+10. aggregate results persist before error analysis
+
+11. prior scientific artifacts remain unchanged
+
+12. deterministic replay reproduces evaluation
+
+Scientific confirmation is separate from execution success.
+
+Model C may win or lose and Stage 6 can still be a valid final experiment.
+
+--------------------------------------------------
+27. FINAL RESPONSE TO ME
+--------------------------------------------------
+
+When finished report:
+
+1. Did Stage 6 execute cleanly?
+
+2. How many 2025-26 regular-season games were validated?
+
+3. Metrics for all seven frozen candidates.
+
+4. PRIMARY:
+   Model C vs raw Elo:
+   delta log loss
+   delta Brier
+
+5. Final directional replication status:
+   replicated / mixed / not replicated
+
+6. Date-cluster bootstrap intervals for:
+   delta log loss
+   delta Brier
+
+7. Did the intervals include zero?
+   State descriptively, not as a definitive significance claim.
+
+8. Which frozen model had lowest final-holdout log loss?
+   Descriptive only.
+
+9. Which had lowest Brier?
+   Descriptive only.
+
+10. Model C vs Elo calibration summary.
+
+11. Cross-season table for:
+    2023-24
+    2024-25
+    2025-26
+
+12. Number of tests passing.
+
+13. Confirm:
+    no tuning?
+    no refit on 2023-24/2024-25/2025-26?
+    no model changes?
+
+14. Exact path:
+    docs/stage6_final_holdout_evaluation.md
+
+15. Recommended post-holdout analysis.
+
+Do not commit.
+Do not push.
+Do not change models after seeing final results.

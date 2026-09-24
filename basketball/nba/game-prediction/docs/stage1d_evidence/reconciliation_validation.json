@@ -1,0 +1,287 @@
+{
+  "accepted_games": 1230,
+  "admitted": true,
+  "applied_game_ids": [
+    "0022400147",
+    "0022400621",
+    "0022400633",
+    "0022401229",
+    "0022401230"
+  ],
+  "full_scope_audit": {
+    "anomaly_reasons": {},
+    "bubble_team_counts": {},
+    "completeness_issues": [],
+    "configuration": {
+      "bubble_start": null,
+      "cup_final": "2024-12-17",
+      "end": "2025-04-13",
+      "games_per_team": 82,
+      "season": "2024-25",
+      "start": "2024-10-22",
+      "suspension_start": null
+    },
+    "cup_championship_date_rows": 0,
+    "games_per_team": {
+      "1610612737": 82,
+      "1610612738": 82,
+      "1610612739": 82,
+      "1610612740": 82,
+      "1610612741": 82,
+      "1610612742": 82,
+      "1610612743": 82,
+      "1610612744": 82,
+      "1610612745": 82,
+      "1610612746": 82,
+      "1610612747": 82,
+      "1610612748": 82,
+      "1610612749": 82,
+      "1610612750": 82,
+      "1610612751": 82,
+      "1610612752": 82,
+      "1610612753": 82,
+      "1610612754": 82,
+      "1610612755": 82,
+      "1610612756": 82,
+      "1610612757": 82,
+      "1610612758": 82,
+      "1610612759": 82,
+      "1610612760": 82,
+      "1610612761": 82,
+      "1610612762": 82,
+      "1610612763": 82,
+      "1610612764": 82,
+      "1610612765": 82,
+      "1610612766": 82
+    },
+    "games_per_team_distribution": {
+      "82": 30
+    },
+    "raw_column_null_counts": {
+      "AST": 0,
+      "BLK": 0,
+      "DREB": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "FG3_PCT": 0,
+      "FGA": 0,
+      "FGM": 0,
+      "FG_PCT": 0,
+      "FTA": 0,
+      "FTM": 0,
+      "FT_PCT": 0,
+      "GAME_DATE": 0,
+      "GAME_ID": 0,
+      "MATCHUP": 0,
+      "MIN": 0,
+      "OREB": 0,
+      "PF": 0,
+      "PLUS_MINUS": 0,
+      "PTS": 0,
+      "REB": 0,
+      "SEASON_ID": 0,
+      "STL": 0,
+      "TEAM_ABBREVIATION": 0,
+      "TEAM_ID": 0,
+      "TEAM_NAME": 0,
+      "TOV": 0,
+      "VIDEO_AVAILABLE": 0,
+      "WL": 0
+    },
+    "season": "2024-25",
+    "source_game_prefixes": {
+      "00224": 2460
+    },
+    "source_season_ids": {
+      "22024": 2460
+    },
+    "within_season_team_identity_map": [
+      {
+        "team_abbreviation": "ATL",
+        "team_id": 1610612737,
+        "team_name": "Atlanta Hawks"
+      },
+      {
+        "team_abbreviation": "BOS",
+        "team_id": 1610612738,
+        "team_name": "Boston Celtics"
+      },
+      {
+        "team_abbreviation": "CLE",
+        "team_id": 1610612739,
+        "team_name": "Cleveland Cavaliers"
+      },
+      {
+        "team_abbreviation": "NOP",
+        "team_id": 1610612740,
+        "team_name": "New Orleans Pelicans"
+      },
+      {
+        "team_abbreviation": "CHI",
+        "team_id": 1610612741,
+        "team_name": "Chicago Bulls"
+      },
+      {
+        "team_abbreviation": "DAL",
+        "team_id": 1610612742,
+        "team_name": "Dallas Mavericks"
+      },
+      {
+        "team_abbreviation": "DEN",
+        "team_id": 1610612743,
+        "team_name": "Denver Nuggets"
+      },
+      {
+        "team_abbreviation": "GSW",
+        "team_id": 1610612744,
+        "team_name": "Golden State Warriors"
+      },
+      {
+        "team_abbreviation": "HOU",
+        "team_id": 1610612745,
+        "team_name": "Houston Rockets"
+      },
+      {
+        "team_abbreviation": "LAC",
+        "team_id": 1610612746,
+        "team_name": "LA Clippers"
+      },
+      {
+        "team_abbreviation": "LAL",
+        "team_id": 1610612747,
+        "team_name": "Los Angeles Lakers"
+      },
+      {
+        "team_abbreviation": "MIA",
+        "team_id": 1610612748,
+        "team_name": "Miami Heat"
+      },
+      {
+        "team_abbreviation": "MIL",
+        "team_id": 1610612749,
+        "team_name": "Milwaukee Bucks"
+      },
+      {
+        "team_abbreviation": "MIN",
+        "team_id": 1610612750,
+        "team_name": "Minnesota Timberwolves"
+      },
+      {
+        "team_abbreviation": "BKN",
+        "team_id": 1610612751,
+        "team_name": "Brooklyn Nets"
+      },
+      {
+        "team_abbreviation": "NYK",
+        "team_id": 1610612752,
+        "team_name": "New York Knicks"
+      },
+      {
+        "team_abbreviation": "ORL",
+        "team_id": 1610612753,
+        "team_name": "Orlando Magic"
+      },
+      {
+        "team_abbreviation": "IND",
+        "team_id": 1610612754,
+        "team_name": "Indiana Pacers"
+      },
+      {
+        "team_abbreviation": "PHI",
+        "team_id": 1610612755,
+        "team_name": "Philadelphia 76ers"
+      },
+      {
+        "team_abbreviation": "PHX",
+        "team_id": 1610612756,
+        "team_name": "Phoenix Suns"
+      },
+      {
+        "team_abbreviation": "POR",
+        "team_id": 1610612757,
+        "team_name": "Portland Trail Blazers"
+      },
+      {
+        "team_abbreviation": "SAC",
+        "team_id": 1610612758,
+        "team_name": "Sacramento Kings"
+      },
+      {
+        "team_abbreviation": "SAS",
+        "team_id": 1610612759,
+        "team_name": "San Antonio Spurs"
+      },
+      {
+        "team_abbreviation": "OKC",
+        "team_id": 1610612760,
+        "team_name": "Oklahoma City Thunder"
+      },
+      {
+        "team_abbreviation": "TOR",
+        "team_id": 1610612761,
+        "team_name": "Toronto Raptors"
+      },
+      {
+        "team_abbreviation": "UTA",
+        "team_id": 1610612762,
+        "team_name": "Utah Jazz"
+      },
+      {
+        "team_abbreviation": "MEM",
+        "team_id": 1610612763,
+        "team_name": "Memphis Grizzlies"
+      },
+      {
+        "team_abbreviation": "WAS",
+        "team_id": 1610612764,
+        "team_name": "Washington Wizards"
+      },
+      {
+        "team_abbreviation": "DET",
+        "team_id": 1610612765,
+        "team_name": "Detroit Pistons"
+      },
+      {
+        "team_abbreviation": "CHA",
+        "team_id": 1610612766,
+        "team_name": "Charlotte Hornets"
+      }
+    ]
+  },
+  "games_per_team": {
+    "1610612737": 82,
+    "1610612738": 82,
+    "1610612739": 82,
+    "1610612740": 82,
+    "1610612741": 82,
+    "1610612742": 82,
+    "1610612743": 82,
+    "1610612744": 82,
+    "1610612745": 82,
+    "1610612746": 82,
+    "1610612747": 82,
+    "1610612748": 82,
+    "1610612749": 82,
+    "1610612750": 82,
+    "1610612751": 82,
+    "1610612752": 82,
+    "1610612753": 82,
+    "1610612754": 82,
+    "1610612755": 82,
+    "1610612756": 82,
+    "1610612757": 82,
+    "1610612758": 82,
+    "1610612759": 82,
+    "1610612760": 82,
+    "1610612761": 82,
+    "1610612762": 82,
+    "1610612763": 82,
+    "1610612764": 82,
+    "1610612765": 82,
+    "1610612766": 82
+  },
+  "rejected_games": 0,
+  "source_scores_wl_and_matchups_preserved": true,
+  "team_rows": 2460,
+  "warnings": 0
+}

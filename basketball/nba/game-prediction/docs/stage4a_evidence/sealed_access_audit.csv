@@ -1,0 +1,21 @@
+file,test_or_function,why_access_occurs,outcomes_required,resolution
+tests/test_reconciliation.py,setUpClass,"retrieve real 2024-25 raw scores/WL; normalize, pair and build features",No; synthetic history suffices,Replace with synthetic fake-team history
+tests/test_reconciliation.py,test_H_no_earlier_season_regression,Unprojected combined outcome table read before removing 2024-25,No sealed labels required,Hash protected snapshots; project/filter permitted rows only if needed
+tests/test_reconciliation.py,"test_A..G,I,J and remaining tests",Depend on real-label class fixture; context read is broad,No,"Synthetic mapping, scores, registry and context assertions"
+tests/test_multiseason.py,test_real_quarantine_has_no_features,Whole historical feature snapshot; no labels but broad read,No,Project season metadata and inspect schema separately
+tests/test_multiseason.py,test_F_exact_2023_regression,Real 2023-24 ingestion/feature regression; unsealed,Only permitted historical structural data,Retain; network and file guard active
+src/nba_game_prediction/ingest.py,retrieve/read_cache/parameters_for,Scope admits 2024-25 before reading raw cache,Not in current development,Require open seasons before cache lookup
+src/nba_game_prediction/multiseason.py,acquire/build_season_games/build_multi,Historical scope includes sealed source and writes outputs,Not in current development,Reject entire requested range before any read/write
+src/nba_game_prediction/stage1d.py,build,Loops through real sealed season; broad outcome regressions,Historical only,Disable current-development rebuild before data access; preserve historical evidence
+scripts/build_multi_season_games.py,main,Default end season 2024-25; delegates unguarded history build,No,Guard before underlying build
+scripts/build_reconciled_multiseason.py,main,Calls historical Stage 1D build,Historical only,Fail closed under current development policy
+src/nba_game_prediction/feature_io.py,load_inputs/verified_bytes,"Known 2023-24 files decoded through BytesIO, losing source identity",2023-24 structural inputs allowed,Decode verified paths directly; block untrusted anonymous buffers
+src/nba_game_prediction/evaluation.py,verify_inputs/load_games,Metadata projections safe; home_win filtered to requested open seasons,"Yes for later authorized modeling, not executed here",Add central reader guard without changing frozen model logic
+src/nba_game_prediction/modeling_data.py,load_modeling_data,Explicit feature projection and open-season filtered target read,No sealed access currently,Central reader verifies filters/projections before decoding
+src/nba_game_prediction/reconciliation.py,load_approved/apply_reconciliation,Mapping/context evidence is outcome-free; apply uses passed in-memory scores,Real scores unnecessary for logic,Keep logic and historical evidence; synthetic input tests
+tests/test_elo.py;test_logistic.py;test_boosting.py;test_modeling_data.py;test_metrics.py,model regression and synthetic model tests,Some fit/replay/evaluate; baseline tests recalculate 2023 performance,Not allowed during infrastructure-only Stage 4A,Archive byte-identical modules; replace normal model regression with hash/recipe contracts
+scripts/run_stage2_baselines.py;run_stage3_logistic.py;run_stage4_boosting.py,main/build,Fit/tune/evaluate models,Not authorized in Stage 4A,Guard execution; do not run
+scripts/build_2023_24_games.py;build_2023_24_features.py;audit_2023_24_features.py,main,Unsealed structural processing only,No sealed labels required,Existing permitted-season scope; global access/network guard
+src/nba_game_prediction/multiseason.py;feature_io.py,digest,Whole-file integrity hashing including sealed containers,Only opaque checksum needed,"Dedicated checksum-only boundary returns digest, never bytes"
+scripts/build_season_games.py,main,Single-season entry admits historical 2024-25 through get_scope,No sealed label required,Explicit open-season guard before build
+scripts/check_nba_access.py,main,Legacy network probe does not import project policy,No Stage 4A network permitted,Install policy in entry point; do not run live probe

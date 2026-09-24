@@ -1,0 +1,29 @@
+{
+  "all_outputs_equal": true,
+  "full_socket_blocked_runs": 2,
+  "legacy_test_exception": "Legacy structural tests reread 2024-25 cached outcomes; no Stage 4 fit/predictions/performance used that season.",
+  "manifest_equal": true,
+  "output_sha256": {
+    "data/processed/stage4_predictions_2023_24.parquet": "b5a758e34f7226d94df38e7d86990ccfa44ac09665e4b2337130b0133219dbf6",
+    "docs/stage4_evidence/baseline_regression.json": "4fd2c166556cfd544eaa838a4a5ba6c7a0614616a92daef18ce72417d4427ebb",
+    "docs/stage4_evidence/calibration_figure_data.csv": "e81ddc8868039a9e95e9d8e5607ab86b4631310444a20a827d166df4d383950b",
+    "docs/stage4_evidence/calibration_hgb_features.csv": "4e8b1ea79e283fad51b5f77c559cdf35a14df0987bea28cbccc4a44ef28dd2b3",
+    "docs/stage4_evidence/calibration_hgb_features_plus_elo.csv": "cb9a0644526a73895b118c32ba9f37ebd2aebc23eb4649794f78f077386f4c26",
+    "docs/stage4_evidence/calibration_raw_elo.csv": "aa2147e2d962d9bcc29919f7b38f65c3375e223c75bc4b2a77f8aef2e2c12ff9",
+    "docs/stage4_evidence/calibration_stage3_features_plus_elo.csv": "4e232014260cacbbb442d417ae302c01ddc1cbd5b9157dd5f18acab6cdb326b1",
+    "docs/stage4_evidence/calibration_summary.json": "5271dc370516f787118f39337bb950f12cb96783da597f964116c23196bb794a",
+    "docs/stage4_evidence/final_fit_audit.json": "4d7fa92362558ec93ffcc25836ab3ff8e8a74afddbf28b222dba30409a39c908",
+    "docs/stage4_evidence/hgb_fold_results.csv": "9330207e4002113d6f1f694ab664940b1d7c28860e55ac69901d2f276d7ef0f0",
+    "docs/stage4_evidence/hgb_grid_results.csv": "9435515393d30aa8a8d5fb5fc3acf955c26c12db75e6f1587286dd7fba14262c",
+    "docs/stage4_evidence/incremental_value.csv": "e4eb853c1d83f3af19cf79575ee7d98089fab8bad8bc39a84aa277e32399c180",
+    "docs/stage4_evidence/selected_hgb_parameters.json": "9b3041f2cde1a7cba3c7d83ab8ef64481856ca29b7c0f5e7b123e52c40238400",
+    "docs/stage4_evidence/validation_metrics.csv": "def060831413cef5b03c592fc8cf738f0e7838952452872f34b65fbc5d00d27d",
+    "reports/figures/stage4/calibration_2023_24.png": "f6e2e427d5b7a9c08f2d6e68fd79749f8c93169b4a0b3f5a063f4c7f3370f4ba"
+  },
+  "passed": true,
+  "plot_sha256_equal": true,
+  "predictions_metrics_grid_folds_deltas_calibration_figure_data_equal": true,
+  "protected_stage1_stage2_stage3_unchanged": true,
+  "selected_parameters_equal": true,
+  "strict_no_label_access_exit_passed": false
+}

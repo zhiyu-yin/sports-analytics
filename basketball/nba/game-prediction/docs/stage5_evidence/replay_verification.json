@@ -1,0 +1,25 @@
+{
+  "evaluation_runs": 2,
+  "fit_calls": 0,
+  "holdout_accessed": false,
+  "identical_output_sha256": {
+    "calibration_2024_25.png": "bdac199c5228247b54d9f14a987018d1415a1f53ddc124eaffe3c9164c0ea658",
+    "calibration_basketball_features_hgb.csv": "bd288be36a88b0088cb9f355189a8be2a562bb3143bd1a88d8901f29b5e0b721",
+    "calibration_basketball_features_logistic.csv": "fa23629a30170338d2ae41cad559e6dee9f8ab614d5eafd21409f8fee25dd6f3",
+    "calibration_constant_home_prior.csv": "1a9d3b89eeea29246264be04a5b0cc4519227421767dc7fc6abdd5dc5734ffe1",
+    "calibration_elo_logistic.csv": "46886be571e8b53d642e817838cec81564b8dcd080b2d8aba4d45c920db8cce4",
+    "calibration_features_plus_elo_hgb.csv": "6cc6b42965fb3ff49d90426f9182e8badc89ed2a1ded79e354857e081ac9cc1b",
+    "calibration_features_plus_elo_logistic.csv": "878b1c6063b82d21e644de8ec24a6b1f00bfbcaef2e3c247af6af669e6adb971",
+    "calibration_figure_data.csv": "743fff5f0d1e2226787237afcd6e520897627315162be24fbe35b3e8281ee7a0",
+    "calibration_raw_elo.csv": "5ea3802869bd9386d0c0e19790fca35c6546f8250dc4a76ef5aa43ebd39d0011",
+    "calibration_summary.json": "d6003a3a9b59b5e5994df20834dedcec8eecbdb4d4f0f7c9b308c0930694cae7",
+    "cross_season_replication.csv": "d6107c86c71f94bdcfe08729b1dc55ce816cff6f037d7b34d68de0cc96686a75",
+    "preholdout_metrics.csv": "79f872f014fbb78274ad28aec80cab5e4a53b182e3788efa85d26e5514abcdab",
+    "primary_comparison.csv": "b6e5d411b218af8aba8d4e96b9ed22c98567d6837f00b5534ceac7de9513a5ec",
+    "stage5_predictions_2024_25.parquet": "9167f4b2ec0d178fbe3c0cf75accd129aaf28f1883923d430f9cb5e1c612400c"
+  },
+  "independent_tests": 1,
+  "passed": true,
+  "predictions_metrics_calibration_comparisons_exact": true,
+  "statement": "Replay reproduces the already-opened frozen evaluation; it is not independent evidence."
+}

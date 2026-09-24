@@ -1,0 +1,15 @@
+{
+  "checks": [
+    {
+      "metrics_exact": true,
+      "model": "constant_home_prior",
+      "probabilities_exact": true
+    },
+    {
+      "metrics_exact": true,
+      "model": "raw_elo",
+      "probabilities_exact": true
+    }
+  ],
+  "passed": true
+}

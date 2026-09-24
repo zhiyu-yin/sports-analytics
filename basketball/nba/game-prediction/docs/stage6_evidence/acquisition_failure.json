@@ -1,0 +1,20 @@
+{
+  "endpoint": "LeagueGameLog",
+  "error": "Development network blocked",
+  "error_type": "RuntimeError",
+  "failed_at_utc": "2026-09-24T20:22:51.120679+00:00",
+  "nba_api_version": "1.11.4",
+  "parameters": {
+    "Counter": 0,
+    "DateFrom": "",
+    "DateTo": "",
+    "Direction": "ASC",
+    "LeagueID": "00",
+    "PlayerOrTeam": "T",
+    "Season": "2025-26",
+    "SeasonType": "Regular Season",
+    "Sorter": "DATE"
+  },
+  "retrieval_started_utc": "2026-09-24T20:22:51.078779+00:00",
+  "source": "NBA Stats via maintained nba_api"
+}

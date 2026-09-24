@@ -1,0 +1,23 @@
+{
+  "aggregate_results_persisted_at_utc": "2026-09-24T21:06:41.754631+00:00",
+  "code_unchanged_after_first_scoring": true,
+  "directional_replication": "replicated",
+  "execution_passed": true,
+  "feature_changes": false,
+  "first_final_model_scoring_at_utc": "2026-09-24T21:06:41.511097+00:00",
+  "individual_prediction_errors_inspected": false,
+  "model_recipe_changes": false,
+  "original_stage6_and_stage6r_evidence_unchanged": true,
+  "output_artifacts_byte_identical_in_replay": 14,
+  "passed": true,
+  "protected_files_unchanged": 360,
+  "raw_response_unchanged": true,
+  "recalibration": false,
+  "replay_independent_confirmation": false,
+  "source_mappings_and_links_unchanged": true,
+  "statistical_estimator_state_unchanged": true,
+  "statistical_fit_calls": 0,
+  "tests": 178,
+  "tuning": false,
+  "validated_games": 1230
+}

@@ -1,0 +1,87 @@
+[
+  {
+    "arenaCity": "Mexico City",
+    "arenaName": "Arena CDMX",
+    "awayTeam": {
+      "teamId": 1610612742,
+      "teamTricode": "DAL"
+    },
+    "gameCode": "20251101/DALDET",
+    "gameDate": "11/01/2025 00:00:00",
+    "gameDateEst": "2025-11-01T00:00:00Z",
+    "gameId": "0022500147",
+    "homeTeam": {
+      "teamId": 1610612765,
+      "teamTricode": "DET"
+    },
+    "isNeutral": true
+  },
+  {
+    "arenaCity": "Berlin",
+    "arenaName": "Uber Arena",
+    "awayTeam": {
+      "teamId": 1610612763,
+      "teamTricode": "MEM"
+    },
+    "gameCode": "20260115/MEMORL",
+    "gameDate": "01/15/2026 00:00:00",
+    "gameDateEst": "2026-01-15T00:00:00Z",
+    "gameId": "0022500578",
+    "homeTeam": {
+      "teamId": 1610612753,
+      "teamTricode": "ORL"
+    },
+    "isNeutral": true
+  },
+  {
+    "arenaCity": "London",
+    "arenaName": "The O2 Arena",
+    "awayTeam": {
+      "teamId": 1610612753,
+      "teamTricode": "ORL"
+    },
+    "gameCode": "20260118/ORLMEM",
+    "gameDate": "01/18/2026 00:00:00",
+    "gameDateEst": "2026-01-18T00:00:00Z",
+    "gameId": "0022500602",
+    "homeTeam": {
+      "teamId": 1610612763,
+      "teamTricode": "MEM"
+    },
+    "isNeutral": true
+  },
+  {
+    "arenaCity": "Las Vegas",
+    "arenaName": "T-Mobile Arena",
+    "awayTeam": {
+      "teamId": 1610612752,
+      "teamTricode": "NYK"
+    },
+    "gameCode": "20251213/NYKORL",
+    "gameDate": "12/13/2025 00:00:00",
+    "gameDateEst": "2025-12-13T00:00:00Z",
+    "gameId": "0022501229",
+    "homeTeam": {
+      "teamId": 1610612753,
+      "teamTricode": "ORL"
+    },
+    "isNeutral": true
+  },
+  {
+    "arenaCity": "Las Vegas",
+    "arenaName": "T-Mobile Arena",
+    "awayTeam": {
+      "teamId": 1610612759,
+      "teamTricode": "SAS"
+    },
+    "gameCode": "20251213/SASOKC",
+    "gameDate": "12/13/2025 00:00:00",
+    "gameDateEst": "2025-12-13T00:00:00Z",
+    "gameId": "0022501230",
+    "homeTeam": {
+      "teamId": 1610612760,
+      "teamTricode": "OKC"
+    },
+    "isNeutral": true
+  }
+]

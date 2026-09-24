@@ -1,0 +1,9 @@
+{
+  "archived_original": "tests_archived/model_execution/test_stage5.py",
+  "original_sha256": "2749a1d9a4876ca74b264f41ad4a75adf5c260397666c6bf5e0d7fc1561effdc",
+  "reason": "Stage 5A permits infrastructure/protocol tests only, no model replay or evaluation; the remaining 18 Stage 5 infrastructure tests are retained.",
+  "removed_from_normal_discovery": [
+    "test_elo_pregame_target_mutation",
+    "test_synthetic_full_output_pipeline"
+  ]
+}

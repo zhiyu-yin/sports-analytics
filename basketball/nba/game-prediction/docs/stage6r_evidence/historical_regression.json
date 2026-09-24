@@ -1,0 +1,21 @@
+{
+  "estimator_state_unchanged": true,
+  "final_season_access": false,
+  "fit_calls": 0,
+  "passed": true,
+  "scientific_freeze_exact": true,
+  "seasons": [
+    {
+      "all_metrics_exact": true,
+      "games": 1230,
+      "season": "2023-24",
+      "seven_prediction_vectors_exact": true
+    },
+    {
+      "all_metrics_exact": true,
+      "games": 1230,
+      "season": "2024-25",
+      "seven_prediction_vectors_exact": true
+    }
+  ]
+}

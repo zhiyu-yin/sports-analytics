@@ -1,0 +1,20 @@
+{
+  "C_by_model": {
+    "basketball_features_logistic": 0.01,
+    "elo_logistic": 0.01,
+    "features_plus_elo_logistic": 0.01
+  },
+  "frozen_elo": {
+    "H": 50.0,
+    "K": 20.0,
+    "alpha": 0.5
+  },
+  "internal_scored_games": 5829,
+  "selected_before_validation_label_load": true,
+  "selection": [
+    "pooled game-weighted log_loss ascending (unrounded)",
+    "brier_score ascending",
+    "C ascending"
+  ],
+  "training_games": 9519
+}

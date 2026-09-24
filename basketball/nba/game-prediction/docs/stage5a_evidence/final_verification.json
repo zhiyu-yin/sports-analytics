@@ -1,0 +1,14 @@
+{
+  "final_data_access": false,
+  "freeze_sha256": "bf065ba3de945e86b85fb3ad3961cbd523cf319e6c7925e343be93adfe1ad191",
+  "ledger_schema_sha256": "daa6851d59d76ca0ca990816bb67b3ca8f86e0bda8e12535f84fcb8d7d43d086",
+  "model_execution": false,
+  "passed": true,
+  "protected_artifacts_unchanged": 275,
+  "protocol_sections": 17,
+  "protocol_sha256": "2f85d4b49827ccc12f929a924e89e8c44e052380f8d535f865497c2833355498",
+  "replay_sha256": "eb4374f8147be2ca75db760b1bd6a8a0317a72967875b4b5092c012bd97a4f94",
+  "stage6_authorized": false,
+  "stage6_enabled": false,
+  "tests": 138
+}

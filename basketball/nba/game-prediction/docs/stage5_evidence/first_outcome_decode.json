@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "game_id",
+    "home_win"
+  ],
+  "event": "first_stage5_outcome_decode_started",
+  "source": "data/interim/reconciled/game_outcomes_2024_25.parquet",
+  "timestamp_utc": "2026-09-24T19:48:28.644237+00:00"
+}

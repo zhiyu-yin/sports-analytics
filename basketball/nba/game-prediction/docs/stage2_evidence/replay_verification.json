@@ -1,0 +1,23 @@
+{
+  "full_socket_blocked_runs": 2,
+  "manifest_equal": true,
+  "output_sha256": {
+    "data/interim/stage2_elo_game_log.parquet": "0de6330fa1d3e2b9476b09fbd251382a75a1546b831947ff14636d9fdb28cecb",
+    "data/processed/stage2_predictions_2023_24.parquet": "dd30a3ff9758389fb7027d43b03c3cabdfb3a269784b9e5539dbddf9ea3bbd85",
+    "docs/stage2_evidence/calibration_constant.csv": "44d008c1e49338399a0415f3135d45aa7e84444b56a52196d738209c7d92efad",
+    "docs/stage2_evidence/calibration_constant_equal_frequency.csv": "1c4f56114c00fd4f46ccbfdca55cbbec5eeea3b5c5e205e4a49eb35a9d3907b8",
+    "docs/stage2_evidence/calibration_elo.csv": "aa2147e2d962d9bcc29919f7b38f65c3375e223c75bc4b2a77f8aef2e2c12ff9",
+    "docs/stage2_evidence/calibration_elo_equal_frequency.csv": "9bee7a0749dc174bfc7387e794b22e659eda7ec45024d630e693e0738186e761",
+    "docs/stage2_evidence/calibration_summary.json": "b4e50505baa1ab0ba91c59c03bdcb44d1369411229acb94ad8726806fab1eba3",
+    "docs/stage2_evidence/elo_grid_results.csv": "41f0b8d0f25cab4caa67748c3a56e424c67341920bfbd663095b8185b56a815e",
+    "docs/stage2_evidence/elo_internal_fold_metrics.csv": "fead4b1c2d13edbf652bdc6861ce40be2aa565a032bf9e6388522c868689dae0",
+    "docs/stage2_evidence/selected_elo_parameters.json": "7c44b1afa35e3be640354785f32dc5094f83288b2d1ab724eaaf268db77cadfb",
+    "docs/stage2_evidence/validation_metrics.csv": "cecdb62105b2d0a9ebc4281b98e63c825d6fc7a61c0436c445a12c3b10ad86bf",
+    "reports/figures/stage2/calibration_2023_24.png": "1161f4f0702471839248a3fa48189851886c310638a9ad3fb2c4ec2897f2c6ed"
+  },
+  "passed": true,
+  "plot_sha256_equal": true,
+  "predictions_metrics_calibration_grid_equal": true,
+  "selected_parameters_equal": true,
+  "stage1_inputs_evidence_unchanged": true
+}

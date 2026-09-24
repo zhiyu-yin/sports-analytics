@@ -1,0 +1,75 @@
+{
+  "offline_rebuilds": 2,
+  "network_requests_permitted": false,
+  "all_interim_files_byte_identical": true,
+  "sha256": {
+    "build_manifest_2023_24.json": "f02b8d5aba3b3494bb61b081bf24c810b27264e58c7ace831b9b7f2124b75efe",
+    "data_quality_2023_24.json": "c13ebb5436db674ebc78496706691ebf552a02fc2ffa3d43144bbf45c421e730",
+    "game_anomalies_2023_24.parquet": "ace92c396c0d63a4af1bdd3098a6f74da5440d89e7eb8673145983dcc58957ac",
+    "game_outcomes_2023_24.parquet": "f517f0d63be261ce401bda09dbc586e25bba0cb20d2e14ebaceaeec04668a03b",
+    "games_2023_24.parquet": "0959cd2404adcbdb209795e1e47f292b1eacc281c2e3186d7ed2a830b4d53cb3",
+    "team_games_2023_24.parquet": "c82ebe48cc8385bd73694c98ca0fefaea7f13f11e6a0dc23c803b6a687f87faa"
+  },
+  "raw_checksum_verified": true,
+  "outcomes_match_canonical_table": true,
+  "parquet_dtypes": {
+    "game_anomalies_2023_24.parquet": {
+      "game_id": "string",
+      "severity": "string",
+      "reason": "string",
+      "observed_values_json": "string"
+    },
+    "game_outcomes_2023_24.parquet": {
+      "game_id": "string",
+      "home_pts": "Int64",
+      "away_pts": "Int64",
+      "home_win": "boolean"
+    },
+    "games_2023_24.parquet": {
+      "season": "string",
+      "season_type": "string",
+      "game_id": "string",
+      "game_date": "datetime64[ns]",
+      "home_team_id": "Int64",
+      "home_team_name": "string",
+      "home_team_abbreviation": "string",
+      "away_team_id": "Int64",
+      "away_team_name": "string",
+      "away_team_abbreviation": "string",
+      "home_pts": "Int64",
+      "away_pts": "Int64",
+      "home_win": "boolean"
+    },
+    "team_games_2023_24.parquet": {
+      "season": "string",
+      "season_type": "string",
+      "source_season_id": "string",
+      "game_id": "string",
+      "game_date": "datetime64[ns]",
+      "team_id": "Int64",
+      "team_name": "string",
+      "team_abbreviation": "string",
+      "matchup": "string",
+      "is_home": "boolean",
+      "opponent_team_abbreviation": "string",
+      "wl": "string",
+      "pts": "Int64",
+      "fgm": "Int64",
+      "fga": "Int64",
+      "fg3m": "Int64",
+      "fg3a": "Int64",
+      "ftm": "Int64",
+      "fta": "Int64",
+      "oreb": "Int64",
+      "dreb": "Int64",
+      "reb": "Int64",
+      "ast": "Int64",
+      "stl": "Int64",
+      "blk": "Int64",
+      "tov": "Int64",
+      "pf": "Int64",
+      "plus_minus": "Float64",
+      "source_row": "Int64"
+    }
+  }
+}

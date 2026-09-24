@@ -1,0 +1,5 @@
+{
+  "reason": "TLS construction failed before an NBA response was returned; no outcome decode occurred",
+  "status": "not reached",
+  "timestamp_utc": null
+}

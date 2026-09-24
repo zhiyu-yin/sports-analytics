@@ -1,0 +1,791 @@
+We are continuing the project at:
+
+/Users/zhiyuyin/Documents/last time job hunting material/proj/sports-analytics/
+
+Active subproject:
+
+basketball/nba/game-prediction/
+
+Before doing anything, read:
+
+docs/stage1d_home_away_reconciliation.md
+docs/final_holdout_protocol_2025_26.md
+docs/stage6_final_holdout_evaluation.md
+docs/stage6r_final_holdout_recovery.md
+
+Also inspect the preserved Stage 6R evidence and cached 2025-26 raw response.
+
+# Stage 6R2 — FINAL-SEASON HOME/AWAY RECONCILIATION AND CONDITIONAL COMPLETION
+
+## Current state
+
+Stage 6R successfully repaired the TLS transport defect and retrieved the complete
+2025-26 LeagueGameLog snapshot.
+
+Observed:
+
+- 2,460 team-game rows
+- 1,230 unique games
+- 30 teams
+- 82 games per team
+- 2025-10-21 through 2026-04-12
+
+However, structural validation stopped because exactly five games contain two
+away-style MATCHUP rows and therefore no valid designated home side.
+
+No final model predictions, metrics, calibration or individual error analysis have
+been produced.
+
+Final-season source outcomes have now been structurally decoded, so the season is
+no longer "never accessed", but final MODEL PERFORMANCE remains unexposed.
+
+The scientific model freeze remains unchanged.
+
+## Goal
+
+Resolve ONLY the five known 2025-26 home/away structural anomalies using
+authoritative NBA schedule/designation evidence.
+
+Preserve the original cached LeagueGameLog response unchanged.
+
+If and only if all five games can be authoritatively reconciled and the full
+1,230-game season subsequently passes the existing validation contract, resume the
+already-frozen final-holdout evaluation exactly as specified in Stage 5A / Stage 6.
+
+No model or protocol changes are authorized.
+
+--------------------------------------------------
+1. KNOWN FINAL-SEASON ANOMALIES
+--------------------------------------------------
+
+The exact unresolved games are:
+
+0022500147 — 2025-11-01 — DAL @ DET / DET @ DAL
+0022500578 — 2026-01-15 — ORL @ MEM / MEM @ ORL
+0022500602 — 2026-01-18 — ORL @ MEM / MEM @ ORL
+0022501229 — 2025-12-13 — NYK @ ORL / ORL @ NYK
+0022501230 — 2025-12-13 — SAS @ OKC / OKC @ SAS
+
+Do NOT infer designated home from:
+
+- row order
+- game ID
+- winner
+- score
+- abbreviation order
+- similarity to 2024-25
+- likely neutral venue
+
+All five must be independently verified.
+
+--------------------------------------------------
+2. PRESERVE ALL EXISTING EVIDENCE
+--------------------------------------------------
+
+Do NOT alter:
+
+- cached 2025-26 LeagueGameLog raw response
+- Stage 6 stopped evidence
+- Stage 6R transport evidence
+- Stage 6R recovery ledger
+- first-access timestamps
+- first-response timestamps
+- first-outcome-decode timestamps
+- original anomaly artifacts
+
+The original both-away MATCHUP strings must remain visible forever.
+
+Hash protected artifacts before proceeding.
+
+--------------------------------------------------
+3. AUTHORITATIVE DESIGNATION LOOKUP
+--------------------------------------------------
+
+For each of the five exact game IDs, retrieve authoritative NBA schedule metadata.
+
+Prefer:
+
+NBA ScheduleLeagueV2
+
+using the maintained nba_api client under the already-approved narrow transport
+capability.
+
+Retrieve ONLY the factual fields necessary for reconciliation, such as:
+
+gameId
+gameDate
+gameCode
+
+homeTeam.teamId
+homeTeam.teamTricode
+
+awayTeam.teamId
+awayTeam.teamTricode
+
+arenaName
+arenaCity
+isNeutral
+
+Do not retrieve/use standings, records, scores or winner information for
+designation decisions if avoidable.
+
+The lookup must be scoped only to the information needed to resolve these five
+games.
+
+Record:
+
+- endpoint
+- parameters
+- retrieval time UTC
+- source response checksum
+- exact factual fields retained
+
+Do not use search snippets.
+
+--------------------------------------------------
+4. VERIFY EACH GAME INDEPENDENTLY
+--------------------------------------------------
+
+For every game establish:
+
+game_id
+game_date
+
+raw team IDs
+raw MATCHUP strings
+
+official designated home team
+official designated away team
+
+venue
+city
+neutral status if explicitly supplied
+
+official source/provenance
+
+confidence:
+authoritative
+conflicted
+unresolved
+
+Only authoritative mappings may proceed.
+
+If official sources conflict:
+
+STOP.
+
+If any designated side cannot be established:
+
+STOP.
+
+Do not score the final season.
+
+--------------------------------------------------
+5. DO NOT ASSUME THE ROOT CAUSE
+--------------------------------------------------
+
+Stage 1D observed that all five 2024-25 malformed games were official neutral-site
+games.
+
+Do NOT promote that historical observation into a generic rule.
+
+After inspecting the new five games, report separately:
+
+OBSERVED:
+what the 2025-26 official metadata says
+
+INFERENCE:
+whether both-away MATCHUP formatting appears associated with neutral-site games
+
+Do not change the generic MATCHUP parser.
+
+--------------------------------------------------
+6. CREATE A SEPARATE FINAL-SEASON RECONCILIATION LAYER
+--------------------------------------------------
+
+Create a new explicit artifact, for example:
+
+data/interim/home_away_reconciliation_2025_26.parquet
+
+and:
+
+docs/stage6r2_evidence/home_away_reconciliation_2025_26.csv
+
+Suggested fields:
+
+season
+game_id
+game_date
+
+raw_team_1_id
+raw_team_1_matchup
+raw_team_2_id
+raw_team_2_matchup
+
+reconciled_home_team_id
+reconciled_home_team_abbreviation
+
+reconciled_away_team_id
+reconciled_away_team_abbreviation
+
+neutral_site
+arena_name
+arena_city
+
+source
+source_retrieved_at_utc
+
+confidence
+reason
+notes
+
+Do not modify original MATCHUP values.
+
+--------------------------------------------------
+7. REUSE THE EXISTING RECONCILIATION PHILOSOPHY
+--------------------------------------------------
+
+The reconciliation implementation should remain conceptually identical to Stage 1D:
+
+raw normalized data
+    ↓
+normal structural validation
+    ↓
+known reviewed home/away-only anomaly
+    ↓
+explicit authoritative reconciliation lookup
+    ↓
+copy frame
+    ↓
+modify canonical is_home only
+    ↓
+rerun complete validation
+
+Do not create a heuristic fallback.
+
+Unknown games remain rejected.
+
+--------------------------------------------------
+8. REVALIDATE THE COMPLETE 2025-26 SEASON
+--------------------------------------------------
+
+After reconciliation, rerun the unchanged full structural checks:
+
+- unique (game_id, team_id)
+- exactly two rows per game
+- distinct teams
+- exactly one designated home
+- exactly one designated away
+- reciprocal opponents
+- matching dates
+- complementary W/L
+- valid scores
+- scoring-component arithmetic
+- rebound consistency
+- existing plus-minus policy
+- season scope/completeness
+
+Success requires a COMPLETE accepted season.
+
+Expected observations from Stage 6R were 1,230 source games and 82 games/team,
+but do not force those numbers if reconciliation exposes a real contradiction.
+
+If anything remains unresolved:
+
+STOP.
+
+Do not score a subset.
+
+--------------------------------------------------
+9. GENERATE THE FROZEN FINAL-SEASON FEATURES
+--------------------------------------------------
+
+ONLY if all games validate:
+
+generate exactly the frozen Stage 1B V1 pregame features.
+
+No new feature.
+
+No neutral-site predictor.
+
+No altered rest logic.
+
+No player/injury/odds information.
+
+No changed rolling window.
+
+No training-period change.
+
+Verify feature leakage invariants.
+
+--------------------------------------------------
+10. SCIENTIFIC FREEZE MUST REMAIN EXACT
+--------------------------------------------------
+
+Before any model scoring verify again:
+
+Primary Model C:
+features_plus_elo_logistic
+
+C = 0.01
+
+32 frozen basketball features + frozen elo_logit
+
+Frozen Elo:
+
+K = 20
+H = 50
+alpha = 0.50
+
+Frozen statistical training:
+
+2015-16 through 2022-23
+
+Frozen seven-model candidate set unchanged.
+
+No model fit is permitted.
+
+Use the saved frozen estimators.
+
+--------------------------------------------------
+11. CONTINUATION LEDGER
+--------------------------------------------------
+
+Create a new continuation ledger:
+
+docs/stage6r2_evidence/final_evaluation_continuation_ledger.json
+
+Link explicitly to:
+
+- Stage 6 authorization
+- Stage 6 failed TLS attempt
+- Stage 6R authorization
+- Stage 6R recovery ledger
+- Stage 6R successful NBA retrieval
+- Stage 6R structural-validation stop
+- this Stage 6R2 authorization
+- authoritative reconciliation evidence
+
+Record:
+
+final_performance_previously_exposed = false
+
+scientific_protocol_changed = false
+
+model_recipe_changed = false
+
+final_source_outcomes_already_structurally_decoded = true
+
+Then record the timestamp immediately before first final MODEL scoring.
+
+Do not pretend this is first season access.
+
+--------------------------------------------------
+12. RESUME THE EXACT FROZEN FINAL EVALUATION
+--------------------------------------------------
+
+Only after:
+
+- authoritative reconciliation
+- complete 1,230-game validation
+- frozen feature generation
+- scientific-freeze verification
+- continuation ledger
+
+run the final evaluation.
+
+Do not reinterpret or redesign Stage 6.
+
+Generate predictions for exactly:
+
+constant_home_prior
+raw_elo
+basketball_features_logistic
+elo_logistic
+features_plus_elo_logistic
+basketball_features_hgb
+features_plus_elo_hgb
+
+--------------------------------------------------
+13. PRIMARY FINAL COMPARISON
+--------------------------------------------------
+
+Primary:
+
+features_plus_elo_logistic
+minus
+raw_elo
+
+Report:
+
+delta_log_loss
+delta_brier
+delta_accuracy
+delta_roc_auc
+
+Directional result:
+
+REPLICATED:
+delta_log_loss < 0
+AND
+delta_brier < 0
+
+MIXED:
+only one primary loss improves
+
+NOT REPLICATED:
+neither primary loss improves
+
+Do not redefine after seeing results.
+
+--------------------------------------------------
+14. ALL SEVEN FINAL METRICS
+--------------------------------------------------
+
+Report:
+
+n_games
+log_loss
+brier_score
+accuracy
+roc_auc
+
+for all seven candidates.
+
+Same game set for every candidate.
+
+No score-based exclusions.
+
+--------------------------------------------------
+15. FROZEN UNCERTAINTY ANALYSIS
+--------------------------------------------------
+
+Execute exactly the Stage 5A protocol.
+
+Paired per-game:
+
+Model C loss - Raw Elo loss
+
+for:
+
+log loss
+Brier
+
+Report:
+
+mean
+median
+Q25
+Q75
+
+Then:
+
+calendar-date cluster bootstrap
+
+10,000 replicates
+seed 0
+numpy.random.default_rng(0)
+
+Same date draws for both metrics.
+
+Game-weighted means.
+
+Report:
+
+bootstrap mean
+bootstrap SE
+2.5th percentile
+97.5th percentile
+
+Label:
+
+date-clustered descriptive bootstrap interval
+
+No p-values.
+
+No method change.
+
+--------------------------------------------------
+16. CALIBRATION
+--------------------------------------------------
+
+Use unchanged ten fixed bins.
+
+Primary comparison:
+
+Raw Elo
+Model C
+
+Report:
+
+ECE
+mean predicted probability
+observed designated-home win rate
+bin counts
+sparse bins
+
+Other candidates reported descriptively.
+
+No recalibration.
+
+--------------------------------------------------
+17. CROSS-SEASON FINAL TABLE
+--------------------------------------------------
+
+Create:
+
+2023-24 development validation
+2024-25 pre-holdout
+2025-26 final holdout
+
+For Elo and Model C report:
+
+log loss
+Brier
+accuracy
+AUC
+
+and deltas.
+
+Keep the three roles explicit.
+
+Never pool them as one untouched test.
+
+--------------------------------------------------
+18. NO INDIVIDUAL ERROR ANALYSIS BEFORE PERSISTENCE
+--------------------------------------------------
+
+Persist first:
+
+- full predictions
+- all metrics
+- primary comparison
+- bootstrap
+- calibration
+- cross-season table
+
+Only afterward may descriptive individual-game analysis occur.
+
+Prefer to defer it entirely.
+
+--------------------------------------------------
+19. TESTS
+--------------------------------------------------
+
+Add tests covering:
+
+A. only the five approved game IDs may be reconciled
+
+B. mapping comes from stored authoritative evidence
+
+C. reconciliation changes only canonical designation
+
+D. raw MATCHUP remains unchanged
+
+E. raw scores/WL remain unchanged
+
+F. unknown reconciliation fails
+
+G. conflict/unresolved status fails
+
+H. complete 1,230-game validation required before scoring
+
+I. no model fit call occurs
+
+J. frozen estimators unchanged before/after scoring
+
+K. primary comparison exact
+
+L. frozen bootstrap exact
+
+M. Stage 6/6R evidence unchanged
+
+N. continuation ledger precedes first scoring
+
+--------------------------------------------------
+20. REPLAY
+--------------------------------------------------
+
+After successful aggregate final evaluation:
+
+one deterministic replay from cached final data is allowed.
+
+No network.
+
+No fit.
+
+No new selection.
+
+Must exactly reproduce:
+
+predictions
+metrics
+primary deltas
+bootstrap
+calibration
+
+This replay is NOT independent confirmation.
+
+--------------------------------------------------
+21. REQUIRED DOCUMENT
+--------------------------------------------------
+
+Create:
+
+docs/stage6r2_final_holdout_completion.md
+
+Include:
+
+1. Stage 6 original TLS stop
+2. Stage 6R transport success
+3. Stage 6R structural-validation stop
+4. Stage 6R2 authorization
+5. Five anomaly cases
+6. Official designation evidence
+7. Reconciliation table
+8. Neutral-site findings
+9. Complete final-season validation
+10. Frozen feature generation
+11. Scientific freeze verification
+12. Continuation ledger
+13. Seven candidate metrics
+14. Primary Model C vs Elo result
+15. Directional replication
+16. Date-cluster bootstrap
+17. Calibration
+18. Three-season confirmation
+19. Tests
+20. Reproducibility
+21. Limitations
+22. Final scientific conclusion
+
+--------------------------------------------------
+22. REQUIRED EVIDENCE
+--------------------------------------------------
+
+Create:
+
+docs/stage6r2_evidence/
+
+At minimum:
+
+authorization.txt
+
+official_schedule_source_manifest.json
+home_away_reconciliation_2025_26.csv
+reconciliation_validation.json
+
+scientific_freeze_verification.json
+
+final_evaluation_continuation_ledger.json
+
+final_holdout_metrics.csv
+primary_comparison.csv
+cross_season_confirmation.csv
+
+paired_loss_summary.csv
+date_cluster_bootstrap.csv
+
+calibration_raw_elo.csv
+calibration_model_c.csv
+calibration_summary.csv
+
+test_run.txt
+test_summary.json
+
+build_manifest.json
+replay_verification.json
+
+Do not overwrite Stage 6 or Stage 6R evidence.
+
+--------------------------------------------------
+23. SUCCESS CRITERIA
+--------------------------------------------------
+
+Stage 6R2 EXECUTION succeeds if:
+
+1. all five anomalous games receive authoritative official mappings
+
+2. original 2025-26 raw cache remains unchanged
+
+3. reconciliation is separate and provenance-preserving
+
+4. full final season validates before scoring
+
+5. frozen feature definitions remain unchanged
+
+6. candidate/model recipes remain unchanged
+
+7. no model fitting/tuning occurs
+
+8. continuation ledger precedes model scoring
+
+9. all seven candidates cover identical games
+
+10. frozen uncertainty method is executed exactly
+
+11. aggregate outputs persist before error analysis
+
+12. replay is deterministic
+
+Scientific confirmation remains separate.
+
+Model C may replicate, be mixed or fail to replicate.
+
+--------------------------------------------------
+24. FINAL RESPONSE TO ME
+--------------------------------------------------
+
+Report:
+
+1. Did all five 2025-26 anomalies reconcile authoritatively?
+
+2. What were the official designated home/away teams?
+
+3. Which games were officially neutral-site?
+
+4. Did the full 1,230-game season validate?
+
+5. Did the final frozen evaluation complete?
+
+6. Metrics for all seven models.
+
+7. PRIMARY:
+Model C vs raw Elo
+delta log loss
+delta Brier
+
+8. Directional replication:
+replicated / mixed / not replicated
+
+9. Date-clustered 95% descriptive bootstrap intervals for both primary deltas.
+
+10. Did the intervals contain zero?
+
+11. Cross-season Model C vs Elo:
+2023-24
+2024-25
+2025-26
+
+12. Which frozen model had lowest final log loss?
+Descriptive only.
+
+13. Which had lowest final Brier?
+Descriptive only.
+
+14. Model C vs Elo calibration.
+
+15. Total tests passing.
+
+16. Confirm:
+no tuning
+no statistical refit
+no feature change
+original Stage 6 and Stage 6R evidence preserved
+
+17. Exact path:
+docs/stage6r2_final_holdout_completion.md
+
+Do not commit.
+Do not push.
+Do not modify models after results.

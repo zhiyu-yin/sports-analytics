@@ -1,0 +1,77 @@
+{
+  "access_contract": "Full key-only metadata; projected identity; only permitted-season home_win; no scores or engineered features.",
+  "code_sha256": {
+    "scripts/run_stage2_baselines.py": "058830b3c2307f0556d598a11cbbfe2a606a58269f6d55fe6b4f962d8305f89f",
+    "src/nba_game_prediction/elo.py": "e976dfc0f7dce6ef1361ee2ec68eca59f0e8d54ff35f52c6f9b05208b1debe22",
+    "src/nba_game_prediction/evaluation.py": "d766e183533f9eb4d22104179e8bfaf2c914d07210bec2460097b4b436b9be53",
+    "src/nba_game_prediction/metrics.py": "17add3a1436b7d08fd2b194e6cd402a105d3f2f46c31b8161d0da76dc42be390",
+    "src/nba_game_prediction/policy.py": "2c99731ca8a3ef4a75d2cd8d252206d5a162a55495fc972fea929efb849167f7"
+  },
+  "constant_prior": {
+    "p_home_train": 0.5711734425885072,
+    "training_games": 9519,
+    "training_home_wins": 5437
+  },
+  "grid": {
+    "H": [
+      0,
+      50,
+      75,
+      100,
+      125
+    ],
+    "K": [
+      10,
+      20,
+      30,
+      40
+    ],
+    "alpha": [
+      0.5,
+      0.75,
+      0.9,
+      1.0
+    ]
+  },
+  "holdout_2025_26_accessed": false,
+  "input_sha256": {
+    "data/interim/game_outcomes_multiseason.parquet": "9718b3dad5de6b9ae8eecfc689f227f7ea29b2f5838c628cd5f16b1a44741f8a",
+    "data/processed/game_features_multiseason.parquet": "fb94799dc2ce87ec57305ae4c8d590773741376fc43d81fea164aef7a65a13b6",
+    "docs/stage1d_evidence/build_manifest.json": "46ae63e22591625212fe915adc695a8d881c6d56379daad6b7f68450374e9bd5"
+  },
+  "internal_scored_games": 5829,
+  "log_loss_epsilon": 1e-15,
+  "output_sha256": {
+    "data/interim/stage2_elo_game_log.parquet": "0de6330fa1d3e2b9476b09fbd251382a75a1546b831947ff14636d9fdb28cecb",
+    "data/processed/stage2_predictions_2023_24.parquet": "dd30a3ff9758389fb7027d43b03c3cabdfb3a269784b9e5539dbddf9ea3bbd85",
+    "docs/stage2_evidence/calibration_constant.csv": "44d008c1e49338399a0415f3135d45aa7e84444b56a52196d738209c7d92efad",
+    "docs/stage2_evidence/calibration_constant_equal_frequency.csv": "1c4f56114c00fd4f46ccbfdca55cbbec5eeea3b5c5e205e4a49eb35a9d3907b8",
+    "docs/stage2_evidence/calibration_elo.csv": "aa2147e2d962d9bcc29919f7b38f65c3375e223c75bc4b2a77f8aef2e2c12ff9",
+    "docs/stage2_evidence/calibration_elo_equal_frequency.csv": "9bee7a0749dc174bfc7387e794b22e659eda7ec45024d630e693e0738186e761",
+    "docs/stage2_evidence/calibration_summary.json": "b4e50505baa1ab0ba91c59c03bdcb44d1369411229acb94ad8726806fab1eba3",
+    "docs/stage2_evidence/elo_grid_results.csv": "41f0b8d0f25cab4caa67748c3a56e424c67341920bfbd663095b8185b56a815e",
+    "docs/stage2_evidence/elo_internal_fold_metrics.csv": "fead4b1c2d13edbf652bdc6861ce40be2aa565a032bf9e6388522c868689dae0",
+    "docs/stage2_evidence/selected_elo_parameters.json": "7c44b1afa35e3be640354785f32dc5094f83288b2d1ab724eaaf268db77cadfb",
+    "docs/stage2_evidence/validation_metrics.csv": "cecdb62105b2d0a9ebc4281b98e63c825d6fc7a61c0436c445a12c3b10ad86bf",
+    "reports/figures/stage2/calibration_2023_24.png": "1161f4f0702471839248a3fa48189851886c310638a9ad3fb2c4ec2897f2c6ed"
+  },
+  "protocol_sha256": "5f1098a2441282a7c644247705522316f12b143590e532520eb0186cc9d1a6de",
+  "python": "3.10.8 (main, Oct 13 2022, 09:48:40) [Clang 14.0.0 (clang-1400.0.29.102)]",
+  "requirements_sha256": "be9e743df57ac8d9eab43679640fc5b2ee114d7640cec5e1b5a3be0892e57df4",
+  "sealed_2024_25": true,
+  "selected_parameters": {
+    "H": 50.0,
+    "K": 20.0,
+    "alpha": 0.5
+  },
+  "stage": "2",
+  "training_games": 9519,
+  "validation_games": 1230,
+  "versions": {
+    "matplotlib": "3.10.9",
+    "nba_api": "1.11.4",
+    "numpy": "2.2.6",
+    "pandas": "2.3.3",
+    "pyarrow": "25.0.1"
+  }
+}

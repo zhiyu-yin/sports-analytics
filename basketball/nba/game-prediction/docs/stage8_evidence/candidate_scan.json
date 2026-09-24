@@ -1,0 +1,112 @@
+{
+  "binary_candidates": [
+    "basketball/nba/game-prediction/docs/stage5_evidence/replay/calibration_2024_25.png",
+    "basketball/nba/game-prediction/reports/figures/v1/three_season_comparison.png",
+    "basketball/nba/game-prediction/reports/figures/stage2/calibration_2023_24.png",
+    "basketball/nba/game-prediction/reports/figures/stage5/calibration_2024_25.png",
+    "basketball/nba/game-prediction/reports/figures/stage4/calibration_2023_24.png",
+    "basketball/nba/game-prediction/reports/figures/stage3/calibration_2023_24.png"
+  ],
+  "candidate_bytes": 3083628,
+  "candidate_files": 445,
+  "candidate_files_over_10_MB": [],
+  "candidate_files_over_1_MB": [],
+  "largest20": [
+    {
+      "bytes": 229493,
+      "path": "basketball/nba/game-prediction/docs/stage1b_evidence/team_history_lineage.json"
+    },
+    {
+      "bytes": 121417,
+      "path": "basketball/nba/game-prediction/reports/figures/v1/three_season_comparison.png"
+    },
+    {
+      "bytes": 114680,
+      "path": "basketball/nba/game-prediction/reports/figures/stage4/calibration_2023_24.png"
+    },
+    {
+      "bytes": 111416,
+      "path": "basketball/nba/game-prediction/reports/figures/stage3/calibration_2023_24.png"
+    },
+    {
+      "bytes": 98799,
+      "path": "basketball/nba/game-prediction/docs/stage5_evidence/replay/calibration_2024_25.png"
+    },
+    {
+      "bytes": 98799,
+      "path": "basketball/nba/game-prediction/reports/figures/stage5/calibration_2024_25.png"
+    },
+    {
+      "bytes": 90146,
+      "path": "basketball/nba/game-prediction/reports/figures/stage2/calibration_2023_24.png"
+    },
+    {
+      "bytes": 66976,
+      "path": "basketball/nba/game-prediction/docs/stage7_evidence/protected_artifacts_before.json"
+    },
+    {
+      "bytes": 57224,
+      "path": "basketball/nba/game-prediction/docs/stage1c_evidence/scope_audit.json"
+    },
+    {
+      "bytes": 48133,
+      "path": "basketball/nba/game-prediction/docs/stage4_evidence/hgb_fold_results.csv"
+    },
+    {
+      "bytes": 44736,
+      "path": "basketball/nba/game-prediction/docs/stage6r2_evidence/protected_artifacts_before.json"
+    },
+    {
+      "bytes": 41981,
+      "path": "basketball/nba/game-prediction/docs/stage2_evidence/elo_internal_fold_metrics.csv"
+    },
+    {
+      "bytes": 41085,
+      "path": "basketball/nba/game-prediction/docs/stage6_evidence/preimplementation_verification.json"
+    },
+    {
+      "bytes": 38998,
+      "path": "basketball/nba/game-prediction/docs/stage6r_evidence/protected_artifacts_before.json"
+    },
+    {
+      "bytes": 38749,
+      "path": "basketball/nba/game-prediction/docs/stage5_evidence/preopening_verification.json"
+    },
+    {
+      "bytes": 34630,
+      "path": "basketball/nba/game-prediction/docs/stage5a_evidence/protected_artifact_hashes_after.json"
+    },
+    {
+      "bytes": 34630,
+      "path": "basketball/nba/game-prediction/docs/stage5a_evidence/protected_artifact_hashes_before.json"
+    },
+    {
+      "bytes": 32827,
+      "path": "basketball/nba/game-prediction/docs/stage6r_evidence/recovery_opening_ledger.json"
+    },
+    {
+      "bytes": 31081,
+      "path": "basketball/nba/game-prediction/docs/stage3_evidence/fold_fit_audit.json"
+    },
+    {
+      "bytes": 30665,
+      "path": "basketball/nba/game-prediction/docs/stage6_evidence/final_opening_ledger.json"
+    }
+  ],
+  "local_path_files": [
+    "basketball/nba/game-prediction/stage0_followup.py",
+    "basketball/nba/game-prediction/docs/stage0_data_audit.md",
+    "basketball/nba/game-prediction/docs/stage1a_ingestion.md",
+    "basketball/nba/game-prediction/docs/stage6_evidence/execution_stop.json",
+    "basketball/nba/game-prediction/docs/stage6_evidence/final_opening_ledger.json",
+    "basketball/nba/game-prediction/docs/stage6_evidence/authorization.txt",
+    "basketball/nba/game-prediction/docs/stage6r2_evidence/authorization.txt",
+    "basketball/nba/game-prediction/docs/stage6r_evidence/execution_stop.json",
+    "basketball/nba/game-prediction/docs/stage6r_evidence/authorization.txt",
+    "basketball/nba/game-prediction/docs/stage6r_evidence/recovery_opening_ledger.json",
+    "basketball/nba/game-prediction/docs/stage1a_evidence/20260924T020611Z_e215c1e1/environment.json",
+    "basketball/nba/game-prediction/docs/stage5_evidence/authorization.txt"
+  ],
+  "scope": "Release candidate text files; path/type only for findings; heuristic pattern scan, not a guarantee",
+  "secret_candidates": []
+}

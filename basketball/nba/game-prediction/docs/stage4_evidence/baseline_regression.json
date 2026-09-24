@@ -1,0 +1,42 @@
+{
+  "passed": true,
+  "stage2": [
+    {
+      "metrics_exact": true,
+      "model": "constant_home_prior",
+      "probabilities_exact": true
+    },
+    {
+      "metrics_exact": true,
+      "model": "raw_elo",
+      "probabilities_exact": true
+    }
+  ],
+  "stage3": [
+    {
+      "metrics_exact": true,
+      "model": "constant_home_prior",
+      "probabilities_exact": true
+    },
+    {
+      "metrics_exact": true,
+      "model": "raw_elo",
+      "probabilities_exact": true
+    },
+    {
+      "metrics_exact": true,
+      "model": "basketball_features_logistic",
+      "probabilities_exact": true
+    },
+    {
+      "metrics_exact": true,
+      "model": "elo_logistic",
+      "probabilities_exact": true
+    },
+    {
+      "metrics_exact": true,
+      "model": "features_plus_elo_logistic",
+      "probabilities_exact": true
+    }
+  ]
+}

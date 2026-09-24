@@ -1,0 +1,13 @@
+{
+  "aggregate_results_persisted": null,
+  "code_sha256": {
+    "stage6/run.py": "810edad92838de387945d6385682b3c76e54c098e975c6339086989eb75aef92",
+    "stage6/runtime.py": "39f86dd93762371ff99ce9e76f1b6d66968998bf3b64a21aab9ba7ff8616d7eb",
+    "stage6/test_preflight.py": "96a8a47eef9a19fc890100ebb5f27ced7a884b86e09c18ccd6f8b91d562fa93a"
+  },
+  "passed": false,
+  "protected_artifacts_unchanged": true,
+  "reason": "RuntimeError: Development network blocked",
+  "status": "stopped",
+  "zero_fit_calls": true
+}

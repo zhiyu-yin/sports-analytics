@@ -1,0 +1,645 @@
+{
+  "recorded_teamgamelog": {
+    "rows": 15,
+    "columns": [
+      "Team_ID",
+      "Game_ID",
+      "GAME_DATE",
+      "MATCHUP",
+      "WL",
+      "W",
+      "L",
+      "W_PCT",
+      "MIN",
+      "FGM",
+      "FGA",
+      "FG_PCT",
+      "FG3M",
+      "FG3A",
+      "FG3_PCT",
+      "FTM",
+      "FTA",
+      "FT_PCT",
+      "OREB",
+      "DREB",
+      "REB",
+      "AST",
+      "STL",
+      "BLK",
+      "TOV",
+      "PF",
+      "PTS"
+    ],
+    "null_counts": {
+      "Team_ID": 0,
+      "Game_ID": 0,
+      "GAME_DATE": 0,
+      "MATCHUP": 0,
+      "WL": 0,
+      "W": 0,
+      "L": 0,
+      "W_PCT": 0,
+      "MIN": 0,
+      "FGM": 0,
+      "FGA": 0,
+      "FG_PCT": 0,
+      "FG3M": 0,
+      "FG3A": 0,
+      "FG3_PCT": 0,
+      "FTM": 0,
+      "FTA": 0,
+      "FT_PCT": 0,
+      "OREB": 0,
+      "DREB": 0,
+      "REB": 0,
+      "AST": 0,
+      "STL": 0,
+      "BLK": 0,
+      "TOV": 0,
+      "PF": 0,
+      "PTS": 0
+    },
+    "types": {
+      "Team_ID": [
+        "int"
+      ],
+      "Game_ID": [
+        "str"
+      ],
+      "GAME_DATE": [
+        "str"
+      ],
+      "MATCHUP": [
+        "str"
+      ],
+      "WL": [
+        "str"
+      ],
+      "W": [
+        "int"
+      ],
+      "L": [
+        "int"
+      ],
+      "W_PCT": [
+        "float"
+      ],
+      "MIN": [
+        "int"
+      ],
+      "FGM": [
+        "int"
+      ],
+      "FGA": [
+        "int"
+      ],
+      "FG_PCT": [
+        "float"
+      ],
+      "FG3M": [
+        "int"
+      ],
+      "FG3A": [
+        "int"
+      ],
+      "FG3_PCT": [
+        "float"
+      ],
+      "FTM": [
+        "int"
+      ],
+      "FTA": [
+        "int"
+      ],
+      "FT_PCT": [
+        "float"
+      ],
+      "OREB": [
+        "int"
+      ],
+      "DREB": [
+        "int"
+      ],
+      "REB": [
+        "int"
+      ],
+      "AST": [
+        "int"
+      ],
+      "STL": [
+        "int"
+      ],
+      "BLK": [
+        "int"
+      ],
+      "TOV": [
+        "int"
+      ],
+      "PF": [
+        "int"
+      ],
+      "PTS": [
+        "int"
+      ]
+    },
+    "examples": [
+      {
+        "Team_ID": 1610612747,
+        "Game_ID": "0022300669",
+        "GAME_DATE": "JAN 30, 2024",
+        "MATCHUP": "LAL @ ATL",
+        "WL": "L",
+        "W": 24,
+        "L": 25,
+        "W_PCT": 0.49,
+        "MIN": 240,
+        "FGM": 48,
+        "FGA": 90,
+        "FG_PCT": 0.533,
+        "FG3M": 12,
+        "FG3A": 33,
+        "FG3_PCT": 0.364,
+        "FTM": 14,
+        "FTA": 25,
+        "FT_PCT": 0.56,
+        "OREB": 7,
+        "DREB": 30,
+        "REB": 37,
+        "AST": 28,
+        "STL": 12,
+        "BLK": 3,
+        "TOV": 14,
+        "PF": 16,
+        "PTS": 122
+      },
+      {
+        "Team_ID": 1610612747,
+        "Game_ID": "0022300662",
+        "GAME_DATE": "JAN 29, 2024",
+        "MATCHUP": "LAL @ HOU",
+        "WL": "L",
+        "W": 24,
+        "L": 24,
+        "W_PCT": 0.5,
+        "MIN": 240,
+        "FGM": 45,
+        "FGA": 91,
+        "FG_PCT": 0.495,
+        "FG3M": 13,
+        "FG3A": 35,
+        "FG3_PCT": 0.371,
+        "FTM": 16,
+        "FTA": 26,
+        "FT_PCT": 0.615,
+        "OREB": 4,
+        "DREB": 31,
+        "REB": 35,
+        "AST": 26,
+        "STL": 10,
+        "BLK": 6,
+        "TOV": 12,
+        "PF": 13,
+        "PTS": 119
+      }
+    ]
+  },
+  "recorded_leaguegamefinder": {
+    "rows": 444,
+    "columns": [
+      "SEASON_ID",
+      "TEAM_ID",
+      "TEAM_ABBREVIATION",
+      "TEAM_NAME",
+      "GAME_ID",
+      "GAME_DATE",
+      "MATCHUP",
+      "WL",
+      "MIN",
+      "PTS",
+      "FGM",
+      "FGA",
+      "FG_PCT",
+      "FG3M",
+      "FG3A",
+      "FG3_PCT",
+      "FTM",
+      "FTA",
+      "FT_PCT",
+      "OREB",
+      "DREB",
+      "REB",
+      "AST",
+      "STL",
+      "BLK",
+      "TOV",
+      "PF",
+      "PLUS_MINUS"
+    ],
+    "null_counts": {
+      "SEASON_ID": 0,
+      "TEAM_ID": 0,
+      "TEAM_ABBREVIATION": 0,
+      "TEAM_NAME": 0,
+      "GAME_ID": 0,
+      "GAME_DATE": 0,
+      "MATCHUP": 0,
+      "WL": 0,
+      "MIN": 0,
+      "PTS": 0,
+      "FGM": 0,
+      "FGA": 0,
+      "FG_PCT": 0,
+      "FG3M": 0,
+      "FG3A": 0,
+      "FG3_PCT": 0,
+      "FTM": 0,
+      "FTA": 0,
+      "FT_PCT": 0,
+      "OREB": 0,
+      "DREB": 0,
+      "REB": 0,
+      "AST": 0,
+      "STL": 0,
+      "BLK": 0,
+      "TOV": 0,
+      "PF": 0,
+      "PLUS_MINUS": 0
+    },
+    "types": {
+      "SEASON_ID": [
+        "str"
+      ],
+      "TEAM_ID": [
+        "int"
+      ],
+      "TEAM_ABBREVIATION": [
+        "str"
+      ],
+      "TEAM_NAME": [
+        "str"
+      ],
+      "GAME_ID": [
+        "str"
+      ],
+      "GAME_DATE": [
+        "str"
+      ],
+      "MATCHUP": [
+        "str"
+      ],
+      "WL": [
+        "str"
+      ],
+      "MIN": [
+        "int"
+      ],
+      "PTS": [
+        "int"
+      ],
+      "FGM": [
+        "int"
+      ],
+      "FGA": [
+        "int"
+      ],
+      "FG_PCT": [
+        "float"
+      ],
+      "FG3M": [
+        "int"
+      ],
+      "FG3A": [
+        "int"
+      ],
+      "FG3_PCT": [
+        "float"
+      ],
+      "FTM": [
+        "int"
+      ],
+      "FTA": [
+        "int"
+      ],
+      "FT_PCT": [
+        "float"
+      ],
+      "OREB": [
+        "int"
+      ],
+      "DREB": [
+        "int"
+      ],
+      "REB": [
+        "int"
+      ],
+      "AST": [
+        "int"
+      ],
+      "STL": [
+        "int"
+      ],
+      "BLK": [
+        "int"
+      ],
+      "TOV": [
+        "int"
+      ],
+      "PF": [
+        "int"
+      ],
+      "PLUS_MINUS": [
+        "float"
+      ]
+    },
+    "examples": [
+      {
+        "SEASON_ID": "22020",
+        "TEAM_ID": 1610612739,
+        "TEAM_ABBREVIATION": "CLE",
+        "TEAM_NAME": "Cleveland Cavaliers",
+        "GAME_ID": "0022000311",
+        "GAME_DATE": "2021-01-31",
+        "MATCHUP": "CLE @ MIN",
+        "WL": "L",
+        "MIN": 239,
+        "PTS": 104,
+        "FGM": 41,
+        "FGA": 84,
+        "FG_PCT": 0.488,
+        "FG3M": 4,
+        "FG3A": 16,
+        "FG3_PCT": 0.25,
+        "FTM": 18,
+        "FTA": 23,
+        "FT_PCT": 0.783,
+        "OREB": 10,
+        "DREB": 45,
+        "REB": 55,
+        "AST": 20,
+        "STL": 3,
+        "BLK": 3,
+        "TOV": 19,
+        "PF": 14,
+        "PLUS_MINUS": -5.0
+      },
+      {
+        "SEASON_ID": "22020",
+        "TEAM_ID": 1610612755,
+        "TEAM_ABBREVIATION": "PHI",
+        "TEAM_NAME": "Philadelphia 76ers",
+        "GAME_ID": "0022000307",
+        "GAME_DATE": "2021-01-31",
+        "MATCHUP": "PHI @ IND",
+        "WL": "W",
+        "MIN": 240,
+        "PTS": 119,
+        "FGM": 45,
+        "FGA": 92,
+        "FG_PCT": 0.489,
+        "FG3M": 8,
+        "FG3A": 26,
+        "FG3_PCT": 0.308,
+        "FTM": 21,
+        "FTA": 31,
+        "FT_PCT": 0.677,
+        "OREB": 14,
+        "DREB": 30,
+        "REB": 44,
+        "AST": 20,
+        "STL": 9,
+        "BLK": 8,
+        "TOV": 12,
+        "PF": 21,
+        "PLUS_MINUS": 9.0
+      }
+    ],
+    "games": 222,
+    "structural_pair_failures": [],
+    "score_conflicts": [
+      {
+        "game_id": "0022000291",
+        "rows": [
+          {
+            "SEASON_ID": "22020",
+            "TEAM_ID": 1610612752,
+            "TEAM_ABBREVIATION": "NYK",
+            "TEAM_NAME": "New York Knicks",
+            "GAME_ID": "0022000291",
+            "GAME_DATE": "2021-01-29",
+            "MATCHUP": "NYK vs. CLE",
+            "WL": "W",
+            "MIN": 240,
+            "PTS": 102,
+            "FGM": 39,
+            "FGA": 80,
+            "FG_PCT": 0.488,
+            "FG3M": 10,
+            "FG3A": 27,
+            "FG3_PCT": 0.37,
+            "FTM": 14,
+            "FTA": 16,
+            "FT_PCT": 0.875,
+            "OREB": 8,
+            "DREB": 33,
+            "REB": 41,
+            "AST": 20,
+            "STL": 8,
+            "BLK": 6,
+            "TOV": 13,
+            "PF": 24,
+            "PLUS_MINUS": 18.0
+          },
+          {
+            "SEASON_ID": "22020",
+            "TEAM_ID": 1610612739,
+            "TEAM_ABBREVIATION": "CLE",
+            "TEAM_NAME": "Cleveland Cavaliers",
+            "GAME_ID": "0022000291",
+            "GAME_DATE": "2021-01-29",
+            "MATCHUP": "CLE @ NYK",
+            "WL": "L",
+            "MIN": 240,
+            "PTS": 81,
+            "FGM": 29,
+            "FGA": 84,
+            "FG_PCT": 0.345,
+            "FG3M": 8,
+            "FG3A": 26,
+            "FG3_PCT": 0.308,
+            "FTM": 15,
+            "FTA": 18,
+            "FT_PCT": 0.833,
+            "OREB": 14,
+            "DREB": 29,
+            "REB": 43,
+            "AST": 15,
+            "STL": 8,
+            "BLK": 5,
+            "TOV": 14,
+            "PF": 20,
+            "PLUS_MINUS": -18.0
+          }
+        ]
+      },
+      {
+        "game_id": "0022000106",
+        "rows": [
+          {
+            "SEASON_ID": "22020",
+            "TEAM_ID": 1610612757,
+            "TEAM_ABBREVIATION": "POR",
+            "TEAM_NAME": "Portland Trail Blazers",
+            "GAME_ID": "0022000106",
+            "GAME_DATE": "2021-01-05",
+            "MATCHUP": "POR vs. CHI",
+            "WL": "L",
+            "MIN": 241,
+            "PTS": 108,
+            "FGM": 39,
+            "FGA": 94,
+            "FG_PCT": 0.415,
+            "FG3M": 19,
+            "FG3A": 51,
+            "FG3_PCT": 0.373,
+            "FTM": 11,
+            "FTA": 17,
+            "FT_PCT": 0.647,
+            "OREB": 10,
+            "DREB": 36,
+            "REB": 46,
+            "AST": 23,
+            "STL": 8,
+            "BLK": 3,
+            "TOV": 11,
+            "PF": 16,
+            "PLUS_MINUS": 1.0
+          },
+          {
+            "SEASON_ID": "22020",
+            "TEAM_ID": 1610612741,
+            "TEAM_ABBREVIATION": "CHI",
+            "TEAM_NAME": "Chicago Bulls",
+            "GAME_ID": "0022000106",
+            "GAME_DATE": "2021-01-05",
+            "MATCHUP": "CHI @ POR",
+            "WL": "W",
+            "MIN": 240,
+            "PTS": 111,
+            "FGM": 40,
+            "FGA": 91,
+            "FG_PCT": 0.44,
+            "FG3M": 16,
+            "FG3A": 41,
+            "FG3_PCT": 0.39,
+            "FTM": 15,
+            "FTA": 18,
+            "FT_PCT": 0.833,
+            "OREB": 11,
+            "DREB": 41,
+            "REB": 52,
+            "AST": 27,
+            "STL": 5,
+            "BLK": 5,
+            "TOV": 15,
+            "PF": 19,
+            "PLUS_MINUS": 3.0
+          }
+        ]
+      }
+    ],
+    "duplicate_team_games": 0,
+    "date_min": "2021-01-01",
+    "date_max": "2021-01-31",
+    "teams": 30
+  },
+  "recorded_advanced": {
+    "game_id": "0022200552",
+    "home_team_id": 1610612739,
+    "away_team_id": 1610612741,
+    "team_statistics": {
+      "homeTeam": {
+        "minutes": "265:00",
+        "estimatedOffensiveRating": 671.3,
+        "offensiveRating": 134.3,
+        "estimatedDefensiveRating": 614.7,
+        "defensiveRating": 122.9,
+        "estimatedNetRating": 56.6,
+        "netRating": 11.3,
+        "assistPercentage": 0.563,
+        "assistToTurnover": 2.7,
+        "assistRatio": 18.1,
+        "offensiveReboundPercentage": 0.269,
+        "defensiveReboundPercentage": 0.765,
+        "reboundPercentage": 0.515,
+        "estimatedTeamTurnoverPercentage": 9.259,
+        "turnoverRatio": 9.3,
+        "effectiveFieldGoalPercentage": 0.609,
+        "trueShootingPercentage": 0.648,
+        "usagePercentage": 1.0,
+        "estimatedUsagePercentage": 0.984,
+        "estimatedPace": 19.65,
+        "pace": 98.26,
+        "pacePer40": 81.89,
+        "possessions": 108.0,
+        "PIE": 0.521
+      },
+      "awayTeam": {
+        "minutes": "265:00",
+        "estimatedOffensiveRating": 614.7,
+        "offensiveRating": 122.9,
+        "estimatedDefensiveRating": 671.3,
+        "defensiveRating": 134.3,
+        "estimatedNetRating": -56.6,
+        "netRating": -11.3,
+        "assistPercentage": 0.468,
+        "assistToTurnover": 3.14,
+        "assistRatio": 15.6,
+        "offensiveReboundPercentage": 0.235,
+        "defensiveReboundPercentage": 0.731,
+        "reboundPercentage": 0.485,
+        "estimatedTeamTurnoverPercentage": 6.422,
+        "turnoverRatio": 6.4,
+        "effectiveFieldGoalPercentage": 0.547,
+        "trueShootingPercentage": 0.609,
+        "usagePercentage": 1.0,
+        "estimatedUsagePercentage": 0.975,
+        "estimatedPace": 19.65,
+        "pace": 98.26,
+        "pacePer40": 81.89,
+        "possessions": 109.0,
+        "PIE": 0.479
+      }
+    },
+    "team_stat_null_count": 0
+  },
+  "recorded_four_factors": {
+    "game_id": "0022200552",
+    "home_team_id": 1610612739,
+    "away_team_id": 1610612741,
+    "team_statistics": {
+      "homeTeam": {
+        "minutes": "265:00",
+        "effectiveFieldGoalPercentage": 0.609,
+        "freeThrowAttemptRate": 0.489,
+        "teamTurnoverPercentage": 0.093,
+        "offensiveReboundPercentage": 0.269,
+        "oppEffectiveFieldGoalPercentage": 0.547,
+        "oppFreeThrowAttemptRate": 0.358,
+        "oppTeamTurnoverPercentage": 0.064,
+        "oppOffensiveReboundPercentage": 0.235
+      },
+      "awayTeam": {
+        "minutes": "265:00",
+        "effectiveFieldGoalPercentage": 0.547,
+        "freeThrowAttemptRate": 0.358,
+        "teamTurnoverPercentage": 0.064,
+        "offensiveReboundPercentage": 0.235,
+        "oppEffectiveFieldGoalPercentage": 0.609,
+        "oppFreeThrowAttemptRate": 0.489,
+        "oppTeamTurnoverPercentage": 0.093,
+        "oppOffensiveReboundPercentage": 0.269
+      }
+    },
+    "team_stat_null_count": 0
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "allow_replay": "Identical already-opened evaluation only; load frozen estimators, never refit",
+  "authorization": "Explicit user authorization for ONE 2024-25 frozen evaluation",
+  "candidate_freeze_sha256": "aa9b7cabf805fb24b40327401e203cbfc74bf44448f8fa5c337db3c7791465d5",
+  "candidates": [
+    "constant_home_prior",
+    "raw_elo",
+    "basketball_features_logistic",
+    "elo_logistic",
+    "features_plus_elo_logistic",
+    "basketball_features_hgb",
+    "features_plus_elo_hgb"
+  ],
+  "elo_updates": "Frozen parameters; chronological pregame updates through 2023-24 and 2024-25",
+  "expected_games": 1230,
+  "forbidden": "2025-26 all access",
+  "historical_label_access": "Prior structural processing remains disclosed; this is the first model-performance opening",
+  "individual_error_analysis": "Deferred",
+  "postopening_bug_policy": "STOP; persist failure ledger; no silent fix/rerun",
+  "primary_comparison": [
+    "features_plus_elo_logistic",
+    "raw_elo"
+  ],
+  "primary_metrics": [
+    "log_loss",
+    "brier_score"
+  ],
+  "secondary_metrics": [
+    "accuracy",
+    "roc_auc",
+    "fixed_bin_calibration"
+  ],
+  "stage": 5,
+  "training": [
+    "2015-16",
+    "2016-17",
+    "2017-18",
+    "2018-19",
+    "2019-20",
+    "2020-21",
+    "2021-22",
+    "2022-23"
+  ]
+}

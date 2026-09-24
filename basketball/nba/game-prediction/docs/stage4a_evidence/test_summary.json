@@ -1,0 +1,13 @@
+{
+  "archived_model_execution_test_modules": 5,
+  "archived_real_data_test_modules": 1,
+  "errors": 0,
+  "failures": 0,
+  "model_fits": 0,
+  "model_performance_evaluations": 0,
+  "network_blocked": true,
+  "passed": true,
+  "sealed_outcome_guard_active": true,
+  "skipped": 0,
+  "tests": 102
+}

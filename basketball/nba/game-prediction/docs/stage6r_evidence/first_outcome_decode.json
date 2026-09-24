@@ -1,0 +1,5 @@
+{
+  "event": "raw JSON outcome decode begins",
+  "reason": "Existing canonical structural validation and rolling history require scores/WL before model evaluation; no individual prediction errors inspected",
+  "timestamp_utc": "2026-09-24T20:49:56.949550+00:00"
+}

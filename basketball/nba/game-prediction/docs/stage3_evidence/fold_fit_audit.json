@@ -1,0 +1,1577 @@
+[
+  {
+    "C": 0.01,
+    "iterations": 20,
+    "model": "basketball_features_logistic",
+    "training_games": 3690,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18"
+    ],
+    "transformed_features": 58,
+    "validation_season": "2018-19"
+  },
+  {
+    "C": 0.01,
+    "iterations": 22,
+    "model": "basketball_features_logistic",
+    "training_games": 4920,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19"
+    ],
+    "transformed_features": 58,
+    "validation_season": "2019-20"
+  },
+  {
+    "C": 0.01,
+    "iterations": 24,
+    "model": "basketball_features_logistic",
+    "training_games": 5979,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20"
+    ],
+    "transformed_features": 58,
+    "validation_season": "2020-21"
+  },
+  {
+    "C": 0.01,
+    "iterations": 22,
+    "model": "basketball_features_logistic",
+    "training_games": 7059,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20",
+      "2020-21"
+    ],
+    "transformed_features": 58,
+    "validation_season": "2021-22"
+  },
+  {
+    "C": 0.01,
+    "iterations": 25,
+    "model": "basketball_features_logistic",
+    "training_games": 8289,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20",
+      "2020-21",
+      "2021-22"
+    ],
+    "transformed_features": 58,
+    "validation_season": "2022-23"
+  },
+  {
+    "C": 0.03,
+    "iterations": 31,
+    "model": "basketball_features_logistic",
+    "training_games": 3690,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18"
+    ],
+    "transformed_features": 58,
+    "validation_season": "2018-19"
+  },
+  {
+    "C": 0.03,
+    "iterations": 36,
+    "model": "basketball_features_logistic",
+    "training_games": 4920,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19"
+    ],
+    "transformed_features": 58,
+    "validation_season": "2019-20"
+  },
+  {
+    "C": 0.03,
+    "iterations": 41,
+    "model": "basketball_features_logistic",
+    "training_games": 5979,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20"
+    ],
+    "transformed_features": 58,
+    "validation_season": "2020-21"
+  },
+  {
+    "C": 0.03,
+    "iterations": 39,
+    "model": "basketball_features_logistic",
+    "training_games": 7059,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20",
+      "2020-21"
+    ],
+    "transformed_features": 58,
+    "validation_season": "2021-22"
+  },
+  {
+    "C": 0.03,
+    "iterations": 40,
+    "model": "basketball_features_logistic",
+    "training_games": 8289,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20",
+      "2020-21",
+      "2021-22"
+    ],
+    "transformed_features": 58,
+    "validation_season": "2022-23"
+  },
+  {
+    "C": 0.1,
+    "iterations": 48,
+    "model": "basketball_features_logistic",
+    "training_games": 3690,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18"
+    ],
+    "transformed_features": 58,
+    "validation_season": "2018-19"
+  },
+  {
+    "C": 0.1,
+    "iterations": 47,
+    "model": "basketball_features_logistic",
+    "training_games": 4920,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19"
+    ],
+    "transformed_features": 58,
+    "validation_season": "2019-20"
+  },
+  {
+    "C": 0.1,
+    "iterations": 53,
+    "model": "basketball_features_logistic",
+    "training_games": 5979,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20"
+    ],
+    "transformed_features": 58,
+    "validation_season": "2020-21"
+  },
+  {
+    "C": 0.1,
+    "iterations": 54,
+    "model": "basketball_features_logistic",
+    "training_games": 7059,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20",
+      "2020-21"
+    ],
+    "transformed_features": 58,
+    "validation_season": "2021-22"
+  },
+  {
+    "C": 0.1,
+    "iterations": 53,
+    "model": "basketball_features_logistic",
+    "training_games": 8289,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20",
+      "2020-21",
+      "2021-22"
+    ],
+    "transformed_features": 58,
+    "validation_season": "2022-23"
+  },
+  {
+    "C": 0.3,
+    "iterations": 63,
+    "model": "basketball_features_logistic",
+    "training_games": 3690,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18"
+    ],
+    "transformed_features": 58,
+    "validation_season": "2018-19"
+  },
+  {
+    "C": 0.3,
+    "iterations": 64,
+    "model": "basketball_features_logistic",
+    "training_games": 4920,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19"
+    ],
+    "transformed_features": 58,
+    "validation_season": "2019-20"
+  },
+  {
+    "C": 0.3,
+    "iterations": 68,
+    "model": "basketball_features_logistic",
+    "training_games": 5979,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20"
+    ],
+    "transformed_features": 58,
+    "validation_season": "2020-21"
+  },
+  {
+    "C": 0.3,
+    "iterations": 58,
+    "model": "basketball_features_logistic",
+    "training_games": 7059,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20",
+      "2020-21"
+    ],
+    "transformed_features": 58,
+    "validation_season": "2021-22"
+  },
+  {
+    "C": 0.3,
+    "iterations": 60,
+    "model": "basketball_features_logistic",
+    "training_games": 8289,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20",
+      "2020-21",
+      "2021-22"
+    ],
+    "transformed_features": 58,
+    "validation_season": "2022-23"
+  },
+  {
+    "C": 1.0,
+    "iterations": 94,
+    "model": "basketball_features_logistic",
+    "training_games": 3690,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18"
+    ],
+    "transformed_features": 58,
+    "validation_season": "2018-19"
+  },
+  {
+    "C": 1.0,
+    "iterations": 122,
+    "model": "basketball_features_logistic",
+    "training_games": 4920,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19"
+    ],
+    "transformed_features": 58,
+    "validation_season": "2019-20"
+  },
+  {
+    "C": 1.0,
+    "iterations": 110,
+    "model": "basketball_features_logistic",
+    "training_games": 5979,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20"
+    ],
+    "transformed_features": 58,
+    "validation_season": "2020-21"
+  },
+  {
+    "C": 1.0,
+    "iterations": 104,
+    "model": "basketball_features_logistic",
+    "training_games": 7059,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20",
+      "2020-21"
+    ],
+    "transformed_features": 58,
+    "validation_season": "2021-22"
+  },
+  {
+    "C": 1.0,
+    "iterations": 126,
+    "model": "basketball_features_logistic",
+    "training_games": 8289,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20",
+      "2020-21",
+      "2021-22"
+    ],
+    "transformed_features": 58,
+    "validation_season": "2022-23"
+  },
+  {
+    "C": 3.0,
+    "iterations": 95,
+    "model": "basketball_features_logistic",
+    "training_games": 3690,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18"
+    ],
+    "transformed_features": 58,
+    "validation_season": "2018-19"
+  },
+  {
+    "C": 3.0,
+    "iterations": 170,
+    "model": "basketball_features_logistic",
+    "training_games": 4920,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19"
+    ],
+    "transformed_features": 58,
+    "validation_season": "2019-20"
+  },
+  {
+    "C": 3.0,
+    "iterations": 152,
+    "model": "basketball_features_logistic",
+    "training_games": 5979,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20"
+    ],
+    "transformed_features": 58,
+    "validation_season": "2020-21"
+  },
+  {
+    "C": 3.0,
+    "iterations": 169,
+    "model": "basketball_features_logistic",
+    "training_games": 7059,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20",
+      "2020-21"
+    ],
+    "transformed_features": 58,
+    "validation_season": "2021-22"
+  },
+  {
+    "C": 3.0,
+    "iterations": 158,
+    "model": "basketball_features_logistic",
+    "training_games": 8289,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20",
+      "2020-21",
+      "2021-22"
+    ],
+    "transformed_features": 58,
+    "validation_season": "2022-23"
+  },
+  {
+    "C": 10.0,
+    "iterations": 210,
+    "model": "basketball_features_logistic",
+    "training_games": 3690,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18"
+    ],
+    "transformed_features": 58,
+    "validation_season": "2018-19"
+  },
+  {
+    "C": 10.0,
+    "iterations": 174,
+    "model": "basketball_features_logistic",
+    "training_games": 4920,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19"
+    ],
+    "transformed_features": 58,
+    "validation_season": "2019-20"
+  },
+  {
+    "C": 10.0,
+    "iterations": 178,
+    "model": "basketball_features_logistic",
+    "training_games": 5979,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20"
+    ],
+    "transformed_features": 58,
+    "validation_season": "2020-21"
+  },
+  {
+    "C": 10.0,
+    "iterations": 181,
+    "model": "basketball_features_logistic",
+    "training_games": 7059,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20",
+      "2020-21"
+    ],
+    "transformed_features": 58,
+    "validation_season": "2021-22"
+  },
+  {
+    "C": 10.0,
+    "iterations": 145,
+    "model": "basketball_features_logistic",
+    "training_games": 8289,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20",
+      "2020-21",
+      "2021-22"
+    ],
+    "transformed_features": 58,
+    "validation_season": "2022-23"
+  },
+  {
+    "C": 0.01,
+    "iterations": 4,
+    "model": "elo_logistic",
+    "training_games": 3690,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18"
+    ],
+    "transformed_features": 1,
+    "validation_season": "2018-19"
+  },
+  {
+    "C": 0.01,
+    "iterations": 4,
+    "model": "elo_logistic",
+    "training_games": 4920,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19"
+    ],
+    "transformed_features": 1,
+    "validation_season": "2019-20"
+  },
+  {
+    "C": 0.01,
+    "iterations": 4,
+    "model": "elo_logistic",
+    "training_games": 5979,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20"
+    ],
+    "transformed_features": 1,
+    "validation_season": "2020-21"
+  },
+  {
+    "C": 0.01,
+    "iterations": 4,
+    "model": "elo_logistic",
+    "training_games": 7059,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20",
+      "2020-21"
+    ],
+    "transformed_features": 1,
+    "validation_season": "2021-22"
+  },
+  {
+    "C": 0.01,
+    "iterations": 4,
+    "model": "elo_logistic",
+    "training_games": 8289,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20",
+      "2020-21",
+      "2021-22"
+    ],
+    "transformed_features": 1,
+    "validation_season": "2022-23"
+  },
+  {
+    "C": 0.03,
+    "iterations": 4,
+    "model": "elo_logistic",
+    "training_games": 3690,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18"
+    ],
+    "transformed_features": 1,
+    "validation_season": "2018-19"
+  },
+  {
+    "C": 0.03,
+    "iterations": 4,
+    "model": "elo_logistic",
+    "training_games": 4920,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19"
+    ],
+    "transformed_features": 1,
+    "validation_season": "2019-20"
+  },
+  {
+    "C": 0.03,
+    "iterations": 4,
+    "model": "elo_logistic",
+    "training_games": 5979,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20"
+    ],
+    "transformed_features": 1,
+    "validation_season": "2020-21"
+  },
+  {
+    "C": 0.03,
+    "iterations": 4,
+    "model": "elo_logistic",
+    "training_games": 7059,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20",
+      "2020-21"
+    ],
+    "transformed_features": 1,
+    "validation_season": "2021-22"
+  },
+  {
+    "C": 0.03,
+    "iterations": 4,
+    "model": "elo_logistic",
+    "training_games": 8289,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20",
+      "2020-21",
+      "2021-22"
+    ],
+    "transformed_features": 1,
+    "validation_season": "2022-23"
+  },
+  {
+    "C": 0.1,
+    "iterations": 5,
+    "model": "elo_logistic",
+    "training_games": 3690,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18"
+    ],
+    "transformed_features": 1,
+    "validation_season": "2018-19"
+  },
+  {
+    "C": 0.1,
+    "iterations": 5,
+    "model": "elo_logistic",
+    "training_games": 4920,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19"
+    ],
+    "transformed_features": 1,
+    "validation_season": "2019-20"
+  },
+  {
+    "C": 0.1,
+    "iterations": 5,
+    "model": "elo_logistic",
+    "training_games": 5979,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20"
+    ],
+    "transformed_features": 1,
+    "validation_season": "2020-21"
+  },
+  {
+    "C": 0.1,
+    "iterations": 5,
+    "model": "elo_logistic",
+    "training_games": 7059,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20",
+      "2020-21"
+    ],
+    "transformed_features": 1,
+    "validation_season": "2021-22"
+  },
+  {
+    "C": 0.1,
+    "iterations": 5,
+    "model": "elo_logistic",
+    "training_games": 8289,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20",
+      "2020-21",
+      "2021-22"
+    ],
+    "transformed_features": 1,
+    "validation_season": "2022-23"
+  },
+  {
+    "C": 0.3,
+    "iterations": 5,
+    "model": "elo_logistic",
+    "training_games": 3690,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18"
+    ],
+    "transformed_features": 1,
+    "validation_season": "2018-19"
+  },
+  {
+    "C": 0.3,
+    "iterations": 5,
+    "model": "elo_logistic",
+    "training_games": 4920,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19"
+    ],
+    "transformed_features": 1,
+    "validation_season": "2019-20"
+  },
+  {
+    "C": 0.3,
+    "iterations": 5,
+    "model": "elo_logistic",
+    "training_games": 5979,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20"
+    ],
+    "transformed_features": 1,
+    "validation_season": "2020-21"
+  },
+  {
+    "C": 0.3,
+    "iterations": 5,
+    "model": "elo_logistic",
+    "training_games": 7059,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20",
+      "2020-21"
+    ],
+    "transformed_features": 1,
+    "validation_season": "2021-22"
+  },
+  {
+    "C": 0.3,
+    "iterations": 5,
+    "model": "elo_logistic",
+    "training_games": 8289,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20",
+      "2020-21",
+      "2021-22"
+    ],
+    "transformed_features": 1,
+    "validation_season": "2022-23"
+  },
+  {
+    "C": 1.0,
+    "iterations": 5,
+    "model": "elo_logistic",
+    "training_games": 3690,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18"
+    ],
+    "transformed_features": 1,
+    "validation_season": "2018-19"
+  },
+  {
+    "C": 1.0,
+    "iterations": 5,
+    "model": "elo_logistic",
+    "training_games": 4920,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19"
+    ],
+    "transformed_features": 1,
+    "validation_season": "2019-20"
+  },
+  {
+    "C": 1.0,
+    "iterations": 5,
+    "model": "elo_logistic",
+    "training_games": 5979,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20"
+    ],
+    "transformed_features": 1,
+    "validation_season": "2020-21"
+  },
+  {
+    "C": 1.0,
+    "iterations": 5,
+    "model": "elo_logistic",
+    "training_games": 7059,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20",
+      "2020-21"
+    ],
+    "transformed_features": 1,
+    "validation_season": "2021-22"
+  },
+  {
+    "C": 1.0,
+    "iterations": 5,
+    "model": "elo_logistic",
+    "training_games": 8289,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20",
+      "2020-21",
+      "2021-22"
+    ],
+    "transformed_features": 1,
+    "validation_season": "2022-23"
+  },
+  {
+    "C": 3.0,
+    "iterations": 5,
+    "model": "elo_logistic",
+    "training_games": 3690,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18"
+    ],
+    "transformed_features": 1,
+    "validation_season": "2018-19"
+  },
+  {
+    "C": 3.0,
+    "iterations": 5,
+    "model": "elo_logistic",
+    "training_games": 4920,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19"
+    ],
+    "transformed_features": 1,
+    "validation_season": "2019-20"
+  },
+  {
+    "C": 3.0,
+    "iterations": 5,
+    "model": "elo_logistic",
+    "training_games": 5979,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20"
+    ],
+    "transformed_features": 1,
+    "validation_season": "2020-21"
+  },
+  {
+    "C": 3.0,
+    "iterations": 5,
+    "model": "elo_logistic",
+    "training_games": 7059,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20",
+      "2020-21"
+    ],
+    "transformed_features": 1,
+    "validation_season": "2021-22"
+  },
+  {
+    "C": 3.0,
+    "iterations": 5,
+    "model": "elo_logistic",
+    "training_games": 8289,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20",
+      "2020-21",
+      "2021-22"
+    ],
+    "transformed_features": 1,
+    "validation_season": "2022-23"
+  },
+  {
+    "C": 10.0,
+    "iterations": 5,
+    "model": "elo_logistic",
+    "training_games": 3690,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18"
+    ],
+    "transformed_features": 1,
+    "validation_season": "2018-19"
+  },
+  {
+    "C": 10.0,
+    "iterations": 5,
+    "model": "elo_logistic",
+    "training_games": 4920,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19"
+    ],
+    "transformed_features": 1,
+    "validation_season": "2019-20"
+  },
+  {
+    "C": 10.0,
+    "iterations": 5,
+    "model": "elo_logistic",
+    "training_games": 5979,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20"
+    ],
+    "transformed_features": 1,
+    "validation_season": "2020-21"
+  },
+  {
+    "C": 10.0,
+    "iterations": 5,
+    "model": "elo_logistic",
+    "training_games": 7059,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20",
+      "2020-21"
+    ],
+    "transformed_features": 1,
+    "validation_season": "2021-22"
+  },
+  {
+    "C": 10.0,
+    "iterations": 5,
+    "model": "elo_logistic",
+    "training_games": 8289,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20",
+      "2020-21",
+      "2021-22"
+    ],
+    "transformed_features": 1,
+    "validation_season": "2022-23"
+  },
+  {
+    "C": 0.01,
+    "iterations": 22,
+    "model": "features_plus_elo_logistic",
+    "training_games": 3690,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18"
+    ],
+    "transformed_features": 59,
+    "validation_season": "2018-19"
+  },
+  {
+    "C": 0.01,
+    "iterations": 24,
+    "model": "features_plus_elo_logistic",
+    "training_games": 4920,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19"
+    ],
+    "transformed_features": 59,
+    "validation_season": "2019-20"
+  },
+  {
+    "C": 0.01,
+    "iterations": 26,
+    "model": "features_plus_elo_logistic",
+    "training_games": 5979,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20"
+    ],
+    "transformed_features": 59,
+    "validation_season": "2020-21"
+  },
+  {
+    "C": 0.01,
+    "iterations": 24,
+    "model": "features_plus_elo_logistic",
+    "training_games": 7059,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20",
+      "2020-21"
+    ],
+    "transformed_features": 59,
+    "validation_season": "2021-22"
+  },
+  {
+    "C": 0.01,
+    "iterations": 29,
+    "model": "features_plus_elo_logistic",
+    "training_games": 8289,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20",
+      "2020-21",
+      "2021-22"
+    ],
+    "transformed_features": 59,
+    "validation_season": "2022-23"
+  },
+  {
+    "C": 0.03,
+    "iterations": 37,
+    "model": "features_plus_elo_logistic",
+    "training_games": 3690,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18"
+    ],
+    "transformed_features": 59,
+    "validation_season": "2018-19"
+  },
+  {
+    "C": 0.03,
+    "iterations": 35,
+    "model": "features_plus_elo_logistic",
+    "training_games": 4920,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19"
+    ],
+    "transformed_features": 59,
+    "validation_season": "2019-20"
+  },
+  {
+    "C": 0.03,
+    "iterations": 40,
+    "model": "features_plus_elo_logistic",
+    "training_games": 5979,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20"
+    ],
+    "transformed_features": 59,
+    "validation_season": "2020-21"
+  },
+  {
+    "C": 0.03,
+    "iterations": 39,
+    "model": "features_plus_elo_logistic",
+    "training_games": 7059,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20",
+      "2020-21"
+    ],
+    "transformed_features": 59,
+    "validation_season": "2021-22"
+  },
+  {
+    "C": 0.03,
+    "iterations": 41,
+    "model": "features_plus_elo_logistic",
+    "training_games": 8289,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20",
+      "2020-21",
+      "2021-22"
+    ],
+    "transformed_features": 59,
+    "validation_season": "2022-23"
+  },
+  {
+    "C": 0.1,
+    "iterations": 49,
+    "model": "features_plus_elo_logistic",
+    "training_games": 3690,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18"
+    ],
+    "transformed_features": 59,
+    "validation_season": "2018-19"
+  },
+  {
+    "C": 0.1,
+    "iterations": 53,
+    "model": "features_plus_elo_logistic",
+    "training_games": 4920,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19"
+    ],
+    "transformed_features": 59,
+    "validation_season": "2019-20"
+  },
+  {
+    "C": 0.1,
+    "iterations": 56,
+    "model": "features_plus_elo_logistic",
+    "training_games": 5979,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20"
+    ],
+    "transformed_features": 59,
+    "validation_season": "2020-21"
+  },
+  {
+    "C": 0.1,
+    "iterations": 53,
+    "model": "features_plus_elo_logistic",
+    "training_games": 7059,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20",
+      "2020-21"
+    ],
+    "transformed_features": 59,
+    "validation_season": "2021-22"
+  },
+  {
+    "C": 0.1,
+    "iterations": 54,
+    "model": "features_plus_elo_logistic",
+    "training_games": 8289,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20",
+      "2020-21",
+      "2021-22"
+    ],
+    "transformed_features": 59,
+    "validation_season": "2022-23"
+  },
+  {
+    "C": 0.3,
+    "iterations": 55,
+    "model": "features_plus_elo_logistic",
+    "training_games": 3690,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18"
+    ],
+    "transformed_features": 59,
+    "validation_season": "2018-19"
+  },
+  {
+    "C": 0.3,
+    "iterations": 66,
+    "model": "features_plus_elo_logistic",
+    "training_games": 4920,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19"
+    ],
+    "transformed_features": 59,
+    "validation_season": "2019-20"
+  },
+  {
+    "C": 0.3,
+    "iterations": 61,
+    "model": "features_plus_elo_logistic",
+    "training_games": 5979,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20"
+    ],
+    "transformed_features": 59,
+    "validation_season": "2020-21"
+  },
+  {
+    "C": 0.3,
+    "iterations": 60,
+    "model": "features_plus_elo_logistic",
+    "training_games": 7059,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20",
+      "2020-21"
+    ],
+    "transformed_features": 59,
+    "validation_season": "2021-22"
+  },
+  {
+    "C": 0.3,
+    "iterations": 63,
+    "model": "features_plus_elo_logistic",
+    "training_games": 8289,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20",
+      "2020-21",
+      "2021-22"
+    ],
+    "transformed_features": 59,
+    "validation_season": "2022-23"
+  },
+  {
+    "C": 1.0,
+    "iterations": 105,
+    "model": "features_plus_elo_logistic",
+    "training_games": 3690,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18"
+    ],
+    "transformed_features": 59,
+    "validation_season": "2018-19"
+  },
+  {
+    "C": 1.0,
+    "iterations": 129,
+    "model": "features_plus_elo_logistic",
+    "training_games": 4920,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19"
+    ],
+    "transformed_features": 59,
+    "validation_season": "2019-20"
+  },
+  {
+    "C": 1.0,
+    "iterations": 71,
+    "model": "features_plus_elo_logistic",
+    "training_games": 5979,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20"
+    ],
+    "transformed_features": 59,
+    "validation_season": "2020-21"
+  },
+  {
+    "C": 1.0,
+    "iterations": 98,
+    "model": "features_plus_elo_logistic",
+    "training_games": 7059,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20",
+      "2020-21"
+    ],
+    "transformed_features": 59,
+    "validation_season": "2021-22"
+  },
+  {
+    "C": 1.0,
+    "iterations": 93,
+    "model": "features_plus_elo_logistic",
+    "training_games": 8289,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20",
+      "2020-21",
+      "2021-22"
+    ],
+    "transformed_features": 59,
+    "validation_season": "2022-23"
+  },
+  {
+    "C": 3.0,
+    "iterations": 94,
+    "model": "features_plus_elo_logistic",
+    "training_games": 3690,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18"
+    ],
+    "transformed_features": 59,
+    "validation_season": "2018-19"
+  },
+  {
+    "C": 3.0,
+    "iterations": 139,
+    "model": "features_plus_elo_logistic",
+    "training_games": 4920,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19"
+    ],
+    "transformed_features": 59,
+    "validation_season": "2019-20"
+  },
+  {
+    "C": 3.0,
+    "iterations": 117,
+    "model": "features_plus_elo_logistic",
+    "training_games": 5979,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20"
+    ],
+    "transformed_features": 59,
+    "validation_season": "2020-21"
+  },
+  {
+    "C": 3.0,
+    "iterations": 70,
+    "model": "features_plus_elo_logistic",
+    "training_games": 7059,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20",
+      "2020-21"
+    ],
+    "transformed_features": 59,
+    "validation_season": "2021-22"
+  },
+  {
+    "C": 3.0,
+    "iterations": 141,
+    "model": "features_plus_elo_logistic",
+    "training_games": 8289,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20",
+      "2020-21",
+      "2021-22"
+    ],
+    "transformed_features": 59,
+    "validation_season": "2022-23"
+  },
+  {
+    "C": 10.0,
+    "iterations": 188,
+    "model": "features_plus_elo_logistic",
+    "training_games": 3690,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18"
+    ],
+    "transformed_features": 59,
+    "validation_season": "2018-19"
+  },
+  {
+    "C": 10.0,
+    "iterations": 149,
+    "model": "features_plus_elo_logistic",
+    "training_games": 4920,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19"
+    ],
+    "transformed_features": 59,
+    "validation_season": "2019-20"
+  },
+  {
+    "C": 10.0,
+    "iterations": 170,
+    "model": "features_plus_elo_logistic",
+    "training_games": 5979,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20"
+    ],
+    "transformed_features": 59,
+    "validation_season": "2020-21"
+  },
+  {
+    "C": 10.0,
+    "iterations": 140,
+    "model": "features_plus_elo_logistic",
+    "training_games": 7059,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20",
+      "2020-21"
+    ],
+    "transformed_features": 59,
+    "validation_season": "2021-22"
+  },
+  {
+    "C": 10.0,
+    "iterations": 185,
+    "model": "features_plus_elo_logistic",
+    "training_games": 8289,
+    "training_seasons": [
+      "2015-16",
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20",
+      "2020-21",
+      "2021-22"
+    ],
+    "transformed_features": 59,
+    "validation_season": "2022-23"
+  }
+]

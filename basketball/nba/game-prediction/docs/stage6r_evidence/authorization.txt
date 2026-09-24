@@ -1,0 +1,777 @@
+We are continuing the project at:
+
+/Users/zhiyuyin/Documents/last time job hunting material/proj/sports-analytics/
+
+Active subproject:
+
+basketball/nba/game-prediction/
+
+Before doing anything, read:
+
+docs/final_holdout_protocol_2025_26.md
+docs/stage6_final_holdout_evaluation.md
+
+Also inspect all Stage 5A and Stage 6 evidence, especially:
+
+docs/stage5a_evidence/final_holdout_freeze.json
+docs/stage5a_evidence/uncertainty_protocol.json
+
+docs/stage6_evidence/authorization.txt
+docs/stage6_evidence/preopening_verification.json
+docs/stage6_evidence/final_opening_ledger.json
+docs/stage6_evidence/acquisition_failure.json
+docs/stage6_evidence/execution_stop.json
+docs/stage6_evidence/completion_status.json
+
+# Stage 6R — FINAL HOLDOUT RECOVERY
+
+## RECOVERY AUTHORIZATION
+
+This message explicitly authorizes recovery from the failed Stage 6 transport
+attempt.
+
+The original Stage 6 attempt MUST remain preserved exactly as a stopped attempt.
+
+Known Stage 6 failure:
+
+- failure occurred during TLS socket construction
+- no NBA HTTP response was received
+- no final-season response body was decoded
+- no 2025-26 outcome was decoded
+- no final prediction was generated
+- no final performance metric was calculated
+- no final model ranking was exposed
+
+The scientific model/protocol freeze remains unchanged.
+
+This recovery authorizes ONLY:
+
+1. repairing the TLS/network execution boundary
+2. proving the repair independently of final-season NBA data
+3. after that proof succeeds, performing one documented recovery execution of the
+   SAME frozen Stage 6 final-holdout protocol
+
+This recovery does NOT authorize:
+
+- tuning
+- model changes
+- feature changes
+- retraining
+- recalibration
+- Elo changes
+- metric changes
+- bootstrap changes
+- candidate expansion
+- cherry-picking
+- silent restart
+- deletion or rewriting of the failed Stage 6 evidence
+- commit or push
+
+--------------------------------------------------
+PART A — TRANSPORT RECOVERY ONLY
+--------------------------------------------------
+
+# 1. PRESERVE THE FAILED STAGE 6 ATTEMPT
+
+Before modifying code:
+
+hash and verify the complete failed Stage 6 evidence.
+
+Preserve unchanged:
+
+stage6_final_holdout_evaluation.md
+authorization.txt
+preopening_verification.json
+final_opening_ledger.json
+acquisition_failure.json
+execution_stop.json
+completion_status.json
+
+and every existing Stage 2–6 scientific artifact.
+
+Do not edit the old opening ledger to look successful.
+
+Do not replace the old failure timestamp.
+
+The original attempt must remain historically visible.
+
+--------------------------------------------------
+2. DIAGNOSE THE TLS FAILURE PRECISELY
+--------------------------------------------------
+
+Confirm the exact technical cause.
+
+Current reported hypothesis:
+
+the Stage 4A startup policy replaced socket.socket with BlockedSocket before SSL
+classes were initialized.
+
+An SSL/TLS socket class then inherited the blocked class.
+
+Later replacing socket.socket locally inside the Stage 6 request did not repair
+that already-created inheritance relationship.
+
+Verify this with a minimal reproducible test.
+
+Document:
+
+- relevant modules/classes
+- import/startup ordering
+- object/class identities
+- inheritance / construction behavior
+- why the Stage 6 local socket replacement was insufficient
+
+Do not access NBA during diagnosis.
+
+--------------------------------------------------
+3. DESIGN A NARROW TRANSPORT CAPABILITY
+
+Do NOT globally remove the Stage 4A network protection.
+
+The normal project environment must continue to block network access.
+
+Implement a narrow Stage 6R acquisition capability whose only purpose is the
+authorized final-season source retrieval.
+
+Preferred properties:
+
+- separate process or isolated execution boundary
+- explicit recovery authorization required
+- no generic force=True switch
+- ordinary tests/runners remain network blocked
+- only approved NBA data source/domain/endpoint is reachable
+- transport capability exists only during authorized acquisition
+- capability terminates after acquisition
+- cached data is used thereafter
+
+Do not weaken normal development policy just to make SSL work.
+
+If the cleanest implementation requires a fresh subprocess/interpreter whose SSL
+module initializes before the development BlockedSocket policy is installed,
+prefer that over mutation of SSL internals.
+
+Document the chosen design.
+
+--------------------------------------------------
+4. NO FINAL-SEASON ACCESS DURING TRANSPORT TESTING
+
+Before any 2025-26 access, prove the TLS repair WITHOUT touching final-season NBA
+data.
+
+Use one or more safe approaches:
+
+A. local TLS test server, if practical
+
+or
+
+B. an approved harmless HTTPS endpoint unrelated to the NBA final dataset
+
+or
+
+C. an existing open-season NBA endpoint/data request whose contents are already
+   historically open, only if needed and explicitly safe
+
+Preferred order:
+
+local/mock TLS construction test first.
+
+The test must prove:
+
+- DNS/socket/TLS construction succeeds inside the authorized transport boundary
+- ordinary development process still blocks network access
+- transport exception cannot be called without recovery authorization
+- transport exception cannot access 2025-26 unless Part B is explicitly entered
+
+Do NOT use 2025-26 schedule as a connectivity probe.
+
+--------------------------------------------------
+5. TLS REGRESSION TESTS
+
+Add tests for the actual bug class.
+
+At minimum:
+
+A. SSL class construction succeeds in authorized transport process.
+
+B. Normal development interpreter still rejects network.
+
+C. TLS transport cannot be activated by ordinary model/test commands.
+
+D. No stale BlockedSocket inheritance remains in the authorized transport process.
+
+E. Removing/revoking transport capability restores fail-closed behavior.
+
+F. A mocked HTTPS request can complete through TLS.
+
+G. A failed transport attempt cannot silently retry.
+
+H. Transport tests do not read 2025-26.
+
+The preflight must test REAL TLS construction rather than only mocked requests.
+
+--------------------------------------------------
+6. VERSIONED RECOVERY CHECKPOINT
+
+Create a new recovery checkpoint.
+
+Do not overwrite the original Stage 6 executor checkpoint.
+
+Create evidence such as:
+
+docs/stage6r_evidence/transport_recovery_design.md
+docs/stage6r_evidence/transport_preflight.json
+docs/stage6r_evidence/protected_artifacts_before.json
+docs/stage6r_evidence/recovery_code_manifest.json
+
+Record:
+
+- exact files changed
+- before hashes
+- after hashes
+- why each change is transport-only
+- confirmation that no scientific recipe changed
+
+--------------------------------------------------
+7. SCIENTIFIC FREEZE REGRESSION GATE
+
+Before final-season retry, verify again:
+
+Primary Model C:
+features_plus_elo_logistic
+
+C = 0.01
+
+32 frozen basketball features + elo_logit
+
+Frozen Elo:
+K = 20
+H = 50
+alpha = 0.50
+
+Frozen training:
+2015-16 through 2022-23 only
+
+Frozen seven-candidate set:
+constant_home_prior
+raw_elo
+basketball_features_logistic
+elo_logistic
+features_plus_elo_logistic
+basketball_features_hgb
+features_plus_elo_hgb
+
+Frozen primary metrics:
+log loss
+Brier score
+
+Frozen uncertainty:
+calendar-date clustered bootstrap
+10,000 replicates
+seed 0
+
+Reproduce protected historical predictions/metrics exactly.
+
+If ANY scientific artifact or recipe changed:
+
+STOP.
+
+--------------------------------------------------
+8. PART A EXIT GATE
+
+Do NOT proceed to final-season acquisition unless ALL are true:
+
+- transport root cause reproduced
+- TLS-compatible repair implemented
+- real TLS construction test passes
+- ordinary network block still passes
+- final-season data still not accessed during repair/preflight
+- all scientific artifacts unchanged
+- recovery executor is narrowly scoped
+- no model fit/tuning occurred
+
+Write:
+
+docs/stage6r_evidence/part_a_exit_gate.json
+
+with PASS/FAIL.
+
+If FAIL:
+
+STOP.
+
+Do not access 2025-26.
+
+--------------------------------------------------
+PART B — DOCUMENTED FINAL-HOLDOUT RECOVERY EXECUTION
+--------------------------------------------------
+
+Proceed to Part B ONLY if Part A passes.
+
+# 9. CREATE A NEW RECOVERY LEDGER
+
+Do NOT reuse or overwrite the original Stage 6 opening ledger.
+
+Create:
+
+docs/stage6r_evidence/recovery_opening_ledger.json
+
+It must link explicitly to:
+
+- original Stage 6 authorization
+- original Stage 6 opening ledger
+- original acquisition failure
+- Stage 6 execution stop
+- Stage 6R recovery authorization
+- Stage 6R transport checkpoint
+- Part A exit gate
+
+Record:
+
+original_attempt_status = stopped_before_response
+
+recovery_reason =
+TLS transport integration defect
+
+scientific_protocol_changed = false
+
+model_recipe_changed = false
+
+final_outcome_previously_decoded = false
+
+final_performance_previously_exposed = false
+
+Then record a new timestamp immediately before the recovery physical-access call.
+
+The new ledger must exist durably BEFORE final-season recovery access.
+
+--------------------------------------------------
+10. RECOVERY ATTEMPT POLICY
+
+Permit ONE recovery acquisition attempt under the repaired transport boundary.
+
+If transport fails again BEFORE any NBA response/outcome exposure:
+
+STOP and preserve evidence.
+
+Do NOT automatically try a third time.
+
+If an integrity/data anomaly occurs:
+
+STOP.
+
+Do not score a subset.
+
+Do not silently repair final-season data after seeing outcomes.
+
+--------------------------------------------------
+11. ACQUIRE 2025-26
+
+Retrieve the 2025-26 NBA Regular Season using the same maintained,
+provenance-preserving source approach used in prior seasons.
+
+Do not assume game count.
+
+Record:
+
+- endpoint
+- parameters
+- response status
+- retrieval timestamps
+- schema
+- raw row count
+- SHA-256
+- nba_api version
+- transport/recovery checkpoint hash
+
+Preserve the raw response before transformation.
+
+--------------------------------------------------
+12. VALIDATE FULL FINAL SEASON BEFORE SCORING
+
+Apply the established ingestion validation:
+
+- unique (game_id, team_id)
+- exactly two teams
+- one designated home / one away
+- reciprocal opponent identities
+- same date
+- complementary W/L
+- score validity
+- scoring arithmetic
+- rebound consistency
+- anomaly table
+- complete-season scope checks
+
+If neutral-site/home-away anomalies occur:
+
+do NOT invent a new reconciliation rule.
+
+Use the existing provenance-preserving reconciliation philosophy.
+
+If a genuinely new unresolved anomaly requires analytical judgment:
+
+STOP before model scoring and ask for review.
+
+--------------------------------------------------
+13. GENERATE EXACT FROZEN FEATURES
+
+Use exactly Stage 1B V1 features.
+
+No new predictor.
+
+No neutral-site feature.
+
+No player/injury/odds data.
+
+No changed rolling window.
+
+No changed rest definition.
+
+No new historical training information.
+
+Run leakage checks.
+
+--------------------------------------------------
+14. LOAD SAVED FROZEN ESTIMATORS
+
+Do not refit logistic/HGB candidates.
+
+Use the exact saved/frozen estimators after hash verification.
+
+For Elo:
+
+parameters frozen.
+
+Carry legitimate Elo state chronologically through completed 2023-24 and 2024-25
+history, then predict/update sequentially through 2025-26.
+
+No margin update.
+
+--------------------------------------------------
+15. FULL-SEASON PREDICTIONS BEFORE ANALYSIS
+
+Generate all seven candidate probabilities across the validated final season.
+
+Do not inspect individual errors.
+
+Do not compute model-specific exploratory diagnostics until aggregate results are
+persisted.
+
+Every candidate must cover the exact same validated game set.
+
+--------------------------------------------------
+16. FINAL METRICS
+
+Use exactly frozen metric code.
+
+For all seven:
+
+n_games
+log_loss
+brier_score
+accuracy
+roc_auc
+
+Primary comparison:
+
+features_plus_elo_logistic - raw_elo
+
+Report:
+
+delta_log_loss
+delta_brier
+delta_accuracy
+delta_roc_auc
+
+Directional replication:
+
+REPLICATED:
+delta_log_loss < 0 AND delta_brier < 0
+
+MIXED:
+one negative, one nonnegative
+
+NOT REPLICATED:
+both nonnegative
+
+Do not reinterpret after seeing outcome.
+
+--------------------------------------------------
+17. FROZEN UNCERTAINTY PROCEDURE
+
+Run the exact Stage 5A uncertainty protocol:
+
+paired losses:
+Model C - Elo
+
+for:
+
+log loss
+Brier
+
+Report:
+
+mean
+median
+Q25
+Q75
+
+Calendar-date cluster bootstrap:
+
+10,000 replicates
+seed 0
+numpy.random.default_rng(0)
+
+Resample unique calendar dates with replacement.
+
+All games on selected date move together.
+
+Same bootstrap draws for both primary metrics.
+
+Report:
+
+bootstrap mean
+bootstrap SE
+2.5% percentile
+97.5% percentile
+
+Label:
+
+date-clustered descriptive bootstrap interval
+
+No p-values.
+
+No method switching.
+
+--------------------------------------------------
+18. CALIBRATION
+
+Use frozen ten bins.
+
+Primary:
+
+raw Elo
+Model C
+
+Report:
+
+ECE
+mean prediction
+observed designated-home win rate
+bin counts
+sparse bins
+
+All seven may be reported descriptively.
+
+No recalibration.
+
+--------------------------------------------------
+19. CROSS-SEASON CONFIRMATION
+
+Create a three-row table:
+
+2023-24 development validation
+2024-25 pre-holdout
+2025-26 final holdout
+
+For Elo and Model C:
+
+log loss
+Brier
+accuracy
+AUC
+
+and Model C minus Elo deltas.
+
+Do not pool seasons.
+
+--------------------------------------------------
+20. FINAL ARTIFACTS
+
+Create:
+
+data/processed/stage6r_predictions_2025_26.parquet
+
+docs/stage6r_evidence/final_holdout_metrics.csv
+docs/stage6r_evidence/primary_comparison.csv
+docs/stage6r_evidence/cross_season_confirmation.csv
+docs/stage6r_evidence/paired_loss_summary.csv
+docs/stage6r_evidence/date_cluster_bootstrap.csv
+
+docs/stage6r_evidence/calibration_raw_elo.csv
+docs/stage6r_evidence/calibration_model_c.csv
+docs/stage6r_evidence/calibration_summary.csv
+
+docs/stage6r_evidence/first_access.json
+docs/stage6r_evidence/first_response.json
+docs/stage6r_evidence/first_outcome_decode.json
+
+docs/stage6r_evidence/build_manifest.json
+docs/stage6r_evidence/replay_verification.json
+
+Do NOT overwrite the stopped Stage 6 evidence.
+
+--------------------------------------------------
+21. AGGREGATE RESULTS BEFORE ERROR ANALYSIS
+
+Persist:
+
+- predictions
+- metrics
+- primary comparison
+- uncertainty
+- calibration
+
+before any individual-game error inspection.
+
+Prefer to perform NO individual-game error analysis in Stage 6R.
+
+--------------------------------------------------
+22. REPLAY
+
+After successful recovery evaluation:
+
+allow one deterministic replay from cached final data.
+
+No network.
+
+No fits.
+
+No new model selection.
+
+It must reproduce:
+
+predictions
+metrics
+bootstrap
+calibration
+
+The replay is reproducibility evidence only.
+
+It is NOT an independent final test.
+
+--------------------------------------------------
+23. RECOVERY DOCUMENT
+
+Create:
+
+docs/stage6r_final_holdout_recovery.md
+
+Include:
+
+1. Original Stage 6 stop
+2. Why no final performance was exposed
+3. Explicit recovery authorization
+4. TLS root cause
+5. Transport-only fix
+6. Part A TLS preflight
+7. Scientific freeze regression
+8. Recovery ledger
+9. Final-season acquisition
+10. Season validation
+11. Frozen prediction protocol
+12. Seven candidate metrics
+13. Primary Model C vs Elo comparison
+14. Directional replication result
+15. Date-cluster bootstrap
+16. Calibration
+17. Three-season confirmation
+18. Reproducibility
+19. Limitations
+20. Recovery status
+21. Post-holdout next steps
+
+Do not describe the recovery as the first physical access attempt.
+
+Do accurately state that the original attempt failed before receiving final-season
+data/performance.
+
+--------------------------------------------------
+24. EXECUTION SUCCESS CRITERIA
+
+Stage 6R execution succeeds only if:
+
+1. original stopped Stage 6 evidence remains unchanged
+
+2. transport fix is isolated from scientific/model code
+
+3. TLS construction is tested before final recovery access
+
+4. scientific freeze is unchanged
+
+5. recovery ledger exists before access
+
+6. complete final regular season validates
+
+7. no fit/tuning occurs
+
+8. all seven frozen candidates cover identical games
+
+9. primary comparison follows frozen definitions
+
+10. bootstrap follows frozen specification
+
+11. aggregate results persist before error analysis
+
+12. replay is deterministic
+
+Scientific success is separate.
+
+Model C may win, lose or be mixed.
+
+--------------------------------------------------
+25. FINAL RESPONSE TO ME
+
+When finished report:
+
+A. TRANSPORT RECOVERY
+
+1. Did Part A pass?
+2. What exactly caused the TLS failure?
+3. How was it fixed without weakening normal development network blocking?
+4. Did TLS regression testing succeed before final access?
+
+B. FINAL HOLDOUT
+
+5. Did recovery execution complete cleanly?
+6. How many 2025-26 regular-season games were validated?
+7. Metrics for all seven candidates.
+
+8. PRIMARY Model C vs raw Elo:
+   delta log loss
+   delta Brier
+
+9. Directional replication:
+   replicated / mixed / not replicated
+
+10. Date-cluster bootstrap 95% descriptive intervals for both deltas.
+
+11. Did either interval include zero?
+
+12. Cross-season Model C vs Elo results:
+    2023-24
+    2024-25
+    2025-26
+
+13. Which frozen model had lowest final log loss?
+    Descriptive only.
+
+14. Which had lowest Brier?
+    Descriptive only.
+
+15. Model C vs Elo calibration comparison.
+
+16. Total tests passing.
+
+17. Confirm:
+    no tuning
+    no statistical-model refit
+    no feature change
+    original failed Stage 6 evidence preserved
+
+18. Exact path:
+    docs/stage6r_final_holdout_recovery.md
+
+Do not commit.
+Do not push.
+Do not modify models after final results.

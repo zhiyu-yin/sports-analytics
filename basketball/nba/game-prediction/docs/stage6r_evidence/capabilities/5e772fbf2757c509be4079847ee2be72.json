@@ -1,0 +1,9 @@
+{
+  "authorization_sha256": "8337cbd0b269ad28750d1c04fbdfb9f5304a613c514fd0e840613cbc0f5e2a2c",
+  "created_at_utc": "2026-09-24T20:49:55.735125+00:00",
+  "gate_sha256": "7c3e88ce877278b6ece9a4be16aefb2ef5c416ab36e2eb873bc399ec5c6d6ccc",
+  "ledger_sha256": "661d4c994f1be2c7d49c41044d13d15c7e70a650a95d9bef5572d774afffb249",
+  "mode": "part_b",
+  "nonce": "bf51168b316419d7a2128b6412abe28f43d04837cef6591bf3be2ea89cc92eb1",
+  "worker_sha256": "cdf5cf314440038b2cb6d3169ed49fd45204c93e88d87527d92c43f2980ca8e0"
+}

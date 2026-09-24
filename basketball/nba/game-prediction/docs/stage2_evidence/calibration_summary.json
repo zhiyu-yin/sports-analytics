@@ -1,0 +1,16 @@
+{
+  "constant_home_prior": {
+    "bins_below_30": 0,
+    "fixed_bin_ece": 0.028084011694198167,
+    "mean_probability": 0.5711734425885071,
+    "observed_home_win_rate": 0.5430894308943089,
+    "populated_bins": 1
+  },
+  "elo": {
+    "bins_below_30": 2,
+    "fixed_bin_ece": 0.03312779921306949,
+    "mean_probability": 0.5627078412804299,
+    "observed_home_win_rate": 0.5430894308943089,
+    "populated_bins": 9
+  }
+}

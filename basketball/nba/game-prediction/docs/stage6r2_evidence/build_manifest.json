@@ -1,0 +1,32 @@
+{
+  "code_sha256": {
+    "stage6r2/common.py": "67fdd395f6948f710da0a11d1e6a42dadf8b2583f8c979097ad994566f7ed244",
+    "stage6r2/evaluation.py": "d9f62583609a01361fc25b2fd8131ee4cc5c74fa2f1e915686e0aa88f941fadf",
+    "stage6r2/reconcile.py": "541a38eb08659193c0a7cf3e9aa4f6fe587cd32981416aa2dc0e08cc6b602ca6",
+    "stage6r2/run.py": "c3c5213535c61ac6ab086fe62939271a634429bb5af343774644ef0c96db0360",
+    "stage6r2/schedule_facts.py": "a14a2acfa121cfe27e6f1b684dac481b351e052174b5f4b5c44d9dbe85e159c2",
+    "stage6r2/schedule_worker.py": "f46583efd47370b9551fff1d815a31706f2c951d4f2fb3b9e21ac34ae39c1fb6",
+    "stage6r2/test_completion.py": "a55ebbb04c86efe9fd68adad089e50805f8015a931d953314c29ef863d6f23f1"
+  },
+  "fit_calls": 0,
+  "output_sha256": {
+    "calibration_basketball_features_hgb.csv": "dbd9bf918bd2b657c34e67399a8dc340fd8cfa7028f0c6fe601f543b53e01c48",
+    "calibration_basketball_features_logistic.csv": "fd65498adddfe0fcc66bf1c47193bd70416d53558ee5531992f061781d1be196",
+    "calibration_constant_home_prior.csv": "6ea90316ef7006ae1d0e040bd7abcc4e93ab8056c19a283b80a20a215e39e2c9",
+    "calibration_elo_logistic.csv": "39e87e005ab189193256c98ce12d55d6320494ad9bd79959ce313cd36596be52",
+    "calibration_features_plus_elo_hgb.csv": "8c3bb7f7d0a3efdac42a28e5cff78cb4464c8b9208b7ae9e826cd6d7083f8bc1",
+    "calibration_model_c.csv": "24b4c71960713a0a778d3fd0633e662b9e95cf09f1381e504c9626c356266948",
+    "calibration_raw_elo.csv": "869300bfbf46f22f2273e5282fe45c463797b7de3aac5c948876e515a9816338",
+    "calibration_summary.csv": "f9af8a580329e365814b0f2428d4a71d022420ecce9ca70dcd1d48edca4ba7a2",
+    "cross_season_confirmation.csv": "eb27d84729d352b99901c475b78ea37e5ea3dee1c84f4b00e948d52a981ac5d1",
+    "date_cluster_bootstrap.csv": "89f95c76bff3893b6fe4eb4dcc124878a4e67a8ba1c2a998c9af0b8f226ef9fc",
+    "final_holdout_metrics.csv": "abeb55faa3722f50bf49304a1bb9b5919131bbba149c90ce156adcd27241b58f",
+    "paired_loss_summary.csv": "bb0f664601ae893666e7a1c5bda6bfab5ddfad13ac332c174e0721d83de2fbed",
+    "predictions.parquet": "574a6fe646fba05edf3fdaecb1e131486d08e470fdf64ff511a8550f7396105f",
+    "primary_comparison.csv": "0811750b7d086ed656c9776761b5d27a40eb7c1e334293eef9a5c9199f3700eb"
+  },
+  "passed": true,
+  "protected_files_unchanged": 360,
+  "status": "aggregate_evaluation_completed",
+  "validated_games": 1230
+}

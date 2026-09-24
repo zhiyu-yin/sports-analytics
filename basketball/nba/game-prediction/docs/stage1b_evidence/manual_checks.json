@@ -1,0 +1,663 @@
+{
+  "method": "Independent Python list slicing, sums and calendar arithmetic; no rolling/shift implementation reused.",
+  "all_team_feature_scalar_comparisons": 31980,
+  "all_comparisons_passed": true,
+  "all_game_identities_match_stage1a": true,
+  "manual_examples": [
+    {
+      "case": "season_opener",
+      "team": "LAL",
+      "team_id": 1610612747,
+      "target_game_id": "0022300061",
+      "target_date": "2023-10-24",
+      "all_prior_games": [],
+      "last_7_days_game_ids": [],
+      "features_independently_checked": {
+        "games_played_before": 0,
+        "season_win_pct_before": null,
+        "rest_days": null,
+        "games_last_7_days": 0,
+        "is_back_to_back": 0,
+        "win_pct_last_5": null,
+        "point_diff_avg_last_5": null,
+        "pts_for_avg_last_5": null,
+        "pts_against_avg_last_5": null,
+        "win_pct_last_10": null,
+        "point_diff_avg_last_10": null,
+        "pts_for_avg_last_10": null,
+        "pts_against_avg_last_10": null
+      },
+      "rolling_arithmetic": {
+        "5": {
+          "status": "missing: only 0 prior games, requires 5"
+        },
+        "10": {
+          "status": "missing: only 0 prior games, requires 10"
+        }
+      },
+      "rest_arithmetic": "missing: no prior season game",
+      "matched_output": true
+    },
+    {
+      "case": "sixth_game",
+      "team": "LAL",
+      "team_id": 1610612747,
+      "target_game_id": "0022300134",
+      "target_date": "2023-11-04",
+      "all_prior_games": [
+        {
+          "game_id": "0022300061",
+          "date": "2023-10-24",
+          "opponent": "DEN",
+          "pts_for": 107,
+          "pts_against": 119,
+          "point_diff": -12,
+          "win": 0
+        },
+        {
+          "game_id": "0022300076",
+          "date": "2023-10-26",
+          "opponent": "PHX",
+          "pts_for": 100,
+          "pts_against": 95,
+          "point_diff": 5,
+          "win": 1
+        },
+        {
+          "game_id": "0022300100",
+          "date": "2023-10-29",
+          "opponent": "SAC",
+          "pts_for": 127,
+          "pts_against": 132,
+          "point_diff": -5,
+          "win": 0
+        },
+        {
+          "game_id": "0022300111",
+          "date": "2023-10-30",
+          "opponent": "ORL",
+          "pts_for": 106,
+          "pts_against": 103,
+          "point_diff": 3,
+          "win": 1
+        },
+        {
+          "game_id": "0022300127",
+          "date": "2023-11-01",
+          "opponent": "LAC",
+          "pts_for": 130,
+          "pts_against": 125,
+          "point_diff": 5,
+          "win": 1
+        }
+      ],
+      "last_7_days_game_ids": [
+        "0022300100",
+        "0022300111",
+        "0022300127"
+      ],
+      "features_independently_checked": {
+        "games_played_before": 5,
+        "season_win_pct_before": 0.6,
+        "rest_days": 2,
+        "games_last_7_days": 3,
+        "is_back_to_back": 0,
+        "win_pct_last_5": 0.6,
+        "point_diff_avg_last_5": -0.8,
+        "pts_for_avg_last_5": 114.0,
+        "pts_against_avg_last_5": 114.8,
+        "win_pct_last_10": null,
+        "point_diff_avg_last_10": null,
+        "pts_for_avg_last_10": null,
+        "pts_against_avg_last_10": null
+      },
+      "rolling_arithmetic": {
+        "5": {
+          "game_ids": [
+            "0022300061",
+            "0022300076",
+            "0022300100",
+            "0022300111",
+            "0022300127"
+          ],
+          "win_pct_arithmetic": "3 / 5 = 0.6",
+          "point_diff_arithmetic": "(-12 + 5 + -5 + 3 + 5) / 5 = -0.8",
+          "points_for_arithmetic": "570 / 5 = 114.0",
+          "points_against_arithmetic": "574 / 5 = 114.8"
+        },
+        "10": {
+          "status": "missing: only 5 prior games, requires 10"
+        }
+      },
+      "rest_arithmetic": "(2023-11-04 - 2023-11-01).days - 1 = 2",
+      "matched_output": true
+    },
+    {
+      "case": "eleventh_game",
+      "team": "LAL",
+      "team_id": 1610612747,
+      "target_game_id": "0022300026",
+      "target_date": "2023-11-14",
+      "all_prior_games": [
+        {
+          "game_id": "0022300061",
+          "date": "2023-10-24",
+          "opponent": "DEN",
+          "pts_for": 107,
+          "pts_against": 119,
+          "point_diff": -12,
+          "win": 0
+        },
+        {
+          "game_id": "0022300076",
+          "date": "2023-10-26",
+          "opponent": "PHX",
+          "pts_for": 100,
+          "pts_against": 95,
+          "point_diff": 5,
+          "win": 1
+        },
+        {
+          "game_id": "0022300100",
+          "date": "2023-10-29",
+          "opponent": "SAC",
+          "pts_for": 127,
+          "pts_against": 132,
+          "point_diff": -5,
+          "win": 0
+        },
+        {
+          "game_id": "0022300111",
+          "date": "2023-10-30",
+          "opponent": "ORL",
+          "pts_for": 106,
+          "pts_against": 103,
+          "point_diff": 3,
+          "win": 1
+        },
+        {
+          "game_id": "0022300127",
+          "date": "2023-11-01",
+          "opponent": "LAC",
+          "pts_for": 130,
+          "pts_against": 125,
+          "point_diff": 5,
+          "win": 1
+        },
+        {
+          "game_id": "0022300134",
+          "date": "2023-11-04",
+          "opponent": "ORL",
+          "pts_for": 101,
+          "pts_against": 120,
+          "point_diff": -19,
+          "win": 0
+        },
+        {
+          "game_id": "0022300150",
+          "date": "2023-11-06",
+          "opponent": "MIA",
+          "pts_for": 107,
+          "pts_against": 108,
+          "point_diff": -1,
+          "win": 0
+        },
+        {
+          "game_id": "0022300163",
+          "date": "2023-11-08",
+          "opponent": "HOU",
+          "pts_for": 94,
+          "pts_against": 128,
+          "point_diff": -34,
+          "win": 0
+        },
+        {
+          "game_id": "0022300015",
+          "date": "2023-11-10",
+          "opponent": "PHX",
+          "pts_for": 122,
+          "pts_against": 119,
+          "point_diff": 3,
+          "win": 1
+        },
+        {
+          "game_id": "0022300187",
+          "date": "2023-11-12",
+          "opponent": "POR",
+          "pts_for": 116,
+          "pts_against": 110,
+          "point_diff": 6,
+          "win": 1
+        }
+      ],
+      "last_7_days_game_ids": [
+        "0022300163",
+        "0022300015",
+        "0022300187"
+      ],
+      "features_independently_checked": {
+        "games_played_before": 10,
+        "season_win_pct_before": 0.5,
+        "rest_days": 1,
+        "games_last_7_days": 3,
+        "is_back_to_back": 0,
+        "win_pct_last_5": 0.4,
+        "point_diff_avg_last_5": -9.0,
+        "pts_for_avg_last_5": 108.0,
+        "pts_against_avg_last_5": 117.0,
+        "win_pct_last_10": 0.5,
+        "point_diff_avg_last_10": -4.9,
+        "pts_for_avg_last_10": 111.0,
+        "pts_against_avg_last_10": 115.9
+      },
+      "rolling_arithmetic": {
+        "5": {
+          "game_ids": [
+            "0022300134",
+            "0022300150",
+            "0022300163",
+            "0022300015",
+            "0022300187"
+          ],
+          "win_pct_arithmetic": "2 / 5 = 0.4",
+          "point_diff_arithmetic": "(-19 + -1 + -34 + 3 + 6) / 5 = -9.0",
+          "points_for_arithmetic": "540 / 5 = 108.0",
+          "points_against_arithmetic": "585 / 5 = 117.0"
+        },
+        "10": {
+          "game_ids": [
+            "0022300061",
+            "0022300076",
+            "0022300100",
+            "0022300111",
+            "0022300127",
+            "0022300134",
+            "0022300150",
+            "0022300163",
+            "0022300015",
+            "0022300187"
+          ],
+          "win_pct_arithmetic": "5 / 10 = 0.5",
+          "point_diff_arithmetic": "(-12 + 5 + -5 + 3 + 5 + -19 + -1 + -34 + 3 + 6) / 10 = -4.9",
+          "points_for_arithmetic": "1110 / 10 = 111.0",
+          "points_against_arithmetic": "1159 / 10 = 115.9"
+        }
+      },
+      "rest_arithmetic": "(2023-11-14 - 2023-11-12).days - 1 = 1",
+      "matched_output": true
+    },
+    {
+      "case": "back_to_back",
+      "team": "LAL",
+      "team_id": 1610612747,
+      "target_game_id": "0022300198",
+      "target_date": "2023-11-15",
+      "all_prior_games": [
+        {
+          "game_id": "0022300061",
+          "date": "2023-10-24",
+          "opponent": "DEN",
+          "pts_for": 107,
+          "pts_against": 119,
+          "point_diff": -12,
+          "win": 0
+        },
+        {
+          "game_id": "0022300076",
+          "date": "2023-10-26",
+          "opponent": "PHX",
+          "pts_for": 100,
+          "pts_against": 95,
+          "point_diff": 5,
+          "win": 1
+        },
+        {
+          "game_id": "0022300100",
+          "date": "2023-10-29",
+          "opponent": "SAC",
+          "pts_for": 127,
+          "pts_against": 132,
+          "point_diff": -5,
+          "win": 0
+        },
+        {
+          "game_id": "0022300111",
+          "date": "2023-10-30",
+          "opponent": "ORL",
+          "pts_for": 106,
+          "pts_against": 103,
+          "point_diff": 3,
+          "win": 1
+        },
+        {
+          "game_id": "0022300127",
+          "date": "2023-11-01",
+          "opponent": "LAC",
+          "pts_for": 130,
+          "pts_against": 125,
+          "point_diff": 5,
+          "win": 1
+        },
+        {
+          "game_id": "0022300134",
+          "date": "2023-11-04",
+          "opponent": "ORL",
+          "pts_for": 101,
+          "pts_against": 120,
+          "point_diff": -19,
+          "win": 0
+        },
+        {
+          "game_id": "0022300150",
+          "date": "2023-11-06",
+          "opponent": "MIA",
+          "pts_for": 107,
+          "pts_against": 108,
+          "point_diff": -1,
+          "win": 0
+        },
+        {
+          "game_id": "0022300163",
+          "date": "2023-11-08",
+          "opponent": "HOU",
+          "pts_for": 94,
+          "pts_against": 128,
+          "point_diff": -34,
+          "win": 0
+        },
+        {
+          "game_id": "0022300015",
+          "date": "2023-11-10",
+          "opponent": "PHX",
+          "pts_for": 122,
+          "pts_against": 119,
+          "point_diff": 3,
+          "win": 1
+        },
+        {
+          "game_id": "0022300187",
+          "date": "2023-11-12",
+          "opponent": "POR",
+          "pts_for": 116,
+          "pts_against": 110,
+          "point_diff": 6,
+          "win": 1
+        },
+        {
+          "game_id": "0022300026",
+          "date": "2023-11-14",
+          "opponent": "MEM",
+          "pts_for": 134,
+          "pts_against": 107,
+          "point_diff": 27,
+          "win": 1
+        }
+      ],
+      "last_7_days_game_ids": [
+        "0022300163",
+        "0022300015",
+        "0022300187",
+        "0022300026"
+      ],
+      "features_independently_checked": {
+        "games_played_before": 11,
+        "season_win_pct_before": 0.5454545454545454,
+        "rest_days": 0,
+        "games_last_7_days": 4,
+        "is_back_to_back": 1,
+        "win_pct_last_5": 0.6,
+        "point_diff_avg_last_5": 0.2,
+        "pts_for_avg_last_5": 114.6,
+        "pts_against_avg_last_5": 114.4,
+        "win_pct_last_10": 0.6,
+        "point_diff_avg_last_10": -1.0,
+        "pts_for_avg_last_10": 113.7,
+        "pts_against_avg_last_10": 114.7
+      },
+      "rolling_arithmetic": {
+        "5": {
+          "game_ids": [
+            "0022300150",
+            "0022300163",
+            "0022300015",
+            "0022300187",
+            "0022300026"
+          ],
+          "win_pct_arithmetic": "3 / 5 = 0.6",
+          "point_diff_arithmetic": "(-1 + -34 + 3 + 6 + 27) / 5 = 0.2",
+          "points_for_arithmetic": "573 / 5 = 114.6",
+          "points_against_arithmetic": "572 / 5 = 114.4"
+        },
+        "10": {
+          "game_ids": [
+            "0022300076",
+            "0022300100",
+            "0022300111",
+            "0022300127",
+            "0022300134",
+            "0022300150",
+            "0022300163",
+            "0022300015",
+            "0022300187",
+            "0022300026"
+          ],
+          "win_pct_arithmetic": "6 / 10 = 0.6",
+          "point_diff_arithmetic": "(5 + -5 + 3 + 5 + -19 + -1 + -34 + 3 + 6 + 27) / 10 = -1.0",
+          "points_for_arithmetic": "1137 / 10 = 113.7",
+          "points_against_arithmetic": "1147 / 10 = 114.7"
+        }
+      },
+      "rest_arithmetic": "(2023-11-15 - 2023-11-14).days - 1 = 0",
+      "matched_output": true
+    },
+    {
+      "case": "dense_recent_schedule",
+      "team": "ATL",
+      "team_id": 1610612737,
+      "target_game_id": "0022300055",
+      "target_date": "2023-11-28",
+      "all_prior_games": [
+        {
+          "game_id": "0022300063",
+          "date": "2023-10-25",
+          "opponent": "CHA",
+          "pts_for": 110,
+          "pts_against": 116,
+          "point_diff": -6,
+          "win": 0
+        },
+        {
+          "game_id": "0022300079",
+          "date": "2023-10-27",
+          "opponent": "NYK",
+          "pts_for": 120,
+          "pts_against": 126,
+          "point_diff": -6,
+          "win": 0
+        },
+        {
+          "game_id": "0022300097",
+          "date": "2023-10-29",
+          "opponent": "MIL",
+          "pts_for": 127,
+          "pts_against": 110,
+          "point_diff": 17,
+          "win": 1
+        },
+        {
+          "game_id": "0022300104",
+          "date": "2023-10-30",
+          "opponent": "MIN",
+          "pts_for": 127,
+          "pts_against": 113,
+          "point_diff": 14,
+          "win": 1
+        },
+        {
+          "game_id": "0022300117",
+          "date": "2023-11-01",
+          "opponent": "WAS",
+          "pts_for": 130,
+          "pts_against": 121,
+          "point_diff": 9,
+          "win": 1
+        },
+        {
+          "game_id": "0022300135",
+          "date": "2023-11-04",
+          "opponent": "NOP",
+          "pts_for": 123,
+          "pts_against": 105,
+          "point_diff": 18,
+          "win": 1
+        },
+        {
+          "game_id": "0022300155",
+          "date": "2023-11-06",
+          "opponent": "OKC",
+          "pts_for": 117,
+          "pts_against": 126,
+          "point_diff": -9,
+          "win": 0
+        },
+        {
+          "game_id": "0022300172",
+          "date": "2023-11-09",
+          "opponent": "ORL",
+          "pts_for": 120,
+          "pts_against": 119,
+          "point_diff": 1,
+          "win": 1
+        },
+        {
+          "game_id": "0022300175",
+          "date": "2023-11-11",
+          "opponent": "MIA",
+          "pts_for": 109,
+          "pts_against": 117,
+          "point_diff": -8,
+          "win": 0
+        },
+        {
+          "game_id": "0022300018",
+          "date": "2023-11-14",
+          "opponent": "DET",
+          "pts_for": 126,
+          "pts_against": 120,
+          "point_diff": 6,
+          "win": 1
+        },
+        {
+          "game_id": "0022300193",
+          "date": "2023-11-15",
+          "opponent": "NYK",
+          "pts_for": 114,
+          "pts_against": 116,
+          "point_diff": -2,
+          "win": 0
+        },
+        {
+          "game_id": "0022300029",
+          "date": "2023-11-17",
+          "opponent": "PHI",
+          "pts_for": 116,
+          "pts_against": 126,
+          "point_diff": -10,
+          "win": 0
+        },
+        {
+          "game_id": "0022300039",
+          "date": "2023-11-21",
+          "opponent": "IND",
+          "pts_for": 152,
+          "pts_against": 157,
+          "point_diff": -5,
+          "win": 0
+        },
+        {
+          "game_id": "0022300227",
+          "date": "2023-11-22",
+          "opponent": "BKN",
+          "pts_for": 147,
+          "pts_against": 145,
+          "point_diff": 2,
+          "win": 1
+        },
+        {
+          "game_id": "0022300241",
+          "date": "2023-11-25",
+          "opponent": "WAS",
+          "pts_for": 136,
+          "pts_against": 108,
+          "point_diff": 28,
+          "win": 1
+        },
+        {
+          "game_id": "0022300246",
+          "date": "2023-11-26",
+          "opponent": "BOS",
+          "pts_for": 103,
+          "pts_against": 113,
+          "point_diff": -10,
+          "win": 0
+        }
+      ],
+      "last_7_days_game_ids": [
+        "0022300039",
+        "0022300227",
+        "0022300241",
+        "0022300246"
+      ],
+      "features_independently_checked": {
+        "games_played_before": 16,
+        "season_win_pct_before": 0.5,
+        "rest_days": 1,
+        "games_last_7_days": 4,
+        "is_back_to_back": 0,
+        "win_pct_last_5": 0.4,
+        "point_diff_avg_last_5": 1.0,
+        "pts_for_avg_last_5": 130.8,
+        "pts_against_avg_last_5": 129.8,
+        "win_pct_last_10": 0.4,
+        "point_diff_avg_last_10": -0.7,
+        "pts_for_avg_last_10": 124.0,
+        "pts_against_avg_last_10": 124.7
+      },
+      "rolling_arithmetic": {
+        "5": {
+          "game_ids": [
+            "0022300029",
+            "0022300039",
+            "0022300227",
+            "0022300241",
+            "0022300246"
+          ],
+          "win_pct_arithmetic": "2 / 5 = 0.4",
+          "point_diff_arithmetic": "(-10 + -5 + 2 + 28 + -10) / 5 = 1.0",
+          "points_for_arithmetic": "654 / 5 = 130.8",
+          "points_against_arithmetic": "649 / 5 = 129.8"
+        },
+        "10": {
+          "game_ids": [
+            "0022300155",
+            "0022300172",
+            "0022300175",
+            "0022300018",
+            "0022300193",
+            "0022300029",
+            "0022300039",
+            "0022300227",
+            "0022300241",
+            "0022300246"
+          ],
+          "win_pct_arithmetic": "4 / 10 = 0.4",
+          "point_diff_arithmetic": "(-9 + 1 + -8 + 6 + -2 + -10 + -5 + 2 + 28 + -10) / 10 = -0.7",
+          "points_for_arithmetic": "1240 / 10 = 124.0",
+          "points_against_arithmetic": "1247 / 10 = 124.7"
+        }
+      },
+      "rest_arithmetic": "(2023-11-28 - 2023-11-26).days - 1 = 1",
+      "matched_output": true
+    }
+  ]
+}

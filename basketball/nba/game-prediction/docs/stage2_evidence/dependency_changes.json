@@ -1,0 +1,16 @@
+{
+  "added": {
+    "contourpy": "1.3.2",
+    "cycler": "0.12.1",
+    "fonttools": "4.65.0",
+    "kiwisolver": "1.5.1",
+    "matplotlib": "3.10.9",
+    "packaging": "26.3",
+    "pillow": "12.3.0",
+    "pyparsing": "3.3.3"
+  },
+  "current_requirements_sha256": "be9e743df57ac8d9eab43679640fc5b2ee114d7640cec5e1b5a3be0892e57df4",
+  "existing_versions_unchanged": true,
+  "old_requirements_sha256": "78d6c5240b94883047266482bd5282d08e089a6d1d46f77f55ca891a852a6e2b",
+  "pip_check": "No broken requirements found."
+}

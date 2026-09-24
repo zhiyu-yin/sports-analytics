@@ -1,0 +1,7 @@
+{
+  "authorization_sha256": "37c3d5e554cb9fe0d246d8651497e5105dfe04320a4d3046f6de33266945a00e",
+  "created_at_utc": "2026-09-24T20:58:41.902482+00:00",
+  "mode": "local_tls",
+  "nonce": "802346bede4049ebf73eb6a60a27aba2075a15863e61567fc06126b13680fde0",
+  "worker_sha256": "8ee0898a8b013fd2de80de81d479a88370832e3b4022a9a91f39f310cfb00c47"
+}

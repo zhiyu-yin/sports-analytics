@@ -1,0 +1,15 @@
+{
+  "code_sha256": {
+    "stage6r/execute.py": "a79f3de6eb77481a026fd2a42f283b4a194cdf158a1d8d4acedd3d06dd7b7e5c",
+    "stage6r/historical_regression.py": "860f3e4f1f43699a9ce953957df750f920596dddccbdba2dd771848699469707",
+    "stage6r/part_a.py": "5f9526cf1934f8467d2b2d64e5efaaa458f9b170cfa5fb73bb383828c5d3957f",
+    "stage6r/support.py": "b181d24b8be5b7b9bad285520f990369e76631530cfb4426ae01ec347b8d8a06",
+    "stage6r/test_transport.py": "9d6642062866852258154f05e4e38c6bf384a2919e9a94da50a3beac414e3c71",
+    "stage6r/transport_worker.py": "cdf5cf314440038b2cb6d3169ed49fd45204c93e88d87527d92c43f2980ca8e0"
+  },
+  "fit_calls": 0,
+  "passed": false,
+  "protected_files_unchanged": true,
+  "reason": "ValueError: Incomplete or structurally unresolved season: STOP without scoring",
+  "status": "stopped"
+}

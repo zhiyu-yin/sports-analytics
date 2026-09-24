@@ -1,0 +1,31 @@
+{
+  "constant_prior": {
+    "p_home_train": 0.5711734425885072,
+    "training_games": 9519,
+    "training_home_wins": 5437
+  },
+  "initial_rating": 1500,
+  "internal_seasons": [
+    "2018-19",
+    "2019-20",
+    "2020-21",
+    "2021-22",
+    "2022-23"
+  ],
+  "outcome_file_sha256": "9718b3dad5de6b9ae8eecfc689f227f7ea29b2f5838c628cd5f16b1a44741f8a",
+  "parameters": {
+    "H": 50.0,
+    "K": 20.0,
+    "alpha": 0.5
+  },
+  "scale": 400,
+  "selected_before_validation_outcome_load": true,
+  "selection": "pooled internal-training log loss",
+  "tie_break": [
+    "log_loss ascending (no rounding/tolerance)",
+    "brier_score ascending",
+    "K ascending",
+    "H ascending",
+    "alpha descending"
+  ]
+}

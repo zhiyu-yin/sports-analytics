@@ -1,0 +1,25 @@
+{
+  "evidence_sha256": {
+    "acquisition_failure.json": "2fb866d42fcb687523d4ce7615a80e44ed282b151e3ff2aab944ebd3d637c8e4",
+    "authorization.txt": "bcb32fb1d28411889f881229ef59990774468fa370ee368b2fbf4edd5fd5315a",
+    "baseline_test_run.txt": "170f59e2a76a6d5df13b916137a5a0e5e411ff084de0e4f1271a471068acdea0",
+    "baseline_test_summary.json": "6c5b768f4d9a865a973875a3062836363fb1d708d3b9e04a5d604616cf4f2a30",
+    "build_manifest.json": "dd4a2c20e60185a4824e0f25db0ffa5c372f4de3dd833d76f1b9260ff95dc5dd",
+    "completion_status.json": "764a998ab96c2a87a2042dc35e786574ec4affcfbecfb099dd6d05473999d349",
+    "execution_stop.json": "e5e66a1a6cad5219c09e09bfabfb450877e3eebf92a10ee3207fbcbbdca41222",
+    "final_opening_ledger.json": "0754767c5a8a6c15d99cf28050d34605b31b692340c20b66673bc73e7c31eaa8",
+    "final_verification.json": "0a1026ac5a3839f45fc4df14fbb9091fbd0602294eed60868fb17fd39c92523a",
+    "first_access.json": "b9f2f797351c205e9d72d09d8f340eeec1fd18b21cad26e047dfef5935596c08",
+    "first_outcome_decode.json": "8b74f7a1af00f09a96b31b9ab850b079abefa1539b1abee637fa2cea46133060",
+    "preimplementation_verification.json": "39ac36e9a540d9b5487e7073d5407b3241fc6c915f42d9dfd32e7365a6852b79",
+    "preopening_verification.json": "13129a69a1d863a9b31946cd7550de00955c451d7d8c97b5ff16404ebbc01c36",
+    "replay_verification.json": "f22a8ed7778bd96e295e5c6b6a25ada9487ab50507a834c70ce4901427ba5e0a",
+    "stage5a_protected_before.json": "9d21538019d0316d1325ec5b287ae9f4019cb72a227c510204f64a2dd73c8705",
+    "test_run.txt": "e93cbe19666c0c200c4b190e61ca3de97335162c3331a5b32758e7048bf2c36a",
+    "test_summary.json": "5a791b30c0a58f4a96141be0f5ec4e42c2d70dacc95014de92d8ec435918b238"
+  },
+  "execution_passed": false,
+  "prior_artifacts_unchanged": true,
+  "report_sha256": "89f8fce4d1ec548be5492fd1e909e81e8a40e0b6695f06ae7342467491549c62",
+  "status": "stopped_pending_explicit_recovery_decision"
+}

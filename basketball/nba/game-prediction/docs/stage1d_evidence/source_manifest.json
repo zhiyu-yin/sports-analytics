@@ -1,0 +1,129 @@
+{
+  "source": "NBA official schedule endpoint (independent of LeagueGameLog MATCHUP)",
+  "url": "https://stats.nba.com/stats/scheduleleaguev2?LeagueID=00&Season=2024-25",
+  "parameters": {
+    "LeagueID": "00",
+    "Season": "2024-25"
+  },
+  "retrieved_at_utc": "2026-09-24T16:41:04.821997+00:00",
+  "timestamp_method": "UTC filesystem completion time of initial successful request JSON extraction",
+  "nba_api_version": "1.11.4",
+  "source_meta": {
+    "version": 1,
+    "request": "http://nba.cloud/league/00/2024-25/scheduleleaguev2?Format=json",
+    "time": "2025-10-27T10:36:14.3614Z"
+  },
+  "parsed_response_sha256": "869ea4632eb96ac25e4882d92a215b792b19f3d98e89150859987490da00afa5",
+  "hash_note": "Hash is of parsed JSON serialization, not wire response; only factual extracts retained in project.",
+  "facts": [
+    {
+      "gameId": "0022400147",
+      "gameCode": "20241102/MIAWAS",
+      "gameDateEst": "2024-11-02T00:00:00Z",
+      "arenaName": "Arena CDMX",
+      "arenaCity": "Mexico City",
+      "arenaState": "MX",
+      "isNeutral": true,
+      "gameLabel": "NBA Mexico City Game",
+      "gameSubLabel": "",
+      "seriesText": "Neutral Site",
+      "homeTeam": {
+        "teamId": 1610612764,
+        "teamTricode": "WAS"
+      },
+      "awayTeam": {
+        "teamId": 1610612748,
+        "teamTricode": "MIA"
+      }
+    },
+    {
+      "gameId": "0022401229",
+      "gameCode": "20241214/ATLMIL",
+      "gameDateEst": "2024-12-14T00:00:00Z",
+      "arenaName": "T-Mobile Arena",
+      "arenaCity": "Las Vegas",
+      "arenaState": "NV",
+      "isNeutral": true,
+      "gameLabel": "Emirates NBA Cup",
+      "gameSubLabel": "East Semifinal",
+      "seriesText": "Neutral Site",
+      "homeTeam": {
+        "teamId": 1610612749,
+        "teamTricode": "MIL"
+      },
+      "awayTeam": {
+        "teamId": 1610612737,
+        "teamTricode": "ATL"
+      }
+    },
+    {
+      "gameId": "0022401230",
+      "gameCode": "20241214/HOUOKC",
+      "gameDateEst": "2024-12-14T00:00:00Z",
+      "arenaName": "T-Mobile Arena",
+      "arenaCity": "Las Vegas",
+      "arenaState": "NV",
+      "isNeutral": true,
+      "gameLabel": "Emirates NBA Cup",
+      "gameSubLabel": "West Semifinal",
+      "seriesText": "Neutral Site",
+      "homeTeam": {
+        "teamId": 1610612760,
+        "teamTricode": "OKC"
+      },
+      "awayTeam": {
+        "teamId": 1610612745,
+        "teamTricode": "HOU"
+      }
+    },
+    {
+      "gameId": "0022400621",
+      "gameCode": "20250123/SASIND",
+      "gameDateEst": "2025-01-23T00:00:00Z",
+      "arenaName": "Accor Arena",
+      "arenaCity": "Paris",
+      "arenaState": "FR",
+      "isNeutral": true,
+      "gameLabel": "NBA Paris Games",
+      "gameSubLabel": "",
+      "seriesText": "Paris",
+      "homeTeam": {
+        "teamId": 1610612754,
+        "teamTricode": "IND"
+      },
+      "awayTeam": {
+        "teamId": 1610612759,
+        "teamTricode": "SAS"
+      }
+    },
+    {
+      "gameId": "0022400633",
+      "gameCode": "20250125/INDSAS",
+      "gameDateEst": "2025-01-25T00:00:00Z",
+      "arenaName": "Accor Arena",
+      "arenaCity": "Paris",
+      "arenaState": "FR",
+      "isNeutral": true,
+      "gameLabel": "NBA Paris Games",
+      "gameSubLabel": "",
+      "seriesText": "Paris",
+      "homeTeam": {
+        "teamId": 1610612759,
+        "teamTricode": "SAS"
+      },
+      "awayTeam": {
+        "teamId": 1610612754,
+        "teamTricode": "IND"
+      }
+    }
+  ],
+  "regular_season_games": 1230,
+  "regular_season_neutral_games": 5,
+  "conflicts_found": false,
+  "page_access_note": "Five official NBA game pages opened via web; text view omitted explicit sides. Direct HTML request returned 403; no bypass. Used maintained official schedule client successfully.",
+  "corroboration": {
+    "url": "https://www.nba.com/news/victor-wembanyama-returns-to-france-spurs-pacers-nba-paris-games-2025",
+    "observed": "Indiana designated home first Paris game; San Antonio second.",
+    "inspected_at_utc": "2026-09-24T16:42:29.905274+00:00"
+  }
+}

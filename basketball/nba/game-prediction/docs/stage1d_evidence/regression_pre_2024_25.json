@@ -1,0 +1,277 @@
+{
+  "comparisons": [
+    {
+      "season": "2015-16",
+      "sha256": "65b4a24bb7f61f4241db8b2045268e01f1940c262a83f5bb15882414a4f90654",
+      "table": "team_games",
+      "values_dtypes_equal": true
+    },
+    {
+      "season": "2015-16",
+      "sha256": "d162475856bc539d2f4541addb936734343c32e4200bfc51d1ac773b5ab632c2",
+      "table": "games",
+      "values_dtypes_equal": true
+    },
+    {
+      "season": "2015-16",
+      "sha256": "d4a0a18a99e177b34007d3099388ca46533d9e2f2b4cb52477f64cfcf2916df0",
+      "table": "game_outcomes",
+      "values_dtypes_equal": true
+    },
+    {
+      "season": "2015-16",
+      "sha256": "3f83445baf3fc126e8e9f17d7cf0430da803561412047e22a218f0f2654ffbc1",
+      "table": "team_pregame_features",
+      "values_dtypes_equal": true
+    },
+    {
+      "season": "2015-16",
+      "sha256": "80d13a71f69494ad7b82318ad595799319699660750e6b2f61dc7ec777a6d8d0",
+      "table": "game_features",
+      "values_dtypes_equal": true
+    },
+    {
+      "season": "2016-17",
+      "sha256": "795b53e3ffaeb18489eb67b1d4848b5dc84730b9c6cdcb1205488a262af92b82",
+      "table": "team_games",
+      "values_dtypes_equal": true
+    },
+    {
+      "season": "2016-17",
+      "sha256": "0d8dd3e3bd836ab46d942e471f8f01254108f2fd8d82aa82000cb28ead2480c0",
+      "table": "games",
+      "values_dtypes_equal": true
+    },
+    {
+      "season": "2016-17",
+      "sha256": "08a48b2a16a2a2ebfc69491ee81ba3e5b08f5841c7ae1adf2d8faca7ed7a609d",
+      "table": "game_outcomes",
+      "values_dtypes_equal": true
+    },
+    {
+      "season": "2016-17",
+      "sha256": "80fa6b588b5e8ae09177e7c377e7549081a3db958b0dbc69467720769df9b6f2",
+      "table": "team_pregame_features",
+      "values_dtypes_equal": true
+    },
+    {
+      "season": "2016-17",
+      "sha256": "684894c0eedd0a1ee07dd60e8fcbdc91a7c5e90d53653a9cf7ff602d27b8d192",
+      "table": "game_features",
+      "values_dtypes_equal": true
+    },
+    {
+      "season": "2017-18",
+      "sha256": "303bf228a63872adb32504451dd3aa825a4fada23b39d73ca6926415e151746b",
+      "table": "team_games",
+      "values_dtypes_equal": true
+    },
+    {
+      "season": "2017-18",
+      "sha256": "9197a9073bdefa0c13b7d95324680a7bc901c6741d223184da63499cbe6a9e3b",
+      "table": "games",
+      "values_dtypes_equal": true
+    },
+    {
+      "season": "2017-18",
+      "sha256": "1c525bb3d358bc273be0d0b0787b5b252413d4acfd7cd6d8924fc5e4b7de6bc3",
+      "table": "game_outcomes",
+      "values_dtypes_equal": true
+    },
+    {
+      "season": "2017-18",
+      "sha256": "f135d6fc358856d4b0b7d5325db91247712f3b505400a2dea68ec4f7bd0de492",
+      "table": "team_pregame_features",
+      "values_dtypes_equal": true
+    },
+    {
+      "season": "2017-18",
+      "sha256": "78379313eb08d1e506a52b162c788a012b62baa79dff25f875f37a992b56f18f",
+      "table": "game_features",
+      "values_dtypes_equal": true
+    },
+    {
+      "season": "2018-19",
+      "sha256": "6c8fcfe480151d8079788c461e99c3fe8ec1d2b95e73706659a401b3366c932b",
+      "table": "team_games",
+      "values_dtypes_equal": true
+    },
+    {
+      "season": "2018-19",
+      "sha256": "593bf7561b6d6eb8646ac2ec47fdfa4ba8f898062f6bb93f5ea11aa8f1fd04bd",
+      "table": "games",
+      "values_dtypes_equal": true
+    },
+    {
+      "season": "2018-19",
+      "sha256": "43c0d2a4f219d0e7abc95d4bc60aa5e462c959b68a5452e23caa677913c48b67",
+      "table": "game_outcomes",
+      "values_dtypes_equal": true
+    },
+    {
+      "season": "2018-19",
+      "sha256": "371ae653852a6ebeffa5e370110cf4bddd6bd48eebb281a5dd8c5b7909f07ea7",
+      "table": "team_pregame_features",
+      "values_dtypes_equal": true
+    },
+    {
+      "season": "2018-19",
+      "sha256": "3f3314f36144862561bca403d6e41bf5f5bb7792ef266ca503c3a5c1ef363eda",
+      "table": "game_features",
+      "values_dtypes_equal": true
+    },
+    {
+      "season": "2019-20",
+      "sha256": "f128c136ebd04274e8d4f7321220f79cbc911538b5ac5ed66b26a93dc4dce92b",
+      "table": "team_games",
+      "values_dtypes_equal": true
+    },
+    {
+      "season": "2019-20",
+      "sha256": "a37b47af4ae488ad963f1bf496b2cb07c60e481fa9bb42401789b40aa7224a8e",
+      "table": "games",
+      "values_dtypes_equal": true
+    },
+    {
+      "season": "2019-20",
+      "sha256": "eb2acc6fcea04306a9192fbe00618f7294c98a841f921e053a2ebbeb94de55d7",
+      "table": "game_outcomes",
+      "values_dtypes_equal": true
+    },
+    {
+      "season": "2019-20",
+      "sha256": "14772f691c2087a758f588a38f929e1af9dea119cd948074306b8d40f2cfca72",
+      "table": "team_pregame_features",
+      "values_dtypes_equal": true
+    },
+    {
+      "season": "2019-20",
+      "sha256": "c1125d584214ca68fdfff49d1c50866c69df9538eeec6cc9b4f5855bca3c5304",
+      "table": "game_features",
+      "values_dtypes_equal": true
+    },
+    {
+      "season": "2020-21",
+      "sha256": "11e4ad68c2e0cda42913728074583731cde8f13103cb9267be3e477853cb2810",
+      "table": "team_games",
+      "values_dtypes_equal": true
+    },
+    {
+      "season": "2020-21",
+      "sha256": "a5a0fafa7de8c6572c282bb124c60883b52c47b1eac6c04b870a2600b3543da1",
+      "table": "games",
+      "values_dtypes_equal": true
+    },
+    {
+      "season": "2020-21",
+      "sha256": "a1bbff0c09ad46976f49ed246c592b0fa47e42cdf4a943949bdfb3d752b3840a",
+      "table": "game_outcomes",
+      "values_dtypes_equal": true
+    },
+    {
+      "season": "2020-21",
+      "sha256": "3be208e0ed36d297a251e9c2736d185413433303a4151a081f42bb5d7528e248",
+      "table": "team_pregame_features",
+      "values_dtypes_equal": true
+    },
+    {
+      "season": "2020-21",
+      "sha256": "3abb25185937e9cb3771732478c158a7a2bdc3962d518e2fc8888f360d6d6379",
+      "table": "game_features",
+      "values_dtypes_equal": true
+    },
+    {
+      "season": "2021-22",
+      "sha256": "2c0f38b23b7a27633c59d8f5fea9c5636d0dc265bde32551307f7a9a391cf22b",
+      "table": "team_games",
+      "values_dtypes_equal": true
+    },
+    {
+      "season": "2021-22",
+      "sha256": "b8e6fac019c140d5e03d5d8ff6afb13caa95556ce401ea3e68624cdd1132ac93",
+      "table": "games",
+      "values_dtypes_equal": true
+    },
+    {
+      "season": "2021-22",
+      "sha256": "b9fa3c59c8a8aca923ad91c8033ac7083b673b61066440a938102a45143e7683",
+      "table": "game_outcomes",
+      "values_dtypes_equal": true
+    },
+    {
+      "season": "2021-22",
+      "sha256": "8683c755d6c194514d168b796cc21dcab40af558f313e083520b2c0d1127e7fa",
+      "table": "team_pregame_features",
+      "values_dtypes_equal": true
+    },
+    {
+      "season": "2021-22",
+      "sha256": "c2b9a68ffcbd081d78e55c96672970ecdaf5b830f94771013f6a3aa0f1af49ad",
+      "table": "game_features",
+      "values_dtypes_equal": true
+    },
+    {
+      "season": "2022-23",
+      "sha256": "e86c58a17730ee38c9edd7f8fa2c2793021f30f7120034f21fd4e0ed734cd81f",
+      "table": "team_games",
+      "values_dtypes_equal": true
+    },
+    {
+      "season": "2022-23",
+      "sha256": "06947ef5660aa4904f6351df51ff4765d0515709ba58f6dd1338dcf979bf2bbb",
+      "table": "games",
+      "values_dtypes_equal": true
+    },
+    {
+      "season": "2022-23",
+      "sha256": "0171663a6f010e5b342cef158a6f74a5e0ded606c5721dde8359d2ab7b438c80",
+      "table": "game_outcomes",
+      "values_dtypes_equal": true
+    },
+    {
+      "season": "2022-23",
+      "sha256": "f6d5839e43cc9e66dacba2ecf9481a6ac0cca324669ae789445c04ab37631c75",
+      "table": "team_pregame_features",
+      "values_dtypes_equal": true
+    },
+    {
+      "season": "2022-23",
+      "sha256": "f44575f97e5be8fa1cdf546b4907b6efdb6cbee1200c6e09a025921b619584ed",
+      "table": "game_features",
+      "values_dtypes_equal": true
+    },
+    {
+      "season": "2023-24",
+      "sha256": "c82ebe48cc8385bd73694c98ca0fefaea7f13f11e6a0dc23c803b6a687f87faa",
+      "table": "team_games",
+      "values_dtypes_equal": true
+    },
+    {
+      "season": "2023-24",
+      "sha256": "0959cd2404adcbdb209795e1e47f292b1eacc281c2e3186d7ed2a830b4d53cb3",
+      "table": "games",
+      "values_dtypes_equal": true
+    },
+    {
+      "season": "2023-24",
+      "sha256": "f517f0d63be261ce401bda09dbc586e25bba0cb20d2e14ebaceaeec04668a03b",
+      "table": "game_outcomes",
+      "values_dtypes_equal": true
+    },
+    {
+      "season": "2023-24",
+      "sha256": "4d2699b0b20a1015d62019ee5d4f12011ff4f7c4d5685ddbd80ee6d774e23dfd",
+      "table": "team_pregame_features",
+      "values_dtypes_equal": true
+    },
+    {
+      "season": "2023-24",
+      "sha256": "918cd95a88fa77bf64bb9bbfb8917cddd23d566fc900bc514c5972b78ad99822",
+      "table": "game_features",
+      "values_dtypes_equal": true
+    }
+  ],
+  "passed": true,
+  "prior_combined_slices_exact": true,
+  "protected_files_unchanged": true
+}

@@ -1,0 +1,14 @@
+{
+  "errors": 0,
+  "failures": 0,
+  "network_sockets_blocked": true,
+  "test_sha256": {
+    "tests/test_elo.py": "584a511c79dbbed61b6a2a04ff489e21d8f7ec6b2887afcfe1f01d6d778c9523",
+    "tests/test_features.py": "c337945575963b19ddb185ae41d1ca2122e677c0baace2772ae8c0e0420359b0",
+    "tests/test_ingestion.py": "bdc0303ac1ea9827d06e23dbf8dd98e01dd4bb56d769973053d7738b4b64a4a2",
+    "tests/test_metrics.py": "4f6f80134cbe655ee505bc29117af4aca918c49788529c4ec6f4e21589b9443f",
+    "tests/test_multiseason.py": "9aa249439de1d3e64919a5cd40474670e324f656704105360911eb9643c5a763",
+    "tests/test_reconciliation.py": "3ccfa59064afeb0ef756b8c43d7fd7c49d10031eff0770df072477b750564d65"
+  },
+  "tests": 107
+}

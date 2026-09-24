@@ -1,0 +1,22 @@
+{
+  "basketball_features_hgb": {
+    "bins_below_30": 2,
+    "fixed_bin_ece": 0.035436492003180296,
+    "populated_bins": 9
+  },
+  "features_plus_elo_hgb": {
+    "bins_below_30": 2,
+    "fixed_bin_ece": 0.050303684834115646,
+    "populated_bins": 9
+  },
+  "features_plus_elo_logistic": {
+    "bins_below_30": 2,
+    "fixed_bin_ece": 0.043671769535385215,
+    "populated_bins": 10
+  },
+  "raw_elo": {
+    "bins_below_30": 2,
+    "fixed_bin_ece": 0.03312779921306949,
+    "populated_bins": 9
+  }
+}

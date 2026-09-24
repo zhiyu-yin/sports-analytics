@@ -1,0 +1,15 @@
+{
+  "archived_model_execution_tests_run": false,
+  "commit_or_push": false,
+  "figure_visually_reviewed": true,
+  "git_status": "No Git repository present; hash comparison used",
+  "local_markdown_links_resolved": 45,
+  "manifest_sha256": "f6261431c065bde4c3eba9b7b84bb1eac479ed08c67c35ceb01999dc692ef75f",
+  "models_rerun": false,
+  "old_stage_evidence_unchanged": true,
+  "ordinary_safe_tests_passed": 138,
+  "passed": true,
+  "presentation_tables_match_frozen_csvs": true,
+  "protected_preexisting_files_unchanged": 537,
+  "scientific_artifacts_changed": false
+}

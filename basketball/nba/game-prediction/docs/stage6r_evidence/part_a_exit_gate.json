@@ -1,0 +1,18 @@
+{
+  "created_at_utc": "2026-09-24T20:49:33.192546+00:00",
+  "final_data_access_during_part_a": false,
+  "fit_calls": 0,
+  "ordinary_network_block_passed": true,
+  "passed": true,
+  "protected_count": 313,
+  "real_tls_test_passed": true,
+  "recovery_code_manifest_sha256": "388dc7aaf5412e71568cbbe10b355e981a38f3bab53037881aa8f27e64592897",
+  "root_cause_reproduced": true,
+  "scientific_artifacts_unchanged": true,
+  "scientific_freeze_verification_sha256": "79238bc9467908103d13101779c4893466d70e3fc897c91e4a25f0f70b76df75",
+  "scope": "Isolated single-use exact-endpoint acquisition capability; local TLS only in Part A",
+  "tests": 169,
+  "tls_compatible_repair": true,
+  "transport_preflight_sha256": "3f0083bd5ef668cca96e6dd4139d152dc4a27c9613b0b8c52fdeaa0757f22d70",
+  "tuning_calls": 0
+}

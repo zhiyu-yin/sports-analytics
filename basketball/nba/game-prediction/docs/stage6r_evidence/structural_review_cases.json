@@ -1,0 +1,72 @@
+{
+  "cases": [
+    {
+      "date": "2025-11-01",
+      "game_id": "0022500147",
+      "matchups": [
+        "DAL @ DET",
+        "DET @ DAL"
+      ],
+      "reason": "not_one_home_and_one_away",
+      "team_ids": [
+        1610612742,
+        1610612765
+      ]
+    },
+    {
+      "date": "2026-01-15",
+      "game_id": "0022500578",
+      "matchups": [
+        "ORL @ MEM",
+        "MEM @ ORL"
+      ],
+      "reason": "not_one_home_and_one_away",
+      "team_ids": [
+        1610612753,
+        1610612763
+      ]
+    },
+    {
+      "date": "2026-01-18",
+      "game_id": "0022500602",
+      "matchups": [
+        "ORL @ MEM",
+        "MEM @ ORL"
+      ],
+      "reason": "not_one_home_and_one_away",
+      "team_ids": [
+        1610612753,
+        1610612763
+      ]
+    },
+    {
+      "date": "2025-12-13",
+      "game_id": "0022501229",
+      "matchups": [
+        "NYK @ ORL",
+        "ORL @ NYK"
+      ],
+      "reason": "not_one_home_and_one_away",
+      "team_ids": [
+        1610612752,
+        1610612753
+      ]
+    },
+    {
+      "date": "2025-12-13",
+      "game_id": "0022501230",
+      "matchups": [
+        "SAS @ OKC",
+        "OKC @ SAS"
+      ],
+      "reason": "not_one_home_and_one_away",
+      "team_ids": [
+        1610612759,
+        1610612760
+      ]
+    }
+  ],
+  "individual_prediction_errors_inspected": false,
+  "repair_applied": false,
+  "score_or_winner_values_omitted": true
+}

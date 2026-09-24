@@ -1,0 +1,34 @@
+{
+  "authorization_sha256": "37c3d5e554cb9fe0d246d8651497e5105dfe04320a4d3046f6de33266945a00e",
+  "certificate_verified": true,
+  "connects": [
+    [
+      "127.0.0.1",
+      60037
+    ]
+  ],
+  "dns_calls": [
+    [
+      "localhost",
+      60037
+    ]
+  ],
+  "final_data_access": false,
+  "https_fixture": true,
+  "mode": "local_tls",
+  "nba_api_version": "1.11.4",
+  "normal_socket_is_blocked": true,
+  "part_a_final_endpoint_rejected": true,
+  "passed": true,
+  "real_tls_handshake": true,
+  "response_status": 200,
+  "returncode": 0,
+  "revocation_blocks_socket": true,
+  "ssl_base_is_original_socket": true,
+  "ssl_mro": [
+    "ssl.SSLSocket",
+    "socket.socket",
+    "_socket.socket",
+    "builtins.object"
+  ]
+}

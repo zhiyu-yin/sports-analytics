@@ -1,0 +1,29 @@
+{
+  "fixed": {
+    "early_stopping": false,
+    "loss": "log_loss",
+    "max_bins": 255,
+    "max_iter": 200,
+    "min_samples_leaf": 30,
+    "random_state": 0
+  },
+  "frozen_elo": {
+    "H": 50.0,
+    "K": 20.0,
+    "alpha": 0.5
+  },
+  "parameters_by_model": {
+    "basketball_features_hgb": {
+      "l2_regularization": 5.0,
+      "learning_rate": 0.03,
+      "max_leaf_nodes": 7
+    },
+    "features_plus_elo_hgb": {
+      "l2_regularization": 1.0,
+      "learning_rate": 0.03,
+      "max_leaf_nodes": 7
+    }
+  },
+  "selected_before_validation_label_load": true,
+  "selection": "Pooled unrounded log loss; then Brier, smaller leaves, larger L2, lower learning rate"
+}

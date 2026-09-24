@@ -1,0 +1,177 @@
+{
+  "aggregate_results_persisted_at_utc": null,
+  "authorized_season": "2025-26",
+  "benchmark_sha256": "a7308fff85e3e0aa45df13fc686940138c3b5dab1bd8b73ad0f15e400abff218",
+  "code_sha256": {
+    "dependency_versions": {
+      "joblib": "1.6.0",
+      "nba_api": "1.11.4",
+      "numpy": "2.2.6",
+      "pandas": "2.3.3",
+      "pyarrow": "25.0.1",
+      "scikit-learn": "1.7.2",
+      "scipy": "1.15.3",
+      "threadpoolctl": "3.7.0"
+    },
+    "dependency_versions_sha256": "7ac7f28fd801978c0072a439a5553586f04a03c073e23e08fed108d7ed3812f5",
+    "executor": {
+      "stage6/run.py": "810edad92838de387945d6385682b3c76e54c098e975c6339086989eb75aef92",
+      "stage6/runtime.py": "39f86dd93762371ff99ce9e76f1b6d66968998bf3b64a21aab9ba7ff8616d7eb",
+      "stage6/test_preflight.py": "96a8a47eef9a19fc890100ebb5f27ced7a884b86e09c18ccd6f8b91d562fa93a"
+    },
+    "historical": {
+      ".venv/lib/python3.10/site-packages/sports_analytics_development_policy.pth": "11c7120ebfe2ee940ff7b6078cebc8d4cd126247db7ffffc05838270228998db",
+      "scripts/audit_2023_24_features.py": "618f1da497ec01200be93ca3f2fe858f789d3790508c743f8d903084e8cf6d30",
+      "scripts/build_2023_24_features.py": "eeff477d5d73b747f30665c9deaf2b862459274f71d6e0977ca9f256d6296272",
+      "scripts/build_2023_24_games.py": "7c0eaa588e08d05cab42eb76e613e0452b328023ce100e01141ef6948761930d",
+      "scripts/build_multi_season_games.py": "44da343e6c3f3d463cf275718c25430c68da29df590e4ffc300f169501ddf800",
+      "scripts/build_reconciled_multiseason.py": "327982fd75fa459604d6afab943cbe0507a37e038b8164aabd125b2e3d2e2762",
+      "scripts/build_season_games.py": "508924b7ff74402b9a2400a6b55ff42195fa8fa5380604fa4408c17fdc4cce90",
+      "scripts/check_nba_access.py": "bcf07d55fd9d06994dafdde663e101155771deaa60f7ec1aaffcfa42e07b819f",
+      "scripts/run_stage2_baselines.py": "058830b3c2307f0556d598a11cbbfe2a606a58269f6d55fe6b4f962d8305f89f",
+      "scripts/run_stage3_logistic.py": "6d265a28dbbc33597f9978284c751d26b0f783c5ea65717e343826ffbaae08f6",
+      "scripts/run_stage4_boosting.py": "34cfd6595ea4b136f0eb6f135483ccb63579e6cf348ae840517135aec3ad9938",
+      "scripts/run_stage4a_verification.py": "86885520e62f9790337ae55f52e1c8d1ef8f02f0b4b6ebdc20a32fb314e44340",
+      "scripts/run_stage5_preholdout.py": "ac2a933727dc0b50d30039ef5addb7053be264edfdff31fa31d01c061e258dc4",
+      "scripts/run_stage5a_verification.py": "98173dd572b2067a8efbcdab90ff62f6dfa11cbec0465d5c676760fe6465ef15",
+      "src/nba_game_prediction/__init__.py": "71c8cbde8a38b775ab625c98c4dd352767568ddb5787774e23fe973cc1ae1c4c",
+      "src/nba_game_prediction/boosting.py": "a277ee4ea23d68522d55d3131181789eeef60e37253a24e4468d6103fbb4e6ba",
+      "src/nba_game_prediction/elo.py": "6aa5e844368e1310088f01dd99c0c26b33562c8bd99c95a6ce5ea7eae378b2d1",
+      "src/nba_game_prediction/evaluation.py": "94ef9537895bdfa5c5fc562becb23c93b9c3ce4921bafdf6f96ca63280cf394b",
+      "src/nba_game_prediction/feature_io.py": "f9b29ab773a3df385b4ec417b57d2f5a3dad173bdb87f9190a972dcf45bb82cd",
+      "src/nba_game_prediction/features.py": "8670014adfe8227c6f9ab998d824c2940e1fb67daa827e0acb95b5d79b30ad55",
+      "src/nba_game_prediction/ingest.py": "76fdaefd6fb77140533cb55285727cc2e6fb2bfcaba5f0410ee25a70dd36e588",
+      "src/nba_game_prediction/logistic.py": "a12260bd6dcb904753eec83dd431064a9b6705c525c5fbe6d3cc137029b2ddd6",
+      "src/nba_game_prediction/metrics.py": "422c56f984db07af914d7725e379a97f0a01bf4f62e96dac130db426fdec0985",
+      "src/nba_game_prediction/model_selection.py": "fbd8a358fbe11f3c7f45f919cc1179a4b303e7f20f48119d887dec2652ae3f15",
+      "src/nba_game_prediction/modeling_data.py": "933187e61182593221799d0739f34fb9d6e21897fd90f9d63457844faded1d1e",
+      "src/nba_game_prediction/multiseason.py": "1e3e1310b76107b69837b0e4cc7642f4f3b2df897f551cb80a2aab2c092e3a2a",
+      "src/nba_game_prediction/normalize.py": "eb9734cabf8e7084790da2d421fb5cac316687ddddc87534ea00c34711da9e76",
+      "src/nba_game_prediction/policy.py": "2c99731ca8a3ef4a75d2cd8d252206d5a162a55495fc972fea929efb849167f7",
+      "src/nba_game_prediction/reconciliation.py": "f358f1caaaa1929e8cf96f5cc17a01e3cb869fee5a22a07c98384e698d2bf7d4",
+      "src/nba_game_prediction/schedule.py": "b724a23fedd6486e4751b76e5c65bd3f60223ba0861045cb84a6c4357eef6000",
+      "src/nba_game_prediction/sealed_access.py": "c46130423078ed75baa1dcd8fa24913e759073b150d1c729b1bf72b51cdf9814",
+      "src/nba_game_prediction/seasons.py": "419fe5be87562acf488c00c9ffab58054ede156ed6143d25c0cd64d077ca68a8",
+      "src/nba_game_prediction/stage1d.py": "4b87d1b28f15a1da2d6f4ffbf439ef9641ad15f4797d71a0d1c867df2879910a",
+      "src/nba_game_prediction/stage3.py": "afceab6eba764aec0c66e03d300a77c9eb2beded767d8cee37956c9916fa164c",
+      "src/nba_game_prediction/stage4.py": "b0fe361998ea7eb5e7ceb4d086b4e626d093f78bc998948cc14b0be70e4ac7d7",
+      "src/nba_game_prediction/stage4a.py": "e0c9f7c8705ded00fd76abf4e1d855887b3b289263ed3d44c8746cf0b5470ae4",
+      "src/nba_game_prediction/stage5.py": "516fc3d7d65e30441826b47b7ea58ee07b58b879d3b305c205395a81645a6c11",
+      "src/nba_game_prediction/stage5_access.py": "6f416d53a896db58dbb77a933354be32a5c8c6664f4f2ea4c538651c94b31f34",
+      "src/nba_game_prediction/stage5a.py": "7f50d240104d2c3cbd3b94e585f5b7666a656040bde0e867990712eb3847dbee",
+      "src/nba_game_prediction/validate.py": "83dc96a38e620dbb5a3492c16bf46c11b04feead9cb4ce10214dc54dc4cd2c9a",
+      "tests/test_00_development_policy.py": "85a17920e2e969e9598f8b8e16c0ccb8d54067b789e954c906a2d36e1a108d81",
+      "tests/test_features.py": "c337945575963b19ddb185ae41d1ca2122e677c0baace2772ae8c0e0420359b0",
+      "tests/test_ingestion.py": "bdc0303ac1ea9827d06e23dbf8dd98e01dd4bb56d769973053d7738b4b64a4a2",
+      "tests/test_multiseason.py": "dab65bd577f6dbd6d5d20c7fe69fbc00b1c9732df04e3732fe98e4fa543dfe69",
+      "tests/test_reconciliation.py": "d0f65a2a55404a6639e9eea7691e9a0d8cddf75e3cc828ab00b7aa75a227cbf1",
+      "tests/test_sealed_access.py": "90d437d48ac627129965530ef7617e61df37e9a01d3693eb258284efa8330e87",
+      "tests/test_stage5.py": "7335c90fe9b5e2c1e6e4ef7e3addb7f5fec5b079d6a64231d317ed0102ba591d",
+      "tests/test_stage5a.py": "2b8733f14f11ae8a64a3a8033c0592a683a6cb9e6838cbcb423ce33e2c031489"
+    }
+  },
+  "confirmatory_candidate_sha256": "279add1c7979c88306b0d8cdbe3b379a08b465531cc3324c7f29b646511f5ec5",
+  "expected_dataset_scope": {
+    "complete_season_required": true,
+    "league": "NBA",
+    "observed_games": null,
+    "season": "2025-26",
+    "season_type": "Regular Season"
+  },
+  "explicit_user_authorization": {
+    "candidate_freeze_sha256": "aa9b7cabf805fb24b40327401e203cbfc74bf44448f8fa5c337db3c7791465d5",
+    "final_freeze_sha256": "bf065ba3de945e86b85fb3ad3961cbd523cf319e6c7925e343be93adfe1ad191",
+    "recorded_at_utc": "2026-09-24T20:22:51.076263+00:00",
+    "saved_estimators_sha256": "26b17f2b08e2abff995b8760966c2498e247e01909ab8c4a03e2cda5c2635fb7",
+    "text": "We are continuing the project at:\n\n/Users/zhiyuyin/Documents/last time job hunting material/proj/sports-analytics/\n\nActive subproject:\n\nbasketball/nba/game-prediction/\n\nBefore doing anything, read:\n\ndocs/final_holdout_protocol_2025_26.md\ndocs/stage5_preholdout_evaluation.md\ndocs/stage4a_sealed_evaluation_hardening.md\n\nAlso inspect:\n\ndocs/stage5a_evidence/final_holdout_freeze.json\ndocs/stage5a_evidence/final_opening_ledger.schema.json\ndocs/stage5a_evidence/uncertainty_protocol.json\ndocs/stage4a_evidence/candidate_freeze.json\n\n# Stage 6 \u2014 ONE-TIME 2025-26 FINAL HOLDOUT EVALUATION\n\n## EXPLICIT AUTHORIZATION\n\nThis message explicitly authorizes the ONE-TIME opening of the previously\nuntouched 2025-26 NBA regular-season final holdout.\n\nThis authorization applies ONLY to:\n\n2025-26 NBA Regular Season\n\nand ONLY under the already frozen Stage 5A protocol.\n\nThis is final confirmatory evaluation.\n\nIt is NOT authorization to:\n\n- change any model\n- tune any hyperparameter\n- change any feature\n- change any preprocessing\n- retrain logistic/HGB on 2023-24 or 2024-25\n- recalibrate\n- alter Elo parameters\n- alter the training window\n- add a new model family\n- change metric definitions\n- change the bootstrap method\n- cherry-pick games\n- exclude unfavorable cases\n- commit or push\n\nOnce final-holdout access occurs, the season can never again be described as\nuntouched.\n\n--------------------------------------------------\n1. PRIMARY SCIENTIFIC QUESTION\n--------------------------------------------------\n\nThe single confirmatory question is:\n\nDoes the frozen Stage 3 Model C:\n\nfeatures_plus_elo_logistic\n\nretain better probability quality than frozen raw Elo on the final untouched\n2025-26 NBA regular season?\n\nDirectional replication requires BOTH:\n\ndelta_log_loss < 0\n\nand\n\ndelta_brier < 0\n\nwhere:\n\ndelta =\nModel C metric - Raw Elo metric\n\nA mixed direction is a mixed result.\n\nSecondary metrics cannot override the primary result.\n\n--------------------------------------------------\n2. FROZEN PRIMARY MODEL\n--------------------------------------------------\n\nPrimary confirmatory candidate:\n\nfeatures_plus_elo_logistic\n\nUse the exact frozen recipe from Stage 5A.\n\nInputs:\n\nexactly 32 frozen Stage 1B basketball pregame features\n+\nfrozen elo_logit\n\nLogistic:\n\nC = 0.01\npenalty = L2\nsolver = lbfgs\nmax_iter = 5000\ntol = 1e-4\nrandom_state = 0\n\nPreprocessing:\n\ntraining-fit median imputation\n+\nmissingness indicators\n+\nStandardScaler\n\nNo recipe change is allowed.\n\n--------------------------------------------------\n3. FROZEN PRIMARY BENCHMARK\n--------------------------------------------------\n\nBenchmark:\n\nraw_elo\n\nExact frozen Elo:\n\ninitial rating = 1500\nscale = 400\nK = 20\nH = 50\nalpha = 0.50\n\nPrediction must occur before each game's result update.\n\nNo margin-of-victory adjustment.\n\nNo neutral-site adjustment.\n\nNo parameter change.\n\n--------------------------------------------------\n4. FROZEN TRAINING POLICY\n--------------------------------------------------\n\nLogistic/HGB statistical estimators remain trained ONLY on:\n\n2015-16 through 2022-23\n\nDo NOT refit statistical models using:\n\n2023-24\n2024-25\n2025-26\n\nUse the previously frozen/saved estimators after exact integrity checks.\n\nElo is different because it is an online state model.\n\nIts PARAMETERS remain frozen, but its state may legitimately evolve through\ncompleted games:\n\ntraining history\n\u2192 2023-24\n\u2192 2024-25\n\u2192 2025-26\n\nFor every 2025-26 game:\n\npredict first\nthen update rating from that completed game's binary result.\n\n--------------------------------------------------\n5. SEVEN-CANDIDATE TRANSPARENCY SET\n--------------------------------------------------\n\nReport exactly the frozen seven candidates:\n\n1. constant_home_prior\n2. raw_elo\n3. basketball_features_logistic\n4. elo_logistic\n5. features_plus_elo_logistic\n6. basketball_features_hgb\n7. features_plus_elo_hgb\n\nHowever:\n\nPRIMARY CONFIRMATORY MODEL:\nfeatures_plus_elo_logistic\n\nPRIMARY BENCHMARK:\nraw_elo\n\nThe remaining candidates are secondary descriptive comparisons.\n\nDo not select a different primary model after seeing results.\n\n--------------------------------------------------\n6. PRE-ACCESS FINAL FREEZE VERIFICATION\n--------------------------------------------------\n\nBefore ANY physical 2025-26 access:\n\nverify:\n\n- final_holdout_protocol hash\n- final_holdout_freeze hash\n- candidate freeze hash\n- Model C recipe hash\n- raw Elo recipe hash\n- seven candidate recipes\n- feature allowlists\n- metric implementation hashes\n- calibration implementation\n- bootstrap protocol\n- saved estimator hashes\n- dependency versions\n- code checkpoint\n- Stage 2\u20135 protected artifact hashes\n\nAlso verify frozen historical results remain unchanged.\n\nIf any required artifact fails:\n\nSTOP BEFORE FINAL-SEASON ACCESS.\n\nCreate:\n\ndocs/stage6_evidence/preopening_verification.json\n\n--------------------------------------------------\n7. CREATE FINAL OPENING LEDGER BEFORE ACCESS\n--------------------------------------------------\n\nBefore even reading the 2025-26 schedule or identity metadata, create:\n\ndocs/stage6_evidence/final_opening_ledger.json\n\nIt must record:\n\n- explicit Stage 6 authorization\n- authorization text/hash\n- authorized season = 2025-26\n- protocol hash\n- final freeze hash\n- candidate freeze hash\n- confirmatory Model C hash\n- benchmark Elo hash\n- code/dependency hashes\n- exact primary/secondary metrics\n- uncertainty specification\n- training policy\n- intended dataset scope\n- timestamp immediately before first physical 2025-26 access\n\nThe ledger MUST exist durably before the first access call.\n\nThen separately record:\n\nfirst physical 2025-26 access timestamp\n\nand later:\n\nfirst 2025-26 outcome decode timestamp\n\nand:\n\naggregate-results persistence timestamp\n\nNo silent restart after opening.\n\n--------------------------------------------------\n8. ACQUIRE / VALIDATE 2025-26 REGULAR SEASON\n--------------------------------------------------\n\nThis is the first authorized access to 2025-26.\n\nRetrieve the 2025-26 NBA Regular Season using the same maintained and\nprovenance-preserving data approach as earlier stages.\n\nDo not assume the number of games before retrieval.\n\nDetermine from actual validated data:\n\n- team-game rows\n- unique games\n- teams\n- first game date\n- last game date\n- games per team\n- missingness\n- home/away structure\n- anomalies\n- neutral-site / special schedule issues where available\n\nUse the established structural validation:\n\n- unique (game_id, team_id)\n- two teams per game\n- exactly one designated home / away\n- reciprocal opponent identities\n- same game date\n- complementary W/L\n- valid scores\n- scoring arithmetic\n- rebound consistency\n- explicit anomaly handling\n\nDo NOT score models until the complete final-season dataset passes integrity\nvalidation.\n\nIf data are incomplete or structurally unresolved:\n\nSTOP.\n\nDo not evaluate a convenient subset.\n\n--------------------------------------------------\n9. FINAL-SEASON FEATURE GENERATION\n--------------------------------------------------\n\nGenerate the exact frozen Stage 1B V1 pregame features.\n\nDo not add:\n\n- neutral_site\n- new rest definitions\n- player availability\n- injuries\n- lineup information\n- travel\n- betting odds\n- new rolling windows\n\nUse exactly the existing definitions.\n\nSeason history resets as frozen.\n\nNo final outcome information may enter its own pregame feature vector.\n\nRun the established leakage/invariance checks.\n\n--------------------------------------------------\n10. PRE-OUTCOME PREDICTION GENERATION\n--------------------------------------------------\n\nWhere technically possible, construct all predictor inputs and frozen candidate\nstate before decoding final targets.\n\nThen decode only the required target:\n\nhome_win\n\nDo not read final scores for model evaluation unless structurally required by the\nexisting canonical ingestion process.\n\nNo individual-game error inspection.\n\nGenerate the full-season prediction matrix first.\n\n--------------------------------------------------\n11. PRIMARY METRICS\n--------------------------------------------------\n\nFor each frozen candidate report:\n\nn_games\nlog_loss\nbrier_score\naccuracy\nroc_auc\n\nUse the exact frozen implementations.\n\nPRIMARY:\n\nlog loss\nBrier score\n\nSECONDARY:\n\naccuracy\nROC-AUC\ncalibration\n\nNo metric substitution after opening.\n\n--------------------------------------------------\n12. PRIMARY CONFIRMATORY COMPARISON\n--------------------------------------------------\n\nCalculate:\n\nfeatures_plus_elo_logistic\nminus\nraw_elo\n\nReport:\n\ndelta_log_loss\ndelta_brier\ndelta_accuracy\ndelta_roc_auc\n\nInterpretation:\n\ndelta_log_loss < 0\n\u2192 Model C better\n\ndelta_brier < 0\n\u2192 Model C better\n\nFINAL DIRECTIONAL REPLICATION:\n\nSUCCESSFUL DIRECTIONAL REPLICATION\nonly if BOTH are negative.\n\nMIXED\nif one improves and one worsens.\n\nNOT REPLICATED\nif both are nonnegative.\n\nDo not impose a post-hoc magnitude threshold.\n\nDo not turn this into a statistical-significance claim.\n\n--------------------------------------------------\n13. CROSS-SEASON CONFIRMATION TABLE\n--------------------------------------------------\n\nCreate:\n\ndocs/stage6_evidence/cross_season_confirmation.csv\n\nRows:\n\n2023-24 development validation\n2024-25 pre-holdout\n2025-26 final holdout\n\nColumns:\n\nraw_elo_log_loss\nmodel_c_log_loss\ndelta_log_loss\n\nraw_elo_brier\nmodel_c_brier\ndelta_brier\n\nraw_elo_accuracy\nmodel_c_accuracy\n\nraw_elo_auc\nmodel_c_auc\n\nKeep the roles of all three seasons explicit.\n\nDo NOT pool them and call the result one untouched test.\n\n--------------------------------------------------\n14. PREDECLARED UNCERTAINTY ANALYSIS\n--------------------------------------------------\n\nUse the frozen Stage 5A procedure exactly.\n\nFor every final-holdout game calculate paired differences:\n\nlogloss_ModelC - logloss_Elo\n\nbrierloss_ModelC - brierloss_Elo\n\nReport for each:\n\n- mean\n- median\n- interquartile range\n\nThen perform the predeclared calendar-date cluster bootstrap.\n\nExactly:\n\n10,000 bootstrap replicates\n\nrandom seed = 0\n\nnumpy.random.default_rng(0)\n\nCluster = calendar game date.\n\nFor each replicate:\n\nsample G unique dates with replacement\n\nretain all games from each selected date cluster\n\nuse the SAME sampled date indices for both log-loss and Brier differences\n\ncompute game-weighted mean difference\n\nReport:\n\nbootstrap mean\ndescriptive standard error\n2.5th percentile\n97.5th percentile\n\nusing:\n\nnumpy.quantile(method=\"linear\")\n\nLabel clearly:\n\nDATE-CLUSTERED DESCRIPTIVE BOOTSTRAP INTERVAL\n\nDo NOT call it definitive statistical significance.\n\nNo p-values.\n\nDo not change method after seeing results.\n\n--------------------------------------------------\n15. CALIBRATION\n--------------------------------------------------\n\nUse the existing fixed ten bins:\n\n[0,.1)\n...\n[.9,1]\n\nPrimary calibration comparison:\n\nraw Elo\nModel C\n\nReport:\n\nfixed-bin ECE\nmean predicted probability\nobserved designated-home win rate\nbin counts\npopulated bins\nsparse bins\n\nAlso report the other five frozen models descriptively.\n\nDo not recalibrate.\n\n--------------------------------------------------\n16. FINAL PREDICTION ARTIFACT\n--------------------------------------------------\n\nCreate:\n\ndata/processed/stage6_predictions_2025_26.parquet\n\nInclude:\n\nseason\ngame_id\ngame_date\nhome_team_id\naway_team_id\nhome_win\n\nconstant_probability\nraw_elo_probability\nbasketball_features_logistic_probability\nelo_logistic_probability\nfeatures_plus_elo_logistic_probability\nbasketball_features_hgb_probability\nfeatures_plus_elo_hgb_probability\n\nNo final game score.\n\nThis is an evaluation artifact containing y.\n\n--------------------------------------------------\n17. FINAL METRICS ARTIFACT\n--------------------------------------------------\n\nCreate:\n\ndocs/stage6_evidence/final_holdout_metrics.csv\n\nAll seven candidates.\n\nColumns:\n\nsplit\nn_games\nlog_loss\nbrier_score\naccuracy\nroc_auc\n\nSplit:\n\n2025-26 final holdout\n\n--------------------------------------------------\n18. PRIMARY COMPARISON ARTIFACT\n--------------------------------------------------\n\nCreate:\n\ndocs/stage6_evidence/primary_comparison.csv\n\nAt minimum:\n\nfeatures_plus_elo_logistic vs raw_elo\n\nInclude:\n\ndelta_log_loss\ndelta_brier\ndelta_accuracy\ndelta_roc_auc\ndirectional_replication_status\n\nSecondary comparisons may include the other frozen candidates but must not\nreplace the primary comparison.\n\n--------------------------------------------------\n19. UNCERTAINTY ARTIFACTS\n--------------------------------------------------\n\nCreate:\n\ndocs/stage6_evidence/paired_loss_summary.csv\n\nand:\n\ndocs/stage6_evidence/date_cluster_bootstrap.csv\n\nThe bootstrap artifact should contain one row per primary metric with:\n\nmetric\nn_games\nn_unique_dates\nobserved_mean_difference\nmedian_difference\nq25_difference\nq75_difference\nbootstrap_replicates\nbootstrap_seed\nbootstrap_mean\nbootstrap_standard_error\nci_lower_2_5\nci_upper_97_5\n\nDo not dump all 10,000 replicate values unless useful for reproducibility;\na compressed/internal artifact is acceptable.\n\n--------------------------------------------------\n20. ORDER OF OPERATIONS\n--------------------------------------------------\n\nStrict order:\n\n1. verify final freeze\n2. create opening ledger\n3. first final-season access\n4. acquire/validate complete season\n5. generate frozen pregame features\n6. reconstruct/load frozen candidate state\n7. generate full-season predictions\n8. first outcome decode as required by evaluation\n9. persist aggregate predictions/metrics\n10. persist primary comparison\n11. persist uncertainty results\n12. persist calibration\n13. only AFTER aggregate results are durable may optional individual-game\n    descriptive analysis occur\n\nDo not inspect individual prediction errors before step 9.\n\n--------------------------------------------------\n21. NO POST-OPENING CHANGES\n--------------------------------------------------\n\nAfter final-season access:\n\nNO:\n\n- tuning\n- refit\n- feature changes\n- neutral-site feature\n- extra model\n- different C\n- different Elo\n- expanded HGB grid\n- calibration fitting\n- new training period\n- changed bootstrap\n- changed metric\n- dropped games\n- favorable subgroup selection\n\nIf an implementation bug is discovered after aggregate performance is visible:\n\nSTOP.\n\nPreserve evidence.\n\nDocument the bug.\n\nDo not silently rerun and call it pristine final-holdout evidence.\n\n--------------------------------------------------\n22. TESTS / PREFLIGHT\n--------------------------------------------------\n\nBefore first actual final-season access, run synthetic preflight tests proving:\n\nA. authorization required\n\nB. ledger creation precedes access\n\nC. only 2025-26 regular season is authorized\n\nD. candidate set exact\n\nE. Model C recipe exact\n\nF. Elo recipe exact\n\nG. saved logistic/HGB estimator hashes exact\n\nH. no fit calls permitted\n\nI. no model selection code permitted\n\nJ. metric definitions exact\n\nK. bootstrap implementation matches frozen synthetic reference\n\nL. date clustering preserves whole dates\n\nM. same bootstrap draw used for both primary metrics\n\nN. calibration bins exact\n\nO. individual-game inspection disabled until aggregate persistence\n\nP. duplicate opening rejected\n\nQ. replay cannot be represented as independent test\n\n--------------------------------------------------\n23. REPRODUCIBILITY\n--------------------------------------------------\n\nAfter the first final evaluation is complete, one deterministic replay may be used\nto verify reproducibility.\n\nThe replay is NOT independent confirmation.\n\nIt must:\n\n- use already-opened cached final data\n- use saved frozen estimators\n- make zero fit calls\n- reproduce identical predictions\n- reproduce identical metrics\n- reproduce identical bootstrap results\n- reproduce identical calibration\n\nRecord this distinction.\n\n--------------------------------------------------\n24. FINAL DOCUMENT\n--------------------------------------------------\n\nCreate:\n\ndocs/stage6_final_holdout_evaluation.md\n\nInclude:\n\n1. Scientific hypothesis\n2. Explicit final authorization\n3. Frozen confirmatory model\n4. Frozen benchmark\n5. Frozen training policy\n6. Pre-opening verification\n7. Opening ledger\n8. Final-season acquisition and validation\n9. Final prediction protocol\n10. All seven candidate metrics\n11. PRIMARY Model C vs Elo result\n12. Three-season directional replication\n13. Paired loss differences\n14. Date-clustered bootstrap intervals\n15. Calibration\n16. Tests / preflight\n17. Reproducibility\n18. Interpretation\n19. Limitations\n20. Final status of confirmatory hypothesis\n21. What can no longer be claimed/changed\n22. Recommended post-holdout analysis\n\n--------------------------------------------------\n25. REQUIRED EVIDENCE\n--------------------------------------------------\n\nCreate:\n\ndocs/stage6_evidence/\n\nAt minimum:\n\nauthorization.txt\npreopening_verification.json\nfinal_opening_ledger.json\nfirst_access.json\nfirst_outcome_decode.json\n\nfinal_holdout_metrics.csv\nprimary_comparison.csv\ncross_season_confirmation.csv\n\npaired_loss_summary.csv\ndate_cluster_bootstrap.csv\n\ncalibration_raw_elo.csv\ncalibration_model_c.csv\ncalibration_summary.csv\n\ntest_run.txt\ntest_summary.json\n\nbuild_manifest.json\nreplay_verification.json\n\nDo not overwrite any prior-stage evidence.\n\n--------------------------------------------------\n26. STAGE 6 EXECUTION SUCCESS CRITERIA\n--------------------------------------------------\n\nStage 6 execution passes if:\n\n1. final freeze verifies before access\n\n2. ledger exists before physical access\n\n3. full 2025-26 regular season is validated\n\n4. no candidate recipe changes\n\n5. no fit/tuning after authorization\n\n6. all seven candidates produce one probability per accepted game\n\n7. primary comparison is reported exactly as frozen\n\n8. uncertainty method is executed exactly as frozen\n\n9. calibration uses frozen bins\n\n10. aggregate results persist before error analysis\n\n11. prior scientific artifacts remain unchanged\n\n12. deterministic replay reproduces evaluation\n\nScientific confirmation is separate from execution success.\n\nModel C may win or lose and Stage 6 can still be a valid final experiment.\n\n--------------------------------------------------\n27. FINAL RESPONSE TO ME\n--------------------------------------------------\n\nWhen finished report:\n\n1. Did Stage 6 execute cleanly?\n\n2. How many 2025-26 regular-season games were validated?\n\n3. Metrics for all seven frozen candidates.\n\n4. PRIMARY:\n   Model C vs raw Elo:\n   delta log loss\n   delta Brier\n\n5. Final directional replication status:\n   replicated / mixed / not replicated\n\n6. Date-cluster bootstrap intervals for:\n   delta log loss\n   delta Brier\n\n7. Did the intervals include zero?\n   State descriptively, not as a definitive significance claim.\n\n8. Which frozen model had lowest final-holdout log loss?\n   Descriptive only.\n\n9. Which had lowest Brier?\n   Descriptive only.\n\n10. Model C vs Elo calibration summary.\n\n11. Cross-season table for:\n    2023-24\n    2024-25\n    2025-26\n\n12. Number of tests passing.\n\n13. Confirm:\n    no tuning?\n    no refit on 2023-24/2024-25/2025-26?\n    no model changes?\n\n14. Exact path:\n    docs/stage6_final_holdout_evaluation.md\n\n15. Recommended post-holdout analysis.\n\nDo not commit.\nDo not push.\nDo not change models after seeing final results.",
+    "text_sha256": "bcb32fb1d28411889f881229ef59990774468fa370ee368b2fbf4edd5fd5315a",
+    "training_policy": {
+      "elo_state": "Frozen parameters; chronological completed-game online updates through 2023-24 and 2024-25 before final season; no replay in Stage 5A",
+      "refit_preholdout": false,
+      "refit_validation": false,
+      "statistical_model_seasons": [
+        "2015-16",
+        "2016-17",
+        "2017-18",
+        "2018-19",
+        "2019-20",
+        "2020-21",
+        "2021-22",
+        "2022-23"
+      ]
+    }
+  },
+  "first_outcome_decode_at_utc": null,
+  "first_physical_data_access_at_utc": "2026-09-24T20:22:51.077353+00:00",
+  "metric_definitions": {
+    "calibration": {
+      "bins": [
+        0.0,
+        0.1,
+        0.2,
+        0.3,
+        0.4,
+        0.5,
+        0.6,
+        0.7,
+        0.8,
+        0.9,
+        1.0
+      ],
+      "empty_bins_retained": true,
+      "fit_calibrator": false,
+      "path": "docs/stage5_evidence/frozen_source/metrics.py",
+      "sha256": "17add3a1436b7d08fd2b194e6cd402a105d3f2f46c31b8161d0da76dc42be390"
+    },
+    "implementation": {
+      "path": "docs/stage5_evidence/frozen_source/metrics.py",
+      "sha256": "17add3a1436b7d08fd2b194e6cd402a105d3f2f46c31b8161d0da76dc42be390"
+    },
+    "primary": [
+      "log_loss",
+      "brier_score"
+    ],
+    "secondary": [
+      "accuracy",
+      "roc_auc",
+      "fixed_bin_calibration",
+      "fixed_bin_ece"
+    ]
+  },
+  "protocol_sha256": "2f85d4b49827ccc12f929a924e89e8c44e052380f8d535f865497c2833355498",
+  "uncertainty_method": {
+    "algorithm": [
+      "Sort unique game dates chronologically; G distinct dates",
+      "For each replicate, draw G date indices uniformly with replacement",
+      "Use the SAME date draw for log-loss and Brier paired differences",
+      "Retain every game within each sampled date; repeat whole date cluster according to its draw multiplicity",
+      "Replicate mean = sum of sampled cluster paired-loss sums / sum of sampled cluster game counts; do not average daily means",
+      "Do not refit, recompute features, shuffle within chronology or resample independent games"
+    ],
+    "brier_loss": "(p-y)^2 on original probabilities",
+    "cluster": "calendar date; normalized date already used by frozen pregame contract",
+    "difference": "loss_ModelC - loss_rawElo",
+    "inputs": [
+      "game_date",
+      "paired_log_loss_difference",
+      "paired_brier_loss_difference"
+    ],
+    "interpretation": "Approximate descriptive intervals only. Date clustering does not remove across-date/team dependence; no formal independence-adjusted significance claim, no p-value, no tuning.",
+    "interval": "2.5th and 97.5th percentiles of replicate means, numpy.quantile(method=\"linear\")",
+    "invalid_input": "Reject missing/nonfinite loss differences or dates, duplicate game keys, or fewer than two date clusters; stop and disclose, no post-opening method substitution",
+    "log_loss": "Use exactly frozen metrics.py EPSILON clipping (1e-15), natural logs",
+    "method": "date-clustered descriptive bootstrap intervals",
+    "multiplicity": "Two predeclared primary losses, no multiplicity-adjusted significance claim",
+    "paired": true,
+    "point_statistics": [
+      "arithmetic mean of all per-game paired differences",
+      "median of all per-game paired differences",
+      "25th and 75th percentiles of per-game paired differences"
+    ],
+    "replicates": 10000,
+    "rng": "numpy.random.default_rng(0), PCG64; dependency version pinned by final freeze",
+    "seed": 0,
+    "standard_error": "Sample standard deviation (ddof=1) of the 10000 replicate means, labeled descriptive date-clustered bootstrap SE",
+    "status": "FROZEN \u2014 NOT YET EXECUTED"
+  }
+}

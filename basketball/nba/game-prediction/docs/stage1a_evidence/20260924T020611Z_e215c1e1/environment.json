@@ -1,0 +1,13 @@
+{
+  "python": "3.10.8 (main, Oct 13 2022, 09:48:40) [Clang 14.0.0 (clang-1400.0.29.102)]",
+  "executable": "/Users/zhiyuyin/Documents/last time job hunting material/proj/sports-analytics/basketball/nba/game-prediction/.venv/bin/python",
+  "platform": "macOS-14.7.4-arm64-arm-64bit",
+  "versions": {
+    "nba_api": "1.11.4",
+    "pandas": "2.3.3",
+    "numpy": "2.2.6",
+    "pyarrow": "25.0.1",
+    "requests": "2.34.2"
+  },
+  "headers": "Maintained nba_api defaults; no custom headers or proxy supplied"
+}

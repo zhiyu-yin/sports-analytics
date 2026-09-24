@@ -1,0 +1,10 @@
+{
+  "authorization_sha256": "37c3d5e554cb9fe0d246d8651497e5105dfe04320a4d3046f6de33266945a00e",
+  "original_stage6r_gate_sha256": "7c3e88ce877278b6ece9a4be16aefb2ef5c416ab36e2eb873bc399ec5c6d6ccc",
+  "passed": true,
+  "protected_count": 360,
+  "real_tls_verified": true,
+  "single_use_verified": true,
+  "transport_preflight_sha256": "ce43d62d1bfd9395ca86df2fb9af6e700a054cc63f583e41d9c72bb69b780fb7",
+  "worker_sha256": "f46583efd47370b9551fff1d815a31706f2c951d4f2fb3b9e21ac34ae39c1fb6"
+}

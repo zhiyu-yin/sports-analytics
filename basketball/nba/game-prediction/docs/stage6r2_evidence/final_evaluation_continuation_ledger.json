@@ -1,0 +1,113 @@
+{
+  "aggregate_results_persisted_at_utc": "2026-09-24T21:06:41.754631+00:00",
+  "code_sha256": {
+    "stage6r2/common.py": "67fdd395f6948f710da0a11d1e6a42dadf8b2583f8c979097ad994566f7ed244",
+    "stage6r2/evaluation.py": "d9f62583609a01361fc25b2fd8131ee4cc5c74fa2f1e915686e0aa88f941fadf",
+    "stage6r2/reconcile.py": "541a38eb08659193c0a7cf3e9aa4f6fe587cd32981416aa2dc0e08cc6b602ca6",
+    "stage6r2/run.py": "c3c5213535c61ac6ab086fe62939271a634429bb5af343774644ef0c96db0360",
+    "stage6r2/schedule_facts.py": "a14a2acfa121cfe27e6f1b684dac481b351e052174b5f4b5c44d9dbe85e159c2",
+    "stage6r2/schedule_worker.py": "f46583efd47370b9551fff1d815a31706f2c951d4f2fb3b9e21ac34ae39c1fb6",
+    "stage6r2/test_completion.py": "a55ebbb04c86efe9fd68adad089e50805f8015a931d953314c29ef863d6f23f1"
+  },
+  "completed_at_utc": "2026-09-24T21:06:48.749812+00:00",
+  "created_at_utc": "2026-09-24T21:06:41.222816+00:00",
+  "feature_gate": {
+    "features": 32,
+    "neutral_site_in_features": false,
+    "passed": true,
+    "prefix_invariance": true,
+    "rows": 1230,
+    "season_reset": true,
+    "target_and_future_result_invariance": true,
+    "version": "1.0.0"
+  },
+  "final_freeze_sha256": "bf065ba3de945e86b85fb3ad3961cbd523cf319e6c7925e343be93adfe1ad191",
+  "final_performance_previously_exposed": false,
+  "final_source_outcomes_already_structurally_decoded": true,
+  "first_final_model_scoring_at_utc": "2026-09-24T21:06:41.511097+00:00",
+  "linked_artifact_sha256": {
+    "docs/stage6_evidence/authorization.txt": "bcb32fb1d28411889f881229ef59990774468fa370ee368b2fbf4edd5fd5315a",
+    "docs/stage6_evidence/execution_stop.json": "e5e66a1a6cad5219c09e09bfabfb450877e3eebf92a10ee3207fbcbbdca41222",
+    "docs/stage6r2_evidence/authorization.txt": "37c3d5e554cb9fe0d246d8651497e5105dfe04320a4d3046f6de33266945a00e",
+    "docs/stage6r2_evidence/feature_validation.json": "892e14ddd9785d16f5fee5b7e093f79278fbad21313f6af208f6091cad3739ca",
+    "docs/stage6r2_evidence/official_schedule_facts.json": "ef78491eca2879483a084e39225e717139a443ecc735a965472fad2dbf7fd3ba",
+    "docs/stage6r2_evidence/official_schedule_source_manifest.json": "70eacc56a7e73a54f95a650187ce3526f49dc9ed927d7a99efab6d3a295f937c",
+    "docs/stage6r2_evidence/reconciliation_validation.json": "3b02e66feb4477b2a8d0c2e56d35f3977f95c000c0af0541d7e1bddd5977fcbf",
+    "docs/stage6r2_evidence/test_summary.json": "fb5b3021335852b955844cf5ae85e15cc394dc262fb2f483f7ed2fffd30b1505",
+    "docs/stage6r_evidence/acquisition.json": "3945affb56ff96c93a58a2236d7025c6a19cd3d82ec4845d0b9fadb5a9201ea8",
+    "docs/stage6r_evidence/authorization.txt": "8337cbd0b269ad28750d1c04fbdfb9f5304a613c514fd0e840613cbc0f5e2a2c",
+    "docs/stage6r_evidence/execution_stop.json": "cb033f17ed3bf8c19cdc317e251063bdd5dcc4575ffec43155c138aaade64f66",
+    "docs/stage6r_evidence/recovery_opening_ledger.json": "de1ad7689a0a6a5f424075a0823cde4a5f8bd622ae6a3fe1b20a58c33323841e"
+  },
+  "model_recipe_changed": false,
+  "primary_comparison": [
+    "features_plus_elo_logistic",
+    "raw_elo"
+  ],
+  "primary_metrics": [
+    "log_loss",
+    "brier_score"
+  ],
+  "protocol_sha256": "2f85d4b49827ccc12f929a924e89e8c44e052380f8d535f865497c2833355498",
+  "reconciliation_artifact_sha256": {
+    "data/interim/home_away_reconciliation_2025_26.parquet": "8f0c7c54d35afc26bf7f26793230dfd2e470bbb7fb527f9ba84a6cf08a82d521",
+    "docs/stage6r2_evidence/home_away_reconciliation_2025_26.csv": "75c0a3e1bd11f4dd556a96add3a3c38132f7591fae3fe0ab14239006dec8d418"
+  },
+  "saved_estimators_sha256": "26b17f2b08e2abff995b8760966c2498e247e01909ab8c4a03e2cda5c2635fb7",
+  "scientific_protocol_changed": false,
+  "status": "completed",
+  "uncertainty_protocol_sha256": "0ac93da995cd698aa20bbf6e326824aaf05fc9ad11b81acb115a54d95fac8d3d",
+  "validation": {
+    "accepted_games": 1230,
+    "applied_game_ids": [
+      "0022500147",
+      "0022500578",
+      "0022500602",
+      "0022501229",
+      "0022501230"
+    ],
+    "first_game_date": "2025-10-21",
+    "games_per_team": {
+      "1610612737": 82,
+      "1610612738": 82,
+      "1610612739": 82,
+      "1610612740": 82,
+      "1610612741": 82,
+      "1610612742": 82,
+      "1610612743": 82,
+      "1610612744": 82,
+      "1610612745": 82,
+      "1610612746": 82,
+      "1610612747": 82,
+      "1610612748": 82,
+      "1610612749": 82,
+      "1610612750": 82,
+      "1610612751": 82,
+      "1610612752": 82,
+      "1610612753": 82,
+      "1610612754": 82,
+      "1610612755": 82,
+      "1610612756": 82,
+      "1610612757": 82,
+      "1610612758": 82,
+      "1610612759": 82,
+      "1610612760": 82,
+      "1610612761": 82,
+      "1610612762": 82,
+      "1610612763": 82,
+      "1610612764": 82,
+      "1610612765": 82,
+      "1610612766": 82
+    },
+    "last_game_date": "2026-04-12",
+    "only_canonical_is_home_changed": true,
+    "original_matchup_scores_wl_unchanged": true,
+    "passed": true,
+    "rejected_games": 0,
+    "source_count_derived_from_cached_snapshot": true,
+    "team_game_rows": 2460,
+    "teams": 30,
+    "unique_games": 1230,
+    "warnings": 0
+  }
+}

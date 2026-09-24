@@ -1,0 +1,8 @@
+{
+  "event": "immediately before recovery NBA ScheduleLeagueV2 call",
+  "parameters": {
+    "LeagueID": "00",
+    "Season": "2025-26"
+  },
+  "timestamp_utc": "2026-09-24T20:59:20.449758+00:00"
+}

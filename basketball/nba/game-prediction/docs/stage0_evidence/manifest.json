@@ -1,0 +1,91 @@
+[
+  {
+    "name": "leaguegamelog_2023_opening",
+    "url": "https://stats.nba.com/stats/leaguegamelog?Counter=0&DateFrom=10%2F24%2F2023&DateTo=10%2F25%2F2023&Direction=ASC&LeagueID=00&PlayerOrTeam=T&Season=2023-24&SeasonType=Regular+Season&Sorter=DATE",
+    "retrieved_at_utc": "2026-09-24T01:50:03.930014+00:00",
+    "elapsed_seconds": 18.02,
+    "curl_exit": 28,
+    "http_status": "000",
+    "error": "curl: (28) Operation timed out after 18006 milliseconds with 0 bytes received"
+  },
+  {
+    "name": "teamgamelog_den_2023_opening",
+    "url": "https://stats.nba.com/stats/teamgamelog?TeamID=1610612743&Season=2023-24&SeasonType=Regular+Season&LeagueID=00&DateFrom=10%2F24%2F2023&DateTo=10%2F25%2F2023",
+    "retrieved_at_utc": "2026-09-24T01:50:22.974741+00:00",
+    "elapsed_seconds": 18.04,
+    "curl_exit": 28,
+    "http_status": "000",
+    "error": "curl: (28) Operation timed out after 18006 milliseconds with 0 bytes received"
+  },
+  {
+    "name": "teamstats_advanced",
+    "url": "https://stats.nba.com/stats/leaguedashteamstats?LastNGames=0&Month=0&OpponentTeamID=0&PaceAdjust=N&PerMode=Totals&Period=0&PlusMinus=N&Rank=N&Season=2023-24&SeasonType=Regular+Season&LeagueID=00&DateFrom=10%2F24%2F2023&DateTo=10%2F25%2F2023&Conference=&Division=&GameScope=&GameSegment=&Location=&Outcome=&PORound=&PlayerExperience=&PlayerPosition=&SeasonSegment=&ShotClockRange=&StarterBench=&TeamID=&TwoWay=&VsConference=&VsDivision=&MeasureType=Advanced",
+    "retrieved_at_utc": "2026-09-24T01:50:42.018283+00:00",
+    "elapsed_seconds": 18.04,
+    "curl_exit": 28,
+    "http_status": "000",
+    "error": "curl: (28) Operation timed out after 18005 milliseconds with 0 bytes received"
+  },
+  {
+    "name": "teamstats_four_factors",
+    "url": "https://stats.nba.com/stats/leaguedashteamstats?LastNGames=0&Month=0&OpponentTeamID=0&PaceAdjust=N&PerMode=Totals&Period=0&PlusMinus=N&Rank=N&Season=2023-24&SeasonType=Regular+Season&LeagueID=00&DateFrom=10%2F24%2F2023&DateTo=10%2F25%2F2023&Conference=&Division=&GameScope=&GameSegment=&Location=&Outcome=&PORound=&PlayerExperience=&PlayerPosition=&SeasonSegment=&ShotClockRange=&StarterBench=&TeamID=&TwoWay=&VsConference=&VsDivision=&MeasureType=Four+Factors",
+    "retrieved_at_utc": "2026-09-24T01:51:01.051925+00:00",
+    "elapsed_seconds": 18.03,
+    "curl_exit": 28,
+    "http_status": "000",
+    "error": "curl: (28) Operation timed out after 18002 milliseconds with 0 bytes received"
+  },
+  {
+    "name": "scoreboard_2023_opening",
+    "url": "https://stats.nba.com/stats/scoreboardv2?DayOffset=0&GameDate=10%2F24%2F2023&LeagueID=00",
+    "retrieved_at_utc": "2026-09-24T01:51:20.077835+00:00",
+    "elapsed_seconds": 18.02,
+    "curl_exit": 28,
+    "http_status": "000",
+    "error": "curl: (28) Operation timed out after 18001 milliseconds with 0 bytes received"
+  },
+  {
+    "name": "live_boxscore_0022300061",
+    "url": "https://cdn.nba.com/static/json/liveData/boxscore/boxscore_0022300061.json",
+    "retrieved_at_utc": "2026-09-24T01:51:21.149007+00:00",
+    "elapsed_seconds": 0.07,
+    "curl_exit": 0,
+    "http_status": "403",
+    "error": "",
+    "bytes": 443,
+    "sha256": "9b2f3da3a076d75108272e24b7df416b3e33f9e7a53a3ad25de7aed1e46a0b0d",
+    "valid_json": false
+  },
+  {
+    "name": "live_playbyplay_0022300061",
+    "url": "https://cdn.nba.com/static/json/liveData/playbyplay/playbyplay_0022300061.json",
+    "retrieved_at_utc": "2026-09-24T01:51:22.241240+00:00",
+    "elapsed_seconds": 0.09,
+    "curl_exit": 0,
+    "http_status": "403",
+    "error": "",
+    "bytes": 441,
+    "sha256": "bee37abb448ee6301b4ed6d92f3abea563cdd2f3a0452b6f4bfa7f10fb9b9d0c",
+    "valid_json": false
+  },
+  {
+    "name": "leaguegamelog_current_headers",
+    "url": "https://stats.nba.com/stats/leaguegamelog?Counter=0&DateFrom=10%2F24%2F2023&DateTo=10%2F25%2F2023&Direction=ASC&LeagueID=00&PlayerOrTeam=T&Season=2023-24&SeasonType=Regular+Season&Sorter=DATE",
+    "retrieved_at_utc": "2026-09-24T01:54:58.652617+00:00",
+    "elapsed_seconds": 25.02,
+    "curl_exit": 28,
+    "http_status": "000",
+    "error": "curl: (28) Operation timed out after 25006 milliseconds with 0 bytes received",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+      "Accept": "application/json, text/plain, */*",
+      "Accept-Language": "en-US,en;q=0.5",
+      "Referer": "https://www.nba.com/",
+      "Pragma": "no-cache",
+      "Cache-Control": "no-cache",
+      "Sec-Ch-Ua": "\"Not:A-Brand\";v=\"99\", \"Google Chrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "Sec-Ch-Ua-Mobile": "?0",
+      "Sec-Fetch-Dest": "empty"
+    }
+  }
+]

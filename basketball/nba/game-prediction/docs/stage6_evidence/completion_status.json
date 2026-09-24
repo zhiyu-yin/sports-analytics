@@ -1,0 +1,26 @@
+{
+  "complete": [
+    "Required prior-document review",
+    "Git status/diff attempted: directory is not a Git repository",
+    "Exact frozen protocol/recipe/dependency/source/estimator verification",
+    "275 historical and 15 additional Stage 5A artifact checks",
+    "138 unchanged baseline tests and 20 synthetic Stage 6 preflight tests",
+    "Authorization and durable pre-access ledger",
+    "One attempted NBA API acquisition; preserved failure traceback",
+    "Stop report and no automatic retry"
+  ],
+  "final_games_validated_in_this_run": 0,
+  "not_started": [
+    "Final outcome decode",
+    "Full-season validation",
+    "Real final-season feature generation",
+    "Final-season Elo replay and saved-model predictions",
+    "Final metrics, comparisons, bootstrap and calibration",
+    "Completed-evaluation deterministic replay"
+  ],
+  "partial": [
+    "Stage 6 executor implemented and synthetic-tested; real TLS transport failed",
+    "Final-season acquisition attempted but no response received"
+  ],
+  "validated_final_games": null
+}

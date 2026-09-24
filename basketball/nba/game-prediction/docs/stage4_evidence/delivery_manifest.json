@@ -1,0 +1,15 @@
+{
+  "files": {
+    "docs/stage4_evidence/build_manifest.json": "b280f2b4fcc85de8768703d2f3646872f40fd725ce08f34f747cc7a15adbe736",
+    "docs/stage4_evidence/dependency_check.txt": "9261363b733079a641c2e4cc9bc46ffa1d8336945a87f807b6cf68847dbc9b09",
+    "docs/stage4_evidence/replay_verification.json": "eb9e4b9642f587dcbf656175fcabd10e7e6c3de9e58949edf9fd86188b0326cc",
+    "docs/stage4_evidence/test_run.txt": "e9feb4222a3e70981fc8b61c3a98454518118d0eb2215a272b371d8857590fbe",
+    "docs/stage4_evidence/test_summary.json": "901d8d233a5ee90278a140ba551cf9805a59c101bfe70bf57157a348b3dc86e4",
+    "docs/stage4_gradient_boosting.md": "8902223aaef93397f250ec2a33a0ed1941e9b113ad03e27bafd7cdf2908e7ed1"
+  },
+  "holdout_2025_26_untouched": true,
+  "legacy_sealed_data_exception": true,
+  "modeling_checks_passed": true,
+  "stage4_strict_exit_passed": false,
+  "tests": 166
+}

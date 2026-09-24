@@ -1,0 +1,33 @@
+{
+  "authorization_sha256": "8337cbd0b269ad28750d1c04fbdfb9f5304a613c514fd0e840613cbc0f5e2a2c",
+  "endpoint": "LeagueGameLog",
+  "http_status": 200,
+  "mode": "part_b",
+  "nba_api_version": "1.11.4",
+  "normal_socket_is_blocked": true,
+  "parameters": {
+    "Counter": 0,
+    "DateFrom": "",
+    "DateTo": "",
+    "Direction": "ASC",
+    "LeagueID": "00",
+    "PlayerOrTeam": "T",
+    "Season": "2025-26",
+    "SeasonType": "Regular Season",
+    "Sorter": "DATE"
+  },
+  "raw_bytes": 391239,
+  "raw_file": "data/raw/stage6r/leaguegamelog_response.json",
+  "response_decoded": false,
+  "retrieval_started_utc": "2026-09-24T20:49:56.599524+00:00",
+  "retrieved_at_utc": "2026-09-24T20:49:56.815677+00:00",
+  "sha256": "c82453a22995e14a8b0b4a2c49a566e8463dc4ce30561f66111067652f901651",
+  "ssl_base_is_original_socket": true,
+  "ssl_mro": [
+    "ssl.SSLSocket",
+    "socket.socket",
+    "_socket.socket",
+    "builtins.object"
+  ],
+  "url": "https://stats.nba.com/stats/leaguegamelog?Counter=0&DateFrom=&DateTo=&Direction=ASC&LeagueID=00&PlayerOrTeam=T&Season=2025-26&SeasonType=Regular+Season&Sorter=DATE"
+}

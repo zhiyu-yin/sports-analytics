@@ -1,0 +1,36 @@
+{
+  "comparisons": [
+    {
+      "sha256": "c82ebe48cc8385bd73694c98ca0fefaea7f13f11e6a0dc23c803b6a687f87faa",
+      "sha256_equal": true,
+      "table": "team_games",
+      "value_dtype_equal": true
+    },
+    {
+      "sha256": "0959cd2404adcbdb209795e1e47f292b1eacc281c2e3186d7ed2a830b4d53cb3",
+      "sha256_equal": true,
+      "table": "games",
+      "value_dtype_equal": true
+    },
+    {
+      "sha256": "f517f0d63be261ce401bda09dbc586e25bba0cb20d2e14ebaceaeec04668a03b",
+      "sha256_equal": true,
+      "table": "game_outcomes",
+      "value_dtype_equal": true
+    },
+    {
+      "sha256": "4d2699b0b20a1015d62019ee5d4f12011ff4f7c4d5685ddbd80ee6d774e23dfd",
+      "sha256_equal": true,
+      "table": "team_pregame_features",
+      "value_dtype_equal": true
+    },
+    {
+      "sha256": "918cd95a88fa77bf64bb9bbfb8917cddd23d566fc900bc514c5972b78ad99822",
+      "sha256_equal": true,
+      "table": "game_features",
+      "value_dtype_equal": true
+    }
+  ],
+  "passed": true,
+  "used_existing_raw_cache": true
+}

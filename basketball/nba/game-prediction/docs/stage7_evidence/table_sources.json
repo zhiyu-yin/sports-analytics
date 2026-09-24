@@ -1,0 +1,18 @@
+{
+  "three_season": {
+    "source": "docs/stage6r2_evidence/cross_season_confirmation.csv",
+    "markdown": "| Season / role | Elo LL | C LL | \u0394 LL | Elo Brier | C Brier | \u0394 Brier |\n| --- | --- | --- | --- | --- | --- | --- |\n| 2023-24 development validation | 0.61558 | 0.61011 | -0.00546 | 0.21411 | 0.21136 | -0.00274 |\n| 2024-25 pre-holdout | 0.61450 | 0.60600 | -0.00850 | 0.21332 | 0.20939 | -0.00393 |\n| 2025-26 final holdout | 0.60464 | 0.60192 | -0.00272 | 0.20833 | 0.20705 | -0.00127 |"
+  },
+  "final_metrics": {
+    "source": "docs/stage6r2_evidence/final_holdout_metrics.csv",
+    "markdown": "| Frozen candidate | Games | Log loss | Brier | Accuracy | ROC-AUC |\n| --- | --- | --- | --- | --- | --- |\n| Constant prior | 1230 | 0.68777 | 0.24731 | 55.45% | 0.500 |\n| Raw Elo | 1230 | 0.60464 | 0.20833 | 67.48% | 0.731 |\n| A \u00b7 Features logistic | 1230 | 0.61312 | 0.21217 | 66.67% | 0.719 |\n| B \u00b7 Elo logistic | 1230 | 0.60508 | 0.20852 | 68.37% | 0.731 |\n| C \u00b7 Features + Elo logistic | 1230 | 0.60192 | 0.20705 | 67.64% | 0.732 |\n| D \u00b7 Features HGB | 1230 | 0.60672 | 0.20926 | 67.97% | 0.728 |\n| E \u00b7 Features + Elo HGB | 1230 | 0.60532 | 0.20865 | 67.80% | 0.729 |"
+  },
+  "uncertainty": {
+    "source": "docs/stage6r2_evidence/date_cluster_bootstrap.csv",
+    "markdown": "| Paired loss (C \u2212 Elo) | Mean difference | Bootstrap SE | Descriptive 95% interval | Includes zero |\n| --- | --- | --- | --- | --- |\n| log_loss | -0.00272 | 0.00366 | [-0.00986, 0.00432] | True |\n| brier_score | -0.00127 | 0.00159 | [-0.00444, 0.00179] | True |"
+  },
+  "calibration": {
+    "source": "docs/stage6r2_evidence/calibration_summary.csv",
+    "markdown": "| Model | Fixed-bin ECE | Mean predicted P(home win) | Observed home-win rate | Populated / sparse bins |\n| --- | --- | --- | --- | --- |\n| Raw Elo | 0.02694 | 0.56578 | 0.55447 | 9 / 2 |\n| C \u00b7 Features + Elo logistic | 0.02829 | 0.55795 | 0.55447 | 10 / 2 |"
+  }
+}

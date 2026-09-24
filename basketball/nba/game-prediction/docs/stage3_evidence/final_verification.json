@@ -1,0 +1,15 @@
+{
+  "all_current_output_code_hashes_valid": true,
+  "all_protected_hashes_valid": true,
+  "candidate_rows": 21,
+  "final_holdout_untouched": true,
+  "fold_rows": 105,
+  "passed": true,
+  "prediction_shape": [
+    1230,
+    11
+  ],
+  "report_sha256": "2e3740ead953da520af909cf5ab529c9cdb8c174ba4285438a34a1ba7f1b538a",
+  "sealed_performance_unopened": true,
+  "tests_passed": 143
+}

@@ -1,0 +1,2 @@
+comparison,delta_log_loss,delta_brier,delta_accuracy,delta_roc_auc,directional_replication_status
+features_plus_elo_logistic vs raw_elo,-0.002720808358490867,-0.0012742071699871071,0.001626016260162566,0.0008000299676776956,replicated

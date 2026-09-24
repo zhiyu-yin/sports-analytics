@@ -1,0 +1,109 @@
+{
+  "archived": {
+    "tests_archived/historical_real_data/test_reconciliation.py": {
+      "original": "tests/test_reconciliation.py",
+      "original_exact": true,
+      "sha256": "3ccfa59064afeb0ef756b8c43d7fd7c49d10031eff0770df072477b750564d65"
+    },
+    "tests_archived/model_execution/test_boosting.py": {
+      "original": "tests/test_boosting.py",
+      "original_exact": true,
+      "sha256": "fdb8f3d1f1cd786548b84f063f57c405a0ddde8f969125e8aa7ce97bcade0279"
+    },
+    "tests_archived/model_execution/test_elo.py": {
+      "original": "tests/test_elo.py",
+      "original_exact": true,
+      "sha256": "584a511c79dbbed61b6a2a04ff489e21d8f7ec6b2887afcfe1f01d6d778c9523"
+    },
+    "tests_archived/model_execution/test_logistic.py": {
+      "original": "tests/test_logistic.py",
+      "original_exact": true,
+      "sha256": "593e23ed4e41d8a48524e7a6c585852c05aff0176533b65cba5192911d134dd8"
+    },
+    "tests_archived/model_execution/test_metrics.py": {
+      "original": "tests/test_metrics.py",
+      "original_exact": true,
+      "sha256": "4f6f80134cbe655ee505bc29117af4aca918c49788529c4ec6f4e21589b9443f"
+    },
+    "tests_archived/model_execution/test_modeling_data.py": {
+      "original": "tests/test_modeling_data.py",
+      "original_exact": true,
+      "sha256": "5350355e2bbbc12dbaa6d10b28dbbb16c3ae00614fc0dcf9975e68b4bc822b2e"
+    }
+  },
+  "git_status": "No Git repository at project path; git status/diff unavailable",
+  "modified": {
+    "scripts/build_season_games.py": {
+      "after": "508924b7ff74402b9a2400a6b55ff42195fa8fa5380604fa4408c17fdc4cce90",
+      "before": "8f19b678e064e9eb5906ceeb22289b1e85912a6ced782feaa08824e59ef319e0"
+    },
+    "scripts/check_nba_access.py": {
+      "after": "bcf07d55fd9d06994dafdde663e101155771deaa60f7ec1aaffcfa42e07b819f",
+      "before": "207fab507b37528ef75f659fd217c73f9f9e1c645dc7e89fa485be1213d0f780"
+    },
+    "src/nba_game_prediction/__init__.py": {
+      "after": "71c8cbde8a38b775ab625c98c4dd352767568ddb5787774e23fe973cc1ae1c4c",
+      "before": "9b1b9cf0d010daa0c30f8ee89b5521724c75e5e5fe4ca7259d8ed9872b212c1f"
+    },
+    "src/nba_game_prediction/boosting.py": {
+      "after": "a277ee4ea23d68522d55d3131181789eeef60e37253a24e4468d6103fbb4e6ba",
+      "before": "aed3b1d3f21222ac94399a80a4d7f70ca35c0cc71bf3758be70389927d8d43ec"
+    },
+    "src/nba_game_prediction/elo.py": {
+      "after": "6aa5e844368e1310088f01dd99c0c26b33562c8bd99c95a6ce5ea7eae378b2d1",
+      "before": "e976dfc0f7dce6ef1361ee2ec68eca59f0e8d54ff35f52c6f9b05208b1debe22"
+    },
+    "src/nba_game_prediction/evaluation.py": {
+      "after": "94ef9537895bdfa5c5fc562becb23c93b9c3ce4921bafdf6f96ca63280cf394b",
+      "before": "d766e183533f9eb4d22104179e8bfaf2c914d07210bec2460097b4b436b9be53"
+    },
+    "src/nba_game_prediction/feature_io.py": {
+      "after": "f9b29ab773a3df385b4ec417b57d2f5a3dad173bdb87f9190a972dcf45bb82cd",
+      "before": "42c0e02c630a6498bd9037ebcac4f645b606e26cfddaedeec109db3cd9653ea3"
+    },
+    "src/nba_game_prediction/ingest.py": {
+      "after": "76fdaefd6fb77140533cb55285727cc2e6fb2bfcaba5f0410ee25a70dd36e588",
+      "before": "5b389f1697c0a20c42aa0b84d34ef80ed7996e28d0bb4e7f5861a67baee831ae"
+    },
+    "src/nba_game_prediction/logistic.py": {
+      "after": "a12260bd6dcb904753eec83dd431064a9b6705c525c5fbe6d3cc137029b2ddd6",
+      "before": "193df904474a22ca34109bf4c0e94eb59de18f9a14a9c209533619280c54ac58"
+    },
+    "src/nba_game_prediction/metrics.py": {
+      "after": "422c56f984db07af914d7725e379a97f0a01bf4f62e96dac130db426fdec0985",
+      "before": "17add3a1436b7d08fd2b194e6cd402a105d3f2f46c31b8161d0da76dc42be390"
+    },
+    "src/nba_game_prediction/model_selection.py": {
+      "after": "fbd8a358fbe11f3c7f45f919cc1179a4b303e7f20f48119d887dec2652ae3f15",
+      "before": "008e98642c00224df05e0a942425097ace6f962d2b37bc4d799ad4d50cbdf37c"
+    },
+    "src/nba_game_prediction/modeling_data.py": {
+      "after": "933187e61182593221799d0739f34fb9d6e21897fd90f9d63457844faded1d1e",
+      "before": "d8bb0caadfc849c3e4276af696baf0c918dec232d5be3edc119a1ddfc039cb2c"
+    },
+    "src/nba_game_prediction/multiseason.py": {
+      "after": "1e3e1310b76107b69837b0e4cc7642f4f3b2df897f551cb80a2aab2c092e3a2a",
+      "before": "7f7681260a2734ea2407ba989602023e58de61b4fb4ebb59ca64112b996b72bb"
+    },
+    "src/nba_game_prediction/stage1d.py": {
+      "after": "4b87d1b28f15a1da2d6f4ffbf439ef9641ad15f4797d71a0d1c867df2879910a",
+      "before": "4a561ac5f1dc6fa694706a4ac665453302b6f97fa2990f984e63bbcf2f4ff9df"
+    },
+    "src/nba_game_prediction/stage3.py": {
+      "after": "afceab6eba764aec0c66e03d300a77c9eb2beded767d8cee37956c9916fa164c",
+      "before": "9ffc27383612ec05ca8ecf3a2d5569bd27954f1f98c3bd0255b68a754e60f394"
+    },
+    "src/nba_game_prediction/stage4.py": {
+      "after": "b0fe361998ea7eb5e7ceb4d086b4e626d093f78bc998948cc14b0be70e4ac7d7",
+      "before": "55a53b94b51321df4b95aa6322a7373a62277698ee19db7455bfadd945c12667"
+    },
+    "tests/test_multiseason.py": {
+      "after": "dab65bd577f6dbd6d5d20c7fe69fbc00b1c9732df04e3732fe98e4fa543dfe69",
+      "before": "9aa249439de1d3e64919a5cd40474670e324f656704105360911eb9643c5a763"
+    },
+    "tests/test_reconciliation.py": {
+      "after": "d0f65a2a55404a6639e9eea7691e9a0d8cddf75e3cc828ab00b7aa75a227cbf1",
+      "before": "3ccfa59064afeb0ef756b8c43d7fd7c49d10031eff0770df072477b750564d65"
+    }
+  }
+}

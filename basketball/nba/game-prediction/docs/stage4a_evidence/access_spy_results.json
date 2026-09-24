@@ -1,0 +1,92 @@
+{
+  "admitted_2025_26_reads": 0,
+  "admitted_sealed_outcome_reads": 0,
+  "events": {
+    "allowed:metadata": 2,
+    "blocked:2025-26 checksum forbidden": 1,
+    "blocked:2025-26 filter forbidden": 1,
+    "blocked:2025-26 physical access forbidden": 1,
+    "blocked:anonymous decoder source forbidden": 1,
+    "blocked:broad sealed read forbidden": 2,
+    "blocked:direct Arrow reader forbidden": 2,
+    "blocked:forbidden identity season": 1,
+    "blocked:identity projection contains outcomes": 7,
+    "blocked:mixed outcome containers are metadata-only; use load_outcomes": 1,
+    "blocked:model_execution": 6,
+    "blocked:network": 2,
+    "blocked:outcome filter forbidden": 1,
+    "blocked:sealed or forbidden season: historical Stage 1D build": 1,
+    "blocked:sealed or forbidden season: multi-season build": 1,
+    "blocked:sealed or forbidden season: raw outcomes": 4,
+    "blocked:sealed or forbidden season: test": 4,
+    "blocked:sealed outcome or derived value forbidden": 7,
+    "blocked:unprojected sealed physical read forbidden": 2,
+    "checksum_only": 362
+  },
+  "expected_denials": "Adversarial tests intentionally request prohibited reads/execution; these are denied before decoder/cache access",
+  "model_execution_policy": "All fitting/replay/prediction/evaluation boundaries fail before body execution; negative probes expected",
+  "network_blocked": true,
+  "network_policy": "Socket construction blocked from virtualenv startup",
+  "passed": true,
+  "reads": [
+    {
+      "columns": [],
+      "count": 1,
+      "filters": "None",
+      "path": "data/interim/game_outcomes_2023_24.parquet"
+    },
+    {
+      "columns": [
+        "season",
+        "game_id"
+      ],
+      "count": 1,
+      "filters": "None",
+      "path": "data/interim/game_outcomes_multiseason.parquet"
+    },
+    {
+      "columns": [],
+      "count": 1,
+      "filters": "None",
+      "path": "data/interim/games_2023_24.parquet"
+    },
+    {
+      "columns": [
+        "season"
+      ],
+      "count": 1,
+      "filters": "None",
+      "path": "data/interim/stage1c_game_features_multiseason.parquet"
+    },
+    {
+      "columns": [],
+      "count": 1,
+      "filters": "None",
+      "path": "data/interim/team_games_2023_24.parquet"
+    },
+    {
+      "columns": [],
+      "count": 1,
+      "filters": "None",
+      "path": "data/interim/team_pregame_features_2023_24.parquet"
+    },
+    {
+      "columns": [],
+      "count": 1,
+      "filters": "None",
+      "path": "data/processed/game_features_2023_24.parquet"
+    },
+    {
+      "columns": [
+        "season",
+        "game_id",
+        "game_date",
+        "home_team_id",
+        "away_team_id"
+      ],
+      "count": 1,
+      "filters": "[('season', 'in', ['2024-25'])]",
+      "path": "data/processed/game_features_multiseason.parquet"
+    }
+  ]
+}

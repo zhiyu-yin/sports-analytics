@@ -1,0 +1,13 @@
+{
+  "errors": 0,
+  "expected_scope": {
+    "existing": 138,
+    "stage6_synthetic": 20,
+    "transport_regression": 11
+  },
+  "failures": 0,
+  "final_data_access": false,
+  "passed": true,
+  "skips": 0,
+  "tests": 169
+}

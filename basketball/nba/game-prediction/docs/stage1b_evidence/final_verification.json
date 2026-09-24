@@ -1,0 +1,17 @@
+{
+  "all_recorded_hashes_match": true,
+  "stage1a_modules_build_script_inputs_unchanged": true,
+  "all_features_finite_when_present": true,
+  "win_rates_in_range": true,
+  "missingness_exactly_matches_history_thresholds": true,
+  "dictionary_covers_all_45_table_features": true,
+  "report_sections_and_links_valid": true,
+  "team_shape": [
+    2460,
+    23
+  ],
+  "game_shape": [
+    1230,
+    42
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "created_at_utc": "2026-09-24T20:49:33.188589+00:00",
+  "files": {
+    "stage6r/execute.py": {
+      "after_sha256": "a79f3de6eb77481a026fd2a42f283b4a194cdf158a1d8d4acedd3d06dd7b7e5c",
+      "before_sha256": null,
+      "change": "New recovery-only transport, gate, provenance or output-routing code; no historical/scientific code edited"
+    },
+    "stage6r/historical_regression.py": {
+      "after_sha256": "860f3e4f1f43699a9ce953957df750f920596dddccbdba2dd771848699469707",
+      "before_sha256": null,
+      "change": "New recovery-only transport, gate, provenance or output-routing code; no historical/scientific code edited"
+    },
+    "stage6r/part_a.py": {
+      "after_sha256": "5f9526cf1934f8467d2b2d64e5efaaa458f9b170cfa5fb73bb383828c5d3957f",
+      "before_sha256": null,
+      "change": "New recovery-only transport, gate, provenance or output-routing code; no historical/scientific code edited"
+    },
+    "stage6r/support.py": {
+      "after_sha256": "b181d24b8be5b7b9bad285520f990369e76631530cfb4426ae01ec347b8d8a06",
+      "before_sha256": null,
+      "change": "New recovery-only transport, gate, provenance or output-routing code; no historical/scientific code edited"
+    },
+    "stage6r/test_transport.py": {
+      "after_sha256": "9d6642062866852258154f05e4e38c6bf384a2919e9a94da50a3beac414e3c71",
+      "before_sha256": null,
+      "change": "New recovery-only transport, gate, provenance or output-routing code; no historical/scientific code edited"
+    },
+    "stage6r/transport_worker.py": {
+      "after_sha256": "cdf5cf314440038b2cb6d3169ed49fd45204c93e88d87527d92c43f2980ca8e0",
+      "before_sha256": null,
+      "change": "New recovery-only transport, gate, provenance or output-routing code; no historical/scientific code edited"
+    }
+  },
+  "historical_code_unchanged": true,
+  "original_stage6_code": {
+    "stage6/run.py": "810edad92838de387945d6385682b3c76e54c098e975c6339086989eb75aef92",
+    "stage6/runtime.py": "39f86dd93762371ff99ce9e76f1b6d66968998bf3b64a21aab9ba7ff8616d7eb",
+    "stage6/test_preflight.py": "96a8a47eef9a19fc890100ebb5f27ced7a884b86e09c18ccd6f8b91d562fa93a"
+  },
+  "scientific_code_changes": []
+}

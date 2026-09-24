@@ -1,0 +1,58 @@
+{
+  "candidate_change": "Any candidate or feature/recipe expansion invalidates the planned pre-holdout protocol and requires a new explicit freeze.",
+  "contract": "Before decoder or file read: sealed real data require explicit safe metadata columns; outcome/features require positively bounded permitted-season predicates. Unknown/broad requests fail closed. No final-holdout access. Whole-file checksums may stream opaque bytes but never return/decode them. No generic force override.",
+  "forbidden_all_data": [
+    "2025-26"
+  ],
+  "historical": "Preserve all historical evidence unchanged. Archive fit/evaluation tests outside ordinary discovery; no historical sealed-data reproduction command is authorized.",
+  "implementation_addendum": "Mixed outcome containers are metadata-only even with row filters. load_outcomes reads explicit columns from separate open-season files to avoid decoding sealed row groups. Anonymous decoders rejected. Normal discovery excludes historical fit/evaluation tests; guarded model entry points and sklearn fit/predict are disabled. Opaque checksums permitted, never decoded.",
+  "normal_execution": "Network blocked; model fitting/replay/evaluation excluded from Stage 4A. Synthetic structural fixture arithmetic is permitted.",
+  "open_seasons": [
+    "2015-16",
+    "2016-17",
+    "2017-18",
+    "2018-19",
+    "2019-20",
+    "2020-21",
+    "2021-22",
+    "2022-23",
+    "2023-24"
+  ],
+  "outcome_examples": [
+    "home_win",
+    "home_pts",
+    "away_pts",
+    "wl",
+    "pts",
+    "plus_minus",
+    "box scores",
+    "observed_values_json",
+    "raw response"
+  ],
+  "sealed_metadata_allowlist": [
+    "season",
+    "season_type",
+    "game_id",
+    "game_date",
+    "team_id",
+    "team_name",
+    "team_abbreviation",
+    "home_team_id",
+    "home_team_name",
+    "home_team_abbreviation",
+    "away_team_id",
+    "away_team_name",
+    "away_team_abbreviation",
+    "is_home",
+    "matchup",
+    "opponent_team_abbreviation",
+    "neutral_site",
+    "venue",
+    "city"
+  ],
+  "sealed_outcomes": [
+    "2024-25"
+  ],
+  "startup": "Project virtualenv .pth activates policy before code execution; package import and first discovery module also activate it.",
+  "version": "4A.1"
+}

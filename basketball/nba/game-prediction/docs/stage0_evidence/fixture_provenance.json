@@ -1,0 +1,38 @@
+[
+  {
+    "name": "recorded_teamgamelog",
+    "source_url": "https://raw.githubusercontent.com/swar/nba_api/master/tests/integration/scenarios/cassettes/test_teamgamelog%5BDate%20range%20filter%5D.yaml",
+    "source_sha256": "63be4ac5411e08124d427ab35de2f7cae15900388ec2e10a36687f9262187bbc",
+    "body_sha256": "4f4bbcf0ca7f500f24eebe1e84055ea2ee6ac597319bd704dbb903693954685f",
+    "original_request": "https://stats.nba.com/stats/teamgamelog?DateFrom=01%2F01%2F2024&DateTo=01%2F31%2F2024&LeagueID=00&Season=2023-24&SeasonType=Regular+Season&TeamID=1610612747",
+    "retrieved_at_utc": "2026-09-24T01:55:53.105321+00:00",
+    "note": "Upstream recorded fixture; not a live NBA response in this audit. Request cookies deliberately not retained."
+  },
+  {
+    "name": "recorded_leaguegamefinder",
+    "source_url": "https://raw.githubusercontent.com/swar/nba_api/master/tests/integration/scenarios/cassettes/test_leaguegamefinder%5BDate%20range%20filter%20%28issue%20%23526%29%20-%20DateFrom-DateTo%20work%20correctly%5D.yaml",
+    "source_sha256": "aea333488edb9108e5b4327e303b2eeb18f026991a0ac2e48d8ada8fe70dc645",
+    "body_sha256": "5839736dae40966a21b1fb4678c4f5fbce3b2b79242e4ffddb0a7ceb9f8b1ef8",
+    "original_request": "https://stats.nba.com/stats/leaguegamefinder?Conference=&DateFrom=2021-01-01&DateTo=2021-01-31&Division=&DraftNumber=&DraftRound=&DraftTeamID=&DraftYear=&EqAST=&EqBLK=&EqDD=&EqDREB=&EqFG3A=&EqFG3M=&EqFG3_PCT=&EqFGA=&EqFGM=&EqFG_PCT=&EqFTA=&EqFTM=&EqFT_PCT=&EqMINUTES=&EqOREB=&EqPF=&EqPTS=&EqREB=&EqSTL=&EqTD=&EqTOV=&GameID=&GtAST=&GtBLK=&GtDD=&GtDREB=&GtFG3A=&GtFG3M=&GtFG3_PCT=&GtFGA=&GtFGM=&GtFG_PCT=&GtFTA=&GtFTM=&GtFT_PCT=&GtMINUTES=&GtOREB=&GtPF=&GtPTS=&GtREB=&GtSTL=&GtTD=&GtTOV=&LeagueID=00&Location=&LtAST=&LtBLK=&LtDD=&LtDREB=&LtFG3A=&LtFG3M=&LtFG3_PCT=&LtFGA=&LtFGM=&LtFG_PCT=&LtFTA=&LtFTM=&LtFT_PCT=&LtMINUTES=&LtOREB=&LtPF=&LtPTS=&LtREB=&LtSTL=&LtTD=&LtTOV=&Outcome=&PORound=&PlayerID=&PlayerOrTeam=T&RookieYear=&Season=&SeasonSegment=&SeasonType=&StarterBench=&TeamID=&VsConference=&VsDivision=&VsTeamID=&YearsExperience=",
+    "retrieved_at_utc": "2026-09-24T01:55:53.169452+00:00",
+    "note": "Upstream recorded fixture; not a live NBA response in this audit. Request cookies deliberately not retained."
+  },
+  {
+    "name": "recorded_advanced",
+    "source_url": "https://raw.githubusercontent.com/swar/nba_api/master/tests/integration/smoke/cassettes/test_endpoints%5BBoxScoreAdvancedV3%5D.yaml",
+    "source_sha256": "86c1a38df2a976cc1ce9d33a0e1735c5b9f3893c132c2b9fcfcef343dfcbf993",
+    "body_sha256": "188b037460a7e2b5aeb684c5934cc06d34628d2ce249495145234a85acd0c30e",
+    "original_request": "https://stats.nba.com/stats/boxscoreadvancedv3?EndPeriod=0&EndRange=0&GameID=0022200552&RangeType=0&StartPeriod=0&StartRange=0",
+    "retrieved_at_utc": "2026-09-24T01:55:53.260670+00:00",
+    "note": "Upstream recorded fixture; not a live NBA response in this audit. Request cookies deliberately not retained."
+  },
+  {
+    "name": "recorded_four_factors",
+    "source_url": "https://raw.githubusercontent.com/swar/nba_api/master/tests/integration/smoke/cassettes/test_endpoints%5BBoxScoreFourFactorsV3%5D.yaml",
+    "source_sha256": "45971931561b99bf57f1b1b6c6c181ac976531d635af16eb19c501f54923dd58",
+    "body_sha256": "1acd0a892b6e0b45769d06b50b8b8209914669593ec0dd1fbfabb5c7266bf5bc",
+    "original_request": "https://stats.nba.com/stats/boxscorefourfactorsv3?EndPeriod=0&EndRange=0&GameID=0022200552&RangeType=0&StartPeriod=0&StartRange=0",
+    "retrieved_at_utc": "2026-09-24T01:55:53.366349+00:00",
+    "note": "Upstream recorded fixture; not a live NBA response in this audit. Request cookies deliberately not retained."
+  }
+]

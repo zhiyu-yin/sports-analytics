@@ -1,0 +1,25 @@
+test_A_authorization (test_preflight.Preflight) ... ok
+test_B_ledger_before_access (test_preflight.Preflight) ... ok
+test_C_scope (test_preflight.Preflight) ... ok
+test_D_candidates (test_preflight.Preflight) ... ok
+test_E_C_recipe (test_preflight.Preflight) ... ok
+test_F_Elo_recipe (test_preflight.Preflight) ... ok
+test_G_saved_estimators (test_preflight.Preflight) ... ok
+test_H_fit_rejected (test_preflight.Preflight) ... ok
+test_I_selection_rejected (test_preflight.Preflight) ... ok
+test_J_metrics_exact (test_preflight.Preflight) ... ok
+test_K_L_M_bootstrap_reference_whole_dates_shared_draw (test_preflight.Preflight) ... ok
+test_N_bins (test_preflight.Preflight) ... ok
+test_O_no_individual_inspection (test_preflight.Preflight) ... ok
+test_P_duplicate_opening (test_preflight.Preflight) ... ok
+test_Q_replay_not_independent (test_preflight.Preflight) ... ok
+test_full_synthetic_output_and_replay_identity (test_preflight.Preflight) ... ok
+test_invalid_bootstrap_inputs (test_preflight.Preflight) ... ok
+test_network_mock_ledger_and_decode_order (test_preflight.Preflight) ... ok
+test_no_opening_if_gate_fails (test_preflight.Preflight) ... ok
+test_saved_estimators_synthetic_predictions_zero_fit (test_preflight.Preflight) ... ok
+
+----------------------------------------------------------------------
+Ran 20 tests in 0.616s
+
+OK

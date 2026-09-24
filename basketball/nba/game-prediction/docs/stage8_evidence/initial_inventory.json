@@ -1,0 +1,181 @@
+{
+  "branch_before": null,
+  "files_over_10_MB": [
+    {
+      "bytes": 45416616,
+      "path": "basketball/nba/game-prediction/.venv/lib/python3.10/site-packages/pyarrow/libarrow.2500.dylib"
+    },
+    {
+      "bytes": 15241024,
+      "path": "basketball/nba/game-prediction/.venv/lib/python3.10/site-packages/pyarrow/libarrow_compute.2500.dylib"
+    },
+    {
+      "bytes": 23550688,
+      "path": "basketball/nba/game-prediction/.venv/lib/python3.10/site-packages/pyarrow/libarrow_flight.2500.dylib"
+    }
+  ],
+  "files_over_1_MB": [
+    {
+      "bytes": 3827748,
+      "path": "basketball/nba/game-prediction/docs/stage5_evidence/frozen_estimators.pkl"
+    },
+    {
+      "bytes": 1062688,
+      "path": "basketball/nba/game-prediction/.venv/lib/python3.10/site-packages/fontTools/misc/bezierTools.cpython-310-darwin.so"
+    },
+    {
+      "bytes": 2049184,
+      "path": "basketball/nba/game-prediction/.venv/lib/python3.10/site-packages/fontTools/misc/bezierTools.c"
+    },
+    {
+      "bytes": 1013553,
+      "path": "basketball/nba/game-prediction/.venv/lib/python3.10/site-packages/fontTools/varLib/iup.c"
+    },
+    {
+      "bytes": 3347048,
+      "path": "basketball/nba/game-prediction/.venv/lib/python3.10/site-packages/numpy/_core/_multiarray_umath.cpython-310-darwin.so"
+    },
+    {
+      "bytes": 1120896,
+      "path": "basketball/nba/game-prediction/.venv/lib/python3.10/site-packages/PIL/.dylibs/libfreetype.6.dylib"
+    },
+    {
+      "bytes": 1806576,
+      "path": "basketball/nba/game-prediction/.venv/lib/python3.10/site-packages/PIL/.dylibs/libharfbuzz.0.dylib"
+    },
+    {
+      "bytes": 3031984,
+      "path": "basketball/nba/game-prediction/.venv/lib/python3.10/site-packages/PIL/.dylibs/libavif.16.4.2.dylib"
+    },
+    {
+      "bytes": 2160032,
+      "path": "basketball/nba/game-prediction/.venv/lib/python3.10/site-packages/sklearn/_loss/_loss.cpython-310-darwin.so"
+    },
+    {
+      "bytes": 1087984,
+      "path": "basketball/nba/game-prediction/.venv/lib/python3.10/site-packages/matplotlib/ft2font.cpython-310-darwin.so"
+    },
+    {
+      "bytes": 1784752,
+      "path": "basketball/nba/game-prediction/.venv/lib/python3.10/site-packages/scipy/linalg/_flapack.cpython-310-darwin.so"
+    },
+    {
+      "bytes": 4544424,
+      "path": "basketball/nba/game-prediction/.venv/lib/python3.10/site-packages/scipy/optimize/_highspy/_core.cpython-310-darwin.so"
+    },
+    {
+      "bytes": 2051888,
+      "path": "basketball/nba/game-prediction/.venv/lib/python3.10/site-packages/scipy/io/_fast_matrix_market/_fmm_core.cpython-310-darwin.so"
+    },
+    {
+      "bytes": 1350832,
+      "path": "basketball/nba/game-prediction/.venv/lib/python3.10/site-packages/scipy/special/_ufuncs_cxx.cpython-310-darwin.so"
+    },
+    {
+      "bytes": 1046272,
+      "path": "basketball/nba/game-prediction/.venv/lib/python3.10/site-packages/scipy/special/_special_ufuncs.cpython-310-darwin.so"
+    },
+    {
+      "bytes": 2183152,
+      "path": "basketball/nba/game-prediction/.venv/lib/python3.10/site-packages/scipy/special/cython_special.cpython-310-darwin.so"
+    },
+    {
+      "bytes": 1270643,
+      "path": "basketball/nba/game-prediction/.venv/lib/python3.10/site-packages/scipy/special/tests/data/boost.npz"
+    },
+    {
+      "bytes": 1902144,
+      "path": "basketball/nba/game-prediction/.venv/lib/python3.10/site-packages/scipy/.dylibs/libgfortran.5.dylib"
+    },
+    {
+      "bytes": 3563040,
+      "path": "basketball/nba/game-prediction/.venv/lib/python3.10/site-packages/scipy/sparse/_sparsetools.cpython-310-darwin.so"
+    },
+    {
+      "bytes": 2009056,
+      "path": "basketball/nba/game-prediction/.venv/lib/python3.10/site-packages/pandas/_libs/groupby.cpython-310-darwin.so"
+    },
+    {
+      "bytes": 1611544,
+      "path": "basketball/nba/game-prediction/.venv/lib/python3.10/site-packages/pandas/_libs/algos.cpython-310-darwin.so"
+    },
+    {
+      "bytes": 1770768,
+      "path": "basketball/nba/game-prediction/.venv/lib/python3.10/site-packages/pandas/_libs/hashtable.cpython-310-darwin.so"
+    },
+    {
+      "bytes": 1046208,
+      "path": "basketball/nba/game-prediction/.venv/lib/python3.10/site-packages/pandas/_libs/interval.cpython-310-darwin.so"
+    },
+    {
+      "bytes": 1017256,
+      "path": "basketball/nba/game-prediction/.venv/lib/python3.10/site-packages/pandas/_libs/join.cpython-310-darwin.so"
+    },
+    {
+      "bytes": 2219104,
+      "path": "basketball/nba/game-prediction/.venv/lib/python3.10/site-packages/pyarrow/libarrow_acero.2500.dylib"
+    },
+    {
+      "bytes": 2737120,
+      "path": "basketball/nba/game-prediction/.venv/lib/python3.10/site-packages/pyarrow/libarrow_dataset.2500.dylib"
+    },
+    {
+      "bytes": 1137296,
+      "path": "basketball/nba/game-prediction/.venv/lib/python3.10/site-packages/pyarrow/_compute.cpython-310-darwin.so"
+    },
+    {
+      "bytes": 1127760,
+      "path": "basketball/nba/game-prediction/.venv/lib/python3.10/site-packages/pyarrow/_flight.cpython-310-darwin.so"
+    },
+    {
+      "bytes": 45416616,
+      "path": "basketball/nba/game-prediction/.venv/lib/python3.10/site-packages/pyarrow/libarrow.2500.dylib"
+    },
+    {
+      "bytes": 1979232,
+      "path": "basketball/nba/game-prediction/.venv/lib/python3.10/site-packages/pyarrow/libarrow_python.2500.1.0.dylib"
+    },
+    {
+      "bytes": 15241024,
+      "path": "basketball/nba/game-prediction/.venv/lib/python3.10/site-packages/pyarrow/libarrow_compute.2500.dylib"
+    },
+    {
+      "bytes": 23550688,
+      "path": "basketball/nba/game-prediction/.venv/lib/python3.10/site-packages/pyarrow/libarrow_flight.2500.dylib"
+    },
+    {
+      "bytes": 4906896,
+      "path": "basketball/nba/game-prediction/.venv/lib/python3.10/site-packages/pyarrow/libarrow_substrait.2500.dylib"
+    },
+    {
+      "bytes": 3753224,
+      "path": "basketball/nba/game-prediction/.venv/lib/python3.10/site-packages/pyarrow/lib.cpython-310-darwin.so"
+    },
+    {
+      "bytes": 1979232,
+      "path": "basketball/nba/game-prediction/.venv/lib/python3.10/site-packages/pyarrow/libarrow_python.dylib"
+    },
+    {
+      "bytes": 1979232,
+      "path": "basketball/nba/game-prediction/.venv/lib/python3.10/site-packages/pyarrow/libarrow_python.2500.dylib"
+    },
+    {
+      "bytes": 4800456,
+      "path": "basketball/nba/game-prediction/.venv/lib/python3.10/site-packages/pyarrow/libparquet.2500.dylib"
+    }
+  ],
+  "filesystem_bytes": 453078468,
+  "filesystem_files": 15409,
+  "initial_git": "Absent; no parent repository",
+  "intended_root": "sports-analytics",
+  "license_exists": false,
+  "nested_git": [],
+  "remotes_before": [],
+  "symlinks": [
+    "basketball/nba/game-prediction/.venv/bin/python3",
+    "basketball/nba/game-prediction/.venv/bin/python",
+    "basketball/nba/game-prediction/.venv/bin/python3.10"
+  ],
+  "tracked_files_before": 0,
+  "virtualenv": "basketball/nba/game-prediction/.venv"
+}

@@ -1,0 +1,31 @@
+{
+  "completed_openings": 1,
+  "delivery_sha256": {
+    "docs/stage5_evidence/authorization.txt": "acc6868a065f9e39c9ba8e4a9a162b707a875604820f86578fcd847b9bda635e",
+    "docs/stage5_evidence/build_manifest.json": "3e4f4070e5bc65b9eae05c57456bc51c6fe2743baf00fac1c0315786ac6e8862",
+    "docs/stage5_evidence/calibration_features_plus_elo_logistic.csv": "878b1c6063b82d21e644de8ec24a6b1f00bfbcaef2e3c247af6af669e6adb971",
+    "docs/stage5_evidence/calibration_raw_elo.csv": "5ea3802869bd9386d0c0e19790fca35c6546f8250dc4a76ef5aa43ebd39d0011",
+    "docs/stage5_evidence/cross_season_replication.csv": "d6107c86c71f94bdcfe08729b1dc55ce816cff6f037d7b34d68de0cc96686a75",
+    "docs/stage5_evidence/first_outcome_decode.json": "8c92e1f1380cae8bb2ff5e8b59a384bb6ebee6350cddc6b6977006c95706465b",
+    "docs/stage5_evidence/preholdout_metrics.csv": "79f872f014fbb78274ad28aec80cab5e4a53b182e3788efa85d26e5514abcdab",
+    "docs/stage5_evidence/preholdout_opening_ledger.json": "fe40b069802ee6ef3afb1f5e4e51f600d6c2da30c3ef948416ac78f99bc9ff37",
+    "docs/stage5_evidence/preopening_verification.json": "5ea19abc8b5fe9250dadff9ac34d7ea6690a7aedd9be6e5632fee4183bc8582b",
+    "docs/stage5_evidence/primary_comparison.csv": "b6e5d411b218af8aba8d4e96b9ed22c98567d6837f00b5534ceac7de9513a5ec",
+    "docs/stage5_evidence/protocol.json": "1a16bbb50aa1dad93547d5fb956ef4f096b16501357936334f5eed87e1bbc6d6",
+    "docs/stage5_evidence/replay_verification.json": "428e321de1fcf4beeda104fd2c16942e3f262c74ff56c251e5fdb1bb54ec427f",
+    "docs/stage5_evidence/test_run.txt": "b88037baeba6eef5c2719d2fe36d1db200c07f4cb792cf0acb221364f698c67d",
+    "docs/stage5_evidence/test_summary.json": "74713b89550d39833882682b9202b48d31afa6a513d44f1c3ffdf746acc6d5e4",
+    "docs/stage5_preholdout_evaluation.md": "4e3cdb620fe8613bdf37c59244f72a21586767f41cc6ad2e5efc3a29bf1f1c54"
+  },
+  "evaluation_executions": 2,
+  "holdout_2025_26_accessed": false,
+  "ledger_chronology_verified": true,
+  "no_individual_error_analysis": true,
+  "passed": true,
+  "postopening_fit_calls": 0,
+  "preopening_gate_still_matches": true,
+  "protected_artifacts_unchanged": 226,
+  "replay_is_independent_evidence": false,
+  "report_sections": 19,
+  "tests_passed": 122
+}

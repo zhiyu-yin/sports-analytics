@@ -1,0 +1,17 @@
+{
+  "all_tests_passed": 107,
+  "audit_shape": [
+    10749,
+    12
+  ],
+  "grid_candidates": 80,
+  "input_code_output_hashes_verified": true,
+  "internal_candidate_folds": 400,
+  "passed": true,
+  "predictions_shape": [
+    1230,
+    10
+  ],
+  "report_sha256": "0f69cf6c0a99524d54e987dde77fca71a29ae07730ccf19503ac940d3f6dab99",
+  "sealed_seasons_absent_from_predictions_and_metrics": true
+}

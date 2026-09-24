@@ -1,0 +1,13 @@
+{
+  "tests_run": 46,
+  "stage1a_tests": 27,
+  "stage1b_tests": 19,
+  "failures": 0,
+  "errors": 0,
+  "network_socket_blocked": true,
+  "test_source_sha256": {
+    "tests/test_features.py": "c337945575963b19ddb185ae41d1ca2122e677c0baace2772ae8c0e0420359b0",
+    "tests/test_ingestion.py": "bdc0303ac1ea9827d06e23dbf8dd98e01dd4bb56d769973053d7738b4b64a4a2"
+  },
+  "test_log_sha256": "64d51730082f30085dcac0b044492bba89bf7cb00199531fe357ac0248f9ab3e"
+}

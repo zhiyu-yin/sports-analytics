@@ -1,0 +1,17 @@
+{
+  "docs/final_holdout_protocol_2025_26.md": "2f85d4b49827ccc12f929a924e89e8c44e052380f8d535f865497c2833355498",
+  "docs/stage5a_evidence/README.md": "feae2269b982dc3e1259dea02be7b0f65ee9bcdf2f9af2e6bee654d4f4ea15c2",
+  "docs/stage5a_evidence/access_audit.json": "916d23b907c9e6e0b1e3c36eb22ba3d288dd0d4b7ef56b4928b6f2b93054522d",
+  "docs/stage5a_evidence/build_manifest.json": "1caf9fde93caff5d20775d02c3dd36ce3572483c915a2c7ca2e3f2ddc58f5b5f",
+  "docs/stage5a_evidence/code_checkpoint_before.json": "0a4ad7bdade198fbc27047ad47c4c0d57f6ec9f37e26468fd825e5f7e8fe97b4",
+  "docs/stage5a_evidence/final_holdout_freeze.json": "bf065ba3de945e86b85fb3ad3961cbd523cf319e6c7925e343be93adfe1ad191",
+  "docs/stage5a_evidence/final_opening_ledger.schema.json": "daa6851d59d76ca0ca990816bb67b3ca8f86e0bda8e12535f84fcb8d7d43d086",
+  "docs/stage5a_evidence/final_verification.json": "f27bc133820fe50e23340a44411e7b79a6d1289fa62b2563e593199a9616aa3e",
+  "docs/stage5a_evidence/protected_artifact_hashes_after.json": "98ec42ffc6a2fbdde8ae1743f7c76d94a3321c724d65dffc98df3f336cbda8bc",
+  "docs/stage5a_evidence/protected_artifact_hashes_before.json": "98ec42ffc6a2fbdde8ae1743f7c76d94a3321c724d65dffc98df3f336cbda8bc",
+  "docs/stage5a_evidence/replay_verification.json": "eb4374f8147be2ca75db760b1bd6a8a0317a72967875b4b5092c012bd97a4f94",
+  "docs/stage5a_evidence/test_run.txt": "f1ac88e2189f8b5d912bb1fae2bbac55e4a9ef6c15997e3a33c949703f04d0ea",
+  "docs/stage5a_evidence/test_scope.json": "931a9087d70f2da07ca0981dcae5ecab74efeb1f8741968724a8753700050df1",
+  "docs/stage5a_evidence/test_summary.json": "f270b40e2b83930e1f948604afc15a99f0c1c2e2e0cd0460e926a6c571bb6e5b",
+  "docs/stage5a_evidence/uncertainty_protocol.json": "0ac93da995cd698aa20bbf6e326824aaf05fc9ad11b81acb115a54d95fac8d3d"
+}

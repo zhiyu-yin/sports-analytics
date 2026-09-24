@@ -1,0 +1,14 @@
+{
+  "additional_stage5a_artifacts_unchanged": 15,
+  "aggregate_results_persisted_at_utc": null,
+  "execution_passed": false,
+  "executor_unchanged_after_access_attempt": true,
+  "first_outcome_decode_at_utc": null,
+  "fit_calls": 0,
+  "historical_scientific_artifacts_unchanged": 275,
+  "ledger_schema_keys_exact": true,
+  "network_retries": 0,
+  "passed": true,
+  "predictions_exist": false,
+  "raw_response_exists": false
+}

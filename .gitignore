@@ -1,0 +1,57 @@
+# Python and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Local settings and credentials
+.DS_Store
+.env
+.env.*
+
+# Generated data and model outputs (small Stage 0 evidence remains visible)
+**/data/raw/
+**/data/processed/
+**/models/
+**/outputs/
+
+# Derived Stage 1A tables and build manifests
+**/data/interim/
+
+# Credentials and machine-local keys
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Local caches, temporary outputs and editor state
+.cache/
+cache/
+tmp/
+temp/
+*.tmp
+*.swp
+*.swo
+.idea/
+.vscode/
+# Preserve scientific evidence logs; ignore only local log directories
+logs/
+
+# Opaque fitted model binaries: retained locally with historical hashes
+*.pkl
+*.pickle
+*.joblib
+
+# Historical NBA response fixtures outside data/: retain provenance, not payloads
+/basketball/nba/game-prediction/docs/stage0_evidence/recorded_*.json
+/basketball/nba/game-prediction/docs/stage0_evidence/live_*.txt
+
+# Post-commit local receipt avoids a commit-hash self-reference
+/basketball/nba/game-prediction/docs/stage8_evidence/local_release_receipt.json
+
+# Derived evaluation datasets also exist under replay evidence folders
+*.parquet

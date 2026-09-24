@@ -1,0 +1,73 @@
+{
+  "declared_before_results": true,
+  "training_seasons": [
+    "2015-16",
+    "2016-17",
+    "2017-18",
+    "2018-19",
+    "2019-20",
+    "2020-21",
+    "2021-22",
+    "2022-23"
+  ],
+  "internal_scored_seasons": [
+    "2018-19",
+    "2019-20",
+    "2020-21",
+    "2021-22",
+    "2022-23"
+  ],
+  "validation": "2023-24",
+  "sealed": "2024-25",
+  "forbidden": "2025-26",
+  "grid": {
+    "K": [
+      10,
+      20,
+      30,
+      40
+    ],
+    "H": [
+      0,
+      50,
+      75,
+      100,
+      125
+    ],
+    "alpha": [
+      0.5,
+      0.75,
+      0.9,
+      1.0
+    ]
+  },
+  "selection": "Pooled game-weighted internal-fold log loss",
+  "tie_break": [
+    "log_loss ascending (no rounding/tolerance)",
+    "brier_score ascending",
+    "K ascending",
+    "H ascending",
+    "alpha descending"
+  ],
+  "initial_rating": 1500,
+  "elo_scale": 400,
+  "log_loss_epsilon": 1e-15,
+  "accuracy_threshold": 0.5,
+  "fixed_calibration_edges": [
+    0.0,
+    0.1,
+    0.2,
+    0.3,
+    0.4,
+    0.5,
+    0.6,
+    0.7,
+    0.8,
+    0.9,
+    1.0
+  ],
+  "neutral_policy": "Same designated-home H for every game",
+  "state_policy": "Predict before update; season regression once on entry; same-team/date ambiguity rejected",
+  "validation_policy": "Freeze parameters then sequentially update ratings after completed validation games; no recalibration",
+  "dependencies": "Add only plotting dependencies; existing pins retained"
+}

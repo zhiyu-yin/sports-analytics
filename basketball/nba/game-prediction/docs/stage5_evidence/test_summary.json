@@ -1,0 +1,20 @@
+{
+  "errors": 0,
+  "failures": 0,
+  "network_blocked": true,
+  "passed": true,
+  "phase": "Before real pre-holdout opening",
+  "real_2024_25_outcomes_used": false,
+  "skipped": 0,
+  "synthetic_preflight": true,
+  "test_sha256": {
+    "tests/test_00_development_policy.py": "85a17920e2e969e9598f8b8e16c0ccb8d54067b789e954c906a2d36e1a108d81",
+    "tests/test_features.py": "c337945575963b19ddb185ae41d1ca2122e677c0baace2772ae8c0e0420359b0",
+    "tests/test_ingestion.py": "bdc0303ac1ea9827d06e23dbf8dd98e01dd4bb56d769973053d7738b4b64a4a2",
+    "tests/test_multiseason.py": "dab65bd577f6dbd6d5d20c7fe69fbc00b1c9732df04e3732fe98e4fa543dfe69",
+    "tests/test_reconciliation.py": "d0f65a2a55404a6639e9eea7691e9a0d8cddf75e3cc828ab00b7aa75a227cbf1",
+    "tests/test_sealed_access.py": "0e7634eaf1b6d56ab7b0ba969c0815464d537219b28cf5a5d760fb0a50eab6f6",
+    "tests/test_stage5.py": "2749a1d9a4876ca74b264f41ad4a75adf5c260397666c6bf5e0d7fc1561effdc"
+  },
+  "tests": 122
+}

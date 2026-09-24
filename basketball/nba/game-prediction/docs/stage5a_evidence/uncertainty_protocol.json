@@ -1,0 +1,35 @@
+{
+  "algorithm": [
+    "Sort unique game dates chronologically; G distinct dates",
+    "For each replicate, draw G date indices uniformly with replacement",
+    "Use the SAME date draw for log-loss and Brier paired differences",
+    "Retain every game within each sampled date; repeat whole date cluster according to its draw multiplicity",
+    "Replicate mean = sum of sampled cluster paired-loss sums / sum of sampled cluster game counts; do not average daily means",
+    "Do not refit, recompute features, shuffle within chronology or resample independent games"
+  ],
+  "brier_loss": "(p-y)^2 on original probabilities",
+  "cluster": "calendar date; normalized date already used by frozen pregame contract",
+  "difference": "loss_ModelC - loss_rawElo",
+  "inputs": [
+    "game_date",
+    "paired_log_loss_difference",
+    "paired_brier_loss_difference"
+  ],
+  "interpretation": "Approximate descriptive intervals only. Date clustering does not remove across-date/team dependence; no formal independence-adjusted significance claim, no p-value, no tuning.",
+  "interval": "2.5th and 97.5th percentiles of replicate means, numpy.quantile(method=\"linear\")",
+  "invalid_input": "Reject missing/nonfinite loss differences or dates, duplicate game keys, or fewer than two date clusters; stop and disclose, no post-opening method substitution",
+  "log_loss": "Use exactly frozen metrics.py EPSILON clipping (1e-15), natural logs",
+  "method": "date-clustered descriptive bootstrap intervals",
+  "multiplicity": "Two predeclared primary losses, no multiplicity-adjusted significance claim",
+  "paired": true,
+  "point_statistics": [
+    "arithmetic mean of all per-game paired differences",
+    "median of all per-game paired differences",
+    "25th and 75th percentiles of per-game paired differences"
+  ],
+  "replicates": 10000,
+  "rng": "numpy.random.default_rng(0), PCG64; dependency version pinned by final freeze",
+  "seed": 0,
+  "standard_error": "Sample standard deviation (ddof=1) of the 10000 replicate means, labeled descriptive date-clustered bootstrap SE",
+  "status": "FROZEN \u2014 NOT YET EXECUTED"
+}
