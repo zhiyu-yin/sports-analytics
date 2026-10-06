@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "checked_at": "2026-10-01T00:57:39.674758+00:00",
+  "j1": {
+    "first_N": 3,
+    "max_beta_difference": 3.469446951953614e-17,
+    "sample_hashes_equal": true
+  },
+  "j2": {
+    "first_N": 3,
+    "max_beta_difference": 8.326672684688674e-17,
+    "sample_hashes_equal": true
+  }
+}

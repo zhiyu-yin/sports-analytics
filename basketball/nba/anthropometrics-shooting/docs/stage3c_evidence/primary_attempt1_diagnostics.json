@@ -1,0 +1,20 @@
+{
+  "kind": "primary",
+  "attempt": 1,
+  "max_rhat": 1.007890895887242,
+  "min_bulk_ESS": 589.8295136309212,
+  "min_tail_ESS": 906.1510309159768,
+  "BFMI_by_chain": [
+    0.732759478504109,
+    0.6740877126991804,
+    0.678546566593271,
+    0.6930852264119002
+  ],
+  "divergences": 0,
+  "max_treedepth_hits": 0,
+  "finite_covariance": true,
+  "numeric_gate_pass": true,
+  "visual_review": "PENDING",
+  "scientific_summary_released": false,
+  "checked_at": "2026-09-28T23:28:11.459616+00:00"
+}

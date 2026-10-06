@@ -1,0 +1,175 @@
+{
+  "panel_sha256": "1c34331385e459ac5da67105658730d31d96c8114bd25fcb3b31cea52f1a1871",
+  "rows": 4117,
+  "players": 857,
+  "seasons": 13,
+  "FTA": 469099,
+  "positive_rows": 3980,
+  "zero_rows": 137,
+  "positions": [
+    "C",
+    "C-PF",
+    "PF",
+    "PF-C",
+    "PF-SF",
+    "PG",
+    "PG-SG",
+    "SF",
+    "SF-PF",
+    "SF-SG",
+    "SG",
+    "SG-PG",
+    "SG-SF",
+    "unknown"
+  ],
+  "seasons_list": [
+    "2010-11",
+    "2011-12",
+    "2012-13",
+    "2014-15",
+    "2015-16",
+    "2016-17",
+    "2017-18",
+    "2018-19",
+    "2019-20",
+    "2020-21",
+    "2021-22",
+    "2022-23",
+    "2023-24"
+  ],
+  "height_center": 77.53028004667445,
+  "GP_offset_coefficient": 1,
+  "sampling": {
+    "chains": 4,
+    "tune": 2000,
+    "draws": 2000,
+    "target_accept": 0.95,
+    "random_seed": 20260930
+  },
+  "recovery": {
+    "tune": 4000,
+    "draws": 4000,
+    "target_accept": 0.99
+  },
+  "max_recoveries": 1,
+  "diagnostics": {
+    "max_rhat": 1.01,
+    "min_bulk_ESS": 400,
+    "min_tail_ESS": 400,
+    "max_divergences": 0,
+    "max_treedepth_hits": 0,
+    "min_BFMI": 0.3,
+    "finite_covariance": true,
+    "visual_review": true,
+    "sealed_parameter_handling": "Include anonymous convergence diagnostics for the sealed slope; never export its location, scale, interval, sign or posterior probability; no raw trace plot of that parameter"
+  },
+  "all_latent_elements_checked": true,
+  "PPC": {
+    "draws": 2000,
+    "seed": 20260930,
+    "global_metrics": [
+      "rate_mean",
+      "rate_SD",
+      "rate_q05",
+      "rate_q50",
+      "rate_q95",
+      "rate_zero_fraction",
+      "rate_one_fraction"
+    ],
+    "accuracy_failure_rules": {
+      "pooled_outside_99": true,
+      "global_outside_99_at_least": 3,
+      "season_outside_99_fraction": 0.3333333333333333,
+      "FTA_bin_outside_99_at_least": 2,
+      "systematic_directional_pattern": true
+    },
+    "pattern_definition": "For each bin, bias=replicate mean minus observed. Evidence of direction requires abs(bias)>2.576*MCSE(replica mean), MCSE estimated by 40 consecutive batch means of 50 replicates in chain-major draw order. Both low bins same sign and both high bins opposite sign triggers failure. This is Monte Carlo uncertainty, not posterior predictive interval width.",
+    "joint_failure_rules": {
+      "zero_fraction_outside_99": true,
+      "quantiles": [
+        0.25,
+        0.5,
+        0.75,
+        0.9,
+        0.95
+      ],
+      "quantiles_outside_99_at_least": 3,
+      "season_total_gross_rule": "At least ceil(n_seasons/3) season totals outside 99% predictive intervals in the same direction"
+    },
+    "conditional_accuracy": "Hold observed FTA fixed, using joint posterior",
+    "joint_generation": "Simulate all FTA then FTM conditional on simulated FTA and the same correlated player draw",
+    "opportunity_checks": [
+      "overall distribution",
+      "season distributions/totals",
+      "original-position distributions",
+      "zero fraction",
+      "Q25",
+      "Q50",
+      "Q75",
+      "Q90",
+      "Q95"
+    ],
+    "baseline_policy": "Reuse original 1000 saved D0 replications; no re-evaluation to seek a different baseline outcome"
+  },
+  "positive_count_gate": {
+    "quantiles": [
+      0.25,
+      0.5,
+      0.75
+    ],
+    "fail_at_least": 2,
+    "interval": 0.99
+  },
+  "decomposition_csv_sha256": "2412df80bf520b5dd90b2dc71365651647c59d44bd676de5115a056385bdb1ac",
+  "decomposition_metadata_sha256": "c6bda0cabbc2acad6a5b11774998ffbf466720d4019aa53636d36668ed6f7c53",
+  "frozen_at": "2026-09-30T20:19:55.859102+00:00",
+  "candidates": {
+    "I1": "Exact H2 except standardized linear plus centered quadratic within terms in accuracy",
+    "I2": "Exact H2 plus independent standard-normal count-only player residual with HalfNormal(.5) scale",
+    "I3": "Exact union of I1 and I2 modifications"
+  },
+  "candidate_order": [
+    "I1",
+    "I2",
+    "I3"
+  ],
+  "eligible_candidates": [
+    "I3"
+  ],
+  "I0": "Exact saved H2; never refit",
+  "hypotheses": {
+    "A": "Simple quadratic within curvature may explain residual accuracy-volume bias",
+    "B": "Independent count-specific persistent heterogeneity may repair positive FTA shape"
+  },
+  "latent_formula": "u=sigma_accuracy*(rho_AO*o+sqrt(1-rho_AO^2)*e); positive effect=sigma_opportunity*o; hurdle effect=lambda_h*o",
+  "count_residual": "c independent of o and e; sigma_count_resid*c enters positive-count log mean only",
+  "theta_B_absent": true,
+  "no_new_correlations": true,
+  "no_I4": true,
+  "prior_protocol_sha256": "444a42e209a140ea4b6d52e13fe2ce49c9dbbb1153370a9dd6796f654df0350c",
+  "basis_sha256": "924080e0b32574cf8da68c6a94cb4f599386b0b709b3d1eb14effd85ada2cda2",
+  "frozen_code": {
+    "scripts/stage3i_model.py": "32b24bf36b2afec8a3070e4e41b403e71e647d9b24ee78db6deb3ff1b269bb1d",
+    "scripts/stage3i_selection.py": "7b6028b9f3ed1926bfc3310f6658e1f2e252ec0c2bddfba4505aa5f4ba5476b4",
+    "scripts/stage3i_common.py": "a5f20ff9c7b282cc8a1f489e786e075dc656d09d157c064451896fd5d52aeb1b",
+    "scripts/stage3i_freeze.py": "b047a6d55d2ae22ee97ac45b764c99116dc032af84978ee37d3a226324594ddf",
+    "scripts/stage3i_run.py": "b455c70d1990a9e342dc9b76ec134850b8bf38d98015255cabe82cbc30545d05",
+    "scripts/stage3i_review.py": "7318d72a8090ddcd0910d8e0dc5238b5d5c10a3f9673d01e5c2a732cc97c51f9",
+    "scripts/stage3i_prior.py": "050b67cdece61f9118aeb557bad3c55c0889c6b5e6aa11307c01c0188f62189e",
+    "scripts/stage3i_sampling.py": "4c719e3b064ffa72a13275642a1757a3e0ace22f23bf6436b764d297a4f89b0c",
+    "scripts/stage3i_ppc.py": "a8efd45d39a770b5745aac667454115fbecccc0c6dd13cc7a87fe0fd9fdb7e87",
+    "scripts/stage3f_common.py": "a2f7a34c8f0d2ad7aa06d4ce49af4a369b08c56591b99cd84fd50b1c22f334b5",
+    "scripts/stage3f_model.py": "ed5b1246c89faf77de23898bff5b4641949ab00fd8b75f11f6966a0eeb59a295",
+    "scripts/stage3d_model.py": "a3c1afed6d912b9e4926040315297152dbebb55d4b6ef3105b8fd77feb5a3c97",
+    "scripts/stage3d_protocol.py": "2505ef0f76dca81088a1947495acd16e3f1b181e8fa81ff2a3162de6a3e014f6",
+    "scripts/stage3d_selection.py": "8768edc64079ac70ed396dc53c447a19292484d677f0abe79e1c917e891da918",
+    "scripts/stage3dr_ppc.py": "554688672c3c05ab2b0b4d0b98fd086e9a0baba1f1401d78e801d27d48ed3907",
+    "scripts/stage3c_results.py": "8cd5d13861d75dcd0cfe992977888bc95c375c3bef99ff32f24041330a8fd514"
+  },
+  "selection": "Only I3 all gates plus protocol/firewall pass authorizes estimand review. I1/I2 failures do not block independently predeclared I3. I3 sampler failure stops; no I4.",
+  "prior_failure": "All prior checks precede all fits; I3 failure stops without tuning. A diagnostic prior failure is recorded and prevents that diagnostic fit, without preventing independently predeclared I3 if its prior passes.",
+  "scientific_parameter_status": "SEALED",
+  "stage3g_executed": false,
+  "no_commit": true,
+  "no_push": true
+}

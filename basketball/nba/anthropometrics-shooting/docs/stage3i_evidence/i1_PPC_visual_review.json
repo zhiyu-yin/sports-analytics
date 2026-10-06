@@ -1,0 +1,5 @@
+{
+  "reviewed_at": "2026-09-30T20:47:40.240008+00:00",
+  "passed": true,
+  "scope": "Accuracy-bin and zero/positive-count PPC figures visually checked; numerical gates unchanged"
+}

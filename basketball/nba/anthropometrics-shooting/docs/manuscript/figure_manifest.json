@@ -1,0 +1,21 @@
+{
+  "figures": [
+    "figure1_study_flow",
+    "figure2_robustness_forest",
+    "figure3_leave_one_season_out",
+    "figure4_selection_coverage",
+    "supp_figure1_attempt_volume_diagnostic"
+  ],
+  "source_data": {
+    "figure1_study_flow": "figure1_data.csv",
+    "figure2_robustness_forest": "figure2_data.csv",
+    "figure3_leave_one_season_out": "supp_leave_one_season_out.csv",
+    "figure4_selection_coverage": "figure4_data.csv",
+    "supp_figure1_attempt_volume_diagnostic": "supp_figure1_data.csv"
+  },
+  "scale": "log-odds coefficient per residual inch for forest plots",
+  "dpi": 400,
+  "pdf_vector": true,
+  "style": "matplotlib grayscale; one axes per figure",
+  "frozen_result_only": true
+}

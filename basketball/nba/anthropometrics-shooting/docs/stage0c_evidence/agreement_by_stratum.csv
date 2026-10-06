@@ -1,0 +1,10 @@
+dimension,stratum,preselected_players,successful_official_source_retrievals,direct_barefoot_observations,direct_wingspan_observations,complete_pairs,exact_pairs,rounding_consistent_pairs,conflict_pairs,official_source_unavailable,agreement_rate
+sampling_era_stratum,2000-2004,15,15,15,15,15,15,0,0,0,1.0
+sampling_era_stratum,2005-2008,15,15,15,15,15,15,0,0,0,1.0
+sampling_era_stratum,2009-2013,15,15,15,15,15,15,0,0,0,1.0
+sampling_height_stratum,medium_75_to_lt80,15,15,15,15,15,15,0,0,0,1.0
+sampling_height_stratum,short_lt75,15,15,15,15,15,15,0,0,0,1.0
+sampling_height_stratum,tall_ge80,15,15,15,15,15,15,0,0,0,1.0
+sampling_relative_wingspan_stratum,lower_tail,9,9,9,9,9,9,0,0,0,1.0
+sampling_relative_wingspan_stratum,middle,27,27,27,27,27,27,0,0,0,1.0
+sampling_relative_wingspan_stratum,upper_tail,9,9,9,9,9,9,0,0,0,1.0

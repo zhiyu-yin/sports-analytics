@@ -1,0 +1,225 @@
+{
+  "candidate": "H2",
+  "replicates": 2000,
+  "seed": 20260930,
+  "zero_frequency_99_pass": true,
+  "quantile_99_fail_count": 2,
+  "season_totals_outside_99_low": 0,
+  "season_totals_outside_99_high": 0,
+  "season_count": 13,
+  "positive_quantile_99_fail_count": 2,
+  "positive_quantiles": [
+    {
+      "metric": "positive_FTA_q25",
+      "observed": 29.0,
+      "replicated_mean": 29.409,
+      "predictive_99_low": 28.0,
+      "predictive_99_high": 31.0,
+      "outside_99": false,
+      "MCSE_mean": 0.019101785391114737
+    },
+    {
+      "metric": "positive_FTA_q50",
+      "observed": 79.0,
+      "replicated_mean": 73.422,
+      "predictive_99_low": 70.0,
+      "predictive_99_high": 77.0,
+      "outside_99": true,
+      "MCSE_mean": 0.02898540746917049
+    },
+    {
+      "metric": "positive_FTA_q75",
+      "observed": 164.0,
+      "replicated_mean": 150.24475,
+      "predictive_99_low": 144.0,
+      "predictive_99_high": 156.25249999999994,
+      "outside_99": true,
+      "MCSE_mean": 0.05277703159616479
+    }
+  ],
+  "base_opportunity_gate_pass": true,
+  "gate_pass": false,
+  "zero_frequency": {
+    "metric": "FTA_zero_fraction",
+    "observed": 0.03327665776050522,
+    "replicated_mean": 0.033434418265727475,
+    "predictive_99_low": 0.024287102258926403,
+    "predictive_99_high": 0.04469638085984932,
+    "outside_99": false,
+    "MCSE_mean": 8.012638097216407e-05
+  },
+  "quantiles": [
+    {
+      "metric": "FTA_q25",
+      "observed": 25.0,
+      "replicated_mean": 25.532,
+      "predictive_99_low": 24.0,
+      "predictive_99_high": 27.0,
+      "outside_99": false,
+      "MCSE_mean": 0.015136981374375944
+    },
+    {
+      "metric": "FTA_q50",
+      "observed": 75.0,
+      "replicated_mean": 69.7845,
+      "predictive_99_low": 67.0,
+      "predictive_99_high": 73.0,
+      "outside_99": true,
+      "MCSE_mean": 0.031226940209885777
+    },
+    {
+      "metric": "FTA_q75",
+      "observed": 160.0,
+      "replicated_mean": 146.29,
+      "predictive_99_low": 140.0,
+      "predictive_99_high": 153.0,
+      "outside_99": true,
+      "MCSE_mean": 0.04941711527448037
+    },
+    {
+      "metric": "FTA_q90",
+      "observed": 270.4000000000001,
+      "replicated_mean": 260.71160000000003,
+      "predictive_99_low": 247.0,
+      "predictive_99_high": 275.0,
+      "outside_99": false,
+      "MCSE_mean": 0.1446673141897354
+    },
+    {
+      "metric": "FTA_q95",
+      "observed": 373.1999999999998,
+      "replicated_mean": 358.30679999999984,
+      "predictive_99_low": 336.996,
+      "predictive_99_high": 382.0,
+      "outside_99": false,
+      "MCSE_mean": 0.261798050961385
+    }
+  ],
+  "season_totals": [
+    {
+      "metric": "season_2010-11_total",
+      "observed": 37576.0,
+      "replicated_mean": 36012.3315,
+      "predictive_99_low": 31924.975,
+      "predictive_99_high": 40743.39499999999,
+      "outside_99": false,
+      "MCSE_mean": 33.41417848825363
+    },
+    {
+      "metric": "season_2011-12_total",
+      "observed": 28788.0,
+      "replicated_mean": 29353.618,
+      "predictive_99_low": 25956.86,
+      "predictive_99_high": 33047.284999999996,
+      "outside_99": false,
+      "MCSE_mean": 30.513971661586506
+    },
+    {
+      "metric": "season_2012-13_total",
+      "observed": 37374.0,
+      "replicated_mean": 37067.243,
+      "predictive_99_low": 32948.91,
+      "predictive_99_high": 41470.78999999998,
+      "outside_99": false,
+      "MCSE_mean": 41.62330906121136
+    },
+    {
+      "metric": "season_2014-15_total",
+      "observed": 40830.0,
+      "replicated_mean": 40053.307,
+      "predictive_99_low": 36036.61,
+      "predictive_99_high": 44142.83999999998,
+      "outside_99": false,
+      "MCSE_mean": 40.630735496034504
+    },
+    {
+      "metric": "season_2015-16_total",
+      "observed": 41364.0,
+      "replicated_mean": 40073.855,
+      "predictive_99_low": 35823.19,
+      "predictive_99_high": 44517.049999999996,
+      "outside_99": false,
+      "MCSE_mean": 39.576972965381785
+    },
+    {
+      "metric": "season_2016-17_total",
+      "observed": 41293.0,
+      "replicated_mean": 38378.052,
+      "predictive_99_low": 34640.855,
+      "predictive_99_high": 42500.19499999999,
+      "outside_99": false,
+      "MCSE_mean": 36.069020593358225
+    },
+    {
+      "metric": "season_2017-18_total",
+      "observed": 37001.0,
+      "replicated_mean": 35813.307,
+      "predictive_99_low": 31869.795,
+      "predictive_99_high": 39885.87499999998,
+      "outside_99": false,
+      "MCSE_mean": 36.962981991689276
+    },
+    {
+      "metric": "season_2018-19_total",
+      "observed": 39204.0,
+      "replicated_mean": 38094.3525,
+      "predictive_99_low": 33979.625,
+      "predictive_99_high": 42587.30499999999,
+      "outside_99": false,
+      "MCSE_mean": 40.216340043649076
+    },
+    {
+      "metric": "season_2019-20_total",
+      "observed": 33636.0,
+      "replicated_mean": 31745.5315,
+      "predictive_99_low": 28486.4,
+      "predictive_99_high": 35218.13,
+      "outside_99": false,
+      "MCSE_mean": 31.135783238759664
+    },
+    {
+      "metric": "season_2020-21_total",
+      "observed": 31190.0,
+      "replicated_mean": 30281.633,
+      "predictive_99_low": 27344.585,
+      "predictive_99_high": 33706.529999999984,
+      "outside_99": false,
+      "MCSE_mean": 26.189389332616834
+    },
+    {
+      "metric": "season_2021-22_total",
+      "observed": 34289.0,
+      "replicated_mean": 33708.9695,
+      "predictive_99_low": 30472.78,
+      "predictive_99_high": 37646.049999999996,
+      "outside_99": false,
+      "MCSE_mean": 30.776914275171887
+    },
+    {
+      "metric": "season_2022-23_total",
+      "observed": 36672.0,
+      "replicated_mean": 34229.6225,
+      "predictive_99_low": 30802.98,
+      "predictive_99_high": 38156.77499999998,
+      "outside_99": false,
+      "MCSE_mean": 33.18467856373194
+    },
+    {
+      "metric": "season_2023-24_total",
+      "observed": 29882.0,
+      "replicated_mean": 28229.2295,
+      "predictive_99_low": 25138.645,
+      "predictive_99_high": 31654.174999999996,
+      "outside_99": false,
+      "MCSE_mean": 26.920231749178622
+    }
+  ],
+  "generated_within_recomputed": true,
+  "visual_review": {
+    "reviewed_at": "2026-09-30T19:33:47.070451+00:00",
+    "reviewed": true,
+    "accuracy": "All five bins inside 99% intervals; systematic direction remains according to the unchanged MCSE rule, distinct from interval coverage",
+    "opportunity": "Zero frequency inside interval; positive median and upper quartile above predictive intervals",
+    "scientific_plot": false
+  }
+}

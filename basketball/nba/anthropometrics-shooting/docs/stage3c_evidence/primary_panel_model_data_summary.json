@@ -1,0 +1,11 @@
+{
+  "seasons": 13,
+  "player_seasons": 4117,
+  "unique_players": 857,
+  "FTA": 469099,
+  "positive_FTA_rows": 3980,
+  "zero_FTA_rows": 137,
+  "zero_attempt_only_players": 22,
+  "height_center": 77.53028004667445,
+  "panel_sha256": "1c34331385e459ac5da67105658730d31d96c8114bd25fcb3b31cea52f1a1871"
+}

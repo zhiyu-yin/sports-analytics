@@ -1,0 +1,13 @@
+player_id,player_name,FTM,FTA,FG3M,FG3A,GP,seconds,position_rows,volume_band
+2733,Shaun Livingston,158,191,1,6,76,118451,54,medium
+2760,Anderson Varejao,92,135,0,7,65,108018,29,medium
+201580,JaVale McGee,1,1,0,0,5,4769,5,low_nonzero
+2738,Andre Iguodala,86,132,62,175,63,122383,63,medium
+101106,Andrew Bogut,22,64,0,0,67,106169,67,medium
+201939,Stephen Curry,308,348,261,615,78,170752,78,high
+202691,Klay Thompson,147,185,223,535,81,172068,81,medium
+203110,Draymond Green,82,123,55,165,82,107807,12,medium
+203517,Nemanja Nedovic,7,8,3,18,24,8542,0,low_nonzero
+2561,David West,198,251,4,15,80,148330,80,medium
+201142,Kevin Durant,703,805,192,491,81,187303,81,high
+203546,Ian Clark,5,7,11,31,23,10296,0,low_nonzero

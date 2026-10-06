@@ -1,0 +1,21 @@
+{
+  "model": "quasi_binomial_M2",
+  "beta": -0.0353098522199435,
+  "se": 0.01426252681624368,
+  "ci_low": -0.06326389110831783,
+  "ci_high": -0.007355813331569164,
+  "odds_ratio": 0.9653062676240771,
+  "or_low": 0.9386957275456536,
+  "or_high": 0.9926711744504104,
+  "p": 0.013297226883258741,
+  "ci_includes_zero": false,
+  "dispersion_or_overdispersion": 5.561569929184411,
+  "n": 299,
+  "FTA": 42587,
+  "converged": true,
+  "phi": 5.561569929184411,
+  "pearson_chi2": 1573.9242899591882,
+  "df_resid": 283,
+  "point_estimate_unchanged": true,
+  "covariance_rule": "phi times original binomial covariance"
+}

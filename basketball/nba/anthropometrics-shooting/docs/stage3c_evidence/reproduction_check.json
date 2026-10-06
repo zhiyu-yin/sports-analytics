@@ -1,0 +1,12 @@
+{
+  "primary_exact_saved_trace_replay": true,
+  "full_exact_saved_trace_replay": null,
+  "full_not_run_reason": "NOT_RUN_PRIMARY_PPC_FAILED",
+  "checked_at": "2026-09-28T23:36:55.859941+00:00",
+  "method": "Exact reanalysis of stored posterior draws and seeded posterior predictive simulations; result-file SHA256 unchanged; separate same-seed primary refit",
+  "independent_MCMC_refit_performed": true,
+  "sampler_reproduction_passed": true,
+  "posterior_arrays_exact_in_same_environment": true,
+  "scope": "Same-environment numerical reproduction; not a claim of bit-identical sampling across software/hardware",
+  "posterior_MCSE_available_in": "sampling_reproduction_parameters.csv"
+}

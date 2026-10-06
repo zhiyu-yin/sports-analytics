@@ -1,0 +1,145 @@
+{
+  "draftcombineplayeranthro": {
+    "provenance": {
+      "source": "nba_api endpoint documentation",
+      "url": "https://raw.githubusercontent.com/swar/nba_api/master/docs/nba_api/stats/endpoints/draftcombineplayeranthro.md",
+      "parameters": {},
+      "retrieved_at": "2026-09-28T18:52:35.082257+00:00",
+      "sha256": "667a110c672f388507fbc011e6ec57106843abeb692b59ecf8eea12ba687e835",
+      "raw_path": "data/raw/667a110c672f388507fbc011e6ec57106843abeb692b59ecf8eea12ba687e835.payload",
+      "transport_exit": 0,
+      "error": "",
+      "bytes": 2581
+    },
+    "valid_url": "https://stats.nba.com/stats/draftcombineplayeranthro?LeagueID=00&SeasonYear=2019",
+    "documented_schemas": [
+      "['TEMP_PLAYER_ID', 'PLAYER_ID', 'FIRST_NAME', 'LAST_NAME', 'PLAYER_NAME', 'POSITION', 'HEIGHT_WO_SHOES', 'HEIGHT_WO_SHOES_FT_IN', 'HEIGHT_W_SHOES', 'HEIGHT_W_SHOES_FT_IN', 'WEIGHT', 'WINGSPAN', 'WINGSPAN_FT_IN', 'STANDING_REACH', 'STANDING_REACH_FT_IN', 'BODY_FAT_PCT', 'HAND_LENGTH', 'HAND_WIDTH']"
+    ]
+  },
+  "draftcombinestats": {
+    "provenance": {
+      "source": "nba_api endpoint documentation",
+      "url": "https://raw.githubusercontent.com/swar/nba_api/master/docs/nba_api/stats/endpoints/draftcombinestats.md",
+      "parameters": {},
+      "retrieved_at": "2026-09-28T18:52:35.082460+00:00",
+      "sha256": "e06e96b8f82cf188ed64309c7bd76d2e34d7a4838eaf5a8e9c39c86131a3bc61",
+      "raw_path": "data/raw/e06e96b8f82cf188ed64309c7bd76d2e34d7a4838eaf5a8e9c39c86131a3bc61.payload",
+      "transport_exit": 0,
+      "error": "",
+      "bytes": 4499
+    },
+    "valid_url": "https://stats.nba.com/stats/draftcombinestats?LeagueID=00&SeasonYear=2019-20",
+    "documented_schemas": [
+      "['SEASON', 'PLAYER_ID', 'FIRST_NAME', 'LAST_NAME', 'PLAYER_NAME', 'POSITION', 'HEIGHT_WO_SHOES', 'HEIGHT_WO_SHOES_FT_IN', 'HEIGHT_W_SHOES', 'HEIGHT_W_SHOES_FT_IN', 'WEIGHT', 'WINGSPAN', 'WINGSPAN_FT_IN', 'STANDING_REACH', 'STANDING_REACH_FT_IN', 'BODY_FAT_PCT', 'HAND_LENGTH', 'HAND_WIDTH', 'STANDING_VERTICAL_LEAP', 'MAX_VERTICAL_LEAP', 'LANE_AGILITY_TIME', 'MODIFIED_LANE_AGILITY_TIME', 'THREE_QUARTER_SPRINT', 'BENCH_PRESS', 'SPOT_FIFTEEN_CORNER_LEFT', 'SPOT_FIFTEEN_BREAK_LEFT', 'SPOT_FIFTEEN_TOP_KEY', 'SPOT_FIFTEEN_BREAK_RIGHT', 'SPOT_FIFTEEN_CORNER_RIGHT', 'SPOT_COLLEGE_CORNER_LEFT', 'SPOT_COLLEGE_BREAK_LEFT', 'SPOT_COLLEGE_TOP_KEY', 'SPOT_COLLEGE_BREAK_RIGHT', 'SPOT_COLLEGE_CORNER_RIGHT', 'SPOT_NBA_CORNER_LEFT', 'SPOT_NBA_BREAK_LEFT', 'SPOT_NBA_TOP_KEY', 'SPOT_NBA_BREAK_RIGHT', 'SPOT_NBA_CORNER_RIGHT', 'OFF_DRIB_FIFTEEN_BREAK_LEFT', 'OFF_DRIB_FIFTEEN_TOP_KEY', 'OFF_DRIB_FIFTEEN_BREAK_RIGHT', 'OFF_DRIB_COLLEGE_BREAK_LEFT', 'OFF_DRIB_COLLEGE_TOP_KEY', 'OFF_DRIB_COLLEGE_BREAK_RIGHT', 'ON_MOVE_FIFTEEN', 'ON_MOVE_COLLEGE']"
+    ]
+  },
+  "leaguedashplayerstats": {
+    "provenance": {
+      "source": "nba_api endpoint documentation",
+      "url": "https://raw.githubusercontent.com/swar/nba_api/master/docs/nba_api/stats/endpoints/leaguedashplayerstats.md",
+      "parameters": {},
+      "retrieved_at": "2026-09-28T18:52:35.083290+00:00",
+      "sha256": "4523f1f60de49587eea7bc3745b78b580012906b2558991dc3530ede39b8459f",
+      "raw_path": "data/raw/4523f1f60de49587eea7bc3745b78b580012906b2558991dc3530ede39b8459f.payload",
+      "transport_exit": 0,
+      "error": "",
+      "bytes": 20304
+    },
+    "valid_url": "https://stats.nba.com/stats/leaguedashplayerstats?College=&Conference=&Country=&DateFrom=&DateTo=&Division=&DraftPick=&DraftYear=&GameScope=&GameSegment=&Height=&LastNGames=0&LeagueID=&Location=&MeasureType=Base&Month=0&OpponentTeamID=0&Outcome=&PORound=&PaceAdjust=N&PerMode=Totals&Period=0&PlayerExperience=&PlayerPosition=&PlusMinus=N&Rank=N&Season=2019-20&SeasonSegment=&SeasonType=Regular+Season&ShotClockRange=&StarterBench=&TeamID=&TwoWay=&VsConference=&VsDivision=&Weight=",
+    "documented_schemas": [
+      "['PLAYER_ID', 'PLAYER_NAME', 'TEAM_ID', 'TEAM_ABBREVIATION', 'AGE', 'GP', 'W', 'L', 'W_PCT', 'MIN', 'FGM', 'FGA', 'FG_PCT', 'FG3M', 'FG3A', 'FG3_PCT', 'FTM', 'FTA', 'FT_PCT', 'OREB', 'DREB', 'REB', 'AST', 'TOV', 'STL', 'BLK', 'BLKA', 'PF', 'PFD', 'PTS', 'PLUS_MINUS', 'NBA_FANTASY_PTS', 'DD2', 'TD3', 'GP_RANK', 'W_RANK', 'L_RANK', 'W_PCT_RANK', 'MIN_RANK', 'FGM_RANK', 'FGA_RANK', 'FG_PCT_RANK', 'FG3M_RANK', 'FG3A_RANK', 'FG3_PCT_RANK', 'FTM_RANK', 'FTA_RANK', 'FT_PCT_RANK', 'OREB_RANK', 'DREB_RANK', 'REB_RANK', 'AST_RANK', 'TOV_RANK', 'STL_RANK', 'BLK_RANK', 'BLKA_RANK', 'PF_RANK', 'PFD_RANK', 'PTS_RANK', 'PLUS_MINUS_RANK', 'NBA_FANTASY_PTS_RANK', 'DD2_RANK', 'TD3_RANK', 'CFID', 'CFPARAMS']"
+    ]
+  },
+  "leaguedashptstats": {
+    "provenance": {
+      "source": "nba_api endpoint documentation",
+      "url": "https://raw.githubusercontent.com/swar/nba_api/master/docs/nba_api/stats/endpoints/leaguedashptstats.md",
+      "parameters": {},
+      "retrieved_at": "2026-09-28T18:52:35.233207+00:00",
+      "sha256": "3802a1dae73feb5789b507761f75681f81e9d29d53c97865960b5c7ebe612c09",
+      "raw_path": "data/raw/3802a1dae73feb5789b507761f75681f81e9d29d53c97865960b5c7ebe612c09.payload",
+      "transport_exit": 0,
+      "error": "",
+      "bytes": 16583
+    },
+    "valid_url": "https://stats.nba.com/stats/leaguedashptstats?College=&Conference=&Country=&DateFrom=&DateTo=&Division=&DraftPick=&DraftYear=&GameScope=&Height=&LastNGames=0&LeagueID=&Location=&Month=0&OpponentTeamID=0&Outcome=&PORound=&PerMode=Totals&PlayerExperience=&PlayerOrTeam=Team&PlayerPosition=&PtMeasureType=SpeedDistance&Season=2019-20&SeasonSegment=&SeasonType=Regular+Season&StarterBench=&TeamID=&VsConference=&VsDivision=&Weight=",
+    "documented_schemas": [
+      "['TEAM_ID', 'TEAM_ABBREVIATION', 'TEAM_NAME', 'GP', 'W', 'L', 'MIN', 'DIST_FEET', 'DIST_MILES', 'DIST_MILES_OFF', 'DIST_MILES_DEF', 'AVG_SPEED', 'AVG_SPEED_OFF', 'AVG_SPEED_DEF']"
+    ]
+  },
+  "playerdashptshots": {
+    "provenance": {
+      "source": "nba_api endpoint documentation",
+      "url": "https://raw.githubusercontent.com/swar/nba_api/master/docs/nba_api/stats/endpoints/playerdashptshots.md",
+      "parameters": {},
+      "retrieved_at": "2026-09-28T18:52:35.235501+00:00",
+      "sha256": "f111a03195255bede4e69ce6887f523493c472312a3e8f9e960a0bc0cd9446f4",
+      "raw_path": "data/raw/f111a03195255bede4e69ce6887f523493c472312a3e8f9e960a0bc0cd9446f4.payload",
+      "transport_exit": 0,
+      "error": "",
+      "bytes": 13843
+    },
+    "valid_url": "https://stats.nba.com/stats/playerdashptshots?DateFrom=&DateTo=&GameSegment=&LastNGames=0&LeagueID=00&Location=&Month=0&OpponentTeamID=0&Outcome=&PerMode=Totals&Period=0&PlayerID=2544&Season=2019-20&SeasonSegment=&SeasonType=Regular+Season&TeamID=1610612739&VsConference=&VsDivision=",
+    "documented_schemas": [
+      "['PLAYER_ID', 'PLAYER_NAME_LAST_FIRST', 'SORT_ORDER', 'GP', 'G', 'CLOSE_DEF_DIST_RANGE', 'FGA_FREQUENCY', 'FGM', 'FGA', 'FG_PCT', 'EFG_PCT', 'FG2A_FREQUENCY', 'FG2M', 'FG2A', 'FG2_PCT', 'FG3A_FREQUENCY', 'FG3M', 'FG3A', 'FG3_PCT']",
+      "['PLAYER_ID', 'PLAYER_NAME_LAST_FIRST', 'SORT_ORDER', 'GP', 'G', 'CLOSE_DEF_DIST_RANGE', 'FGA_FREQUENCY', 'FGM', 'FGA', 'FG_PCT', 'EFG_PCT', 'FG2A_FREQUENCY', 'FG2M', 'FG2A', 'FG2_PCT', 'FG3A_FREQUENCY', 'FG3M', 'FG3A', 'FG3_PCT']",
+      "['PLAYER_ID', 'PLAYER_NAME_LAST_FIRST', 'SORT_ORDER', 'GP', 'G', 'DRIBBLE_RANGE', 'FGA_FREQUENCY', 'FGM', 'FGA', 'FG_PCT', 'EFG_PCT', 'FG2A_FREQUENCY', 'FG2M', 'FG2A', 'FG2_PCT', 'FG3A_FREQUENCY', 'FG3M', 'FG3A', 'FG3_PCT']",
+      "['PLAYER_ID', 'PLAYER_NAME_LAST_FIRST', 'SORT_ORDER', 'GP', 'G', 'SHOT_TYPE', 'FGA_FREQUENCY', 'FGM', 'FGA', 'FG_PCT', 'EFG_PCT', 'FG2A_FREQUENCY', 'FG2M', 'FG2A', 'FG2_PCT', 'FG3A_FREQUENCY', 'FG3M', 'FG3A', 'FG3_PCT']",
+      "['PLAYER_ID', 'PLAYER_NAME_LAST_FIRST', 'SORT_ORDER', 'GP', 'G', 'SHOT_TYPE', 'FGA_FREQUENCY', 'FGM', 'FGA', 'FG_PCT', 'EFG_PCT', 'FG2A_FREQUENCY', 'FG2M', 'FG2A', 'FG2_PCT', 'FG3A_FREQUENCY', 'FG3M', 'FG3A', 'FG3_PCT']",
+      "['PLAYER_ID', 'PLAYER_NAME_LAST_FIRST', 'SORT_ORDER', 'GP', 'G', 'SHOT_CLOCK_RANGE', 'FGA_FREQUENCY', 'FGM', 'FGA', 'FG_PCT', 'EFG_PCT', 'FG2A_FREQUENCY', 'FG2M', 'FG2A', 'FG2_PCT', 'FG3A_FREQUENCY', 'FG3M', 'FG3A', 'FG3_PCT']",
+      "['PLAYER_ID', 'PLAYER_NAME_LAST_FIRST', 'SORT_ORDER', 'GP', 'G', 'TOUCH_TIME_RANGE', 'FGA_FREQUENCY', 'FGM', 'FGA', 'FG_PCT', 'EFG_PCT', 'FG2A_FREQUENCY', 'FG2M', 'FG2A', 'FG2_PCT', 'FG3A_FREQUENCY', 'FG3M', 'FG3A', 'FG3_PCT']"
+    ]
+  },
+  "leaguedashplayershotlocations": {
+    "provenance": {
+      "source": "nba_api endpoint documentation",
+      "url": "https://raw.githubusercontent.com/swar/nba_api/master/docs/nba_api/stats/endpoints/leaguedashplayershotlocations.md",
+      "parameters": {},
+      "retrieved_at": "2026-09-28T18:52:35.240687+00:00",
+      "sha256": "0d3012ca76b56f0fa19c51db58f108cafcbeeee0a5eab4e89e56da90e6f1aa86",
+      "raw_path": "data/raw/0d3012ca76b56f0fa19c51db58f108cafcbeeee0a5eab4e89e56da90e6f1aa86.payload",
+      "transport_exit": 0,
+      "error": "",
+      "bytes": 20041
+    },
+    "valid_url": "https://stats.nba.com/stats/leaguedashplayershotlocations?College=&Conference=&Country=&DateFrom=&DateTo=&DistanceRange=By+Zone&Division=&DraftPick=&DraftYear=&GameScope=&GameSegment=&Height=&LastNGames=0&LeagueID=&Location=&MeasureType=Base&Month=0&OpponentTeamID=0&Outcome=&PORound=&PaceAdjust=N&PerMode=Totals&Period=0&PlayerExperience=&PlayerPosition=&PlusMinus=N&Rank=N&Season=2019-20&SeasonSegment=&SeasonType=Regular+Season&ShotClockRange=&StarterBench=&TeamID=&VsConference=&VsDivision=&Weight=",
+    "documented_schemas": [
+      "['Restricted Area', 'In The Paint (Non-RA)', 'Mid-Range', 'Left Corner 3', 'Right Corner 3', 'Above the Break 3', 'Backcourt'], 'columnSpan': 3, 'columnsToSkip': 5, 'name': 'SHOT_CATEGORY'}, {'columnNames': ['PLAYER_ID', 'PLAYER_NAME', 'TEAM_ID', 'TEAM_ABBREVIATION', 'AGE', 'FGM', 'FGA', 'FG_PCT', 'FGM', 'FGA', 'FG_PCT', 'FGM', 'FGA', 'FG_PCT', 'FGM', 'FGA', 'FG_PCT', 'FGM', 'FGA', 'FG_PCT', 'FGM', 'FGA', 'FG_PCT', 'FGM', 'FGA', 'FG_PCT'], 'columnSpan': 1, 'name': 'columns'}]"
+    ]
+  },
+  "shotchartdetail": {
+    "provenance": {
+      "source": "nba_api endpoint documentation",
+      "url": "https://raw.githubusercontent.com/swar/nba_api/master/docs/nba_api/stats/endpoints/shotchartdetail.md",
+      "parameters": {},
+      "retrieved_at": "2026-09-28T18:52:35.340873+00:00",
+      "sha256": "90cd159be8fede6d5028463058bf7904596981ccc03829320bfc7403648fff11",
+      "raw_path": "data/raw/90cd159be8fede6d5028463058bf7904596981ccc03829320bfc7403648fff11.payload",
+      "transport_exit": 0,
+      "error": "",
+      "bytes": 16518
+    },
+    "valid_url": "https://stats.nba.com/stats/shotchartdetail?AheadBehind=&ClutchTime=&ContextFilter=&ContextMeasure=PTS&DateFrom=&DateTo=&EndPeriod=&EndRange=&GameID=&GameSegment=&LastNGames=0&LeagueID=00&Location=&Month=0&OpponentTeamID=0&Outcome=&Period=0&PlayerID=2544&PlayerPosition=&PointDiff=&Position=&RangeType=&RookieYear=&Season=&SeasonSegment=&SeasonType=Regular+Season&StartPeriod=&StartRange=&TeamID=1610612739&VsConference=&VsDivision=",
+    "documented_schemas": [
+      "['GRID_TYPE', 'SHOT_ZONE_BASIC', 'SHOT_ZONE_AREA', 'SHOT_ZONE_RANGE', 'FGA', 'FGM', 'FG_PCT']",
+      "['GRID_TYPE', 'GAME_ID', 'GAME_EVENT_ID', 'PLAYER_ID', 'PLAYER_NAME', 'TEAM_ID', 'TEAM_NAME', 'PERIOD', 'MINUTES_REMAINING', 'SECONDS_REMAINING', 'EVENT_TYPE', 'ACTION_TYPE', 'SHOT_TYPE', 'SHOT_ZONE_BASIC', 'SHOT_ZONE_AREA', 'SHOT_ZONE_RANGE', 'SHOT_DISTANCE', 'LOC_X', 'LOC_Y', 'SHOT_ATTEMPTED_FLAG', 'SHOT_MADE_FLAG', 'GAME_DATE', 'HTM', 'VTM']"
+    ]
+  },
+  "commonallplayers": {
+    "provenance": {
+      "source": "nba_api endpoint documentation",
+      "url": "https://raw.githubusercontent.com/swar/nba_api/master/docs/nba_api/stats/endpoints/commonallplayers.md",
+      "parameters": {},
+      "retrieved_at": "2026-09-28T18:52:35.347112+00:00",
+      "sha256": "a4d747773325ac09ceff3b102cfdda9d94d55ff9530f9f3f830df5ae67c8bd52",
+      "raw_path": "data/raw/a4d747773325ac09ceff3b102cfdda9d94d55ff9530f9f3f830df5ae67c8bd52.payload",
+      "transport_exit": 0,
+      "error": "",
+      "bytes": 2794
+    },
+    "valid_url": "https://stats.nba.com/stats/commonallplayers?IsOnlyCurrentSeason=0&LeagueID=00&Season=2019-20",
+    "documented_schemas": [
+      "['PERSON_ID', 'DISPLAY_LAST_COMMA_FIRST', 'DISPLAY_FIRST_LAST', 'ROSTERSTATUS', 'FROM_YEAR', 'TO_YEAR', 'PLAYERCODE', 'TEAM_ID', 'TEAM_CITY', 'TEAM_NAME', 'TEAM_ABBREVIATION', 'TEAM_CODE', 'GAMES_PLAYED_FLAG', 'OTHERLEAGUE_EXPERIENCE_CH']"
+    ]
+  }
+}

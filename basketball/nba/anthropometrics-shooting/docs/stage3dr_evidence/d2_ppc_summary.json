@@ -1,0 +1,87 @@
+{
+  "candidate": "D2",
+  "replicates": 2000,
+  "seed": 20260929,
+  "scope": "Conditional accuracy at fixed observed attempts",
+  "pooled_rate_99_pass": false,
+  "global_metrics_99_fail_count": 3,
+  "season_rate_99_fail_count": 0,
+  "season_count": 13,
+  "FTA_bin_99_fail_count": 4,
+  "systematic_volume_pattern": true,
+  "gate_pass": false,
+  "pooled_rate": {
+    "metric": "pooled_rate",
+    "observed": 0.7674307555547976,
+    "replicated_mean": 0.7639534874301587,
+    "predictive_99_low": 0.7604555541580775,
+    "predictive_99_high": 0.7673626462644346,
+    "outside_99": true,
+    "MCSE_mean": 2.992765503816349e-05
+  },
+  "bin_checks": [
+    {
+      "metric": "FTA_1-9_pooled",
+      "observed": 0.6840474961280331,
+      "replicated_mean": 0.7322720702116676,
+      "predictive_99_low": 0.7057305110996386,
+      "predictive_99_high": 0.7594243675787299,
+      "outside_99": true,
+      "MCSE_mean": 0.0002802914971536697
+    },
+    {
+      "metric": "FTA_10-49_pooled",
+      "observed": 0.7152835987706063,
+      "replicated_mean": 0.7360693280245878,
+      "predictive_99_low": 0.7276472129086337,
+      "predictive_99_high": 0.7436785764179938,
+      "outside_99": true,
+      "MCSE_mean": 7.577963006142258e-05
+    },
+    {
+      "metric": "FTA_50-99_pooled",
+      "observed": 0.7443223443223443,
+      "replicated_mean": 0.7486845177045177,
+      "predictive_99_low": 0.7424498982498982,
+      "predictive_99_high": 0.7550187220187221,
+      "outside_99": false,
+      "MCSE_mean": 5.003522565983791e-05
+    },
+    {
+      "metric": "FTA_100-299_pooled",
+      "observed": 0.7663528501418623,
+      "replicated_mean": 0.761406011950821,
+      "predictive_99_low": 0.7573982890551113,
+      "predictive_99_high": 0.7655972186398418,
+      "outside_99": true,
+      "MCSE_mean": 3.552173981182448e-05
+    },
+    {
+      "metric": "FTA_300+_pooled",
+      "observed": 0.7904419143855763,
+      "replicated_mean": 0.7804966328684638,
+      "predictive_99_low": 0.7732567394539226,
+      "predictive_99_high": 0.787611239921099,
+      "outside_99": true,
+      "MCSE_mean": 6.290275437870085e-05
+    }
+  ],
+  "metrics_outside_99": [
+    "pooled_rate",
+    "rate_SD",
+    "rate_q95",
+    "FTA_1-9_pooled",
+    "FTA_1-9_one_fraction",
+    "FTA_10-49_pooled",
+    "FTA_100-299_pooled",
+    "FTA_300+_pooled",
+    "rate_mean"
+  ],
+  "minimum_alpha": 25.961455153923822,
+  "minimum_beta": 4.804939429821026,
+  "visual_review": {
+    "reviewed_at": "2026-09-29T01:38:35.068191+00:00",
+    "review_complete": true,
+    "notes": "Observed D2 low-volume bin rates lie below their predictive intervals, while both high-volume bins lie above. Four of five bin failures and the systematic pattern agree with the numerical frozen gate. No gate adjustment."
+  }
+}

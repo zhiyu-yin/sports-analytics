@@ -1,0 +1,54 @@
+WARNING (pytensor.configdefaults): g++ not detected!  PyTensor will be unable to compile C-implementations and will default to Python. Performance may be severely degraded. To remove this warning, set PyTensor flags cxx to an empty string.
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l1dcachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l2cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l3cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.optional.neon'. Detail: [errno 1] Operation not permitted
+test_A_history_preserved (test_stage3f.Stage3F) ... ok
+test_B_panel_hash (test_stage3f.Stage3F) ... ok
+test_C_excluded_season (test_stage3f.Stage3F) ... ok
+test_D_frozen_before_fit (test_stage3f.Stage3F) ... ok
+test_E_separate_hurdle (test_stage3f.Stage3F) ... ok
+test_F_true_truncation (test_stage3f.Stage3F) ... ERROR
+test_G_GP_offset_one (test_stage3f.Stage3F) ... ok
+test_H_no_minutes (test_stage3f.Stage3F) ... ok
+test_I_all_hurdle_rows (test_stage3f.Stage3F) ... ok
+test_J_positive_count_rows (test_stage3f.Stage3F) ... ok
+test_K_positive_accuracy_rows (test_stage3f.Stage3F) ... ok
+test_L_decomposition_exact (test_stage3f.Stage3F) ... ok
+test_M_zero_retained (test_stage3f.Stage3F) ... ok
+test_N_no_threshold (test_stage3f.Stage3F) ... ok
+test_O_no_player_exclusion (test_stage3f.Stage3F) ... ok
+test_P_no_new_confounders (test_stage3f.Stage3F) ... ok
+test_Q_firewall (test_stage3f.Stage3F) ... ok
+test_R_no_public_scientific_summary (test_stage3f.Stage3F) ... ok
+test_S_pure_selection (test_stage3f.Stage3F) ... ok
+test_T_frozen_PPC_gates (test_stage3f.Stage3F) ... ok
+test_U_no_automatic_science (test_stage3f.Stage3F) ... ok
+test_V_no_causal_claim (test_stage3f.Stage3F) ... ok
+
+======================================================================
+ERROR: test_F_true_truncation (test_stage3f.Stage3F)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/zhiyuyin/Documents/last time job hunting material/proj/sports-analytics/basketball/nba/anthropometrics-shooting/tests/test_stage3f.py", line 28, in test_F_true_truncation
+    self.assertEqual(ztnb_logp(0,2.,2.).eval(),-np.inf);v=read(E/'likelihood_validation.json');self.assertGreaterEqual(v['grid_points'],100);self.assertLess(v['maximum_error_scipy'],1e-8)
+  File "/Users/zhiyuyin/Documents/last time job hunting material/proj/sports-analytics/basketball/nba/anthropometrics-shooting/scripts/stage3f_model.py", line 7, in ztnb_logp
+    return pt.switch(value>=1,pm.logp(pm.NegativeBinomial.dist(mu=mu,alpha=alpha),value)-pt.log(-pt.expm1(log_zero)),-np.inf)
+  File "/Users/zhiyuyin/Documents/last time job hunting material/proj/sports-analytics/basketball/nba/anthropometrics-shooting/models/stage3c/environment/lib/python3.10/site-packages/pytensor/graph/op.py", line 293, in __call__
+    node = self.make_node(*inputs, **kwargs)
+  File "/Users/zhiyuyin/Documents/last time job hunting material/proj/sports-analytics/basketball/nba/anthropometrics-shooting/models/stage3c/environment/lib/python3.10/site-packages/pytensor/tensor/elemwise.py", line 457, in make_node
+    inputs = [as_tensor_variable(i) for i in inputs]
+  File "/Users/zhiyuyin/Documents/last time job hunting material/proj/sports-analytics/basketball/nba/anthropometrics-shooting/models/stage3c/environment/lib/python3.10/site-packages/pytensor/tensor/elemwise.py", line 457, in <listcomp>
+    inputs = [as_tensor_variable(i) for i in inputs]
+  File "/Users/zhiyuyin/Documents/last time job hunting material/proj/sports-analytics/basketball/nba/anthropometrics-shooting/models/stage3c/environment/lib/python3.10/site-packages/pytensor/tensor/__init__.py", line 50, in as_tensor_variable
+    return _as_tensor_variable(x, name, ndim, **kwargs)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/functools.py", line 889, in wrapper
+    return dispatch(args[0].__class__)(*args, **kw)
+  File "/Users/zhiyuyin/Documents/last time job hunting material/proj/sports-analytics/basketball/nba/anthropometrics-shooting/models/stage3c/environment/lib/python3.10/site-packages/pytensor/tensor/basic.py", line 189, in _as_tensor_bool
+    raise TypeError(
+TypeError: Cannot cast True or False as a tensor variable. Please use np.array(True) or np.array(False) if you need these constants. This error might be caused by using the == operator on Variables. v == w does not do what you think it does, use pytensor.tensor.eq(v, w) instead.
+
+----------------------------------------------------------------------
+Ran 22 tests in 1.796s
+
+FAILED (errors=1)

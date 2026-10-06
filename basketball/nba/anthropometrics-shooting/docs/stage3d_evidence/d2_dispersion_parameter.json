@@ -1,0 +1,13 @@
+{
+  "status": "NOT_ESTIMATED",
+  "parameter": "gamma_k",
+  "representative_FTA": [
+    5,
+    25,
+    75,
+    200,
+    400
+  ],
+  "rho_summaries": null,
+  "reason": "Posterior fitting stopped at D3 prior gate"
+}

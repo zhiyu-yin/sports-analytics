@@ -1,0 +1,19 @@
+{
+  "python": "3.10.8",
+  "executable": "/Users/zhiyuyin/Documents/last time job hunting material/proj/sports-analytics/basketball/nba/anthropometrics-shooting/models/stage3c/environment/bin/python",
+  "packages": {
+    "pymc": "5.25.1",
+    "arviz": "0.22.0",
+    "numpy": "2.2.6",
+    "scipy": "1.15.3",
+    "pandas": "2.2.3",
+    "pyarrow": "21.0.0",
+    "matplotlib": "3.10.3",
+    "pytensor": "2.31.7",
+    "numba": "0.61.2",
+    "llvmlite": "0.44.0",
+    "h5py": "3.14.0"
+  },
+  "environment_policy": "Reuse the pinned Stage 3C environment without installations or modifications; Stage 3D caches and outputs are separate",
+  "requirements_sha256": "b2268bee516e8a08a663dbe69b44fc44e373b5e1f0119efc01d5b0820b2a51b1"
+}

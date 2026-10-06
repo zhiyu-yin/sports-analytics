@@ -1,0 +1,46 @@
+{
+  "status": "PASS_WITH_DOCUMENTED_PRESENTATION_EXCEPTIONS",
+  "scientific_analysis_run": false,
+  "safe_forecasting_tests": {
+    "run": 138,
+    "failures": 0,
+    "errors": 0
+  },
+  "public_checks": {
+    "passed": true,
+    "published_evidence_hashes_verified": 1677,
+    "presentation_links_verified": 39,
+    "final_metrics_match_frozen_evidence": true,
+    "models_run": false
+  },
+  "archive_integrity": {
+    "shooting_stage0_through_4a": {
+      "protected_files": 19993,
+      "original_paths_unchanged": 19992,
+      "README_preserved_at_archive_path": true
+    },
+    "forecasting_freeze": {
+      "protected_files": 29,
+      "README_snapshots": 2,
+      "other_files_unchanged": 27
+    },
+    "stage4x": {
+      "protected_files": 31,
+      "all_unchanged": true
+    }
+  },
+  "credential_pattern_hits": [],
+  "historical_files_with_local_paths": 171,
+  "newly_ignored_preexisting_public_files": [],
+  "maximum_staged_file_bytes": 6052206,
+  "whitespace_check": {
+    "edited_presentation": "PASS",
+    "full_import": "Historical CSV CRLF, source README trailing spaces and scientific logs flagged; preserved unchanged."
+  },
+  "verification_corrections": [
+    "Initial test command used repository root without its own .venv; reran in forecasting project, 138 passed.",
+    "Initial archive verifier recognized project README exceptions but flagged the root README; preserved root snapshot from HEAD and verified it against the frozen hash. Scientific hashes matched."
+  ],
+  "remote": "https://github.com/liyingerya/sports-analytics.git",
+  "publication_branch": "main"
+}

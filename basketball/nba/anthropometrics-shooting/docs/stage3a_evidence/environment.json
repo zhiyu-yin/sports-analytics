@@ -1,0 +1,7 @@
+{
+  "python": "3.10.8",
+  "executable": "/Users/zhiyuyin/Documents/last time job hunting material/proj/sports-analytics/basketball/nba/anthropometrics-shooting/.venv/bin/python",
+  "requirements": "requirements-stage3-partA.txt",
+  "requirements_sha256": "06a63256595603dd3402cdcfd8e57bb536760673a4b865852bc15742494edb64",
+  "new_packages_installed": false
+}

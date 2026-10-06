@@ -1,0 +1,21 @@
+{
+  "passed": true,
+  "completed_at": "2026-10-01T01:34:01.851371+00:00",
+  "checks": [
+    {
+      "replicate": 1,
+      "sample_sha256": "b84fb92964bd2ccf3cb17e42d90cc55bf1db9014ed9222aad4cd15f3897abce2",
+      "max_coefficient_difference": 0.0
+    },
+    {
+      "replicate": 9,
+      "sample_sha256": "66c84723d38053b7fa39c7ebc95e9e92781e24df9b000640189682ee2d4dfc35",
+      "max_coefficient_difference": 0.0
+    },
+    {
+      "replicate": 13,
+      "sample_sha256": "5f1b9e1fa20ff9da31b29ae41fad2a8b03cbb7897d4b8c3dc23aaa9d147569ca",
+      "max_coefficient_difference": 0.0
+    }
+  ]
+}

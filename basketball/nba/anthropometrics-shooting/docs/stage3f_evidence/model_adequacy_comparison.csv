@@ -1,0 +1,4 @@
+candidate,sampler_pass,conditional_accuracy_pass,joint_opportunity_pass,accuracy_assessment_status,opportunity_assessment_status,FTA_bin_fail_count,systematic_low_high_pattern,zero_frequency_pass,FTA_quantile_fail_count,positive_quantile_fail_count,scientific_inference_authorized
+F0,True,False,False,EVALUATED,EVALUATED,3.0,True,False,3.0,,False
+F1,True,False,False,EVALUATED,EVALUATED,3.0,True,True,2.0,2.0,False
+F2,False,False,False,NOT_RUN_FAILED_SAMPLER_GATE,NOT_RUN_FAILED_SAMPLER_GATE,,,,,,False

@@ -1,0 +1,17 @@
+{
+ "primary_exposure":"residual_wingspan",
+ "primary_formula":"intercept + residual_wingspan + height_wo_shoes_inches + original position indicators",
+ "population":"frozen Stage 1; 311 accounting, 299 positive FTA, 42587 attempts",
+ "quasi":"unchanged GLM coefficients; Pearson chi2 / (299 - rank(X)) times model covariance; normal Wald 95%",
+ "beta_binomial":"mu=expit(X beta); alpha=mu*kappa; beta_shape=(1-mu)*kappa; kappa=exp(log_kappa); common rho=1/(1+kappa). Full grouped-count likelihood including binomial coefficient. SciPy optimizer, analytic score, numerical derivative of score for observed Hessian; jointly invert full Hessian. Standardize nonconstant design columns internally only. Starts kappa 10,50,200; choose maximum converged likelihood, never p-value. Reject failed score/convergence, nonpositive Hessian, inconsistent starts or active precision bounds. Normal Wald 95%.",
+ "hc0":"one independent grouped score per player; B sum(s_i s_i^T) B, B inverse binomial information; verify against statsmodels HC0. Sensitivity only; singleton category undermines its own variance and high leverage can bias HC0 low. No artificial clustering or HC2/HC3 with unit leverage.",
+ "loo":"299 binomial M2 refits, each removes exactly one ID; frozen exposures; original observed labels retained; drop only all-zero dummy if singleton deleted, not merge. Retain failures with reason; no primary exclusions.",
+ "singleton":"secondary exclusion of unknown, report quasi CI",
+ "high_leverage":"exploratory exclusion of all Stage 1 hat > 2p/n flagged players; report quasi CI and changed category support; material if absolute beta change >50% of Stage 1 magnitude or reversal",
+ "group_map":{"PG":"Guard","SG":"Guard","PG-SG":"Guard","SG-PG":"Guard","SF":"Wing","SG-SF":"Wing","SF-SG":"Wing","PF-SF":"Wing","SF-PF":"Wing","PF":"Big","C":"Big","C-PF":"Big","PF-C":"Big","unknown":"Unknown"},
+ "secondary_uncertainty":"group and singleton quasi; alternate advantage and ratio both quasi and beta-binomial; FTA50 and FTA100 both quasi and beta-binomial; ratios report per .01 as well as unit",
+ "probability_contrast":"same Q25/Q75 from 311; equal average over frozen 299 heights/positions; delta method paired gradient under quasi, HC0 and beta-binomial coefficient covariance; beta-binomial predicts mean mu, not latent individual draw",
+ "classification":"Strong directional robustness: major quasi/BB/HC0 estimates negative, their intervals exclude zero, LOO and secondary influence no reversal or >50% magnitude change, major magnitude 0.5 to 1.5 times Stage 1. Uncertain direction: mostly negative but any major interval includes zero or influence/magnitude destabilizes; not robust: major reasonable specification reverses or severe instability. These operational criteria are descriptive, not execution gates or model selection.",
+ "validation":"scipy betabinom.logpmf and independent beta-mixture quadrature; analytic vs numerical score; binomial limit; variance inflation; fixed seed 20260928 synthetic n=5000 parameter recovery within 4SE; Hessian step comparison; three starting values; maxiter=0 failure fixture",
+ "excluded_expansions":"no new confounders, exposure selection, multi-season or shot context; no commit/push"
+}

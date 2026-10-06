@@ -1,0 +1,194 @@
+{
+  "replicates": 2000,
+  "seed": 20260929,
+  "scope": "Joint FTA then FTM generation; conditional accuracy gate kept separate",
+  "zero_frequency_99_pass": false,
+  "quantile_99_fail_count": 3,
+  "season_totals_outside_99_low": 0,
+  "season_totals_outside_99_high": 0,
+  "season_count": 13,
+  "gate_pass": false,
+  "zero_frequency": {
+    "metric": "FTA_zero_fraction",
+    "observed": 0.03327665776050522,
+    "replicated_mean": 0.011799732815156668,
+    "predictive_99_low": 0.00801554529997571,
+    "predictive_99_high": 0.01578940976439152,
+    "outside_99": true,
+    "MCSE_mean": 3.204787582488454e-05
+  },
+  "quantiles": [
+    {
+      "metric": "FTA_q25",
+      "observed": 25.0,
+      "replicated_mean": 27.073,
+      "predictive_99_low": 26.0,
+      "predictive_99_high": 29.0,
+      "outside_99": true,
+      "MCSE_mean": 0.01573091028712381
+    },
+    {
+      "metric": "FTA_q50",
+      "observed": 75.0,
+      "replicated_mean": 70.1565,
+      "predictive_99_low": 67.0,
+      "predictive_99_high": 73.0,
+      "outside_99": true,
+      "MCSE_mean": 0.02466064548825587
+    },
+    {
+      "metric": "FTA_q75",
+      "observed": 160.0,
+      "replicated_mean": 146.25,
+      "predictive_99_low": 140.0,
+      "predictive_99_high": 152.00499999999988,
+      "outside_99": true,
+      "MCSE_mean": 0.060646094004055476
+    },
+    {
+      "metric": "FTA_q90",
+      "observed": 270.4000000000001,
+      "replicated_mean": 261.15270000000004,
+      "predictive_99_low": 247.39800000000008,
+      "predictive_99_high": 275.00199999999995,
+      "outside_99": false,
+      "MCSE_mean": 0.1107505293151671
+    },
+    {
+      "metric": "FTA_q95",
+      "observed": 373.1999999999998,
+      "replicated_mean": 359.9229999999999,
+      "predictive_99_low": 336.997,
+      "predictive_99_high": 384.00599999999986,
+      "outside_99": false,
+      "MCSE_mean": 0.184235287134796
+    }
+  ],
+  "season_totals": [
+    {
+      "metric": "season_2010-11_total",
+      "observed": 37576.0,
+      "replicated_mean": 36303.863,
+      "predictive_99_low": 32043.575,
+      "predictive_99_high": 40712.17999999999,
+      "outside_99": false,
+      "MCSE_mean": 41.91391794759757
+    },
+    {
+      "metric": "season_2011-12_total",
+      "observed": 28788.0,
+      "replicated_mean": 29716.9835,
+      "predictive_99_low": 26559.93,
+      "predictive_99_high": 33930.01,
+      "outside_99": false,
+      "MCSE_mean": 31.309705981696073
+    },
+    {
+      "metric": "season_2012-13_total",
+      "observed": 37374.0,
+      "replicated_mean": 37485.5125,
+      "predictive_99_low": 32761.625,
+      "predictive_99_high": 42215.54999999999,
+      "outside_99": false,
+      "MCSE_mean": 41.88310244115341
+    },
+    {
+      "metric": "season_2014-15_total",
+      "observed": 40830.0,
+      "replicated_mean": 40359.9785,
+      "predictive_99_low": 36360.985,
+      "predictive_99_high": 45340.174999999996,
+      "outside_99": false,
+      "MCSE_mean": 35.08661729234131
+    },
+    {
+      "metric": "season_2015-16_total",
+      "observed": 41364.0,
+      "replicated_mean": 40368.463,
+      "predictive_99_low": 36162.895,
+      "predictive_99_high": 45248.08,
+      "outside_99": false,
+      "MCSE_mean": 40.39079653705074
+    },
+    {
+      "metric": "season_2016-17_total",
+      "observed": 41293.0,
+      "replicated_mean": 38863.7425,
+      "predictive_99_low": 34947.9,
+      "predictive_99_high": 43232.005,
+      "outside_99": false,
+      "MCSE_mean": 31.515400485928467
+    },
+    {
+      "metric": "season_2017-18_total",
+      "observed": 37001.0,
+      "replicated_mean": 36264.9695,
+      "predictive_99_low": 32581.775,
+      "predictive_99_high": 40360.125,
+      "outside_99": false,
+      "MCSE_mean": 35.32249018421697
+    },
+    {
+      "metric": "season_2018-19_total",
+      "observed": 39204.0,
+      "replicated_mean": 38549.511,
+      "predictive_99_low": 34497.49,
+      "predictive_99_high": 42725.015,
+      "outside_99": false,
+      "MCSE_mean": 33.4477624022585
+    },
+    {
+      "metric": "season_2019-20_total",
+      "observed": 33636.0,
+      "replicated_mean": 31940.5365,
+      "predictive_99_low": 28677.845,
+      "predictive_99_high": 35436.134999999995,
+      "outside_99": false,
+      "MCSE_mean": 27.354029074507036
+    },
+    {
+      "metric": "season_2020-21_total",
+      "observed": 31190.0,
+      "replicated_mean": 30477.131,
+      "predictive_99_low": 27405.955,
+      "predictive_99_high": 33873.155,
+      "outside_99": false,
+      "MCSE_mean": 28.690327441357468
+    },
+    {
+      "metric": "season_2021-22_total",
+      "observed": 34289.0,
+      "replicated_mean": 33937.9855,
+      "predictive_99_low": 30460.98,
+      "predictive_99_high": 37507.064999999995,
+      "outside_99": false,
+      "MCSE_mean": 31.749010685071188
+    },
+    {
+      "metric": "season_2022-23_total",
+      "observed": 36672.0,
+      "replicated_mean": 34482.5545,
+      "predictive_99_low": 30958.11,
+      "predictive_99_high": 38507.27999999999,
+      "outside_99": false,
+      "MCSE_mean": 33.11781402258635
+    },
+    {
+      "metric": "season_2023-24_total",
+      "observed": 29882.0,
+      "replicated_mean": 28284.078,
+      "predictive_99_low": 25039.405,
+      "predictive_99_high": 31899.204999999994,
+      "outside_99": false,
+      "MCSE_mean": 29.408798664205847
+    }
+  ],
+  "position_PPC_descriptive_only": true,
+  "minimum_mu_FTA": 0.0571784934921418,
+  "minimum_alpha_FTA": 4.9324510357648945,
+  "visual_review": {
+    "reviewed_at": "2026-09-29T01:51:05.254576+00:00",
+    "review_complete": true,
+    "notes": "Three conditional pooled FTA bins miss 99% intervals; low bins overpredicted and high bins underpredicted beyond the frozen MC uncertainty threshold. Global rate mean and Q95 miss intervals; within-player variability is inside. Joint Q25/Q50/Q75 miss intervals while season totals are inside. Zero frequency fails numerically. These checks agree with the frozen gate failures; no rule changed."
+  }
+}

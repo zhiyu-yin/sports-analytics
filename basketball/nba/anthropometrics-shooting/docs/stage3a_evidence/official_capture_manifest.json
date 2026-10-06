@@ -1,0 +1,426 @@
+[
+  {
+    "path": "data/raw/stage3a/games_2010-11_101128.json",
+    "sha256": "7e31ed8fb9c70f7aaa262588373a997482fc6a9094f443b20555ff3878f73a7a",
+    "url": "https://www.nba.com/stats/player/101128/boxscores-traditional?Season=2010-11&SeasonType=Regular%20Season",
+    "retrieved_at": "2026-09-28T22:20:43.805Z",
+    "rows": 58,
+    "precision": "MM:SS, whole displayed seconds"
+  },
+  {
+    "path": "data/raw/stage3a/games_2010-11_200745.json",
+    "sha256": "dc23e883be4b9f57bf41046500cf275a53e7a5da421580de98f6d3cd6216785e",
+    "url": "https://www.nba.com/stats/player/200745/boxscores-traditional?Season=2010-11&SeasonType=Regular%20Season",
+    "retrieved_at": "2026-09-28T22:20:46.780Z",
+    "rows": 66,
+    "precision": "MM:SS, whole displayed seconds"
+  },
+  {
+    "path": "data/raw/stage3a/games_2010-11_200779.json",
+    "sha256": "929e95666f6eb37ddeb69233e2eaa949842a5dcad138ff4f4efb81594faf6ce4",
+    "url": "https://www.nba.com/stats/player/200779/boxscores-traditional?Season=2010-11&SeasonType=Regular%20Season",
+    "retrieved_at": "2026-09-28T22:21:15.721Z",
+    "rows": 30,
+    "precision": "MM:SS, whole displayed seconds"
+  },
+  {
+    "path": "data/raw/stage3a/games_2010-11_201175.json",
+    "sha256": "9e01d5150f2f8413fa9fd318a257dcd835c56f2c1b502acfd5018a80ee377e03",
+    "url": "https://www.nba.com/stats/player/201175/boxscores-traditional?Season=2010-11&SeasonType=Regular%20Season",
+    "retrieved_at": "2026-09-28T22:21:18.715Z",
+    "rows": 78,
+    "precision": "MM:SS, whole displayed seconds"
+  },
+  {
+    "path": "data/raw/stage3a/games_2010-11_201189.json",
+    "sha256": "ec4553e8001310d35bf9fba0243f1847e6668dc1244857b5c4d9d8e0591937a0",
+    "url": "https://www.nba.com/stats/player/201189/boxscores-traditional?Season=2010-11&SeasonType=Regular%20Season",
+    "retrieved_at": "2026-09-28T22:21:21.691Z",
+    "rows": 41,
+    "precision": "MM:SS, whole displayed seconds"
+  },
+  {
+    "path": "data/raw/stage3a/games_2010-11_201600.json",
+    "sha256": "767fd33690d4e30ac546b37275ad97487daa788d9e32cbe40709a8bd401f9097",
+    "url": "https://www.nba.com/stats/player/201600/boxscores-traditional?Season=2010-11&SeasonType=Regular%20Season",
+    "retrieved_at": "2026-09-28T22:21:25.066Z",
+    "rows": 82,
+    "precision": "MM:SS, whole displayed seconds"
+  },
+  {
+    "path": "data/raw/stage3a/games_2010-11_201632.json",
+    "sha256": "13e1e22af90206cb4a3533069cd63a7d5c813187ffdd97c67df5d4501fcdca31",
+    "url": "https://www.nba.com/stats/player/201632/boxscores-traditional?Season=2010-11&SeasonType=Regular%20Season",
+    "retrieved_at": "2026-09-28T22:24:54.700Z",
+    "rows": 31,
+    "precision": "MM:SS, whole displayed seconds"
+  },
+  {
+    "path": "data/raw/stage3a/games_2010-11_201942.json",
+    "sha256": "7fba0a4811930c7c66cbc96de16f6e64a85b125b480b01698e12161e012d4c26",
+    "url": "https://www.nba.com/stats/player/201942/boxscores-traditional?Season=2010-11&SeasonType=Regular%20Season",
+    "retrieved_at": "2026-09-28T22:19:33.795Z",
+    "rows": 82,
+    "precision": "MM:SS, whole displayed seconds"
+  },
+  {
+    "path": "data/raw/stage3a/games_2010-11_202083.json",
+    "sha256": "d51b7f32821731ce910cebdf662f7699d53e224df6eedf83d5db3bdd6a19d058",
+    "url": "https://www.nba.com/stats/player/202083/boxscores-traditional?Season=2010-11&SeasonType=Regular%20Season",
+    "retrieved_at": "2026-09-28T22:21:28.053Z",
+    "rows": 82,
+    "precision": "MM:SS, whole displayed seconds"
+  },
+  {
+    "path": "data/raw/stage3a/games_2010-11_202323.json",
+    "sha256": "336d4247a68a9fbc6fc5e066b7a0b63d4300d7ebf015eae510baa9774c7f8677",
+    "url": "https://www.nba.com/stats/player/202323/boxscores-traditional?Season=2010-11&SeasonType=Regular%20Season",
+    "retrieved_at": "2026-09-28T22:21:31.711Z",
+    "rows": 78,
+    "precision": "MM:SS, whole displayed seconds"
+  },
+  {
+    "path": "data/raw/stage3a/games_2010-11_202341.json",
+    "sha256": "f645506509b900e34f98120479a53a6bb5217aff8b73567148a01da17472db23",
+    "url": "https://www.nba.com/stats/player/202341/boxscores-traditional?Season=2010-11&SeasonType=Regular%20Season",
+    "retrieved_at": "2026-09-28T22:25:07.512Z",
+    "rows": 26,
+    "precision": "MM:SS, whole displayed seconds"
+  },
+  {
+    "path": "data/raw/stage3a/games_2010-11_202361.json",
+    "sha256": "898ac036e8f9015e5e430695322e9cec4af2fb5336b2b806da755872bf9c8805",
+    "url": "https://www.nba.com/stats/player/202361/boxscores-traditional?Season=2010-11&SeasonType=Regular%20Season",
+    "retrieved_at": "2026-09-28T22:21:34.847Z",
+    "rows": 82,
+    "precision": "MM:SS, whole displayed seconds"
+  },
+  {
+    "path": "data/raw/stage3a/games_2010-11_2215.json",
+    "sha256": "527108197647acbded6574d188498e30a0293da32026944f00bc27981cb07f1f",
+    "url": "https://www.nba.com/stats/player/2215/boxscores-traditional?Season=2010-11&SeasonType=Regular%20Season",
+    "retrieved_at": "2026-09-28T22:24:06.914Z",
+    "rows": 49,
+    "precision": "MM:SS, whole displayed seconds"
+  },
+  {
+    "path": "data/raw/stage3a/games_2010-11_2427.json",
+    "sha256": "a3ccda2ca742f4a152149d23f51d0d14de9cbc9c12655661ee331c75190e458e",
+    "url": "https://www.nba.com/stats/player/2427/boxscores-traditional?Season=2010-11&SeasonType=Regular%20Season",
+    "retrieved_at": "2026-09-28T22:21:36.808Z",
+    "rows": 26,
+    "precision": "MM:SS, whole displayed seconds"
+  },
+  {
+    "path": "data/raw/stage3a/games_2010-11_2443.json",
+    "sha256": "28aea9180d3bbed1fb7b6719958756d493ef5736ecc82759c616b726a33f8ba6",
+    "url": "https://www.nba.com/stats/player/2443/boxscores-traditional?Season=2010-11&SeasonType=Regular%20Season",
+    "retrieved_at": "2026-09-28T22:21:39.076Z",
+    "rows": 10,
+    "precision": "MM:SS, whole displayed seconds"
+  },
+  {
+    "path": "data/raw/stage3a/games_2010-11_2733.json",
+    "sha256": "4153e1c687b5f6f1ced0bcd41c3bba63f216d15716c74f2e62626f5cdc65518d",
+    "url": "https://www.nba.com/stats/player/2733/boxscores-traditional?Season=2010-11&SeasonType=Regular%20Season",
+    "retrieved_at": "2026-09-28T22:21:42.291Z",
+    "rows": 73,
+    "precision": "MM:SS, whole displayed seconds"
+  },
+  {
+    "path": "data/raw/stage3a/games_2010-11_2754.json",
+    "sha256": "78a0ff7f1dc12829764dff8dc5df7417e90d9148502678ae65815b0707a565d5",
+    "url": "https://www.nba.com/stats/player/2754/boxscores-traditional?Season=2010-11&SeasonType=Regular%20Season",
+    "retrieved_at": "2026-09-28T22:21:45.552Z",
+    "rows": 72,
+    "precision": "MM:SS, whole displayed seconds"
+  },
+  {
+    "path": "data/raw/stage3a/games_2010-11_2772.json",
+    "sha256": "648de3005ee6aa81d1d71634961069d4a07865b8d43679e6f9dd071403677dcc",
+    "url": "https://www.nba.com/stats/player/2772/boxscores-traditional?Season=2010-11&SeasonType=Regular%20Season",
+    "retrieved_at": "2026-09-28T22:21:48.287Z",
+    "rows": 75,
+    "precision": "MM:SS, whole displayed seconds"
+  },
+  {
+    "path": "data/raw/stage3a/games_2016-17_101109.json",
+    "sha256": "21b9e00e691a9685cc9067693be22e54388ae6ef12489037745935bcb7abb4f0",
+    "url": "https://www.nba.com/stats/player/101109/boxscores-traditional?Season=2016-17&SeasonType=Regular%20Season",
+    "retrieved_at": "2026-09-28T22:22:11.452Z",
+    "rows": 80,
+    "precision": "MM:SS, whole displayed seconds"
+  },
+  {
+    "path": "data/raw/stage3a/games_2016-17_101123.json",
+    "sha256": "ab587ab605fe0338d98f5cb9fe6989d541576853b890aa05b1bc0648aa9f3be0",
+    "url": "https://www.nba.com/stats/player/101123/boxscores-traditional?Season=2016-17&SeasonType=Regular%20Season",
+    "retrieved_at": "2026-09-28T22:22:14.662Z",
+    "rows": 47,
+    "precision": "MM:SS, whole displayed seconds"
+  },
+  {
+    "path": "data/raw/stage3a/games_2016-17_1626175.json",
+    "sha256": "86c01bfa15b583eb7f6df8aa80cf14cf34726a55b5a8ea089857201d64e4f286",
+    "url": "https://www.nba.com/stats/player/1626175/boxscores-traditional?Season=2016-17&SeasonType=Regular%20Season",
+    "retrieved_at": "2026-09-28T22:22:17.063Z",
+    "rows": 25,
+    "precision": "MM:SS, whole displayed seconds"
+  },
+  {
+    "path": "data/raw/stage3a/games_2016-17_1626176.json",
+    "sha256": "1cf0a13bb5cdce4657bef2a6beafdaf1b57fe4d701ed8907e7c997a5b4000084",
+    "url": "https://www.nba.com/stats/player/1626176/boxscores-traditional?Season=2016-17&SeasonType=Regular%20Season",
+    "retrieved_at": "2026-09-28T22:24:48.758Z",
+    "rows": 29,
+    "precision": "MM:SS, whole displayed seconds"
+  },
+  {
+    "path": "data/raw/stage3a/games_2016-17_1626246.json",
+    "sha256": "aabc91b93dbb29c3a38fc81665fb772f7829c268a4914c56302afa296e12298b",
+    "url": "https://www.nba.com/stats/player/1626246/boxscores-traditional?Season=2016-17&SeasonType=Regular%20Season",
+    "retrieved_at": "2026-09-28T22:24:43.186Z",
+    "rows": 35,
+    "precision": "MM:SS, whole displayed seconds"
+  },
+  {
+    "path": "data/raw/stage3a/games_2016-17_1627746.json",
+    "sha256": "a8e7ef840c4cd79da58e762799ec52478ec729a2418d9ce2101a4626c99c7867",
+    "url": "https://www.nba.com/stats/player/1627746/boxscores-traditional?Season=2016-17&SeasonType=Regular%20Season",
+    "retrieved_at": "2026-09-28T22:22:19.137Z",
+    "rows": 33,
+    "precision": "MM:SS, whole displayed seconds"
+  },
+  {
+    "path": "data/raw/stage3a/games_2016-17_1627848.json",
+    "sha256": "592e47c9ecd16f1b9275185103288aa35e70bc71c3cf238beb8eef34f9a935c1",
+    "url": "https://www.nba.com/stats/player/1627848/boxscores-traditional?Season=2016-17&SeasonType=Regular%20Season",
+    "retrieved_at": "2026-09-28T22:25:02.546Z",
+    "rows": 18,
+    "precision": "MM:SS, whole displayed seconds"
+  },
+  {
+    "path": "data/raw/stage3a/games_2016-17_1717.json",
+    "sha256": "53574d5c929c63470acec0a15a8b08bf89d08fadd476fdc3c2d7170f489307cb",
+    "url": "https://www.nba.com/stats/player/1717/boxscores-traditional?Season=2016-17&SeasonType=Regular%20Season",
+    "retrieved_at": "2026-09-28T22:22:22.000Z",
+    "rows": 54,
+    "precision": "MM:SS, whole displayed seconds"
+  },
+  {
+    "path": "data/raw/stage3a/games_2016-17_200771.json",
+    "sha256": "0473389b7dbfe4f17e02002fae95504f8b7069adabce6aacfd8bd2ed39aaa470",
+    "url": "https://www.nba.com/stats/player/200771/boxscores-traditional?Season=2016-17&SeasonType=Regular%20Season",
+    "retrieved_at": "2026-09-28T22:22:36.550Z",
+    "rows": 68,
+    "precision": "MM:SS, whole displayed seconds"
+  },
+  {
+    "path": "data/raw/stage3a/games_2016-17_201589.json",
+    "sha256": "51d54388dfa75e31f7d3af4e046597ee43493ec14a9eff7a9cb05b1ae15801cb",
+    "url": "https://www.nba.com/stats/player/201589/boxscores-traditional?Season=2016-17&SeasonType=Regular%20Season",
+    "retrieved_at": "2026-09-28T22:22:38.657Z",
+    "rows": 41,
+    "precision": "MM:SS, whole displayed seconds"
+  },
+  {
+    "path": "data/raw/stage3a/games_2016-17_201609.json",
+    "sha256": "875d21f620988150ccd99a9f90e895f71f72f905ffdde4f25997cfedfac281cc",
+    "url": "https://www.nba.com/stats/player/201609/boxscores-traditional?Season=2016-17&SeasonType=Regular%20Season",
+    "retrieved_at": "2026-09-28T22:22:41.615Z",
+    "rows": 73,
+    "precision": "MM:SS, whole displayed seconds"
+  },
+  {
+    "path": "data/raw/stage3a/games_2016-17_203086.json",
+    "sha256": "d1238af0e08ad3ecf318f81e9d6f9521928f1c04fdcf8911e1414f3b3011b412",
+    "url": "https://www.nba.com/stats/player/203086/boxscores-traditional?Season=2016-17&SeasonType=Regular%20Season",
+    "retrieved_at": "2026-09-28T22:22:44.679Z",
+    "rows": 74,
+    "precision": "MM:SS, whole displayed seconds"
+  },
+  {
+    "path": "data/raw/stage3a/games_2016-17_203510.json",
+    "sha256": "fde4dafbe45d24a3f717c6f4fc2e9232babc61a0e9646579d6a93b91ca318db4",
+    "url": "https://www.nba.com/stats/player/203510/boxscores-traditional?Season=2016-17&SeasonType=Regular%20Season",
+    "retrieved_at": "2026-09-28T22:24:33.491Z",
+    "rows": 9,
+    "precision": "MM:SS, whole displayed seconds"
+  },
+  {
+    "path": "data/raw/stage3a/games_2016-17_203552.json",
+    "sha256": "469e1d77d43fbd61712db44d53c26696d29b42926e74ca45f4b3388f68afd9d6",
+    "url": "https://www.nba.com/stats/player/203552/boxscores-traditional?Season=2016-17&SeasonType=Regular%20Season",
+    "retrieved_at": "2026-09-28T22:22:47.887Z",
+    "rows": 70,
+    "precision": "MM:SS, whole displayed seconds"
+  },
+  {
+    "path": "data/raw/stage3a/games_2016-17_203944.json",
+    "sha256": "ef045866a1cafe3ee616c400020f15d5257f21bc2a02be49ac52e0709d5e7eec",
+    "url": "https://www.nba.com/stats/player/203944/boxscores-traditional?Season=2016-17&SeasonType=Regular%20Season",
+    "retrieved_at": "2026-09-28T22:22:51.278Z",
+    "rows": 74,
+    "precision": "MM:SS, whole displayed seconds"
+  },
+  {
+    "path": "data/raw/stage3a/games_2016-17_2225.json",
+    "sha256": "da28a0311dbe3e1c78b4cde5de57b974d8741d1505cb49d1af70408147d9705c",
+    "url": "https://www.nba.com/stats/player/2225/boxscores-traditional?Season=2016-17&SeasonType=Regular%20Season",
+    "retrieved_at": "2026-09-28T22:22:54.224Z",
+    "rows": 63,
+    "precision": "MM:SS, whole displayed seconds"
+  },
+  {
+    "path": "data/raw/stage3a/games_2016-17_2730.json",
+    "sha256": "206e7279e281b696070df29fe5afa796f2ba8673c6843bb897a768fdb00ab697",
+    "url": "https://www.nba.com/stats/player/2730/boxscores-traditional?Season=2016-17&SeasonType=Regular%20Season",
+    "retrieved_at": "2026-09-28T22:22:57.498Z",
+    "rows": 74,
+    "precision": "MM:SS, whole displayed seconds"
+  },
+  {
+    "path": "data/raw/stage3a/games_2023-24_1629014.json",
+    "sha256": "d5dc265256e34a41c96449ef5084eddcd0a6c0aa4fd4fe4c7b9637ed1ca99fe4",
+    "url": "https://www.nba.com/stats/player/1629014/boxscores-traditional?Season=2023-24&SeasonType=Regular%20Season",
+    "retrieved_at": "2026-09-28T22:23:22.775Z",
+    "rows": 46,
+    "precision": "MM:SS, whole displayed seconds"
+  },
+  {
+    "path": "data/raw/stage3a/games_2023-24_1629057.json",
+    "sha256": "8f582af2a89fd027dff44b83ff4ef9aa3245f65f21e71def48d0b3dea66f90b1",
+    "url": "https://www.nba.com/stats/player/1629057/boxscores-traditional?Season=2023-24&SeasonType=Regular%20Season",
+    "retrieved_at": "2026-09-28T22:23:38.454Z",
+    "rows": 6,
+    "precision": "MM:SS, whole displayed seconds"
+  },
+  {
+    "path": "data/raw/stage3a/games_2023-24_1629626.json",
+    "sha256": "a02972d719d8e84912b66aeacf257485e3449230cdb1f0279b94270898fe82cc",
+    "url": "https://www.nba.com/stats/player/1629626/boxscores-traditional?Season=2023-24&SeasonType=Regular%20Season",
+    "retrieved_at": "2026-09-28T22:25:05.089Z",
+    "rows": 43,
+    "precision": "MM:SS, whole displayed seconds"
+  },
+  {
+    "path": "data/raw/stage3a/games_2023-24_1630537.json",
+    "sha256": "20da9ec484556e70fb2912c65a1d5ea140af4c174d5c1fc9a8ace40dc620e35b",
+    "url": "https://www.nba.com/stats/player/1630537/boxscores-traditional?Season=2023-24&SeasonType=Regular%20Season",
+    "retrieved_at": "2026-09-28T22:23:41.275Z",
+    "rows": 59,
+    "precision": "MM:SS, whole displayed seconds"
+  },
+  {
+    "path": "data/raw/stage3a/games_2023-24_1630543.json",
+    "sha256": "c0ff68a45665c140501250662664a235a413bf14d297e092c410028982e25df5",
+    "url": "https://www.nba.com/stats/player/1630543/boxscores-traditional?Season=2023-24&SeasonType=Regular%20Season",
+    "retrieved_at": "2026-09-28T22:24:51.525Z",
+    "rows": 60,
+    "precision": "MM:SS, whole displayed seconds"
+  },
+  {
+    "path": "data/raw/stage3a/games_2023-24_1630548.json",
+    "sha256": "fcc9dc345059fb4fc9c1f60d8a1960c5d470eeeaeccb7a64c00847a506cb9e47",
+    "url": "https://www.nba.com/stats/player/1630548/boxscores-traditional?Season=2023-24&SeasonType=Regular%20Season",
+    "retrieved_at": "2026-09-28T22:23:43.222Z",
+    "rows": 20,
+    "precision": "MM:SS, whole displayed seconds"
+  },
+  {
+    "path": "data/raw/stage3a/games_2023-24_1630556.json",
+    "sha256": "fe992e166f63fb13c1723f9b97ae0194e4ee76d0232f5a35bfaa69e281a4e41c",
+    "url": "https://www.nba.com/stats/player/1630556/boxscores-traditional?Season=2023-24&SeasonType=Regular%20Season",
+    "retrieved_at": "2026-09-28T22:23:46.289Z",
+    "rows": 54,
+    "precision": "MM:SS, whole displayed seconds"
+  },
+  {
+    "path": "data/raw/stage3a/games_2023-24_1630557.json",
+    "sha256": "0fd5bd08a751b0ad2be754b12de1d34303d096101b016215bf38ad18eff49818",
+    "url": "https://www.nba.com/stats/player/1630557/boxscores-traditional?Season=2023-24&SeasonType=Regular%20Season",
+    "retrieved_at": "2026-09-28T22:23:49.256Z",
+    "rows": 80,
+    "precision": "MM:SS, whole displayed seconds"
+  },
+  {
+    "path": "data/raw/stage3a/games_2023-24_1630567.json",
+    "sha256": "b14f278d2dae4358102eaa90ef726c01fe22a51a1566a54c76dda0d77d2e4f4d",
+    "url": "https://www.nba.com/stats/player/1630567/boxscores-traditional?Season=2023-24&SeasonType=Regular%20Season",
+    "retrieved_at": "2026-09-28T22:23:51.841Z",
+    "rows": 60,
+    "precision": "MM:SS, whole displayed seconds"
+  },
+  {
+    "path": "data/raw/stage3a/games_2023-24_1631218.json",
+    "sha256": "2c636c083040e241e3146a647c4abd928a4933aec144fa4a4f2cb0aebb20bf0e",
+    "url": "https://www.nba.com/stats/player/1631218/boxscores-traditional?Season=2023-24&SeasonType=Regular%20Season",
+    "retrieved_at": "2026-09-28T22:24:46.456Z",
+    "rows": 68,
+    "precision": "MM:SS, whole displayed seconds"
+  },
+  {
+    "path": "data/raw/stage3a/games_2023-24_1641722.json",
+    "sha256": "b133e7f02ef783533a0e1c09fd17a823fa4ccfbe5e5dd77b1f19a122853719d3",
+    "url": "https://www.nba.com/stats/player/1641722/boxscores-traditional?Season=2023-24&SeasonType=Regular%20Season",
+    "retrieved_at": "2026-09-28T22:23:54.769Z",
+    "rows": 67,
+    "precision": "MM:SS, whole displayed seconds"
+  },
+  {
+    "path": "data/raw/stage3a/games_2023-24_1641733.json",
+    "sha256": "af5405568694fdeafad78b47a66034cb9d33a86a72e84dd67b0fdd8a7cebc3bd",
+    "url": "https://www.nba.com/stats/player/1641733/boxscores-traditional?Season=2023-24&SeasonType=Regular%20Season",
+    "retrieved_at": "2026-09-28T22:23:57.859Z",
+    "rows": 51,
+    "precision": "MM:SS, whole displayed seconds"
+  },
+  {
+    "path": "data/raw/stage3a/games_2023-24_201145.json",
+    "sha256": "16fe30a6493f0786a711b22a6da3a8f13c326666ca54d9d117769adf9c4c355b",
+    "url": "https://www.nba.com/stats/player/201145/boxscores-traditional?Season=2023-24&SeasonType=Regular%20Season",
+    "retrieved_at": "2026-09-28T22:24:01.138Z",
+    "rows": 78,
+    "precision": "MM:SS, whole displayed seconds"
+  },
+  {
+    "path": "data/raw/stage3a/games_2023-24_202687.json",
+    "sha256": "e35332b1d1273c7228a278537f5b947e0dec1862ea5167634e1fb423bd3c2351",
+    "url": "https://www.nba.com/stats/player/202687/boxscores-traditional?Season=2023-24&SeasonType=Regular%20Season",
+    "retrieved_at": "2026-09-28T22:24:57.623Z",
+    "rows": 40,
+    "precision": "MM:SS, whole displayed seconds"
+  },
+  {
+    "path": "data/raw/stage3a/games_2023-24_203200.json",
+    "sha256": "4bdc172cfeaa2d0c5c66faf58e4c03afa408371e13419dd4b297fcbe47ae08c6",
+    "url": "https://www.nba.com/stats/player/203200/boxscores-traditional?Season=2023-24&SeasonType=Regular%20Season",
+    "retrieved_at": "2026-09-28T22:24:40.678Z",
+    "rows": 58,
+    "precision": "MM:SS, whole displayed seconds"
+  },
+  {
+    "path": "data/raw/stage3a/games_2023-24_203469.json",
+    "sha256": "d2a7ebc1ea5eedfb922957740e8051a92589f388974bfc7f4074f142fd0bd956",
+    "url": "https://www.nba.com/stats/player/203469/boxscores-traditional?Season=2023-24&SeasonType=Regular%20Season",
+    "retrieved_at": "2026-09-28T22:24:59.955Z",
+    "rows": 43,
+    "precision": "MM:SS, whole displayed seconds"
+  },
+  {
+    "path": "data/raw/stage3a/games_2023-24_203552.json",
+    "sha256": "654de4b6b904ec056edbe6f530477e7a55bbe79673d1e684080f6eb40d426cec",
+    "url": "https://www.nba.com/stats/player/203552/boxscores-traditional?Season=2023-24&SeasonType=Regular%20Season",
+    "retrieved_at": "2026-09-28T22:24:37.011Z",
+    "rows": 44,
+    "precision": "MM:SS, whole displayed seconds"
+  },
+  {
+    "path": "data/raw/stage3a/games_2023-24_203994.json",
+    "sha256": "a1d82523ae2229fa36780c76be3c5290b394545df154021b2a7f832c24a29f5d",
+    "url": "https://www.nba.com/stats/player/203994/boxscores-traditional?Season=2023-24&SeasonType=Regular%20Season",
+    "retrieved_at": "2026-09-28T22:24:04.157Z",
+    "rows": 76,
+    "precision": "MM:SS, whole displayed seconds"
+  }
+]

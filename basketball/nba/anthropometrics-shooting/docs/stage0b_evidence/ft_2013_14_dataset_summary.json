@@ -1,0 +1,74 @@
+{
+  "status": "candidate_frozen_not_cleared_for_inference",
+  "roster_players": 487,
+  "NBA_players_positive_minutes": 482,
+  "exact_id_prior_measurement_matches": 313,
+  "eligible_prior_measurement_players": 311,
+  "excluded_roster_players": 176,
+  "excluded_positive_minute_players": 171,
+  "final_players": 311,
+  "total_FTA": 42587,
+  "median_FTA": 89,
+  "FTA_quantiles": {
+    "0": 0,
+    "0.1": 5.0,
+    "0.25": 29.5,
+    "0.5": 89.0,
+    "0.75": 196.0,
+    "0.9": 338.0,
+    "1": 805
+  },
+  "FTA_zero": 12,
+  "FTA_ge_50": 203,
+  "FTA_ge_100": 145,
+  "anthropometric_ranges": {
+    "height_wo_shoes_inches": [
+      67.75,
+      85.25
+    ],
+    "wingspan_inches": [
+      70.75,
+      92.5
+    ],
+    "wingspan_advantage": [
+      -1.0,
+      10.25
+    ],
+    "wingspan_ratio": [
+      0.9879154078549849,
+      1.1331168831168832
+    ]
+  },
+  "selection_coverage": {
+    "measured": {
+      "players": 311,
+      "median_minutes": 1338.7666666666667,
+      "mean_minutes": 1347.297266881029,
+      "median_games": 63,
+      "mean_games": 55.31511254019293,
+      "players_with_any_box_position": 241,
+      "box_position_labeled_game_fraction": 0.513689472766378
+    },
+    "unmeasured": {
+      "players": 171,
+      "median_minutes": 971.0166666666667,
+      "mean_minutes": 1030.39522417154,
+      "median_games": 55,
+      "mean_games": 49.175438596491226,
+      "players_with_any_box_position": 115,
+      "box_position_labeled_game_fraction": 0.4118206683315495
+    }
+  },
+  "reference_population_players": 960,
+  "repeated_measurements": 28,
+  "repeated_statuses": {
+    "materially different": 10,
+    "near-identical": 14,
+    "identical": 4
+  },
+  "repeated_with_multiple_pre2013": 0,
+  "identity_conflicts_unresolved": 21,
+  "primary_exposure": "residual_wingspan (not yet calculated)",
+  "primary_outcome": "2013-14 regular-season FTM out of FTA",
+  "no_effect_estimate_calculated": true
+}

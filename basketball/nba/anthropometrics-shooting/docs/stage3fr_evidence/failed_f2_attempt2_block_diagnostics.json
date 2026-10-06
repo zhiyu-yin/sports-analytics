@@ -1,0 +1,187 @@
+{
+  "blocks": [
+    {
+      "block": "theta_B",
+      "max_rhat": 1.1108167274312173,
+      "min_bulk_ESS": 29.738647840300203,
+      "min_tail_ESS": 59.943136999132534,
+      "elements": 1
+    },
+    {
+      "block": "theta_W",
+      "max_rhat": 1.0004004900935477,
+      "min_bulk_ESS": 16578.794847236695,
+      "min_tail_ESS": 12111.036118845124,
+      "elements": 1
+    },
+    {
+      "block": "beta_0",
+      "max_rhat": 1.003575319009452,
+      "min_bulk_ESS": 2002.3160388920853,
+      "min_tail_ESS": 3746.6424317850456,
+      "elements": 1
+    },
+    {
+      "block": "beta_H",
+      "max_rhat": 1.0088277683607496,
+      "min_bulk_ESS": 1164.7514116409009,
+      "min_tail_ESS": 3722.411438617659,
+      "elements": 1
+    },
+    {
+      "block": "beta_position",
+      "max_rhat": 1.0074317127689885,
+      "min_bulk_ESS": 1749.6954559659157,
+      "min_tail_ESS": 3441.7846635956275,
+      "elements": 13
+    },
+    {
+      "block": "beta_season",
+      "max_rhat": 1.0045936731956255,
+      "min_bulk_ESS": 2149.0331967304037,
+      "min_tail_ESS": 6283.960046969397,
+      "elements": 12
+    },
+    {
+      "block": "a_0",
+      "max_rhat": 1.0006504314459623,
+      "min_bulk_ESS": 3503.648637683624,
+      "min_tail_ESS": 5945.718999456115,
+      "elements": 1
+    },
+    {
+      "block": "a_RW",
+      "max_rhat": 1.001418909323681,
+      "min_bulk_ESS": 2856.225383881121,
+      "min_tail_ESS": 5889.219641774656,
+      "elements": 1
+    },
+    {
+      "block": "a_H",
+      "max_rhat": 1.0015335495929165,
+      "min_bulk_ESS": 3434.6480610468043,
+      "min_tail_ESS": 6644.980210794891,
+      "elements": 1
+    },
+    {
+      "block": "a_position",
+      "max_rhat": 1.002554110438951,
+      "min_bulk_ESS": 3297.3299219427754,
+      "min_tail_ESS": 5407.576381748097,
+      "elements": 13
+    },
+    {
+      "block": "a_season",
+      "max_rhat": 1.0015800144145195,
+      "min_bulk_ESS": 6119.51123296196,
+      "min_tail_ESS": 9929.169326312418,
+      "elements": 12
+    },
+    {
+      "block": "c_0",
+      "max_rhat": 1.0003221813470762,
+      "min_bulk_ESS": 8285.489078718825,
+      "min_tail_ESS": 10717.763192415068,
+      "elements": 1
+    },
+    {
+      "block": "c_RW",
+      "max_rhat": 1.000139833596599,
+      "min_bulk_ESS": 13320.997563388279,
+      "min_tail_ESS": 12525.503989655674,
+      "elements": 1
+    },
+    {
+      "block": "c_H",
+      "max_rhat": 0.9999077987586876,
+      "min_bulk_ESS": 13973.289894617556,
+      "min_tail_ESS": 13094.429977542542,
+      "elements": 1
+    },
+    {
+      "block": "c_position",
+      "max_rhat": 1.0006968597588526,
+      "min_bulk_ESS": 12758.076250414591,
+      "min_tail_ESS": 10959.26389436935,
+      "elements": 13
+    },
+    {
+      "block": "c_season",
+      "max_rhat": 1.0010980719417142,
+      "min_bulk_ESS": 31770.506117163986,
+      "min_tail_ESS": 10986.755426180274,
+      "elements": 12
+    },
+    {
+      "block": "sigma_accuracy",
+      "max_rhat": 1.0080616570214083,
+      "min_bulk_ESS": 292.52599836469915,
+      "min_tail_ESS": 356.13837774772827,
+      "elements": 1
+    },
+    {
+      "block": "sigma_positive_opportunity",
+      "max_rhat": 1.0014201373550937,
+      "min_bulk_ESS": 4335.81522284647,
+      "min_tail_ESS": 7719.084667428335,
+      "elements": 1
+    },
+    {
+      "block": "sigma_hurdle",
+      "max_rhat": 1.001393298887497,
+      "min_bulk_ESS": 5683.61439137682,
+      "min_tail_ESS": 8649.225858399597,
+      "elements": 1
+    },
+    {
+      "block": "corr_uv",
+      "max_rhat": 1.1157045388632858,
+      "min_bulk_ESS": 28.772624512035552,
+      "min_tail_ESS": 56.779992881706626,
+      "elements": 1
+    },
+    {
+      "block": "corr_uh",
+      "max_rhat": 1.0956549911410023,
+      "min_bulk_ESS": 33.25965847758327,
+      "min_tail_ESS": 54.35964679340014,
+      "elements": 1
+    },
+    {
+      "block": "corr_vh",
+      "max_rhat": 1.0014879354273127,
+      "min_bulk_ESS": 4259.89193891462,
+      "min_tail_ESS": 8788.899422788778,
+      "elements": 1
+    },
+    {
+      "block": "kappa",
+      "max_rhat": 1.0001317818691913,
+      "min_bulk_ESS": 23603.5868734804,
+      "min_tail_ESS": 12393.962182041003,
+      "elements": 1
+    },
+    {
+      "block": "alpha_FTA",
+      "max_rhat": 1.0002267258396484,
+      "min_bulk_ESS": 20697.501335360554,
+      "min_tail_ESS": 12907.459922186012,
+      "elements": 1
+    },
+    {
+      "block": "z_player",
+      "max_rhat": 1.1015118152568237,
+      "min_bulk_ESS": 31.885824300112045,
+      "min_tail_ESS": 52.95448391619776,
+      "elements": 2571
+    },
+    {
+      "block": "player_effects",
+      "max_rhat": 1.1026436708116543,
+      "min_bulk_ESS": 31.872647137942103,
+      "min_tail_ESS": 52.64602691723502,
+      "elements": 2571
+    }
+  ],
+  "sealed_parameter_sampler_pass": false
+}

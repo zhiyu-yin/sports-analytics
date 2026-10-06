@@ -1,0 +1,87 @@
+[
+  {
+    "source_name": "NBA stats historical table",
+    "publisher": "NBA",
+    "source_type": "official_table",
+    "url": "https://www.nba.com/stats/draft/combine-anthro?SeasonYear=2013-14",
+    "years": [
+      2013
+    ],
+    "retrieval_timestamp_utc": "2026-09-28T19:52:25.679838+00:00",
+    "http_status": 200,
+    "transport_exit": 0,
+    "error": "",
+    "raw_sha256": "f56ca3e63fc0d3b22ed7fba37fa949e986df4939b5bf89caa2dc9594af3e0db9",
+    "raw_path": "data/raw/stage0c/f56ca3e63fc0d3b22ed7fba37fa949e986df4939b5bf89caa2dc9594af3e0db9.payload",
+    "bytes": 267962,
+    "retrieval_method": "curl GET"
+  },
+  {
+    "source_name": "NBA API 2004",
+    "publisher": "NBA",
+    "source_type": "official_api",
+    "url": "https://stats.nba.com/stats/draftcombineplayeranthro?LeagueID=00&SeasonYear=2004",
+    "years": [
+      2004
+    ],
+    "retrieval_timestamp_utc": "2026-09-28T19:52:25.679534+00:00",
+    "http_status": 0,
+    "transport_exit": 28,
+    "error": "curl: (28) Operation timed out after 20006 milliseconds with 0 bytes received",
+    "raw_sha256": null,
+    "raw_path": null,
+    "bytes": 0,
+    "retrieval_method": "curl GET"
+  },
+  {
+    "source_name": "NBA API 2007",
+    "publisher": "NBA",
+    "source_type": "official_api",
+    "url": "https://stats.nba.com/stats/draftcombineplayeranthro?LeagueID=00&SeasonYear=2007",
+    "years": [
+      2007
+    ],
+    "retrieval_timestamp_utc": "2026-09-28T19:52:25.679878+00:00",
+    "http_status": 0,
+    "transport_exit": 56,
+    "error": "curl: (56) Recv failure: Operation timed out",
+    "raw_sha256": null,
+    "raw_path": null,
+    "bytes": 0,
+    "retrieval_method": "curl GET"
+  },
+  {
+    "source_name": "NBA API 2013",
+    "publisher": "NBA",
+    "source_type": "official_api",
+    "url": "https://stats.nba.com/stats/draftcombineplayeranthro?LeagueID=00&SeasonYear=2013",
+    "years": [
+      2013
+    ],
+    "retrieval_timestamp_utc": "2026-09-28T19:52:25.679891+00:00",
+    "http_status": 0,
+    "transport_exit": 28,
+    "error": "curl: (28) Operation timed out after 20006 milliseconds with 0 bytes received",
+    "raw_sha256": null,
+    "raw_path": null,
+    "bytes": 0,
+    "retrieval_method": "curl GET"
+  },
+  {
+    "source_name": "Bulls 2004 pre-draft table",
+    "publisher": "NBA",
+    "source_type": "official_table",
+    "url": "https://www.nba.com/bulls/news/predraft_vitals_04.html",
+    "years": [
+      2004
+    ],
+    "retrieval_timestamp_utc": "2026-09-28T19:52:25.679827+00:00",
+    "http_status": 200,
+    "transport_exit": 0,
+    "error": "",
+    "raw_sha256": "8e482b0f7677c8fd6d2523b1e478832e10682dab01dffb5c30a90c8e8eebe702",
+    "raw_path": "data/raw/stage0c/8e482b0f7677c8fd6d2523b1e478832e10682dab01dffb5c30a90c8e8eebe702.payload",
+    "bytes": 93728,
+    "retrieval_method": "curl GET"
+  }
+]

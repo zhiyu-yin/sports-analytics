@@ -1,0 +1,10 @@
+{
+  "reviewed_at": "2026-09-29T20:11:16.466133+00:00",
+  "figures": 4,
+  "readable": true,
+  "scientific_parameter_not_plotted": true,
+  "F1_accuracy_low_high_pattern_visible": true,
+  "F1_zero_frequency_repaired": true,
+  "F1_positive_median_and_upper_quartile_miss": true,
+  "F2_estimates_and_PPC_withheld": true
+}

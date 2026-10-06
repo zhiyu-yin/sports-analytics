@@ -1,0 +1,66 @@
+{
+  "passed": true,
+  "scipy_logpmf_max_error": 8.881784197001252e-16,
+  "independent_mixture_quadrature_error": 1.3572476476042539e-14,
+  "binomial_limit_max_logpmf_error": 2.1804126904001464e-06,
+  "variance_increases": [
+    23.079000000000004,
+    41.790000000000006,
+    228.9
+  ],
+  "synthetic_seed": 20260928,
+  "synthetic_n": 5000,
+  "true_beta": [
+    0.8,
+    -0.25,
+    0.2
+  ],
+  "estimated_beta": [
+    0.8031630647086284,
+    -0.24492074112419432,
+    0.21297595471803482
+  ],
+  "recovery_z": [
+    0.4541252025981654,
+    0.7118127031161934,
+    1.858554682741174
+  ],
+  "true_kappa": 25.0,
+  "estimated_kappa": 24.497198612668463,
+  "analytic_score_max_error": 2.304707436451281e-06,
+  "forced_failure_detected": true,
+  "probability_range": [
+    0.395267036039868,
+    0.8818394130545074
+  ],
+  "hessian_step_relative_difference": 2.89473811587726e-09,
+  "starts": [
+    {
+      "start_kappa": 10.0,
+      "success": true,
+      "accepted": true,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "negative_log_likelihood": 18386.607634622338,
+      "score_max": 4.752623334347561e-05,
+      "iterations": 12
+    },
+    {
+      "start_kappa": 50.0,
+      "success": true,
+      "accepted": true,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "negative_log_likelihood": 18386.607634622294,
+      "score_max": 3.697823495940611e-05,
+      "iterations": 12
+    },
+    {
+      "start_kappa": 200.0,
+      "success": true,
+      "accepted": true,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "negative_log_likelihood": 18386.607634622273,
+      "score_max": 1.3220575517891575e-05,
+      "iterations": 13
+    }
+  ]
+}

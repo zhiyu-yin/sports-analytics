@@ -1,0 +1,32 @@
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l1dcachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l2cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l3cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.optional.neon'. Detail: [errno 1] Operation not permitted
+test_01_frozen_inputs (test_stage2.Stage2) ... ok
+test_02_frozen_stage1 (test_stage2.Stage2) ... ok
+test_03_prior_unchanged (test_stage2.Stage2) ... ok
+test_04_exact_formula (test_stage2.Stage2) ... ok
+test_05_quasi_formula (test_stage2.Stage2) ... ok
+test_06_hc0 (test_stage2.Stage2) ... ok
+test_07_bb_numerical_validation (test_stage2.Stage2) ... ok
+test_08_bb_determinism (test_stage2.Stage2) ... ok
+test_09_loo_count_unique (test_stage2.Stage2) ... ok
+test_10_loo_exact_removal (test_stage2.Stage2) ... ok
+test_11_loo_frozen_exposure_and_formula (test_stage2.Stage2) ... ok
+test_12_all_loo_refits (test_stage2.Stage2) ... ok
+test_13_failures_visible (test_stage2.Stage2) ... ok
+test_14_singleton (test_stage2.Stage2) ... ok
+test_15_high_leverage_exact (test_stage2.Stage2) ... ok
+test_16_position_map (test_stage2.Stage2) ... ok
+test_17_thresholds_secondary (test_stage2.Stage2) ... ok
+test_18_alternate_secondary (test_stage2.Stage2) ... ok
+test_19_probability_contrast (test_stage2.Stage2) ... ok
+test_20_no_geometric_refit (test_stage2.Stage2) ... ok
+test_21_code_and_plan_hash (test_stage2.Stage2) ... ok
+test_22_correction_contained (test_stage2.Stage2) ... ok
+test_23_report_freeze_order (test_stage2.Stage2) ... ok
+
+----------------------------------------------------------------------
+Ran 23 tests in 2.327s
+
+OK

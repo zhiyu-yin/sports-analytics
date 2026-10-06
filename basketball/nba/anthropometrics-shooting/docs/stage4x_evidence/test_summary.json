@@ -1,0 +1,29 @@
+{
+  "executable_tests": 12,
+  "failures": 0,
+  "errors": 0,
+  "preserved_artifacts": 19993,
+  "scientific_requirement_status": {
+    "A": "PASS",
+    "B": "PASS",
+    "C": "PASS",
+    "D": "PASS",
+    "E": "NOT_RUN",
+    "F": "BLOCKED",
+    "G": "PASS",
+    "H": "PASS",
+    "I": "NOT_RUN",
+    "J": "NOT_RUN",
+    "K": "NOT_RUN",
+    "L": "NOT_RUN",
+    "M": "PASS",
+    "N": "PASS",
+    "O": "NOT_RUN",
+    "P": "NOT_RUN",
+    "Q": "PASS",
+    "R": "PASS",
+    "S": "PASS",
+    "T": "PASS"
+  },
+  "note": "Passing stopping-rule tests does not imply source validation or scientific analysis passed."
+}

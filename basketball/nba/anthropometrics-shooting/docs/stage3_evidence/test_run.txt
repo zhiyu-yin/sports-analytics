@@ -1,0 +1,29 @@
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l1dcachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l2cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l3cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.optional.neon'. Detail: [errno 1] Operation not permitted
+test_01_prior_all_hashes (test_stage3.Stage3PartA) ... ok
+test_02_versioned_corrections (test_stage3.Stage3PartA) ... ok
+test_03_no_future_measurements (test_stage3.Stage3PartA) ... ok
+test_04_fixed_vectors (test_stage3.Stage3PartA) ... ok
+test_05_frozen_transform (test_stage3.Stage3PartA) ... ok
+test_06_replication_excludes_development (test_stage3.Stage3PartA) ... ok
+test_07_full_includes_development_only_secondary (test_stage3.Stage3PartA) ... ok
+test_08_exact_id_only (test_stage3.Stage3PartA) ... ok
+test_09_counts (test_stage3.Stage3PartA) ... ok
+test_10_zero_accounting (test_stage3.Stage3PartA) ... ok
+test_11_no_threshold (test_stage3.Stage3PartA) ... ok
+test_12_original_positions (test_stage3.Stage3PartA) ... ok
+test_13_outcome_free_selection (test_stage3.Stage3PartA) ... ok
+test_14_gate_enforced (test_stage3.Stage3PartA) ... ok
+test_15_source_counts_all_match (test_stage3.Stage3PartA) ... ok
+test_16_minutes_not_silently_accepted (test_stage3.Stage3PartA) ... ok
+test_17_hashes (test_stage3.Stage3PartA) ... ok
+test_18_zero_minute_counts (test_stage3.Stage3PartA) ... ok
+test_19_all_later_cohorts (test_stage3.Stage3PartA) ... ok
+test_20_protocol_predates_official_capture (test_stage3.Stage3PartA) ... ok
+
+----------------------------------------------------------------------
+Ran 20 tests in 0.158s
+
+OK

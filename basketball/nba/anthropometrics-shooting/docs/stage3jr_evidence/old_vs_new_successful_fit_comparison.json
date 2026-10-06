@@ -1,0 +1,10 @@
+{
+  "compared": 1701,
+  "max_absolute_beta_difference": 2.6930333456298694e-08,
+  "max_log_likelihood_difference": 2.9103830456733704e-10,
+  "max_score_difference": 0.0009785453442486824,
+  "max_old_success_replay_beta_difference": 9.8879238130678e-17,
+  "passed": true,
+  "completed_at": "2026-10-01T01:33:40.478861+00:00",
+  "interpretation": "Score differences primarily reflect polishing toward zero; coefficient/loglik agreement evaluated separately."
+}

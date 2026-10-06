@@ -1,0 +1,5 @@
+{
+  "reviewed_at": "2026-09-29T01:38:35.068191+00:00",
+  "review_complete": true,
+  "notes": "Observed D2 low-volume bin rates lie below their predictive intervals, while both high-volume bins lie above. Four of five bin failures and the systematic pattern agree with the numerical frozen gate. No gate adjustment."
+}

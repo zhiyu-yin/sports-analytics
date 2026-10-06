@@ -1,0 +1,18 @@
+{
+  "frozen_at": "2026-09-28T22:19:00.054708+00:00",
+  "sha256": "6819d4c95b872d96bf96fabeb327685f767017fcd1de49602c0274ec81c6bf70",
+  "rows": 39,
+  "selection_columns": [
+    "season",
+    "player_id",
+    "player_name",
+    "field",
+    "archive",
+    "official",
+    "match"
+  ],
+  "prohibited_selection_variables_used": false,
+  "algorithm": "SHA256 stage3a-minute-only-v1|season|player_id; two smallest per season, within-season minute tertile, original MIN gate status; add four originals",
+  "new_numeric_tolerance": null,
+  "part_B_authorized": false
+}

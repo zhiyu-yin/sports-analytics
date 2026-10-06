@@ -1,0 +1,12 @@
+2026-09-30 16:20:05.441 system_profiler[62027:11873683] XType: Using static font registry.
+Matplotlib is building the font cache; this may take a moment.
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l1dcachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l2cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l3cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.optional.neon'. Detail: [errno 1] Operation not permitted
+Sampling: [a_0, a_H, a_RW, a_position, a_season, beta_0, beta_H, beta_RW, beta_position, beta_season, c_0, c_H, c_RW, c_position, c_season, e_player, gamma_W1, gamma_W2, lambda_h, log_alpha_FTA, o_player, rho_AO, sigma_accuracy, sigma_opportunity]
+I1 prior numeric pass True
+Sampling: [a_0, a_H, a_RW, a_position, a_season, beta_0, beta_H, beta_RW, beta_position, beta_season, c_0, c_H, c_RW, c_player, c_position, c_season, e_player, lambda_h, log_alpha_FTA, o_player, rho_AO, sigma_accuracy, sigma_count_resid, sigma_opportunity, theta_W]
+I2 prior numeric pass True
+Sampling: [a_0, a_H, a_RW, a_position, a_season, beta_0, beta_H, beta_RW, beta_position, beta_season, c_0, c_H, c_RW, c_player, c_position, c_season, e_player, gamma_W1, gamma_W2, lambda_h, log_alpha_FTA, o_player, rho_AO, sigma_accuracy, sigma_count_resid, sigma_opportunity]
+I3 prior numeric pass True

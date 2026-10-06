@@ -1,0 +1,25 @@
+{
+  "recorded_at": "2026-09-30T19:15:36.750956+00:00",
+  "zero_truncated_likelihood_source_sha256": "ed5b1246c89faf77de23898bff5b4641949ab00fd8b75f11f6966a0eeb59a295",
+  "likelihood_validation_sha256": "0979e9d3f3ee8e4cdee66b5c97cfadb237c4a1a9b31f765f8f461f4e69298397",
+  "decomposition_source_sha256": "a2f7a34c8f0d2ad7aa06d4ce49af4a369b08c56591b99cd84fd50b1c22f334b5",
+  "PPC_metrics_source_sha256": "8cd5d13861d75dcd0cfe992977888bc95c375c3bef99ff32f24041330a8fd514",
+  "opportunity_metrics_source_sha256": "554688672c3c05ab2b0b4d0b98fd086e9a0baba1f1401d78e801d27d48ed3907",
+  "gate_function_source_sha256": "8768edc64079ac70ed396dc53c447a19292484d677f0abe79e1c917e891da918",
+  "stage3f_PPC_source_sha256": "4fcaa753480c7d68a1c836fe981b4cc8eb215a485766e66140fffb9c46528252",
+  "stage3h_PPC_source_sha256": "ae4a82e0f42007bce14cb8b01319fa24393c99a9312aff3d1f65bd50c5b62c4b",
+  "PPC_changes": [
+    "new model builder and stage-local paths",
+    "seed 20260930 as requested",
+    "whitelisted new structural parameter summaries",
+    "H2 generated within adjustment only; no between term"
+  ],
+  "unchanged": [
+    "metric functions",
+    "gate functions",
+    "positive-count quartile gate",
+    "2000 replicates",
+    "chain-major 40x50 MCSE batches"
+  ],
+  "scientific_parameter_summary_exported": false
+}

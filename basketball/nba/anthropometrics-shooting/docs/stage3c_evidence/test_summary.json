@@ -1,0 +1,8 @@
+{
+  "tests_run": 26,
+  "tests_passed": 26,
+  "passed": true,
+  "historical_files_preserved": 619,
+  "no_stage3d": true,
+  "scope": "data/model/diagnostic/PPC/freeze/replay verification; scientific sign is not a gate"
+}

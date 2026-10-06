@@ -1,0 +1,42 @@
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l1dcachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l2cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l3cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.optional.neon'. Detail: [errno 1] Operation not permitted
+Initializing NUTS using jitter+adapt_diag...
+/Users/zhiyuyin/Documents/last time job hunting material/proj/sports-analytics/basketball/nba/anthropometrics-shooting/models/stage3c/environment/lib/python3.10/site-packages/pytensor/tensor/rewriting/elemwise.py:954: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+Multiprocess sampling (4 chains in 4 jobs)
+NUTS: [beta_0, beta_RW, beta_H, beta_position, beta_season, o_player, e_player, sigma_accuracy, sigma_opportunity, lambda_h, rho_AO, a_0, a_RW, a_H, a_position, a_season, log_alpha_FTA, c_0, c_RW, c_H, c_position, c_season, log_kappa]
+chain=0 iteration=500 tuning=True
+chain=2 iteration=500 tuning=True
+chain=3 iteration=500 tuning=True
+chain=1 iteration=500 tuning=True
+chain=0 iteration=1000 tuning=True
+chain=2 iteration=1000 tuning=True
+chain=3 iteration=1000 tuning=True
+chain=0 iteration=1500 tuning=True
+chain=2 iteration=1500 tuning=True
+chain=3 iteration=1500 tuning=True
+chain=0 iteration=2000 tuning=True
+chain=2 iteration=2000 tuning=True
+chain=3 iteration=2000 tuning=True
+chain=1 iteration=1000 tuning=True
+chain=2 iteration=2500 tuning=False
+chain=0 iteration=2500 tuning=False
+chain=3 iteration=2500 tuning=False
+chain=1 iteration=1500 tuning=True
+chain=2 iteration=3000 tuning=False
+chain=0 iteration=3000 tuning=False
+chain=3 iteration=3000 tuning=False
+chain=1 iteration=2000 tuning=True
+chain=2 iteration=3500 tuning=False
+chain=0 iteration=3500 tuning=False
+chain=1 iteration=2500 tuning=False
+chain=3 iteration=3500 tuning=False
+chain=2 iteration=4000 tuning=False
+chain=0 iteration=4000 tuning=False
+chain=1 iteration=3000 tuning=False
+chain=3 iteration=4000 tuning=False
+chain=1 iteration=3500 tuning=False
+chain=1 iteration=4000 tuning=False
+Sampling 4 chains for 2_000 tune and 2_000 draw iterations (8_000 + 8_000 draws total) took 1017 seconds.

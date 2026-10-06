@@ -1,0 +1,4 @@
+2026-09-30 21:02:14.755 system_profiler[71013:12100678] XType: Using static font registry.
+Matplotlib is building the font cache; this may take a moment.
+Report and five figures generated
+Report and five figures generated

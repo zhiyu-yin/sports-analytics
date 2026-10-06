@@ -1,0 +1,24 @@
+WARNING (pytensor.configdefaults): g++ not detected!  PyTensor will be unable to compile C-implementations and will default to Python. Performance may be severely degraded. To remove this warning, set PyTensor flags cxx to an empty string.
+Initializing NUTS using jitter+adapt_diag...
+Multiprocess sampling (4 chains in 4 jobs)
+NUTS: [beta_0, beta_RW, beta_H, position_effect, season_effect, sigma_player, z_player, log_kappa]
+Traceback (most recent call last):
+  File "/Users/zhiyuyin/Documents/last time job hunting material/proj/sports-analytics/basketball/nba/anthropometrics-shooting/scripts/stage3c_model.py", line 71, in <module>
+    elif args.action=='fit':fit(args.kind,args.attempt==2)
+  File "/Users/zhiyuyin/Documents/last time job hunting material/proj/sports-analytics/basketball/nba/anthropometrics-shooting/scripts/stage3c_model.py", line 51, in fit
+    idata=pm.sample(draws=settings['draws'],tune=settings['tune'],chains=4,cores=4,random_seed=20260928,target_accept=settings['target_accept'],nuts_sampler='pymc',blas_cores=1,progressbar=False,return_inferencedata=True,idata_kwargs={'log_likelihood':False})
+  File "/Users/zhiyuyin/Documents/last time job hunting material/proj/sports-analytics/basketball/nba/anthropometrics-shooting/models/stage3c/environment/lib/python3.10/site-packages/pymc/sampling/mcmc.py", line 928, in sample
+    _mp_sample(**sample_args, **parallel_args)
+  File "/Users/zhiyuyin/Documents/last time job hunting material/proj/sports-analytics/basketball/nba/anthropometrics-shooting/models/stage3c/environment/lib/python3.10/site-packages/pymc/sampling/mcmc.py", line 1404, in _mp_sample
+    for draw in sampler:
+  File "/Users/zhiyuyin/Documents/last time job hunting material/proj/sports-analytics/basketball/nba/anthropometrics-shooting/models/stage3c/environment/lib/python3.10/site-packages/pymc/sampling/parallel.py", line 509, in __iter__
+    draw = ProcessAdapter.recv_draw(self._active)
+  File "/Users/zhiyuyin/Documents/last time job hunting material/proj/sports-analytics/basketball/nba/anthropometrics-shooting/models/stage3c/environment/lib/python3.10/site-packages/pymc/sampling/parallel.py", line 370, in recv_draw
+    msg = ready[0].recv()
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/connection.py", line 388, in _recv
+    raise EOFError
+EOFError

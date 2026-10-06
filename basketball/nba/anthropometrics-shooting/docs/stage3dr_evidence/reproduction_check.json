@@ -1,0 +1,10 @@
+{
+  "checked_at": "2026-09-29T01:51:48.616525+00:00",
+  "candidates": {
+    "d1": "SKIPPED_FAILED_SAMPLER",
+    "d2": "EXACT_REPLAY_PASS",
+    "d3": "EXACT_REPLAY_PASS"
+  },
+  "decision_unchanged": true,
+  "method": "Exact saved-trace permitted summaries and seeded predictive simulations; no additional posterior fit"
+}

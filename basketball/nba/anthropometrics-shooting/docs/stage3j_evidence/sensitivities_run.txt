@@ -1,0 +1,52 @@
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l1dcachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l2cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l3cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.optional.neon'. Detail: [errno 1] Operation not permitted
+j2 bootstrap 50 / 2000; failures 13
+j2 bootstrap 100 / 2000; failures 21
+j2 bootstrap 150 / 2000; failures 26
+j2 bootstrap 200 / 2000; failures 32
+j2 bootstrap 250 / 2000; failures 41
+j2 bootstrap 300 / 2000; failures 51
+j2 bootstrap 350 / 2000; failures 59
+j2 bootstrap 400 / 2000; failures 68
+j2 bootstrap 450 / 2000; failures 78
+j2 bootstrap 500 / 2000; failures 88
+j2 bootstrap 550 / 2000; failures 95
+j2 bootstrap 600 / 2000; failures 102
+j2 bootstrap 650 / 2000; failures 111
+j2 bootstrap 700 / 2000; failures 116
+j2 bootstrap 750 / 2000; failures 124
+j2 bootstrap 800 / 2000; failures 131
+j2 bootstrap 850 / 2000; failures 138
+j2 bootstrap 900 / 2000; failures 145
+j2 bootstrap 950 / 2000; failures 149
+j2 bootstrap 1000 / 2000; failures 157
+j2 bootstrap 1050 / 2000; failures 164
+j2 bootstrap 1100 / 2000; failures 169
+j2 bootstrap 1150 / 2000; failures 177
+j2 bootstrap 1200 / 2000; failures 183
+j2 bootstrap 1250 / 2000; failures 189
+j2 bootstrap 1300 / 2000; failures 197
+j2 bootstrap 1350 / 2000; failures 206
+j2 bootstrap 1400 / 2000; failures 214
+j2 bootstrap 1450 / 2000; failures 219
+j2 bootstrap 1500 / 2000; failures 226
+j2 bootstrap 1550 / 2000; failures 234
+j2 bootstrap 1600 / 2000; failures 244
+j2 bootstrap 1650 / 2000; failures 256
+j2 bootstrap 1700 / 2000; failures 258
+j2 bootstrap 1750 / 2000; failures 264
+j2 bootstrap 1800 / 2000; failures 272
+j2 bootstrap 1850 / 2000; failures 277
+j2 bootstrap 1900 / 2000; failures 289
+j2 bootstrap 1950 / 2000; failures 293
+j2 bootstrap 2000 / 2000; failures 299
+Traceback (most recent call last):
+  File "/Users/zhiyuyin/Documents/last time job hunting material/proj/sports-analytics/basketball/nba/anthropometrics-shooting/scripts/stage3j_run.py", line 72, in <module>
+    {'primary':primary,'sensitivities':sensitivities,'replay':replay}[sys.argv[1]]()
+  File "/Users/zhiyuyin/Documents/last time job hunting material/proj/sports-analytics/basketball/nba/anthropometrics-shooting/scripts/stage3j_run.py", line 24, in sensitivities
+    boot=bootstrap(d,p,'j2',20260931,True);bb.update(bootstrap=boot,ci_low=boot['percentile_CI'][0],ci_high=boot['percentile_CI'][1],finished_at=now());save('j2_beta_binomial_result.json',bb,True)
+  File "/Users/zhiyuyin/Documents/last time job hunting material/proj/sports-analytics/basketball/nba/anthropometrics-shooting/scripts/stage3j_core.py", line 125, in bootstrap
+    if s['failed']>20:raise RuntimeError('More than 1% bootstrap failures; STOP before interpretation')
+RuntimeError: More than 1% bootstrap failures; STOP before interpretation

@@ -1,0 +1,7 @@
+{
+  "candidate": "D1",
+  "status": "NOT_RUN_FAILED_SAMPLER_GATE",
+  "gate_pass": false,
+  "replicates": 0,
+  "reason": "A failed sampler cannot pass adequacy; no D1 recovery authorized"
+}

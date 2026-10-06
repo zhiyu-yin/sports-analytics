@@ -1,0 +1,29 @@
+{
+  "status": "CANDIDATE_ONLY_NOT_VALIDATED_NOT_4X_B_FREEZE",
+  "mapping": {
+    "rim": [
+      "Restricted Area"
+    ],
+    "midrange": [
+      "Mid-Range"
+    ],
+    "three_point": [
+      "Above the Break 3",
+      "Left Corner 3",
+      "Right Corner 3"
+    ]
+  },
+  "excluded": [
+    "In The Paint (Non-RA)",
+    "Backcourt"
+  ],
+  "total_3pt_reconciliation": "Include Backcourt only in validation total; exclude from proposed ordinary 3PT outcome. Compare both zone-derived and SHOT_TYPE-derived counts.",
+  "conflict_policy": "Do not repair, discard or override conflicting labels. Resolve using an independent event source before protocol freeze.",
+  "exposure": {
+    "intercept": 4.574910520685837,
+    "slope": 1.0013410045156863,
+    "formula": "wingspan_inches - (intercept + slope * height_wo_shoes_inches)",
+    "units": "inches"
+  },
+  "scientific_coefficients_inspected": false
+}

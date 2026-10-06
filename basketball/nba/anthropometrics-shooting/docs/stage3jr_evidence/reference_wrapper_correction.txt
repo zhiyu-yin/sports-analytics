@@ -1,0 +1,1 @@
+Before remediation implementation: preserve direct grouped-GLM starting coefficients instead of a scale/unscale round trip. The mathematically redundant round trip caused last-bit differences in R0 optimizer termination. The direct original array now reproduces the original call. No likelihood, sample or tolerance change. Initial diagnostic failure log and wrapper retained.

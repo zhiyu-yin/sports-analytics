@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "tests": 23,
+  "failures": 0,
+  "errors": 0,
+  "all_299_loo_refits_verified": true,
+  "full_numerical_rebuild_byte_identical": true,
+  "numerical_files_compared": 30,
+  "prior_files_preserved": 391,
+  "beta_binomial_validation_passed": true
+}

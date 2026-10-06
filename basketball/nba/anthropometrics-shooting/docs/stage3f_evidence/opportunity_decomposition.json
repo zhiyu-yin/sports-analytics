@@ -1,0 +1,14 @@
+{
+  "frozen_at": "2026-09-29T18:16:24.011816+00:00",
+  "formula": "x=log1p(FTA/GP); between=mean(x) within player over all accounting seasons; within=x-between; centered_between=between-mean(between across unique players)",
+  "GP_handling": "Require GP>0; no imputation",
+  "zero_FTA": "Retain; rate=0 and log1p(rate)=0",
+  "player_averaging": "Equal observed-season weights within each player, including zero-FTA seasons; equal unique-player weights for global between center",
+  "centering_constant": 0.7642592381107568,
+  "rows": 4117,
+  "players": 857,
+  "zero_rows": 137,
+  "max_absolute_player_mean_within": 5.551115123125783e-16,
+  "csv_sha256": "2412df80bf520b5dd90b2dc71365651647c59d44bd676de5115a056385bdb1ac",
+  "panel_sha256": "1c34331385e459ac5da67105658730d31d96c8114bd25fcb3b31cea52f1a1871"
+}

@@ -1,0 +1,12 @@
+{
+  "source": "Official Combine Data Hub public application bundle",
+  "url": "https://combine.nba.com/assets/index-Dis9k9m-.js",
+  "parameters": {},
+  "retrieved_at": "2026-09-28T19:00:45.655043+00:00",
+  "sha256": "6dcbc9967ebc65880d6f28fd6872434fda43075e6b2e923c1c424248ec537fde",
+  "raw_path": "data/raw/6dcbc9967ebc65880d6f28fd6872434fda43075e6b2e923c1c424248ec537fde.payload",
+  "transport_exit": 0,
+  "http_status": 200,
+  "error": "",
+  "bytes": 716445
+}

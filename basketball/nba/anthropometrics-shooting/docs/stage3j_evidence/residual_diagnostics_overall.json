@@ -1,0 +1,14 @@
+{
+  "group": "overall",
+  "player_seasons": 3980,
+  "FTA": 469099,
+  "FTM": 360001,
+  "observed_rate": 0.7674307555547976,
+  "fitted_rate": 0.7674307555547971,
+  "observed_minus_fitted": 4.963358345549013e-16,
+  "min_fitted_probability": 0.5736641689622253,
+  "max_fitted_probability": 0.8617380855444091,
+  "fitted_below_001": 0,
+  "fitted_above_099": 0,
+  "descriptive_only": true
+}

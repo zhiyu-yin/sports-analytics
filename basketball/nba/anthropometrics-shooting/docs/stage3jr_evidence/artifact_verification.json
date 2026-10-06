@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "verified_at": "2026-10-01T01:35:10.982540+00:00",
+  "historical_artifacts": 1406,
+  "initial_numerical_trial_preserved": true,
+  "numerical_acceptance_unchanged_across_amendment": true,
+  "all_2000_original_sample_ids_present": true,
+  "all_6000_accepted_start_gates_verified": true,
+  "required_outputs_checked": 15,
+  "report_sections": 15,
+  "summary_recomputed_without_dropping_draws": true
+}

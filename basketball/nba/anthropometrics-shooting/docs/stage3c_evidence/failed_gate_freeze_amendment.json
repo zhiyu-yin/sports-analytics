@@ -1,0 +1,8 @@
+{
+  "recorded_at": "2026-09-28T23:30:15.127627+00:00",
+  "statistical_specification_changed": false,
+  "gate_changed": false,
+  "primary_frozen_at": "2026-09-28T23:29:33.063073+00:00",
+  "purpose": "Preserve a failed-PPC primary result and its diagnostics immutably; scientific reportability remains false and full-panel fitting remains blocked.",
+  "post_analysis_code_change": "Freeze now records failed PPC outcomes rather than asserting success. Replay retains the original analysis provenance hash while requiring every other result field to reproduce exactly. Figures and numerical summaries are diagnostic only."
+}

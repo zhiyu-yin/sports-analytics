@@ -1,0 +1,23 @@
+{
+  "candidate": "I3",
+  "attempt": 2,
+  "max_rhat": 1.0285983585355645,
+  "min_bulk_ESS": 148.2935156055297,
+  "min_tail_ESS": 160.3636639214767,
+  "BFMI": [
+    0.6695581601955217,
+    0.7352308420920783,
+    0.6981557220023356,
+    0.6757314729210593
+  ],
+  "divergences": 0,
+  "max_depth_hits": 0,
+  "finite_covariance": true,
+  "sealed_parameter_sampler_pass": true,
+  "numeric_gate_pass": false,
+  "visual_review": "NOT_RELEASED_FAILED_NUMERIC_GATE",
+  "checked_at": "2026-10-01T00:07:17.440219+00:00",
+  "all_latent_elements_in_gate": true,
+  "sampler_pass": false,
+  "recovery_exhausted": true
+}

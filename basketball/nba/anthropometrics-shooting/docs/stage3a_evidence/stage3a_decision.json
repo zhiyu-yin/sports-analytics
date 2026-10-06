@@ -1,0 +1,21 @@
+{
+  "stage3a_classification": "UNRESOLVED \u2014 INSUFFICIENT PRECISION EVIDENCE",
+  "dated_at": "2026-09-28T22:36:24.089254+00:00",
+  "reason": "All available official game MM:SS records match the archive exactly, but the mechanism connecting those game displays to official season decimals is not established. The failed-census distribution is strongly asymmetric.",
+  "criteria": {
+    "A": "supported: all primary integer comparisons exact",
+    "B": "partial: all audited games/time match; precision mechanism not demonstrated",
+    "C": "supported at recorded display/appearance precision; all 15 zero appearances and explicit box DNP/DND classifications retained",
+    "D": "supported: zero eligibility changes in 1510 season comparisons",
+    "E": "partial: small and discrete, but asymmetric; no missing audited games; systematic rounding/aggregation cause remains unproved",
+    "F": "supported: no Stage 3 scientific model fitted"
+  },
+  "amendment_recommended": false,
+  "amendment_applied": false,
+  "new_numeric_tolerance": null,
+  "stage3_part_A": "BLOCKED; prior failure preserved",
+  "stage3_part_B": "DISABLED",
+  "scientific_models_run": false,
+  "rerun_may_be_diagnostic_only": true,
+  "rerun_can_release_part_B": false
+}

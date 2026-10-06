@@ -1,0 +1,18 @@
+{
+  "classification_code": "D",
+  "classification": "RESIDUAL ADEQUACY UNRESOLVED",
+  "selected_candidate": null,
+  "stage3g_authorized": false,
+  "stage3g_purpose": "ESTIMAND REVIEW ONLY",
+  "scientific_effect_release_authorized": false,
+  "scientific_parameter_status": "SEALED",
+  "stage3g_executed": false,
+  "frozen_at": "2026-10-01T00:08:17.383571+00:00",
+  "protocol_sha256": "7d449a74b7414cd21160c81bd1fb133fcc104676a4cfbd8777ffd8938c8f9e08",
+  "I3_prior": true,
+  "I3_sampler": false,
+  "I3_accuracy": null,
+  "I3_opportunity": null,
+  "historical_decisions_unchanged": true,
+  "reason": "I3 sampler failed after its allowed recovery; PPC unassessed"
+}

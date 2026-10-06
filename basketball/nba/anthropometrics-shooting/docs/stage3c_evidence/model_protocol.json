@@ -1,0 +1,170 @@
+{
+  "frozen_at": "2026-09-28T22:58:53.621086+00:00",
+  "primary_panel_sha256": "1c34331385e459ac5da67105658730d31d96c8114bd25fcb3b31cea52f1a1871",
+  "response": "FTM out of FTA",
+  "likelihood": "BetaBinomial(n=FTA, alpha=mu*kappa, beta=(1-mu)*kappa)",
+  "predictors": [
+    "residual_wingspan",
+    "centered_height",
+    "original_combine_position",
+    "season",
+    "player_random_intercept"
+  ],
+  "residualization": {
+    "intercept": 4.574910520685837,
+    "slope": 1.0013410045156863,
+    "refitted": false
+  },
+  "height_center": 77.53028004667445,
+  "height_center_rule": "mean across unique players in primary accounting panel",
+  "residual_scale": "raw inches, no centering",
+  "position_levels": [
+    "C",
+    "C-PF",
+    "PF",
+    "PF-C",
+    "PF-SF",
+    "PG",
+    "PG-SG",
+    "SF",
+    "SF-PF",
+    "SF-SG",
+    "SG",
+    "SG-PG",
+    "SG-SF",
+    "unknown"
+  ],
+  "position_reference": "C",
+  "season_levels": [
+    "2010-11",
+    "2011-12",
+    "2012-13",
+    "2014-15",
+    "2015-16",
+    "2016-17",
+    "2017-18",
+    "2018-19",
+    "2019-20",
+    "2020-21",
+    "2021-22",
+    "2022-23",
+    "2023-24"
+  ],
+  "season_reference": "2010-11",
+  "coding": "reference indicators; full panel adds 2013-14 indicator, same primary height center and priors",
+  "random_effect": "z_player ~ Normal(0,1); u_player=sigma_player*z_player; deterministic numeric-ID indexing includes zero-attempt-only players",
+  "priors": {
+    "beta_0": [
+      "Normal",
+      0,
+      2.5
+    ],
+    "beta_RW": [
+      "Normal",
+      0,
+      0.5
+    ],
+    "beta_H": [
+      "Normal",
+      0,
+      0.5
+    ],
+    "position_effect": [
+      "Normal",
+      0,
+      1
+    ],
+    "season_effect": [
+      "Normal",
+      0,
+      1
+    ],
+    "sigma_player": [
+      "HalfNormal",
+      1
+    ],
+    "log_kappa": [
+      "Normal",
+      3,
+      2
+    ]
+  },
+  "transforms": {
+    "kappa": "exp(log_kappa)",
+    "rho": "1/(1+kappa)"
+  },
+  "sampling": {
+    "chains": 4,
+    "tune": 2000,
+    "draws": 2000,
+    "target_accept": 0.95,
+    "seed": 20260928,
+    "sampler": "PyMC NUTS",
+    "cores": 4,
+    "blas_cores": 1
+  },
+  "recovery": {
+    "max_runs": 1,
+    "tune": 4000,
+    "draws": 4000,
+    "target_accept": 0.99,
+    "trigger": "generic diagnostics only; no scientific posterior inspection before pass",
+    "unchanged": [
+      "formula",
+      "exposure",
+      "priors",
+      "covariates"
+    ]
+  },
+  "diagnostics": {
+    "max_rhat": 1.01,
+    "min_bulk_ess": 400,
+    "min_tail_ess": 400,
+    "min_bfmi": 0.3,
+    "max_divergences": 0,
+    "max_treedepth_hits": 0,
+    "covariance_finite": true,
+    "visual_chain_review_required": true,
+    "key_parameters": "all fixed coefficients including every position/season; sigma_player, log_kappa, kappa, rho"
+  },
+  "prior_predictive": {
+    "draws": 1000,
+    "seed": 20260928,
+    "stop_if": "nonfinite mu, or more than 25% mu below .01, or more than 25% mu above .99; broad remaining support documented",
+    "outcomes_not_examined": true
+  },
+  "credible_interval": "95% equal-tail (2.5th,97.5th percentiles)",
+  "contrast": {
+    "quantiles": "Q25/Q75 across all primary accounting player-seasons, unweighted, linear interpolation",
+    "averaging": "equal weights over positive-FTA player-seasons",
+    "primary": "retain fitted player random intercept per posterior draw",
+    "secondary": "set u=0; reference-player contrast, NOT marginalized over random-effect distribution"
+  },
+  "PPC": {
+    "draws": 1000,
+    "seed": 20260929,
+    "method": "Beta draw then Binomial for each observed positive-FTA row, retaining fitted player effects",
+    "strata": [
+      "1-9",
+      "10-49",
+      "50-99",
+      "100-299",
+      "300+"
+    ],
+    "metrics": [
+      "pooled rate",
+      "FT-rate SD, q05, q50, q95, zero/one fraction",
+      "FTA-stratum rate distribution",
+      "season pooled rates",
+      "SD of player pooled rates",
+      "mean within-player repeated-season rate SD"
+    ],
+    "serious_failure_rule": "pooled rate outside 99% predictive interval OR at least 3 of global rate SD/q05/q50/q95/zero fraction/one fraction outside 99% intervals OR at least one-third of season pooled rates outside 99%; additional visual review before release"
+  },
+  "primary_freeze_before_full": true,
+  "stage3d_authorized": false,
+  "interpretation": "This analysis estimates associations within NBA players with available combine measurements. It does not identify a causal effect of arm length on shooting, because combine participation, NBA selection, role assignment, persistent player differences, shooting opportunity and other factors may jointly affect the observed sample.",
+  "minute_limitation": "Public NBA game-level minute displays and the archived game records agreed at the available whole-second resolution in the audited sample, while small discrepancies remained between summed game displays and NBA season-level decimal minute displays. Because season-level MIN was not the scientific outcome, exposure, or primary model predictor, and because shooting counts and analytical eligibility reconciled, the amended prospective validation protocol treated season-total MIN as an ancillary representation field rather than an exact numerical release gate. The internal NBA aggregation mechanism remains unknown.",
+  "reproduction": "exact numerical summaries from saved trace; seeded refits compared within Monte Carlo uncertainty, not byte-identical traces",
+  "scientific_sign_is_not_execution_gate": true
+}

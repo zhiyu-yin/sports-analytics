@@ -1,0 +1,64 @@
+WARNING (pytensor.configdefaults): g++ not detected!  PyTensor will be unable to compile C-implementations and will default to Python. Performance may be severely degraded. To remove this warning, set PyTensor flags cxx to an empty string.
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l1dcachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l2cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l3cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.optional.neon'. Detail: [errno 1] Operation not permitted
+Initializing NUTS using jitter+adapt_diag...
+/var/folders/m5/rs5t6q1d1x526x8c93h1cxbc0000gn/T/tmp80eh5iqx:51: NumbaPerformanceWarning: np.dot() is faster on contiguous arrays, called on (Array(float64, 2, 'C', True, aligned=True), Array(float64, 1, 'A', False, aligned=True))
+  tensor_variable_27 = dot(tensor_constant_5, tensor_variable_17)
+Multiprocess sampling (4 chains in 4 jobs)
+NUTS: [beta_0, beta_RW, beta_H, position_effect, season_effect, sigma_player, z_player, log_kappa]
+WARNING (pytensor.configdefaults): g++ not detected!  PyTensor will be unable to compile C-implementations and will default to Python. Performance may be severely degraded. To remove this warning, set PyTensor flags cxx to an empty string.
+WARNING (pytensor.configdefaults): g++ not detected!  PyTensor will be unable to compile C-implementations and will default to Python. Performance may be severely degraded. To remove this warning, set PyTensor flags cxx to an empty string.
+WARNING (pytensor.configdefaults): g++ not detected!  PyTensor will be unable to compile C-implementations and will default to Python. Performance may be severely degraded. To remove this warning, set PyTensor flags cxx to an empty string.
+WARNING (pytensor.configdefaults): g++ not detected!  PyTensor will be unable to compile C-implementations and will default to Python. Performance may be severely degraded. To remove this warning, set PyTensor flags cxx to an empty string.
+chain=0 iteration=500 tuning=True
+chain=3 iteration=500 tuning=True
+chain=2 iteration=500 tuning=True
+chain=1 iteration=500 tuning=True
+chain=0 iteration=1000 tuning=True
+chain=3 iteration=1000 tuning=True
+chain=2 iteration=1000 tuning=True
+chain=1 iteration=1000 tuning=True
+chain=0 iteration=1500 tuning=True
+chain=2 iteration=1500 tuning=True
+chain=3 iteration=1500 tuning=True
+chain=0 iteration=2000 tuning=True
+chain=1 iteration=1500 tuning=True
+chain=0 iteration=2500 tuning=False
+chain=2 iteration=2000 tuning=True
+chain=3 iteration=2000 tuning=True
+chain=1 iteration=2000 tuning=True
+chain=0 iteration=3000 tuning=False
+chain=2 iteration=2500 tuning=False
+chain=0 iteration=3500 tuning=False
+chain=1 iteration=2500 tuning=False
+chain=2 iteration=3000 tuning=False
+chain=3 iteration=2500 tuning=False
+chain=0 iteration=4000 tuning=False
+chain=2 iteration=3500 tuning=False
+chain=1 iteration=3000 tuning=False
+chain=3 iteration=3000 tuning=False
+chain=2 iteration=4000 tuning=False
+chain=1 iteration=3500 tuning=False
+chain=1 iteration=4000 tuning=False
+chain=3 iteration=3500 tuning=False
+chain=3 iteration=4000 tuning=False
+Sampling 4 chains for 2_000 tune and 2_000 draw iterations (8_000 + 8_000 draws total) took 456 seconds.
+{
+  "kind": "primary",
+  "attempt": 1,
+  "started_at": "2026-09-28T23:20:01.173247+00:00",
+  "protocol_sha256": "0fc49add517178355ce8b4572de8696864531952500a284eee4eda4c006a64b3",
+  "code_sha256": "00537cfd7230b286c6a819e8de029fbc289a5ad87fbd911b906a5a3f876347eb",
+  "panel_sha256": "1c34331385e459ac5da67105658730d31d96c8114bd25fcb3b31cea52f1a1871",
+  "status": "COMPLETE",
+  "primary_freeze_sha256": null,
+  "backend": "PyTensor NUMBA; PyMC NUTS unchanged",
+  "environment_sha256": "d5988bccdfeb608a8615a87df6149b956f655fb540cc351bac20fa744d4b92f5",
+  "completed_at": "2026-09-28T23:27:54.107433+00:00",
+  "elapsed_seconds": 472.94983970792964,
+  "trace_path": "models/stage3c/primary_attempt1_trace.nc",
+  "trace_sha256": "0694eb7312973f37d315f83a5255995e6778c23770205fd92b052ca71a6b43f5",
+  "trace_bytes": 107972071
+}

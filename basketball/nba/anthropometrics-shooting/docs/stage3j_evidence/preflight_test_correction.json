@@ -1,0 +1,12 @@
+{
+  "recorded_at": "2026-10-01T00:50:16.048002+00:00",
+  "before_any_real_fit": true,
+  "original_protocol_sha256": "d59714dcad0026f3bed707506436555f0e6b67f125d44c76bd84f6f331d737ae",
+  "final_protocol_sha256": "8c2d5908b67018573c655750414cccfa335c37e2dde006a7e8f6ca9fd74bce1d",
+  "changes": [
+    "Synthetic weighted-score test converts pandas Series to NumPy before multidimensional indexing",
+    "Final bootstrap CSV roundtrip comparison uses numerical tolerance rather than bitwise float equality"
+  ],
+  "scientific_protocol_unchanged": true,
+  "estimation_code_unchanged": true
+}

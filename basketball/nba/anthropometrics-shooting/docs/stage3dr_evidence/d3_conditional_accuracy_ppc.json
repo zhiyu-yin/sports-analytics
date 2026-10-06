@@ -1,0 +1,83 @@
+{
+  "candidate": "D3",
+  "replicates": 2000,
+  "seed": 20260929,
+  "scope": "Conditional accuracy at fixed observed attempts",
+  "pooled_rate_99_pass": true,
+  "global_metrics_99_fail_count": 2,
+  "season_rate_99_fail_count": 0,
+  "season_count": 13,
+  "FTA_bin_99_fail_count": 3,
+  "systematic_volume_pattern": true,
+  "gate_pass": false,
+  "pooled_rate": {
+    "metric": "pooled_rate",
+    "observed": 0.7674307555547976,
+    "replicated_mean": 0.7649060134427914,
+    "predictive_99_low": 0.7616450152313264,
+    "predictive_99_high": 0.7681987490913431,
+    "outside_99": false,
+    "MCSE_mean": 3.088744013120146e-05
+  },
+  "bin_checks": [
+    {
+      "metric": "FTA_1-9_pooled",
+      "observed": 0.6840474961280331,
+      "replicated_mean": 0.7186396489416623,
+      "predictive_99_low": 0.6881775942178626,
+      "predictive_99_high": 0.7465178110480123,
+      "outside_99": true,
+      "MCSE_mean": 0.00028841976847888566
+    },
+    {
+      "metric": "FTA_10-49_pooled",
+      "observed": 0.7152835987706063,
+      "replicated_mean": 0.7322126117630623,
+      "predictive_99_low": 0.7238402835987706,
+      "predictive_99_high": 0.7403267323274657,
+      "outside_99": true,
+      "MCSE_mean": 6.698256014135359e-05
+    },
+    {
+      "metric": "FTA_50-99_pooled",
+      "observed": 0.7443223443223443,
+      "replicated_mean": 0.748112967032967,
+      "predictive_99_low": 0.7417167277167277,
+      "predictive_99_high": 0.754578835978836,
+      "outside_99": false,
+      "MCSE_mean": 6.285382144237868e-05
+    },
+    {
+      "metric": "FTA_100-299_pooled",
+      "observed": 0.7663528501418623,
+      "replicated_mean": 0.7626001332645517,
+      "predictive_99_low": 0.7583222637778351,
+      "predictive_99_high": 0.766684549909724,
+      "outside_99": false,
+      "MCSE_mean": 3.0138017710255038e-05
+    },
+    {
+      "metric": "FTA_300+_pooled",
+      "observed": 0.7904419143855763,
+      "replicated_mean": 0.7828566806242863,
+      "predictive_99_low": 0.77614960030453,
+      "predictive_99_high": 0.789306848461778,
+      "outside_99": true,
+      "MCSE_mean": 6.0450943498094227e-05
+    }
+  ],
+  "metrics_outside_99": [
+    "rate_q95",
+    "FTA_1-9_pooled",
+    "FTA_10-49_pooled",
+    "FTA_300+_pooled",
+    "rate_mean"
+  ],
+  "minimum_alpha": 33.552750029547,
+  "minimum_beta": 7.951201310507816,
+  "visual_review": {
+    "reviewed_at": "2026-09-29T01:51:05.254576+00:00",
+    "review_complete": true,
+    "notes": "Three conditional pooled FTA bins miss 99% intervals; low bins overpredicted and high bins underpredicted beyond the frozen MC uncertainty threshold. Global rate mean and Q95 miss intervals; within-player variability is inside. Joint Q25/Q50/Q75 miss intervals while season totals are inside. Zero frequency fails numerically. These checks agree with the frozen gate failures; no rule changed."
+  }
+}

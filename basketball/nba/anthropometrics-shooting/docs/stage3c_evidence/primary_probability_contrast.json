@@ -1,0 +1,66 @@
+{
+  "Q25_inches": -1.1808498774250467,
+  "Q75_inches": 1.8238436383798557,
+  "quantile_population": "all accounting player-seasons in this panel; repeated seasons weight players accordingly",
+  "conditional": {
+    "Q25": {
+      "mean": 0.7605723273042051,
+      "median": 0.76060942651917,
+      "SD": 0.0022617868872595406,
+      "CI95": [
+        0.756126830797812,
+        0.7649516614078271
+      ]
+    },
+    "Q75": {
+      "mean": 0.7389268458661068,
+      "median": 0.7389731228336639,
+      "SD": 0.0024680705339809065,
+      "CI95": [
+        0.7340678912744559,
+        0.7437258274899745
+      ]
+    },
+    "difference_percentage_points": {
+      "mean": -2.1645481438098306,
+      "median": -2.169524912884002,
+      "SD": 0.41929759880076856,
+      "CI95": [
+        -2.98157073006273,
+        -1.3303231635126533
+      ]
+    },
+    "P_difference_negative": 1.0
+  },
+  "zero_random_effect_reference_player": {
+    "Q25": {
+      "mean": 0.7542214149173149,
+      "median": 0.7542792280146234,
+      "SD": 0.003516731816833847,
+      "CI95": [
+        0.7471643169496419,
+        0.7610760675199951
+      ]
+    },
+    "Q75": {
+      "mean": 0.7315774960290621,
+      "median": 0.7315804576257929,
+      "SD": 0.0038921827489280694,
+      "CI95": [
+        0.7238823742567491,
+        0.7392038169641807
+      ]
+    },
+    "difference_percentage_points": {
+      "mean": -2.2643918888252736,
+      "median": -2.268299949081376,
+      "SD": 0.43954262734313043,
+      "CI95": [
+        -3.116515505924052,
+        -1.3903303177582498
+      ]
+    },
+    "P_difference_negative": 1.0
+  },
+  "interpretation": "Adjusted model-based association contrast; equal player-season averaging; zero-random-effect version is not marginalization over a new-player distribution."
+}

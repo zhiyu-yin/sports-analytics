@@ -1,0 +1,13 @@
+{
+  "total_players": 311,
+  "fta_zero": 12,
+  "likelihood_players": 299,
+  "total_fta": 42587,
+  "median_fta": 89.0,
+  "q1_fta": 29.5,
+  "q3_fta": 196.0,
+  "fta_ge_50": 203,
+  "fta_ge_100": 145,
+  "residual_height_correlation": 0.05505731319898143,
+  "residual_sd": 2.1764665456490286
+}

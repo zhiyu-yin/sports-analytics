@@ -1,0 +1,24 @@
+test_01_exact_MM_SS (test_stage3a.Stage3AMinutes) ... ok
+test_02_decimal_minutes (test_stage3a.Stage3AMinutes) ... ok
+test_03_no_MM_dot_SS (test_stage3a.Stage3AMinutes) ... ok
+test_04_noncanonical_carry (test_stage3a.Stage3AMinutes) ... ok
+test_05_parser_100_rows (test_stage3a.Stage3AMinutes) ... ok
+test_06_one_to_one (test_stage3a.Stage3AMinutes) ... ok
+test_07_regular_season_and_dates (test_stage3a.Stage3AMinutes) ... ok
+test_08_no_silent_omission (test_stage3a.Stage3AMinutes) ... ok
+test_09_game_seconds_exact (test_stage3a.Stage3AMinutes) ... ok
+test_10_zero_appearance_retained (test_stage3a.Stage3AMinutes) ... ok
+test_11_DNP_not_zero_or_missing (test_stage3a.Stage3AMinutes) ... ok
+test_12_counts_unchanged_and_exact (test_stage3a.Stage3AMinutes) ... ok
+test_13_frozen_outcome_free_selection (test_stage3a.Stage3AMinutes) ... ok
+test_14_no_max_derived_tolerance (test_stage3a.Stage3AMinutes) ... ok
+test_15_Part_B_disabled (test_stage3a.Stage3AMinutes) ... ok
+test_16_all_prior_artifacts_unchanged (test_stage3a.Stage3AMinutes) ... ok
+test_17_quantization_not_symmetrized (test_stage3a.Stage3AMinutes) ... ok
+test_18_eligibility_unchanged (test_stage3a.Stage3AMinutes) ... ok
+test_19_four_differences_and_separate_routes (test_stage3a.Stage3AMinutes) ... ok
+
+----------------------------------------------------------------------
+Ran 19 tests in 0.854s
+
+OK

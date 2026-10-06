@@ -1,0 +1,41 @@
+{
+  "preselected_players": 45,
+  "successful_official_source_retrievals": 45,
+  "direct_barefoot_observations": 45,
+  "direct_wingspan_observations": 45,
+  "complete_pairs": 45,
+  "exact_pairs": 45,
+  "rounding_consistent_pairs": 0,
+  "conflict_pairs": 0,
+  "official_source_unavailable": 0,
+  "agreement_rate": 1.0,
+  "decision_pending_tests": "PASS",
+  "gate_criteria": {
+    "minimum_30_pairs": true,
+    "agreement_at_least_95_percent": true,
+    "all_era_height_relative_strata": true,
+    "no_unresolved_systematic_discrepancy": true,
+    "substantive_conflicts_reconciled_or_quarantined": true,
+    "reference_population_clean": true
+  },
+  "sample_replacements": 0,
+  "successful_unique_official_historical_tables": 14,
+  "sourcewide_complete_pairs": 965,
+  "sourcewide_rows": 970,
+  "systematic_discrepancy": false,
+  "candidate_coverage": {
+    "direct_official_pair_corroboration": 311
+  },
+  "reference_population": 960,
+  "four_discrepancy_resolutions": {
+    "official_display_confirmed": 4
+  },
+  "scientific_outcomes_loaded": false,
+  "candidate_columns_loaded": [
+    "player_id",
+    "player_name_nba",
+    "season"
+  ],
+  "no_residual_fit": true,
+  "no_effect_estimate": true
+}

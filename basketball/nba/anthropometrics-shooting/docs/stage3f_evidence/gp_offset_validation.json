@@ -1,0 +1,20 @@
+{
+  "panel_rows": 4117,
+  "GP_positive": true,
+  "log_GP_finite": true,
+  "GP_min": 1,
+  "GP_max": 84,
+  "official_GP_comparisons": 1510,
+  "official_GP_exact": true,
+  "panel_rows_with_direct_census_match": 884,
+  "validation_seasons": [
+    "2010-11",
+    "2016-17",
+    "2023-24"
+  ],
+  "scope": "Exact official validation in three previously audited seasons, not a new universal official census.",
+  "offset": "log(games_played)",
+  "coefficient": 1,
+  "minutes_used": false,
+  "eligibility_changed": false
+}

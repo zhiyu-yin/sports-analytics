@@ -1,0 +1,245 @@
+{
+  "frozen_at": "2026-09-29T01:21:52.192578+00:00",
+  "historical_decision_sha256": "52f20a7b35d903177805821649070016b8ee9bc445ed5e79d2eb2102f46dfdbd",
+  "historical_prior": {
+    "a_0": [
+      "Normal",
+      0,
+      2.5
+    ],
+    "a_RW": [
+      "Normal",
+      0,
+      0.5
+    ],
+    "a_H": [
+      "Normal",
+      0,
+      0.5
+    ],
+    "a_position": [
+      "Normal",
+      0,
+      1
+    ],
+    "a_season": [
+      "Normal",
+      0,
+      1
+    ],
+    "alpha_FTA": [
+      "HalfNormal",
+      5
+    ]
+  },
+  "historical_random_effect_prior": {
+    "construction": "LKJCholeskyCov; [u,v]=z @ chol.T; rows=players, columns=[accuracy,opportunity]",
+    "eta": 2,
+    "SD_priors": [
+      "HalfNormal",
+      1
+    ],
+    "noncentered": true
+  },
+  "reason": "User-authorized prospective rate-scale calibration after gross prior failure, with no candidate posterior ever fitted",
+  "no_D3_posterior_existed": true,
+  "scientific_parameter_status": "SEALED_PENDING_STAGE3E",
+  "new_opportunity_priors": {
+    "a_0": [
+      "Normal",
+      0.6931471805599453,
+      1
+    ],
+    "a_RW": [
+      "Normal",
+      0,
+      0.15
+    ],
+    "a_H": [
+      "Normal",
+      0,
+      0.15
+    ],
+    "a_position": [
+      "Normal",
+      0,
+      0.35
+    ],
+    "a_season": [
+      "Normal",
+      0,
+      0.25
+    ],
+    "sigma_opportunity": [
+      "HalfNormal",
+      0.5
+    ],
+    "log_alpha_FTA": [
+      "Normal",
+      0.6931471805599453,
+      1
+    ],
+    "alpha_FTA": "exp(log_alpha_FTA)"
+  },
+  "accuracy_priors": {
+    "intercept": [
+      "Normal",
+      0,
+      2.5
+    ],
+    "residual_wingspan_slope": [
+      "Normal",
+      0,
+      0.5
+    ],
+    "height_slope": [
+      "Normal",
+      0,
+      0.5
+    ],
+    "position": [
+      "Normal",
+      0,
+      1
+    ],
+    "season": [
+      "Normal",
+      0,
+      1
+    ],
+    "log_kappa": [
+      "Normal",
+      3,
+      2
+    ]
+  },
+  "sigma_accuracy": [
+    "HalfNormal",
+    1
+  ],
+  "LKJ_eta": 2,
+  "rate_interpretation": {
+    "baseline_median": 2,
+    "baseline_95_interval": [
+      0.28171684184209,
+      14.198654130313265
+    ],
+    "per_unit_multiplier_at_015": 1.161834242728283,
+    "opportunity_SD_05_multiplier": 1.6487212707001282,
+    "clarification": "Tighter priors reduce exponentiated rate dispersion; they are more regularizing than the original priors. Not fitted to observed FTA quantiles."
+  },
+  "dispersion_interpretation": "Same NB2 likelihood, variance=mu+mu^2/alpha; exponential transform is one-to-one but induces a lognormal prior instead of HalfNormal(5).",
+  "prior_draws": 5000,
+  "seed": 20260928,
+  "prior_gates": {
+    "all_finite_nonnegative_integer": true,
+    "max_fraction_implied_rate_over_100_per_game": 0.01,
+    "max_fraction_simulated_count_over_1000000": 0.001
+  },
+  "PPC": {
+    "draws": 2000,
+    "seed": 20260929,
+    "global_metrics": [
+      "rate_mean",
+      "rate_SD",
+      "rate_q05",
+      "rate_q50",
+      "rate_q95",
+      "rate_zero_fraction",
+      "rate_one_fraction"
+    ],
+    "accuracy_failure_rules": {
+      "pooled_outside_99": true,
+      "global_outside_99_at_least": 3,
+      "season_outside_99_fraction": 0.3333333333333333,
+      "FTA_bin_outside_99_at_least": 2,
+      "systematic_directional_pattern": true
+    },
+    "pattern_definition": "For each bin, bias=replicate mean minus observed. Evidence of direction requires abs(bias)>2.576*MCSE(replica mean), MCSE estimated by 40 consecutive batch means of 50 replicates in chain-major draw order. Both low bins same sign and both high bins opposite sign triggers failure. This is Monte Carlo uncertainty, not posterior predictive interval width.",
+    "joint_failure_rules": {
+      "zero_fraction_outside_99": true,
+      "quantiles": [
+        0.25,
+        0.5,
+        0.75,
+        0.9,
+        0.95
+      ],
+      "quantiles_outside_99_at_least": 3,
+      "season_total_gross_rule": "At least ceil(n_seasons/3) season totals outside 99% predictive intervals in the same direction"
+    },
+    "conditional_accuracy": "Hold observed FTA fixed, using joint posterior",
+    "joint_generation": "Simulate all FTA then FTM conditional on simulated FTA and the same correlated player draw",
+    "opportunity_checks": [
+      "overall distribution",
+      "season distributions/totals",
+      "original-position distributions",
+      "zero fraction",
+      "Q25",
+      "Q50",
+      "Q75",
+      "Q90",
+      "Q95"
+    ],
+    "baseline_policy": "Reuse original 1000 saved D0 replications; no re-evaluation to seek a different baseline outcome"
+  },
+  "diagnostics": {
+    "max_rhat": 1.01,
+    "min_bulk_ESS": 400,
+    "min_tail_ESS": 400,
+    "max_divergences": 0,
+    "max_treedepth_hits": 0,
+    "min_BFMI": 0.3,
+    "finite_covariance": true,
+    "visual_review": true,
+    "sealed_parameter_handling": "Include anonymous convergence diagnostics for the sealed slope; never export its location, scale, interval, sign or posterior probability; no raw trace plot of that parameter"
+  },
+  "sampling": {
+    "D1": {
+      "chains": 4,
+      "tune": 1500,
+      "draws": 1500,
+      "target_accept": 0.95,
+      "seed": 20260928
+    },
+    "D2": {
+      "chains": 4,
+      "tune": 1500,
+      "draws": 1500,
+      "target_accept": 0.95,
+      "seed": 20260928
+    },
+    "D3": {
+      "chains": 4,
+      "tune": 2000,
+      "draws": 2000,
+      "target_accept": 0.95,
+      "seed": 20260928
+    }
+  },
+  "D3_recovery": {
+    "max_runs": 1,
+    "target_accept": 0.99,
+    "tune": 4000,
+    "draws": 4000,
+    "trigger": "Generic sampler diagnostic failure only"
+  },
+  "original_protocol_sha256": "8be5e5b796396ae0edc5d01ba5c1a6b62ceb0928aae6f47d7f0180595b3ea703",
+  "model_code_sha256": "f992b9460aaf7d54ced17ebd77a17991bafdb947535ee19826a071153247a7fe",
+  "panel_sha256": "1c34331385e459ac5da67105658730d31d96c8114bd25fcb3b31cea52f1a1871",
+  "no_observed_FTA_quantile_used": true,
+  "no_further_prior_amendment": true,
+  "unchanged": [
+    "likelihoods",
+    "panel",
+    "exposure",
+    "predictors",
+    "GP_offset",
+    "noncentered_correlated_player_effects",
+    "LKJ_eta",
+    "accuracy_priors",
+    "PPC_gates",
+    "D1",
+    "D2"
+  ]
+}

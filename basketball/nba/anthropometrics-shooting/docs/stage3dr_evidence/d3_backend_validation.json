@@ -1,0 +1,8 @@
+{
+  "checked_at": "2026-09-29T01:27:54.103268+00:00",
+  "gradient_reference_agreement": true,
+  "rtol": 1e-08,
+  "atol": 1e-08,
+  "seconds_per_gradient": 0.0009851999988313765,
+  "no_posterior_parameter_summary": true
+}

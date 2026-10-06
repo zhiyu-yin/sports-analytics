@@ -1,0 +1,5 @@
+{
+  "reviewed_at": "2026-09-29T01:51:05.254576+00:00",
+  "review_complete": true,
+  "notes": "Three conditional pooled FTA bins miss 99% intervals; low bins overpredicted and high bins underpredicted beyond the frozen MC uncertainty threshold. Global rate mean and Q95 miss intervals; within-player variability is inside. Joint Q25/Q50/Q75 miss intervals while season totals are inside. Zero frequency fails numerically. These checks agree with the frozen gate failures; no rule changed."
+}

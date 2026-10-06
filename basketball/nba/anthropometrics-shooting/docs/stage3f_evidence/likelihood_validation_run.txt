@@ -1,0 +1,62 @@
+WARNING (pytensor.configdefaults): g++ not detected!  PyTensor will be unable to compile C-implementations and will default to Python. Performance may be severely degraded. To remove this warning, set PyTensor flags cxx to an empty string.
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l1dcachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l2cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l3cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.optional.neon'. Detail: [errno 1] Operation not permitted
+{
+  "validated_at": "2026-09-29T18:15:07.499410+00:00",
+  "grid_points": 150,
+  "maximum_error_scipy": 1.6552803572267294e-10,
+  "maximum_error_native": 1.687538997430238e-13,
+  "formula": "log NB(y;mu,alpha) - log(-expm1(-alpha*log1p(mu/alpha))), support integers y>=1",
+  "native_backend_limitation": "Pinned PyMC 5.25.1 Truncated NB gradient used NUMBA object-mode ScalarLoop fallback: measured full-model warm gradient 5.40709 seconds. Exact closed-form zero CDF correction avoids this computational limitation, without changing likelihood.",
+  "native_documentation": "https://www.pymc.io/projects/docs/en/v5.24.0/api/distributions/generated/pymc.HurdleNegativeBinomial.html",
+  "random_validation": [
+    {
+      "mu": 0.01,
+      "alpha": 0.5,
+      "mean": 1.01453,
+      "expected_mean": 1.014975246918104,
+      "SE": 0.00039050931447509715,
+      "minimum": 1
+    },
+    {
+      "mu": 2.0,
+      "alpha": 2.0,
+      "mean": 2.66454,
+      "expected_mean": 2.6666666666666665,
+      "SE": 0.005962847939999439,
+      "minimum": 1
+    },
+    {
+      "mu": 20.0,
+      "alpha": 0.5,
+      "mean": 23.7313,
+      "expected_mean": 23.701562118716424,
+      "SE": 0.09402293562606566,
+      "minimum": 1
+    },
+    {
+      "mu": 100.0,
+      "alpha": 10.0,
+      "mean": 99.90197,
+      "expected_mean": 100.00000000385543,
+      "SE": 0.10488088480065696,
+      "minimum": 11
+    }
+  ],
+  "backend": {
+    "F1": {
+      "finite": true,
+      "reference_gradient_equal": true,
+      "compile_and_first_seconds": 11.984439917025156,
+      "warm_gradient_seconds": 0.001285624923184514
+    },
+    "F2": {
+      "finite": true,
+      "reference_gradient_equal": true,
+      "compile_and_first_seconds": 12.974761708988808,
+      "warm_gradient_seconds": 0.0008280830224975944
+    }
+  }
+}

@@ -1,0 +1,371 @@
+{
+  "selected_future_model": "NONE",
+  "stage3e_authorized": false,
+  "scientific_parameter_status": "NOT_AUTHORIZED",
+  "classification": "ADEQUACY UNRESOLVED \u2014 D3 FAILS",
+  "frozen_at": "2026-09-29T00:42:56.490872+00:00",
+  "protocol_hash": "8be5e5b796396ae0edc5d01ba5c1a6b62ceb0928aae6f47d7f0180595b3ea703",
+  "candidate_definitions": {
+    "D0": {
+      "definition": "Exact failed Stage 3C; reuse saved diagnostics/PPC without refitting",
+      "eligible": false
+    },
+    "D1": {
+      "definition": "Stage 3C accuracy mean plus gamma_FTA * centered_log1p_FTA",
+      "eligible": false,
+      "priors": {
+        "shared_accuracy": {
+          "intercept": [
+            "Normal",
+            0,
+            2.5
+          ],
+          "residual_wingspan_slope": [
+            "Normal",
+            0,
+            0.5
+          ],
+          "height_slope": [
+            "Normal",
+            0,
+            0.5
+          ],
+          "position": [
+            "Normal",
+            0,
+            1
+          ],
+          "season": [
+            "Normal",
+            0,
+            1
+          ],
+          "log_kappa": [
+            "Normal",
+            3,
+            2
+          ]
+        },
+        "sigma_player": [
+          "HalfNormal",
+          1
+        ],
+        "gamma_FTA": [
+          "Normal",
+          0,
+          0.5
+        ]
+      },
+      "sampling": {
+        "chains": 4,
+        "tune": 1500,
+        "draws": 1500,
+        "target_accept": 0.95,
+        "seed": 20260928
+      }
+    },
+    "D2": {
+      "definition": "Unchanged Stage 3C accuracy mean; log(kappa_it)=gamma_0 + gamma_k * centered_log1p_FTA",
+      "eligible": false,
+      "priors": {
+        "shared_accuracy": {
+          "intercept": [
+            "Normal",
+            0,
+            2.5
+          ],
+          "residual_wingspan_slope": [
+            "Normal",
+            0,
+            0.5
+          ],
+          "height_slope": [
+            "Normal",
+            0,
+            0.5
+          ],
+          "position": [
+            "Normal",
+            0,
+            1
+          ],
+          "season": [
+            "Normal",
+            0,
+            1
+          ]
+        },
+        "sigma_player": [
+          "HalfNormal",
+          1
+        ],
+        "gamma_0": [
+          "Normal",
+          3,
+          2
+        ],
+        "gamma_k": [
+          "Normal",
+          0,
+          0.5
+        ]
+      },
+      "sampling": {
+        "chains": 4,
+        "tune": 1500,
+        "draws": 1500,
+        "target_accept": 0.95,
+        "seed": 20260928
+      }
+    },
+    "D3": {
+      "definition": "Joint NegativeBinomial FTA with fixed log(GP) offset and BetaBinomial FTM|FTA; correlated non-centered player opportunity/accuracy intercepts",
+      "eligible": true,
+      "accuracy_rows": 3980,
+      "opportunity_rows": 4117,
+      "accuracy_priors": {
+        "intercept": [
+          "Normal",
+          0,
+          2.5
+        ],
+        "residual_wingspan_slope": [
+          "Normal",
+          0,
+          0.5
+        ],
+        "height_slope": [
+          "Normal",
+          0,
+          0.5
+        ],
+        "position": [
+          "Normal",
+          0,
+          1
+        ],
+        "season": [
+          "Normal",
+          0,
+          1
+        ],
+        "log_kappa": [
+          "Normal",
+          3,
+          2
+        ]
+      },
+      "opportunity_priors": {
+        "a_0": [
+          "Normal",
+          0,
+          2.5
+        ],
+        "a_RW": [
+          "Normal",
+          0,
+          0.5
+        ],
+        "a_H": [
+          "Normal",
+          0,
+          0.5
+        ],
+        "a_position": [
+          "Normal",
+          0,
+          1
+        ],
+        "a_season": [
+          "Normal",
+          0,
+          1
+        ],
+        "alpha_FTA": [
+          "HalfNormal",
+          5
+        ]
+      },
+      "random_effects": {
+        "construction": "LKJCholeskyCov; [u,v]=z @ chol.T; rows=players, columns=[accuracy,opportunity]",
+        "eta": 2,
+        "SD_priors": [
+          "HalfNormal",
+          1
+        ],
+        "noncentered": true
+      },
+      "sampling": {
+        "chains": 4,
+        "tune": 2000,
+        "draws": 2000,
+        "target_accept": 0.95,
+        "seed": 20260928
+      },
+      "recovery": {
+        "max_runs": 1,
+        "target_accept": 0.99,
+        "tune": 4000,
+        "draws": 4000,
+        "trigger": "Generic sampler diagnostic failure only"
+      }
+    }
+  },
+  "stop_phase": "PRIOR_PREDICTIVE",
+  "reason": "D3 opportunity prior fails both prospectively frozen gross-scale limits; user-required stop before outcome posterior fitting",
+  "D0_adequacy_status": {
+    "model": "D0 Stage3C baseline",
+    "sampler_pass": true,
+    "pooled_rate_99_pass": false,
+    "global_metrics_99_fail_count": 2,
+    "season_rate_99_fail_count": 0,
+    "FTA_bin_99_fail_count": 4,
+    "systematic_volume_pattern": true,
+    "joint_FTA_PPC_pass": null,
+    "overall_adequacy": false,
+    "eligible_for_Stage3E": false,
+    "assessment_status": "SAVED_FAILED_PPC"
+  },
+  "D1_adequacy_status": {
+    "model": "D1 mean-volume diagnostic",
+    "sampler_pass": null,
+    "pooled_rate_99_pass": null,
+    "global_metrics_99_fail_count": null,
+    "season_rate_99_fail_count": null,
+    "FTA_bin_99_fail_count": null,
+    "systematic_volume_pattern": null,
+    "joint_FTA_PPC_pass": null,
+    "overall_adequacy": false,
+    "eligible_for_Stage3E": false,
+    "assessment_status": "NOT_FITTED_GLOBAL_PRIOR_STOP"
+  },
+  "D2_adequacy_status": {
+    "model": "D2 dispersion-volume diagnostic",
+    "sampler_pass": null,
+    "pooled_rate_99_pass": null,
+    "global_metrics_99_fail_count": null,
+    "season_rate_99_fail_count": null,
+    "FTA_bin_99_fail_count": null,
+    "systematic_volume_pattern": null,
+    "joint_FTA_PPC_pass": null,
+    "overall_adequacy": false,
+    "eligible_for_Stage3E": false,
+    "assessment_status": "NOT_FITTED_GLOBAL_PRIOR_STOP"
+  },
+  "D3_adequacy_status": {
+    "model": "D3 joint opportunity-accuracy",
+    "sampler_pass": null,
+    "pooled_rate_99_pass": null,
+    "global_metrics_99_fail_count": null,
+    "season_rate_99_fail_count": null,
+    "FTA_bin_99_fail_count": null,
+    "systematic_volume_pattern": null,
+    "joint_FTA_PPC_pass": null,
+    "overall_adequacy": false,
+    "eligible_for_Stage3E": false,
+    "assessment_status": "PRIOR_OPPORTUNITY_GATE_FAILED"
+  },
+  "D1_gamma_FTA_summary": null,
+  "D2_gamma_k_summary": null,
+  "D3_corr_uv_summary": null,
+  "D3_opportunity_model_summary": {
+    "prior_predictive": {
+      "all_finite": true,
+      "nonnegative_integer": true,
+      "fraction_implied_rate_over_100_per_game": 0.09317160553801311,
+      "fraction_simulated_count_over_1000000": 0.0032339081855720184,
+      "implied_rate_quantiles": {
+        "0.5": 0.9679185852158346,
+        "0.9": 86.59976072790025,
+        "0.95": 326.910750785163,
+        "0.99": 4451.380583755203,
+        "0.999": 124793.4198838891
+      },
+      "simulated_count_quantiles": {
+        "0.25": 2.0,
+        "0.5": 28.0,
+        "0.75": 349.0,
+        "0.9": 3305.0,
+        "0.95": 13065.0,
+        "0.99": 188565.01999999955,
+        "0.999": 5431301.258000534
+      },
+      "maximum_simulated_count": 556450518430,
+      "maximum_implied_rate": 4064968782.3886065,
+      "acceptable": false
+    },
+    "posterior": null
+  },
+  "all_PPC_gate_fields": [
+    {
+      "model": "D0 Stage3C baseline",
+      "sampler_pass": true,
+      "pooled_rate_99_pass": false,
+      "global_metrics_99_fail_count": 2,
+      "season_rate_99_fail_count": 0,
+      "FTA_bin_99_fail_count": 4,
+      "systematic_volume_pattern": true,
+      "joint_FTA_PPC_pass": null,
+      "overall_adequacy": false,
+      "eligible_for_Stage3E": false,
+      "assessment_status": "SAVED_FAILED_PPC"
+    },
+    {
+      "model": "D1 mean-volume diagnostic",
+      "sampler_pass": null,
+      "pooled_rate_99_pass": null,
+      "global_metrics_99_fail_count": null,
+      "season_rate_99_fail_count": null,
+      "FTA_bin_99_fail_count": null,
+      "systematic_volume_pattern": null,
+      "joint_FTA_PPC_pass": null,
+      "overall_adequacy": false,
+      "eligible_for_Stage3E": false,
+      "assessment_status": "NOT_FITTED_GLOBAL_PRIOR_STOP"
+    },
+    {
+      "model": "D2 dispersion-volume diagnostic",
+      "sampler_pass": null,
+      "pooled_rate_99_pass": null,
+      "global_metrics_99_fail_count": null,
+      "season_rate_99_fail_count": null,
+      "FTA_bin_99_fail_count": null,
+      "systematic_volume_pattern": null,
+      "joint_FTA_PPC_pass": null,
+      "overall_adequacy": false,
+      "eligible_for_Stage3E": false,
+      "assessment_status": "NOT_FITTED_GLOBAL_PRIOR_STOP"
+    },
+    {
+      "model": "D3 joint opportunity-accuracy",
+      "sampler_pass": null,
+      "pooled_rate_99_pass": null,
+      "global_metrics_99_fail_count": null,
+      "season_rate_99_fail_count": null,
+      "FTA_bin_99_fail_count": null,
+      "systematic_volume_pattern": null,
+      "joint_FTA_PPC_pass": null,
+      "overall_adequacy": false,
+      "eligible_for_Stage3E": false,
+      "assessment_status": "PRIOR_OPPORTUNITY_GATE_FAILED"
+    }
+  ],
+  "prior_checks": {
+    "D1": true,
+    "D2": true,
+    "D3": false
+  },
+  "posterior_fits": 0,
+  "posthoc_model_changes": false,
+  "scientific_effect_accessed": false,
+  "classification_qualification": "D3 failed its prior-predictive prerequisite; posterior adequacy was not evaluated. This is not evidence that every possible prior for this joint structure would fail.",
+  "selection_input_schema": [
+    "prior_pass",
+    "sampler_pass",
+    "conditional_accuracy_pass",
+    "joint_opportunity_pass",
+    "no_posthoc_change",
+    "firewall_intact"
+  ],
+  "selection_code_sha256": "8768edc64079ac70ed396dc53c447a19292484d677f0abe79e1c917e891da918"
+}

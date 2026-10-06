@@ -1,0 +1,19 @@
+{
+  "part_b_authorized": true,
+  "authorized_at": "2026-09-28T22:48:00.667727+00:00",
+  "gate_classification": "PASS UNDER AMENDED PROTOCOL",
+  "gate_sha256": "2b26cd3661724a83dbf3fb7157cff888702d192bafc10ae4f9528cdadd3a1731",
+  "protocol_sha256": "6c6c1af1beabe68e68b6d6ed8bf973244867dbc403647a40033eeced0d848230",
+  "release_receipt_sha256": "efcf109db0ef94f6a4c673504147e2cf4c5974d47645c68dadcc0cc070155e4d",
+  "part_b_started": false,
+  "execution_in_stage3b_prohibited": true,
+  "authorization_scope": "Future Stage 3 Part B only; no model executes in Stage 3B",
+  "mandatory_provenance_chain": [
+    "docs/stage3_evidence/multi_season_source_validation.json",
+    "docs/stage3a_evidence/stage3a_decision.json",
+    "docs/stage3b_evidence/amended_source_validation_protocol.json",
+    "docs/stage3b_evidence/amended_gate_decision.json"
+  ],
+  "mandatory_limitation": "Public NBA game-level minute displays and the archived game records agreed at the available whole-second resolution in the audited sample, while small discrepancies remained between summed game displays and NBA season-level decimal minute displays. Because season-level MIN was not the scientific outcome, exposure, or primary model predictor, and because shooting counts and analytical eligibility reconciled, the amended prospective validation protocol treated season-total MIN as an ancillary representation field rather than an exact numerical release gate. The internal NBA aggregation mechanism remains unknown.",
+  "no_association_before_authorization": true
+}

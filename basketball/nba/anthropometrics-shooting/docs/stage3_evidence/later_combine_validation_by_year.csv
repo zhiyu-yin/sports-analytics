@@ -1,0 +1,10 @@
+year,archive_rows,official_rows,complete_pairs,exact_pairs,rounding_pairs,corrected_pairs,conflicts,missing_official_pairs,unmatched_names,quarantined
+2014,56,56,56,56,0,0,0,0,0,0
+2015,58,58,58,58,0,0,0,0,0,0
+2016,56,56,56,56,0,0,0,0,0,0
+2017,64,64,63,63,0,0,0,1,0,1
+2018,69,69,69,69,0,0,0,0,0,0
+2019,77,77,70,66,0,4,4,7,0,7
+2020,45,45,45,45,0,0,0,0,0,0
+2021,74,74,65,65,0,0,0,9,0,9
+2022,83,83,61,61,0,0,0,22,0,22

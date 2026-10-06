@@ -1,0 +1,10 @@
+{
+  "frozen_at": "2026-10-01T01:23:38.348215+00:00",
+  "R0": "Exact existing Stage 2 L-BFGS-B, analytic score, existing sample-specific scaling, original GLM beta starts and kappa 10,50,200. Reference only.",
+  "R1": "Always polish each of the three R0 endpoints using scipy Newton-CG, original objective/analytic score, independently verified trigamma Hessian; maxiter 200, xtol 1e-10.",
+  "R2": "For an R1 endpoint that fails the unchanged acceptance gate, scipy root hybr solves the same likelihood score equations from that same original R0 endpoint, analytic observed information Jacobian, xtol 1e-10, maxfev 500. Positive observed information subsequently required; this adds no penalty.",
+  "R3": "If R2 fails, scipy trust-exact from the same original R0 endpoint, same objective/score/Hessian, gtol 1e-7, maxiter 200.",
+  "selection": "First passing numerical method in fixed order per original start; all three starts must pass. Select greatest finite likelihood among three accepted starts only, never target coefficient. No methods after R4.",
+  "uniform_final": "R0 followed by the same R1/R2/R3/R4 algorithm for every one of 2000 samples, always run R1 even if R0 passed; no reuse of old fitted coefficients as final estimates.",
+  "R4": "Only if R1/R2/R3 fail, scipy root(method=lm) solves the same score=0 equations from the same original R0 endpoint, with the validated observed-information Jacobian; ftol=xtol=gtol=1e-12, maxiter=500. Numerical Levenberg-Marquardt damping acts in the equation solver, not as a statistical penalty or modified likelihood. Require solver success plus all unchanged score, boundary, multi-start, Hessian and covariance gates."
+}

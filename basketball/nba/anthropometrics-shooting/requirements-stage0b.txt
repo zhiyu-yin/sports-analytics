@@ -1,0 +1,3 @@
+# Stage 0B PDF extraction and frozen Parquet only; Stage 0 remains stdlib-only.
+pypdf==6.10.0
+pyarrow==21.0.0

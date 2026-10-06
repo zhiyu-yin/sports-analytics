@@ -1,0 +1,22 @@
+{
+  "kind": "primary",
+  "diagnostic_gate": true,
+  "PPC_serious_failure": true,
+  "PPC_outside_99": [
+    "pooled_rate",
+    "rate_q95",
+    "rate_one_fraction",
+    "FTA_1-9_pooled",
+    "FTA_1-9_one_fraction",
+    "FTA_10-49_pooled",
+    "FTA_50-99_q95",
+    "FTA_100-299_pooled",
+    "FTA_300+_pooled"
+  ],
+  "scientific_summary": "written; primary result awaits PPC review/freeze"
+}
+WARNING (pytensor.configdefaults): g++ not detected!  PyTensor will be unable to compile C-implementations and will default to Python. Performance may be severely degraded. To remove this warning, set PyTensor flags cxx to an empty string.
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l1dcachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l2cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l3cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.optional.neon'. Detail: [errno 1] Operation not permitted

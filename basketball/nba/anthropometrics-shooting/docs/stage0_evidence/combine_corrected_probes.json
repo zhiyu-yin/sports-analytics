@@ -1,0 +1,104 @@
+[
+  {
+    "source": "draftcombineplayeranthro",
+    "url": "https://stats.nba.com/stats/draftcombineplayeranthro?LeagueID=00&SeasonYear=2000",
+    "parameters": {
+      "LeagueID": "00",
+      "SeasonYear": "2000"
+    },
+    "retrieved_at": "2026-09-28T18:55:02.005472+00:00",
+    "sha256": null,
+    "raw_path": null,
+    "transport_exit": 28,
+    "error": "curl: (28) Operation timed out after 15006 milliseconds with 0 bytes received\n",
+    "bytes": 0,
+    "status": "unavailable",
+    "parse_error": "Expecting value: line 1 column 1 (char 0)",
+    "tables": null
+  },
+  {
+    "source": "draftcombineplayeranthro",
+    "url": "https://stats.nba.com/stats/draftcombineplayeranthro?LeagueID=00&SeasonYear=2009",
+    "parameters": {
+      "LeagueID": "00",
+      "SeasonYear": "2009"
+    },
+    "retrieved_at": "2026-09-28T18:55:02.005706+00:00",
+    "sha256": null,
+    "raw_path": null,
+    "transport_exit": 28,
+    "error": "curl: (28) Operation timed out after 15006 milliseconds with 0 bytes received\n",
+    "bytes": 0,
+    "status": "unavailable",
+    "parse_error": "Expecting value: line 1 column 1 (char 0)",
+    "tables": null
+  },
+  {
+    "source": "draftcombineplayeranthro",
+    "url": "https://stats.nba.com/stats/draftcombineplayeranthro?LeagueID=00&SeasonYear=2013",
+    "parameters": {
+      "LeagueID": "00",
+      "SeasonYear": "2013"
+    },
+    "retrieved_at": "2026-09-28T18:55:17.028443+00:00",
+    "sha256": null,
+    "raw_path": null,
+    "transport_exit": 28,
+    "error": "curl: (28) Operation timed out after 15003 milliseconds with 0 bytes received\n",
+    "bytes": 0,
+    "status": "unavailable",
+    "parse_error": "Expecting value: line 1 column 1 (char 0)",
+    "tables": null
+  },
+  {
+    "source": "draftcombineplayeranthro",
+    "url": "https://stats.nba.com/stats/draftcombineplayeranthro?LeagueID=00&SeasonYear=2022",
+    "parameters": {
+      "LeagueID": "00",
+      "SeasonYear": "2022"
+    },
+    "retrieved_at": "2026-09-28T18:55:17.029227+00:00",
+    "sha256": null,
+    "raw_path": null,
+    "transport_exit": 28,
+    "error": "curl: (28) Operation timed out after 15002 milliseconds with 0 bytes received\n",
+    "bytes": 0,
+    "status": "unavailable",
+    "parse_error": "Expecting value: line 1 column 1 (char 0)",
+    "tables": null
+  },
+  {
+    "source": "draftcombineplayeranthro",
+    "url": "https://stats.nba.com/stats/draftcombineplayeranthro?LeagueID=00&SeasonYear=2025",
+    "parameters": {
+      "LeagueID": "00",
+      "SeasonYear": "2025"
+    },
+    "retrieved_at": "2026-09-28T18:55:32.059564+00:00",
+    "sha256": null,
+    "raw_path": null,
+    "transport_exit": 28,
+    "error": "curl: (28) Operation timed out after 15002 milliseconds with 0 bytes received\n",
+    "bytes": 0,
+    "status": "unavailable",
+    "parse_error": "Expecting value: line 1 column 1 (char 0)",
+    "tables": null
+  },
+  {
+    "source": "draftcombineplayeranthro",
+    "url": "https://stats.nba.com/stats/draftcombineplayeranthro?LeagueID=00&SeasonYear=2026",
+    "parameters": {
+      "LeagueID": "00",
+      "SeasonYear": "2026"
+    },
+    "retrieved_at": "2026-09-28T18:55:32.060770+00:00",
+    "sha256": null,
+    "raw_path": null,
+    "transport_exit": 28,
+    "error": "curl: (28) Operation timed out after 15003 milliseconds with 0 bytes received\n",
+    "bytes": 0,
+    "status": "unavailable",
+    "parse_error": "Expecting value: line 1 column 1 (char 0)",
+    "tables": null
+  }
+]

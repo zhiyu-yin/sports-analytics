@@ -1,0 +1,17 @@
+{
+  "status": "RELEASED_AFTER_NUMERICAL_DECISION",
+  "generated_at": "2026-10-01T01:34:11.362737+00:00",
+  "decision_sha256": "3151a7cc931ad1ed5f8777130e6dca39eb85b738e96f7fb6ba9ff1c95215fdb8",
+  "replicates": 2000,
+  "successful": 2000,
+  "failed": 0,
+  "mean": -0.03395475357971164,
+  "SD": 0.008682941139347759,
+  "percentile_CI": [
+    -0.0504424509753622,
+    -0.017015686051392698
+  ],
+  "fraction_beta_negative": 1.0,
+  "percentile_method": "linear",
+  "J2_secondary_only": true
+}

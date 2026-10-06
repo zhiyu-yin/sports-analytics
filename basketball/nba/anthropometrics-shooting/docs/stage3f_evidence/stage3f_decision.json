@@ -1,0 +1,61 @@
+{
+  "classification": "STRUCTURAL ADEQUACY UNRESOLVED",
+  "candidate_scientific_model_status": "REQUIRES_ESTIMAND_REVIEW",
+  "scientific_parameter_status": "SEALED",
+  "scientific_inference_authorized": false,
+  "stage3e_authorized": false,
+  "stage3g_required_for_estimand_review": true,
+  "stage3g_executed": false,
+  "frozen_at": "2026-09-29T20:11:46.418809+00:00",
+  "protocol_sha256": "197054dc1b33fff8d320dcfbf48efe6d31d69a09b7a3153ed837e10f26ee41e6",
+  "prior_pass": true,
+  "firewall_intact": true,
+  "protocol_tests_passed": true,
+  "comparison": [
+    {
+      "candidate": "F0",
+      "sampler_pass": true,
+      "conditional_accuracy_pass": false,
+      "joint_opportunity_pass": false,
+      "accuracy_assessment_status": "EVALUATED",
+      "opportunity_assessment_status": "EVALUATED",
+      "FTA_bin_fail_count": 3,
+      "systematic_low_high_pattern": true,
+      "zero_frequency_pass": false,
+      "FTA_quantile_fail_count": 3,
+      "positive_quantile_fail_count": null,
+      "scientific_inference_authorized": false
+    },
+    {
+      "candidate": "F1",
+      "sampler_pass": true,
+      "conditional_accuracy_pass": false,
+      "joint_opportunity_pass": false,
+      "accuracy_assessment_status": "EVALUATED",
+      "opportunity_assessment_status": "EVALUATED",
+      "FTA_bin_fail_count": 3,
+      "systematic_low_high_pattern": true,
+      "zero_frequency_pass": true,
+      "FTA_quantile_fail_count": 2,
+      "positive_quantile_fail_count": 2,
+      "scientific_inference_authorized": false
+    },
+    {
+      "candidate": "F2",
+      "sampler_pass": false,
+      "conditional_accuracy_pass": false,
+      "joint_opportunity_pass": false,
+      "accuracy_assessment_status": "NOT_RUN_FAILED_SAMPLER_GATE",
+      "opportunity_assessment_status": "NOT_RUN_FAILED_SAMPLER_GATE",
+      "FTA_bin_fail_count": null,
+      "systematic_low_high_pattern": null,
+      "zero_frequency_pass": null,
+      "FTA_quantile_fail_count": null,
+      "positive_quantile_fail_count": null,
+      "scientific_inference_authorized": false
+    }
+  ],
+  "selection_function_sha256": "56ea2e963ffb36caf8507838f5aab313bf9f9f88c0067915578352a688b9669a",
+  "no_posthoc_structure_or_prior_change": true,
+  "prior_decisions_preserved": true
+}

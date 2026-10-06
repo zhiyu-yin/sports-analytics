@@ -1,0 +1,21 @@
+{
+  "candidate": "F2",
+  "attempt": 1,
+  "started_at": "2026-09-29T18:41:29.494978+00:00",
+  "settings": {
+    "chains": 4,
+    "tune": 2000,
+    "draws": 2000,
+    "target_accept": 0.95,
+    "seed": 20260928
+  },
+  "protocol_sha256": "197054dc1b33fff8d320dcfbf48efe6d31d69a09b7a3153ed837e10f26ee41e6",
+  "model_code_sha256": "ed5b1246c89faf77de23898bff5b4641949ab00fd8b75f11f6966a0eeb59a295",
+  "sampling_code_sha256": "bdab8d953473730a041fad39673d2835162a06a20377fd2b5c3674664ef79e8b",
+  "status": "COMPLETE",
+  "backend": "PyMC NUTS / PyTensor NUMBA / spawn / one BLAS thread",
+  "completed_at": "2026-09-29T19:02:19.069643+00:00",
+  "elapsed_seconds": 1249.5784230419667,
+  "trace_sha256": "aec46c4a1695f66863ac7c50af89af3acae8a8ed4b387dc780d0c62d05bcc178",
+  "trace_bytes": 323958714
+}

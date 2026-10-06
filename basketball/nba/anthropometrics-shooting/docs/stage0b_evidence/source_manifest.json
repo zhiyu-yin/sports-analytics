@@ -1,0 +1,551 @@
+{
+  "sources": [
+    {
+      "role": "combine_archive",
+      "source": "Secondary NBA-derived archive: ianstack",
+      "url": "https://raw.githubusercontent.com/ianstack/NBA-Draft-Combine-Analysis/3422f3003b6a37d7aabdec94d8d8bd7da1e71f04/data/nba_draft_data.csv",
+      "parameters": {
+        "revision": "3422f3003b6a37d7aabdec94d8d8bd7da1e71f04",
+        "file": "nba_draft_data.csv"
+      },
+      "retrieved_at": "2026-09-28T18:56:12.094659+00:00",
+      "sha256": "3e96ee46de3a11bb2ddca9a615087ee34a9f3997baf332301125385af1338c92",
+      "raw_path": "data/raw/3e96ee46de3a11bb2ddca9a615087ee34a9f3997baf332301125385af1338c92.payload",
+      "transport_exit": 0,
+      "error": "",
+      "bytes": 260623
+    },
+    {
+      "role": "shooting_archive",
+      "source": "Secondary NBA-shaped box-score archive: NocturneBear",
+      "url": "https://raw.githubusercontent.com/NocturneBear/NBA-Data-2010-2024/a5f108b5b1f08074d78b9e8e901926a9ce4c06c5/regular_season_box_scores_2010_2024_part_1.csv",
+      "parameters": {
+        "revision": "a5f108b5b1f08074d78b9e8e901926a9ce4c06c5",
+        "file": "regular_season_box_scores_2010_2024_part_1.csv"
+      },
+      "retrieved_at": "2026-09-28T18:55:19.652355+00:00",
+      "sha256": "ca9636d08c577e3d752f69e32f90b173f4c3374c15f4dc8494b655049fdfc557",
+      "raw_path": "data/raw/ca9636d08c577e3d752f69e32f90b173f4c3374c15f4dc8494b655049fdfc557.payload",
+      "transport_exit": 0,
+      "error": "",
+      "bytes": 22567190
+    },
+    {
+      "role": "shooting_archive",
+      "source": "Secondary NBA-shaped box-score archive: NocturneBear",
+      "url": "https://raw.githubusercontent.com/NocturneBear/NBA-Data-2010-2024/a5f108b5b1f08074d78b9e8e901926a9ce4c06c5/regular_season_box_scores_2010_2024_part_2.csv",
+      "parameters": {
+        "revision": "a5f108b5b1f08074d78b9e8e901926a9ce4c06c5",
+        "file": "regular_season_box_scores_2010_2024_part_2.csv"
+      },
+      "retrieved_at": "2026-09-28T18:56:02.372060+00:00",
+      "sha256": "5643af8a9f15ce3540dced759375ca79e77c71644e23270136f23b7a57fc182d",
+      "raw_path": "data/raw/5643af8a9f15ce3540dced759375ca79e77c71644e23270136f23b7a57fc182d.payload",
+      "transport_exit": 0,
+      "error": "",
+      "bytes": 22717782
+    },
+    {
+      "role": "shooting_archive",
+      "source": "Secondary NBA-shaped box-score archive: NocturneBear",
+      "url": "https://raw.githubusercontent.com/NocturneBear/NBA-Data-2010-2024/a5f108b5b1f08074d78b9e8e901926a9ce4c06c5/regular_season_box_scores_2010_2024_part_3.csv",
+      "parameters": {
+        "revision": "a5f108b5b1f08074d78b9e8e901926a9ce4c06c5",
+        "file": "regular_season_box_scores_2010_2024_part_3.csv"
+      },
+      "retrieved_at": "2026-09-28T18:56:02.372285+00:00",
+      "sha256": "65a01fee3df865a272e578cf4b365dce7dbc62eef2ce6f15f0844cf6694ef375",
+      "raw_path": "data/raw/65a01fee3df865a272e578cf4b365dce7dbc62eef2ce6f15f0844cf6694ef375.payload",
+      "transport_exit": 0,
+      "error": "",
+      "bytes": 22493295
+    },
+    {
+      "source": "Official prospect: Tristan Thompson",
+      "url": "https://www.nba.com/draft/2011/prospects/tristan-thompson",
+      "retrieval_timestamp": "2026-09-28T19:21:42.421681+00:00",
+      "http_status": 200,
+      "transport_exit": 0,
+      "error": "",
+      "raw_sha256": "08498fefaad34cdc3609388c0bddb0200a41c14837c94465673313d7521475c2",
+      "raw_path": "data/raw/stage0b/08498fefaad34cdc3609388c0bddb0200a41c14837c94465673313d7521475c2.payload",
+      "bytes": 334336
+    },
+    {
+      "source": "Official prospect: Ruben Douglas",
+      "url": "https://www.nba.com/draft/2003/prospects/ruben-douglas",
+      "retrieval_timestamp": "2026-09-28T19:21:40.566219+00:00",
+      "http_status": 200,
+      "transport_exit": 0,
+      "error": "",
+      "raw_sha256": "c4fee2ebc7c47c2bf12884ad7f2dc0de0de595ada75a5736c6b5ae7e9d94db92",
+      "raw_path": "data/raw/stage0b/c4fee2ebc7c47c2bf12884ad7f2dc0de0de595ada75a5736c6b5ae7e9d94db92.payload",
+      "bytes": 224228
+    },
+    {
+      "source": "Official prospect: Javaris Crittenton",
+      "url": "https://www.nba.com/draft/2007/prospects/javaris-crittenton",
+      "retrieval_timestamp": "2026-09-28T19:21:40.033354+00:00",
+      "http_status": 200,
+      "transport_exit": 0,
+      "error": "",
+      "raw_sha256": "58e620bb0e648433f9b38b713467c290dda90c0cbde9fca122dbc2b0047ad7a7",
+      "raw_path": "data/raw/stage0b/58e620bb0e648433f9b38b713467c290dda90c0cbde9fca122dbc2b0047ad7a7.payload",
+      "bytes": 224238
+    },
+    {
+      "source": "NBA-authored 2013 combine PDF, independent secondary mirror",
+      "url": "https://www.thehrr.com/PDF/nba/mediacentral.nba.com_media_mediacentral_051713-2013-NBA-Draft-Combine-Anthropometric-Results.pdf",
+      "retrieval_timestamp": "2026-09-28T19:25:41.648006+00:00",
+      "http_status": 200,
+      "transport_exit": 0,
+      "error": "",
+      "raw_sha256": "9fa9c060ada7fe020b0d84a4bc2bb63b09c7af43072acd0badb110de357a2efe",
+      "raw_path": "data/raw/stage0b/9fa9c060ada7fe020b0d84a4bc2bb63b09c7af43072acd0badb110de357a2efe.payload",
+      "bytes": 23135
+    },
+    {
+      "source": "Official prospect: Daniel Gafford",
+      "url": "https://www.nba.com/draft/2019/prospects/daniel-gafford",
+      "retrieval_timestamp": "2026-09-28T19:21:44.871258+00:00",
+      "http_status": 200,
+      "transport_exit": 0,
+      "error": "",
+      "raw_sha256": "4ab3df49526c6b6e40c34a88d3246f3000fcfd17ae6d98e04189947200973aa5",
+      "raw_path": "data/raw/stage0b/4ab3df49526c6b6e40c34a88d3246f3000fcfd17ae6d98e04189947200973aa5.payload",
+      "bytes": 334336
+    },
+    {
+      "source": "Official prospect: Chris Wilcox",
+      "url": "https://www.nba.com/draft/2002/prospects/chris-wilcox",
+      "retrieval_timestamp": "2026-09-28T19:21:40.681494+00:00",
+      "http_status": 200,
+      "transport_exit": 0,
+      "error": "",
+      "raw_sha256": "7a136b9e1a5755a6e0e2e3cbf8f359cabff8b0dd6074117bc358539109089c0c",
+      "raw_path": "data/raw/stage0b/7a136b9e1a5755a6e0e2e3cbf8f359cabff8b0dd6074117bc358539109089c0c.payload",
+      "bytes": 224226
+    },
+    {
+      "source": "Official prospect: R.J. Hunter",
+      "url": "https://www.nba.com/draft/2015/prospects/rj-hunter",
+      "retrieval_timestamp": "2026-09-28T19:21:43.861687+00:00",
+      "http_status": 200,
+      "transport_exit": 0,
+      "error": "",
+      "raw_sha256": "d392a985f990dbe03f3dfa7758bc1810f6493b32877d7a173c144ee5593cf693",
+      "raw_path": "data/raw/stage0b/d392a985f990dbe03f3dfa7758bc1810f6493b32877d7a173c144ee5593cf693.payload",
+      "bytes": 334336
+    },
+    {
+      "source": "combine_2013_stats",
+      "url": "https://stats.nba.com/stats/draftcombineplayeranthro?LeagueID=00&SeasonYear=2013",
+      "retrieval_timestamp": "2026-09-28T19:20:32.842002+00:00",
+      "http_status": 0,
+      "transport_exit": 56,
+      "error": "curl: (56) Recv failure: Operation timed out",
+      "raw_sha256": null,
+      "raw_path": null,
+      "bytes": 0
+    },
+    {
+      "source": "Official prospect: Brice Johnson",
+      "url": "https://www.nba.com/draft/2016/prospects/brice-johnson",
+      "retrieval_timestamp": "2026-09-28T19:21:43.432824+00:00",
+      "http_status": 200,
+      "transport_exit": 0,
+      "error": "",
+      "raw_sha256": "0b5e8ca56497bd9f5d2b6cf77b88ae92fd907bc49f1f4e817c758a78c227bef6",
+      "raw_path": "data/raw/stage0b/0b5e8ca56497bd9f5d2b6cf77b88ae92fd907bc49f1f4e817c758a78c227bef6.payload",
+      "bytes": 334336
+    },
+    {
+      "source": "Official prospect: Omer Yurtseven",
+      "url": "https://www.nba.com/draft/2017/prospects/omer-yurtseven",
+      "retrieval_timestamp": "2026-09-28T19:21:43.159179+00:00",
+      "http_status": 200,
+      "transport_exit": 0,
+      "error": "",
+      "raw_sha256": "ad8e8dea699d6b42f53e3b0e64fa15ddbe8b79390292198bb0e2106065a5e746",
+      "raw_path": "data/raw/stage0b/ad8e8dea699d6b42f53e3b0e64fa15ddbe8b79390292198bb0e2106065a5e746.payload",
+      "bytes": 334336
+    },
+    {
+      "source": "Official prospect: Eric Paschall",
+      "url": "https://www.nba.com/draft/2019/prospects/eric-paschall",
+      "retrieval_timestamp": "2026-09-28T19:21:44.984508+00:00",
+      "http_status": 200,
+      "transport_exit": 0,
+      "error": "",
+      "raw_sha256": "4ab3df49526c6b6e40c34a88d3246f3000fcfd17ae6d98e04189947200973aa5",
+      "raw_path": "data/raw/stage0b/4ab3df49526c6b6e40c34a88d3246f3000fcfd17ae6d98e04189947200973aa5.payload",
+      "bytes": 334336
+    },
+    {
+      "source": "Official prospect: Dante Cunningham",
+      "url": "https://www.nba.com/draft/2009/prospects/dante-cunningham",
+      "retrieval_timestamp": "2026-09-28T19:21:42.192121+00:00",
+      "http_status": 200,
+      "transport_exit": 0,
+      "error": "",
+      "raw_sha256": "cb56c78d10e4a479db1542c2973539694b1a5e7dc410f568a64ac868c7fd0ad0",
+      "raw_path": "data/raw/stage0b/cb56c78d10e4a479db1542c2973539694b1a5e7dc410f568a64ac868c7fd0ad0.payload",
+      "bytes": 224234
+    },
+    {
+      "source": "Official prospect: P.J. Washington",
+      "url": "https://www.nba.com/draft/2019/prospects/pj-washington",
+      "retrieval_timestamp": "2026-09-28T19:21:45.380504+00:00",
+      "http_status": 200,
+      "transport_exit": 0,
+      "error": "",
+      "raw_sha256": "4ab3df49526c6b6e40c34a88d3246f3000fcfd17ae6d98e04189947200973aa5",
+      "raw_path": "data/raw/stage0b/4ab3df49526c6b6e40c34a88d3246f3000fcfd17ae6d98e04189947200973aa5.payload",
+      "bytes": 334336
+    },
+    {
+      "source": "Official prospect: Randall Orr",
+      "url": "https://www.nba.com/draft/2004/prospects/randall-orr",
+      "retrieval_timestamp": "2026-09-28T19:21:40.033276+00:00",
+      "http_status": 200,
+      "transport_exit": 0,
+      "error": "",
+      "raw_sha256": "27737dd959bd1e2ea40353a8825aeea4b4d95f835952c1e2110f24cf8554c0d0",
+      "raw_path": "data/raw/stage0b/27737dd959bd1e2ea40353a8825aeea4b4d95f835952c1e2110f24cf8554c0d0.payload",
+      "bytes": 224224
+    },
+    {
+      "source": "Official prospect: Tommy Smith",
+      "url": "https://www.nba.com/draft/2003/prospects/tommy-smith",
+      "retrieval_timestamp": "2026-09-28T19:21:40.914882+00:00",
+      "http_status": 200,
+      "transport_exit": 0,
+      "error": "",
+      "raw_sha256": "9c3fa4f8eb529e03f9aff5930d16d9e2d7d9fe29e10ca38cba42913b6a61f0ef",
+      "raw_path": "data/raw/stage0b/9c3fa4f8eb529e03f9aff5930d16d9e2d7d9fe29e10ca38cba42913b6a61f0ef.payload",
+      "bytes": 224224
+    },
+    {
+      "source": "combine_2013_original",
+      "url": "https://mediacentral.nba.com/media/mediacentral/051713-2013-NBA-Draft-Combine-Anthropometric-Results.pdf",
+      "retrieval_timestamp": "2026-09-28T19:20:32.841867+00:00",
+      "http_status": 200,
+      "transport_exit": 0,
+      "error": "",
+      "raw_sha256": "4a873ff5f440fb4e9dfd8773adc928fde311de7dd31aa0f6c4f1c3b9109f2b66",
+      "raw_path": "data/raw/stage0b/4a873ff5f440fb4e9dfd8773adc928fde311de7dd31aa0f6c4f1c3b9109f2b66.payload",
+      "bytes": 14396
+    },
+    {
+      "source": "Official prospect: Melvin Frazier",
+      "url": "https://www.nba.com/draft/2018/prospects/melvin-frazier",
+      "retrieval_timestamp": "2026-09-28T19:21:44.492160+00:00",
+      "http_status": 200,
+      "transport_exit": 0,
+      "error": "",
+      "raw_sha256": "e14010b0edc57b0e7675feed910302ae5f81750719e6ef11f2c6ee4a82a16464",
+      "raw_path": "data/raw/stage0b/e14010b0edc57b0e7675feed910302ae5f81750719e6ef11f2c6ee4a82a16464.payload",
+      "bytes": 334336
+    },
+    {
+      "source": "Official prospect: Kennedy Meeks",
+      "url": "https://www.nba.com/draft/2017/prospects/kennedy-meeks",
+      "retrieval_timestamp": "2026-09-28T19:21:43.522545+00:00",
+      "http_status": 200,
+      "transport_exit": 0,
+      "error": "",
+      "raw_sha256": "ad8e8dea699d6b42f53e3b0e64fa15ddbe8b79390292198bb0e2106065a5e746",
+      "raw_path": "data/raw/stage0b/ad8e8dea699d6b42f53e3b0e64fa15ddbe8b79390292198bb0e2106065a5e746.payload",
+      "bytes": 334336
+    },
+    {
+      "source": "warriors_2016_17_guide",
+      "url": "https://ak-static-int.nba.com/wp-content/uploads/sites/3/2016/10/2016-17-Media-Guide-Warriors.pdf",
+      "retrieval_timestamp": "2026-09-28T19:20:32.841198+00:00",
+      "http_status": 200,
+      "transport_exit": 0,
+      "error": "",
+      "raw_sha256": "d27ef1c611a7b7c6c2d2c6b0dca4454200bf900bfb17217d51d0fba21b90b7b8",
+      "raw_path": "data/raw/stage0b/d27ef1c611a7b7c6c2d2c6b0dca4454200bf900bfb17217d51d0fba21b90b7b8.payload",
+      "bytes": 20195574
+    },
+    {
+      "source": "Official prospect: Jared Cunningham",
+      "url": "https://www.nba.com/draft/2012/prospects/jared-cunningham",
+      "retrieval_timestamp": "2026-09-28T19:21:41.837616+00:00",
+      "http_status": 200,
+      "transport_exit": 0,
+      "error": "",
+      "raw_sha256": "502ea575f66efbb2025e5ce51c963ebaca0814fd5cd90fbebc9fbcb5cc83317b",
+      "raw_path": "data/raw/stage0b/502ea575f66efbb2025e5ce51c963ebaca0814fd5cd90fbebc9fbcb5cc83317b.payload",
+      "bytes": 334336
+    },
+    {
+      "source": "Official prospect: Andrew Nembhard",
+      "url": "https://www.nba.com/draft/2022/prospects/andrew-nembhard",
+      "retrieval_timestamp": "2026-09-28T19:21:45.500493+00:00",
+      "http_status": 200,
+      "transport_exit": 0,
+      "error": "",
+      "raw_sha256": "335bf97b3fc211698a06c957724043ad444f04b9d825be857644c4981bcf1457",
+      "raw_path": "data/raw/stage0b/335bf97b3fc211698a06c957724043ad444f04b9d825be857644c4981bcf1457.payload",
+      "bytes": 256143
+    },
+    {
+      "source": "Official prospect: Jon Leuer",
+      "url": "https://www.nba.com/draft/2011/prospects/jon-leuer",
+      "retrieval_timestamp": "2026-09-28T19:21:41.395001+00:00",
+      "http_status": 200,
+      "transport_exit": 0,
+      "error": "",
+      "raw_sha256": "08498fefaad34cdc3609388c0bddb0200a41c14837c94465673313d7521475c2",
+      "raw_path": "data/raw/stage0b/08498fefaad34cdc3609388c0bddb0200a41c14837c94465673313d7521475c2.payload",
+      "bytes": 334336
+    },
+    {
+      "source": "Official prospect: Pierre Jackson",
+      "url": "https://www.nba.com/draft/2013/prospects/pierre-jackson",
+      "retrieval_timestamp": "2026-09-28T19:21:41.332943+00:00",
+      "http_status": 200,
+      "transport_exit": 0,
+      "error": "",
+      "raw_sha256": "b37dce4fd20ad1d845dcd6ba923ea55c4ddebb12729069e16cd967bac91fba71",
+      "raw_path": "data/raw/stage0b/b37dce4fd20ad1d845dcd6ba923ea55c4ddebb12729069e16cd967bac91fba71.payload",
+      "bytes": 334336
+    },
+    {
+      "source": "Official prospect: Melo Trimble",
+      "url": "https://www.nba.com/draft/2017/prospects/melo-trimble",
+      "retrieval_timestamp": "2026-09-28T19:21:42.961366+00:00",
+      "http_status": 200,
+      "transport_exit": 0,
+      "error": "",
+      "raw_sha256": "ad8e8dea699d6b42f53e3b0e64fa15ddbe8b79390292198bb0e2106065a5e746",
+      "raw_path": "data/raw/stage0b/ad8e8dea699d6b42f53e3b0e64fa15ddbe8b79390292198bb0e2106065a5e746.payload",
+      "bytes": 334336
+    },
+    {
+      "source": "Official prospect: Nikola Jovic",
+      "url": "https://www.nba.com/draft/2022/prospects/nikola-jovic",
+      "retrieval_timestamp": "2026-09-28T19:21:45.671101+00:00",
+      "http_status": 200,
+      "transport_exit": 0,
+      "error": "",
+      "raw_sha256": "ad39db32feb5309823e4ee0a918c0b9d15fc142f3ae2dc00958aa9debba80671",
+      "raw_path": "data/raw/stage0b/ad39db32feb5309823e4ee0a918c0b9d15fc142f3ae2dc00958aa9debba80671.payload",
+      "bytes": 258202
+    },
+    {
+      "source": "Official prospect: Dennis Schroder",
+      "url": "https://www.nba.com/draft/2013/prospects/dennis-schroder",
+      "retrieval_timestamp": "2026-09-28T19:21:42.558064+00:00",
+      "http_status": 200,
+      "transport_exit": 0,
+      "error": "",
+      "raw_sha256": "b37dce4fd20ad1d845dcd6ba923ea55c4ddebb12729069e16cd967bac91fba71",
+      "raw_path": "data/raw/stage0b/b37dce4fd20ad1d845dcd6ba923ea55c4ddebb12729069e16cd967bac91fba71.payload",
+      "bytes": 334336
+    },
+    {
+      "source": "Official prospect: John Petty Jr.",
+      "url": "https://www.nba.com/draft/2021/prospects/john-petty-jr",
+      "retrieval_timestamp": "2026-09-28T19:21:43.773388+00:00",
+      "http_status": 200,
+      "transport_exit": 0,
+      "error": "",
+      "raw_sha256": "dafbffd4c354ecb23ed0ba047e6c70fa96a6f3aa14b3734f7967b3ee94b49ec0",
+      "raw_path": "data/raw/stage0b/dafbffd4c354ecb23ed0ba047e6c70fa96a6f3aa14b3734f7967b3ee94b49ec0.payload",
+      "bytes": 224228
+    },
+    {
+      "source": "Official prospect: Scottie Barnes",
+      "url": "https://www.nba.com/draft/2021/prospects/scottie-barnes",
+      "retrieval_timestamp": "2026-09-28T19:21:44.473196+00:00",
+      "http_status": 200,
+      "transport_exit": 0,
+      "error": "",
+      "raw_sha256": "47d89881931f0114ab6a13c1b95825b07da765a98eafbef6176049cfc5a25a5c",
+      "raw_path": "data/raw/stage0b/47d89881931f0114ab6a13c1b95825b07da765a98eafbef6176049cfc5a25a5c.payload",
+      "bytes": 256712
+    },
+    {
+      "source": "Rockets power forwards 2012",
+      "url": "https://www.nba.com/rockets/news/nba-draft-preview-part-ii-power-forwards",
+      "retrieval_timestamp": "2026-09-28T19:25:41.647911+00:00",
+      "http_status": 200,
+      "transport_exit": 0,
+      "error": "",
+      "raw_sha256": "5853b2898e0967957ac00a3d5812fc83c1dcd65181946bd117f5a195c3404059",
+      "raw_path": "data/raw/stage0b/5853b2898e0967957ac00a3d5812fc83c1dcd65181946bd117f5a195c3404059.payload",
+      "bytes": 160979
+    },
+    {
+      "source": "Official prospect: Ayo Dosunmu",
+      "url": "https://www.nba.com/draft/2021/prospects/ayo-dosunmu",
+      "retrieval_timestamp": "2026-09-28T19:21:43.981913+00:00",
+      "http_status": 200,
+      "transport_exit": 0,
+      "error": "",
+      "raw_sha256": "5efddc4fa084a7d7ff4d832e7a521df29579273809692cb25c98a43f03ede356",
+      "raw_path": "data/raw/stage0b/5efddc4fa084a7d7ff4d832e7a521df29579273809692cb25c98a43f03ede356.payload",
+      "bytes": 258585
+    },
+    {
+      "source": "Official prospect: Daniel Horton",
+      "url": "https://www.nba.com/draft/2006/prospects/daniel-horton",
+      "retrieval_timestamp": "2026-09-28T19:21:40.960627+00:00",
+      "http_status": 200,
+      "transport_exit": 0,
+      "error": "",
+      "raw_sha256": "4593b80ca48eff64d18e49aa66c470a7fe30dc2bd4c09590276874a9e4125d22",
+      "raw_path": "data/raw/stage0b/4593b80ca48eff64d18e49aa66c470a7fe30dc2bd4c09590276874a9e4125d22.payload",
+      "bytes": 224228
+    },
+    {
+      "source": "Official prospect: Jordan McRae",
+      "url": "https://www.nba.com/draft/2014/prospects/jordan-mcrae",
+      "retrieval_timestamp": "2026-09-28T19:21:42.945568+00:00",
+      "http_status": 200,
+      "transport_exit": 0,
+      "error": "",
+      "raw_sha256": "16e92baad2ffc9039c3d6e374fba879578551559cb5180fb74bdf35d6a4c4b13",
+      "raw_path": "data/raw/stage0b/16e92baad2ffc9039c3d6e374fba879578551559cb5180fb74bdf35d6a4c4b13.payload",
+      "bytes": 334336
+    },
+    {
+      "source": "Rockets centers 2012",
+      "url": "https://www.nba.com/rockets/news/nba-draft-preview-part-i-centers",
+      "retrieval_timestamp": "2026-09-28T19:25:41.647712+00:00",
+      "http_status": 200,
+      "transport_exit": 0,
+      "error": "",
+      "raw_sha256": "aae0feeca6dd162ed63f8269232e49899091b8832e095c5a1520a28b18c60a1a",
+      "raw_path": "data/raw/stage0b/aae0feeca6dd162ed63f8269232e49899091b8832e095c5a1520a28b18c60a1a.payload",
+      "bytes": 140848
+    },
+    {
+      "source": "Official prospect: Will Barton",
+      "url": "https://www.nba.com/draft/2012/prospects/will-barton",
+      "retrieval_timestamp": "2026-09-28T19:21:42.240175+00:00",
+      "http_status": 200,
+      "transport_exit": 0,
+      "error": "",
+      "raw_sha256": "502ea575f66efbb2025e5ce51c963ebaca0814fd5cd90fbebc9fbcb5cc83317b",
+      "raw_path": "data/raw/stage0b/502ea575f66efbb2025e5ce51c963ebaca0814fd5cd90fbebc9fbcb5cc83317b.payload",
+      "bytes": 334336
+    },
+    {
+      "source": "Official prospect: Zabian Dowdell",
+      "url": "https://www.nba.com/draft/2007/prospects/zabian-dowdell",
+      "retrieval_timestamp": "2026-09-28T19:21:41.233022+00:00",
+      "http_status": 200,
+      "transport_exit": 0,
+      "error": "",
+      "raw_sha256": "858563aad1d3eb32257f5f610b3f39a12a1a93264fe49ff45a6d9842cf4392c5",
+      "raw_path": "data/raw/stage0b/858563aad1d3eb32257f5f610b3f39a12a1a93264fe49ff45a6d9842cf4392c5.payload",
+      "bytes": 224230
+    },
+    {
+      "source": "Official prospect: Naz Reid",
+      "url": "https://www.nba.com/draft/2019/prospects/naz-reid",
+      "retrieval_timestamp": "2026-09-28T19:21:45.167381+00:00",
+      "http_status": 200,
+      "transport_exit": 0,
+      "error": "",
+      "raw_sha256": "4ab3df49526c6b6e40c34a88d3246f3000fcfd17ae6d98e04189947200973aa5",
+      "raw_path": "data/raw/stage0b/4ab3df49526c6b6e40c34a88d3246f3000fcfd17ae6d98e04189947200973aa5.payload",
+      "bytes": 334336
+    },
+    {
+      "source": "Official prospect: Jason Smith",
+      "url": "https://www.nba.com/draft/2007/prospects/jason-smith",
+      "retrieval_timestamp": "2026-09-28T19:21:40.033076+00:00",
+      "http_status": 200,
+      "transport_exit": 0,
+      "error": "",
+      "raw_sha256": "e2e0aa56ae68afbb697df6b7d549ab949a75fe2558930400f8b445b1c0254fe2",
+      "raw_path": "data/raw/stage0b/e2e0aa56ae68afbb697df6b7d549ab949a75fe2558930400f8b445b1c0254fe2.payload",
+      "bytes": 224224
+    },
+    {
+      "source": "durant_career_stats",
+      "url": "https://stats.nba.com/stats/playercareerstats?LeagueID=00&PerMode=Totals&PlayerID=201142",
+      "retrieval_timestamp": "2026-09-28T19:20:33.615817+00:00",
+      "http_status": 0,
+      "transport_exit": 28,
+      "error": "curl: (28) Operation timed out after 40006 milliseconds with 0 bytes received",
+      "raw_sha256": null,
+      "raw_path": null,
+      "bytes": 0
+    },
+    {
+      "source": "durant_mvp",
+      "url": "https://pr.nba.com/kevin-durant-2013-14-kia-nba-mvp/",
+      "retrieval_timestamp": "2026-09-28T19:20:33.754732+00:00",
+      "http_status": 200,
+      "transport_exit": 0,
+      "error": "",
+      "raw_sha256": "803f416e3f9d847d04c81c4b8cabccbbeed35477af40f76b97e38a65d0b02be1",
+      "raw_path": "data/raw/stage0b/803f416e3f9d847d04c81c4b8cabccbbeed35477af40f76b97e38a65d0b02be1.payload",
+      "bytes": 121862
+    },
+    {
+      "source": "Official prospect: Aloysius Anagonye",
+      "url": "https://www.nba.com/draft/2003/prospects/aloysius-anagonye",
+      "retrieval_timestamp": "2026-09-28T19:21:40.983084+00:00",
+      "http_status": 200,
+      "transport_exit": 0,
+      "error": "",
+      "raw_sha256": "242d6257d78aa486b786336f798bb01a80347084c05c535eb1852b50892d0d34",
+      "raw_path": "data/raw/stage0b/242d6257d78aa486b786336f798bb01a80347084c05c535eb1852b50892d0d34.payload",
+      "bytes": 224236
+    },
+    {
+      "source": "Official prospect: Brandon Paul",
+      "url": "https://www.nba.com/draft/2013/prospects/brandon-paul",
+      "retrieval_timestamp": "2026-09-28T19:21:42.713857+00:00",
+      "http_status": 200,
+      "transport_exit": 0,
+      "error": "",
+      "raw_sha256": "b37dce4fd20ad1d845dcd6ba923ea55c4ddebb12729069e16cd967bac91fba71",
+      "raw_path": "data/raw/stage0b/b37dce4fd20ad1d845dcd6ba923ea55c4ddebb12729069e16cd967bac91fba71.payload",
+      "bytes": 334336
+    },
+    {
+      "source": "Rockets official 2012 combine preview",
+      "url": "https://www.nba.com/rockets/news/nba-draft-preview-part-iii-small-forwards",
+      "retrieval_timestamp": "2026-09-28T19:22:48.693486+00:00",
+      "http_status": 200,
+      "transport_exit": 0,
+      "error": "",
+      "raw_sha256": "9a5329af505daf3e0d2da06da7ccb436a259ec01af304fe8a9ea0a76fad8fbed",
+      "raw_path": "data/raw/stage0b/9a5329af505daf3e0d2da06da7ccb436a259ec01af304fe8a9ea0a76fad8fbed.payload",
+      "bytes": 168692
+    },
+    {
+      "source": "largest_wingspans",
+      "url": "https://www.nba.com/news/nba-draft-combine-largest-wingspans",
+      "retrieval_timestamp": "2026-09-28T19:20:34.674533+00:00",
+      "http_status": 200,
+      "transport_exit": 0,
+      "error": "",
+      "raw_sha256": "54b63a8ffbe90c76e2b023cdd7a4999f3f5c2749834312e4809e242f2ba629d8",
+      "raw_path": "data/raw/stage0b/54b63a8ffbe90c76e2b023cdd7a4999f3f5c2749834312e4809e242f2ba629d8.payload",
+      "bytes": 332523
+    }
+  ],
+  "normalized_outputs": {
+    "docs/stage0b_evidence/shooting_official_crosscheck.csv": "7784a2162edf072f1b2ea5ff23e041cfe47a403a47e0a0df5a16ff79cc238356",
+    "docs/stage0b_evidence/anthro_secondary_crosscheck.csv": "1418a5fd8fb4fe90c6f0af845dca2dcbb830393229fe864b16ac56b5c8b6ad58",
+    "docs/stage0b_evidence/anthro_official_crosscheck.csv": "e33c5252b80914287fd741a0886b6faa6f191d336524862bffa0a8268e8c951b",
+    "docs/stage0b_evidence/measurement_discrepancy_review.csv": "1a96a6b5c8e4f39f5bf3a61615bab19541d90543f6ff679c1181037c75106571",
+    "docs/stage0b_evidence/repeated_measurements.csv": "a687420d258c725278c4144703e221de035b81b7acf93d1ffc58aee8d76a593b",
+    "docs/stage0b_evidence/exact_id_alias_audit.csv": "ee45d54878622e3790e979fab3bf6f30ffc336a23705c27060e2bc53f9249ecc",
+    "data/interim/stage0b_nba_2013_14_totals.csv": "e2ee5514ee45537aa3fac4b24daa1eb069dd76e79e801b09f035cc9a359885fe",
+    "data/processed/ft_2013_14_stage1_dataset.parquet": "4656da551e99fc7a8fc26d6f7847f956134a9da15ed47ccd13bbf0f982fbf735",
+    "data/interim/ft_2013_14_exclusions.csv": "b3a2b681f91211c6c3fdf211463328d80e61e12d58d49851cfca070fbea662d7",
+    "data/interim/identity_crosswalk_review.csv": "eff5badb1093201b6db9038e1cee2d89e7457d1a7decfb5a25390974d4c256b3",
+    "data/interim/residual_reference_pre2013.csv": "14537d9c1cec20b388fc2cf5c86d7ea9ec2e435117c62da499f2b2fa2820d85a"
+  },
+  "interpretation": "Official pages are factual spot-checks, not complete proof of archive lineage; all full payloads stay local."
+}

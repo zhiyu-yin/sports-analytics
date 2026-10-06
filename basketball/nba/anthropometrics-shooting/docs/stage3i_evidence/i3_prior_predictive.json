@@ -1,0 +1,57 @@
+{
+  "candidate": "I3",
+  "started_at": "2026-09-30T20:22:23.564573+00:00",
+  "completed_at": "2026-09-30T20:23:26.687776+00:00",
+  "draws": 5000,
+  "seed": 20260930,
+  "positive_rate_quantiles": {
+    "0.01": 0.08869417167416214,
+    "0.05": 0.22572308785177675,
+    "0.25": 0.8418952081235203,
+    "0.5": 2.0631628856090924,
+    "0.75": 5.099461878208729,
+    "0.95": 19.955511332426237,
+    "0.99": 56.73837930545936,
+    "0.999": 209.75817406580325
+  },
+  "total_FTA_quantiles": {
+    "0.01": 0.0,
+    "0.05": 0.0,
+    "0.25": 8.0,
+    "0.5": 46.0,
+    "0.75": 174.0,
+    "0.95": 957.0,
+    "0.99": 3179.0,
+    "0.999": 13198.0
+  },
+  "maximum_FTA": 4941757,
+  "fraction_positive_rate_over_100": 0.0038324022346368715,
+  "fraction_total_FTA_over_1000000": 2.914743745445713e-07,
+  "zero_fraction_95_interval": [
+    0.01360213747874666,
+    0.34200267184843325
+  ],
+  "zero_fraction_median": 0.09521496235122662,
+  "zero_fraction_extreme_mass": 0.0016,
+  "accuracy_fraction_below_001": 0.09915146951663834,
+  "accuracy_fraction_above_099": 0.09949506922516395,
+  "accuracy_probability_quantiles": {
+    "0.01": 0.0001879165972060912,
+    "0.05": 0.0027023408427273043,
+    "0.25": 0.08338739268051465,
+    "0.5": 0.49792029577240426,
+    "0.75": 0.915211861958543,
+    "0.95": 0.9974329379055155,
+    "0.99": 0.9998354820836943,
+    "0.999": 0.999994979846167
+  },
+  "finite": true,
+  "numeric_pass": true,
+  "wide_range_review": {
+    "reviewed_at": "2026-09-30T20:25:29.027752+00:00",
+    "passed": true,
+    "reason": "Broad zero-frequency distribution with no pathological majority at extremes; no comparison-based tuning to observed outcomes"
+  },
+  "passed": true,
+  "scientific_parameter_summary_exported": false
+}

@@ -1,0 +1,13 @@
+{
+  "reviewed_at": "2026-09-30T19:35:19.040204+00:00",
+  "passed": true,
+  "files": {
+    "03_rho_AO.png": "d207d8db7e2d48d404422a42f4ec2b34fc2bfa0df2016b30ff3d3cbf79b6f9cb",
+    "05_theta_W.png": "3efbd2585755c96ba919cb18bbf174ae5505300c0f64119ec56965b9f52adebd",
+    "02_opportunity_PPC.png": "d46acf6a921d5837d58f1404ef9b3d82159c58a1ca6ddededbf40ada50e77179",
+    "04_latent_loadings.png": "32c20900f82518fe97289d2af5cacb6cf762b5baf5f285248a8e2e1489d08105",
+    "01_accuracy_comparison.png": "d2a7996f815c4d32fe362b0e6898dc1b1f2045166887b4896fba1082d468180c"
+  },
+  "scope": "All five final figures visually reviewed; readable axes and intervals; only allowed adequacy parameters and predictions",
+  "no_scientific_parameter_plot": true
+}

@@ -1,0 +1,148 @@
+{
+  "checked_at": "2026-09-29T20:43:10.205673+00:00",
+  "panel_sha256": "1c34331385e459ac5da67105658730d31d96c8114bd25fcb3b31cea52f1a1871",
+  "rows": 4117,
+  "players": 857,
+  "FTA": 469099,
+  "centered_between": {
+    "n": 4117,
+    "mean": 0.1695267676940256,
+    "SD": 0.43549438676312385,
+    "quantiles": {
+      "min": -0.7642592381107568,
+      "q01": -0.6658560295403024,
+      "q05": -0.4588289941527051,
+      "q25": -0.14781613109424585,
+      "median": 0.12739787223144516,
+      "q75": 0.44567014153606077,
+      "q95": 0.9616365980134046,
+      "q99": 1.2935297349557038,
+      "max": 1.4523452532130365
+    }
+  },
+  "between_unique_players": {
+    "n": 857,
+    "mean": 1.1607465928403036e-16,
+    "SD": 0.41938968988212316,
+    "quantiles": {
+      "min": -0.7642592381107568,
+      "q01": -0.7642592381107568,
+      "q05": -0.6283738388947321,
+      "q25": -0.28092251294209064,
+      "median": -0.046773352087694176,
+      "q75": 0.22155025578251952,
+      "q95": 0.7613600248555813,
+      "q99": 1.2183253113477857,
+      "max": 1.4523452532130365
+    }
+  },
+  "within": {
+    "n": 4117,
+    "mean": -3.37084960112083e-18,
+    "SD": 0.2650297801192153,
+    "quantiles": {
+      "min": -1.393130252601418,
+      "q01": -0.7481974500020748,
+      "q05": -0.46202292095668007,
+      "q25": -0.1469121827556703,
+      "median": 0.01085291696274815,
+      "q75": 0.16738241191172554,
+      "q95": 0.40871606918434883,
+      "q99": 0.56360293100597,
+      "max": 0.9686857072227479
+    }
+  },
+  "scaling_rule": "Sample SD ddof=1 across all 4117 frozen rows for both predictors; no outcomes used",
+  "scales": {
+    "B": 0.43549438676312385,
+    "W": 0.2650297801192153
+  },
+  "player_season_counts": {
+    "1": 112,
+    "2": 147,
+    "3-4": 221,
+    "5+": 377
+  },
+  "single_season_within_zero": true,
+  "players_with_actual_within_variation": 743,
+  "observations_in_varying_players": 4001,
+  "observations_with_nonzero_within": 4001,
+  "strongest_predictor_correlations": [
+    {
+      "a": "position_PG",
+      "b": "height",
+      "correlation": -0.6506959255909966
+    },
+    {
+      "a": "position_PF",
+      "b": "height",
+      "correlation": 0.3438646055920611
+    },
+    {
+      "a": "position_PF-C",
+      "b": "height",
+      "correlation": 0.2728435543836028
+    },
+    {
+      "a": "position_C-PF",
+      "b": "height",
+      "correlation": 0.24569191485449282
+    },
+    {
+      "a": "position_SG",
+      "b": "height",
+      "correlation": -0.24170359640141925
+    },
+    {
+      "a": "position_PG",
+      "b": "position_PF",
+      "correlation": -0.21355539044113492
+    },
+    {
+      "a": "position_SG",
+      "b": "position_PF",
+      "correlation": -0.19624335250228064
+    },
+    {
+      "a": "position_SG",
+      "b": "position_PG",
+      "correlation": -0.19476968682049656
+    },
+    {
+      "a": "position_SF",
+      "b": "position_PF",
+      "correlation": -0.18689673187017827
+    },
+    {
+      "a": "position_SF",
+      "b": "position_PG",
+      "correlation": -0.18549325350375875
+    },
+    {
+      "a": "position_SG",
+      "b": "position_SF",
+      "correlation": -0.17045609506243786
+    },
+    {
+      "a": "position_PG-SG",
+      "b": "height",
+      "correlation": -0.15651070297824654
+    },
+    {
+      "a": "centered_between",
+      "b": "residual_wingspan_predictor",
+      "correlation": 0.12384918848615632
+    },
+    {
+      "a": "position_SG-SF",
+      "b": "position_PF",
+      "correlation": -0.12337533453485075
+    },
+    {
+      "a": "position_SG-SF",
+      "b": "position_PG",
+      "correlation": -0.12244886240643565
+    }
+  ],
+  "shooting_outcomes_used": false
+}

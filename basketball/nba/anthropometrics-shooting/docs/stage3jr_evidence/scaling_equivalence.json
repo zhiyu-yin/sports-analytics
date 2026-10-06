@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "scaling": "Exactly existing Stage 2 sample-specific column centering/SD (intercept untouched); raw beta=T*scaled beta; log kappa unchanged; g_scaled=A.T*g_raw; H_scaled=A.T*H_raw*A",
+  "max_loglik_difference": 3.637978807091713e-12,
+  "max_score_difference": 8.856204658513889e-11,
+  "max_hessian_difference": 1.990338205359876e-08,
+  "max_forward_inverse_error": 2.220446049250313e-16,
+  "no_statistical_change": true,
+  "validated_at": "2026-10-01T01:13:09.708675+00:00"
+}

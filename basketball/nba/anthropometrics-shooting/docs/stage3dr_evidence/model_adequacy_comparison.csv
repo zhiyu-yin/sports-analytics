@@ -1,0 +1,5 @@
+model,sampler_pass,pooled_rate_99_pass,global_metrics_99_fail_count,season_rate_99_fail_count,FTA_bin_99_fail_count,systematic_volume_pattern,joint_FTA_PPC_pass,overall_adequacy,eligible_for_Stage3E
+D0,True,False,2.0,0.0,4.0,True,,False,False
+D1,False,,,,,,,False,False
+D2,True,False,3.0,0.0,4.0,True,,False,False
+D3,True,True,2.0,0.0,3.0,True,False,False,False

@@ -1,0 +1,21 @@
+{
+  "candidate": "F2",
+  "attempt": 2,
+  "max_rhat": 1.1157045388632858,
+  "min_bulk_ESS": 28.772624512035552,
+  "min_tail_ESS": 54.35964679340014,
+  "BFMI": [
+    0.7411188826114129,
+    0.711904219411648,
+    0.6545977340461894,
+    0.6874372614501127
+  ],
+  "divergences": 0,
+  "max_depth_hits": 0,
+  "finite_covariance": true,
+  "numeric_gate_pass": false,
+  "visual_review": "NOT_RELEASED_FAILED_NUMERIC_GATE",
+  "checked_at": "2026-09-29T20:10:24.774754+00:00",
+  "sampler_pass": false,
+  "recovery_exhausted": true
+}

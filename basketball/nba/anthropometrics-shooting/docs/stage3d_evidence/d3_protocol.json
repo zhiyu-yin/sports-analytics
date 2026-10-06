@@ -1,0 +1,94 @@
+{
+  "frozen_at": "2026-09-29T00:40:57.933949+00:00",
+  "parent_protocol_sha256": "8be5e5b796396ae0edc5d01ba5c1a6b62ceb0928aae6f47d7f0180595b3ea703",
+  "definition": "Joint NegativeBinomial FTA with fixed log(GP) offset and BetaBinomial FTM|FTA; correlated non-centered player opportunity/accuracy intercepts",
+  "eligible": true,
+  "accuracy_rows": 3980,
+  "opportunity_rows": 4117,
+  "accuracy_priors": {
+    "intercept": [
+      "Normal",
+      0,
+      2.5
+    ],
+    "residual_wingspan_slope": [
+      "Normal",
+      0,
+      0.5
+    ],
+    "height_slope": [
+      "Normal",
+      0,
+      0.5
+    ],
+    "position": [
+      "Normal",
+      0,
+      1
+    ],
+    "season": [
+      "Normal",
+      0,
+      1
+    ],
+    "log_kappa": [
+      "Normal",
+      3,
+      2
+    ]
+  },
+  "opportunity_priors": {
+    "a_0": [
+      "Normal",
+      0,
+      2.5
+    ],
+    "a_RW": [
+      "Normal",
+      0,
+      0.5
+    ],
+    "a_H": [
+      "Normal",
+      0,
+      0.5
+    ],
+    "a_position": [
+      "Normal",
+      0,
+      1
+    ],
+    "a_season": [
+      "Normal",
+      0,
+      1
+    ],
+    "alpha_FTA": [
+      "HalfNormal",
+      5
+    ]
+  },
+  "random_effects": {
+    "construction": "LKJCholeskyCov; [u,v]=z @ chol.T; rows=players, columns=[accuracy,opportunity]",
+    "eta": 2,
+    "SD_priors": [
+      "HalfNormal",
+      1
+    ],
+    "noncentered": true
+  },
+  "sampling": {
+    "chains": 4,
+    "tune": 2000,
+    "draws": 2000,
+    "target_accept": 0.95,
+    "seed": 20260928
+  },
+  "recovery": {
+    "max_runs": 1,
+    "target_accept": 0.99,
+    "tune": 4000,
+    "draws": 4000,
+    "trigger": "Generic sampler diagnostic failure only"
+  }
+}

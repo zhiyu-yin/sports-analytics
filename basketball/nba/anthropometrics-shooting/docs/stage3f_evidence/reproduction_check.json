@@ -1,0 +1,9 @@
+{
+  "checked_at": "2026-09-29T20:12:35.333319+00:00",
+  "decision_unchanged": true,
+  "candidates": {
+    "f1": "EXACT_REPLAY_PASS",
+    "f2": "SKIPPED_FAILED_SAMPLER"
+  },
+  "method": "Exact permitted summaries and fixed-seed conditional/joint predictive replay from saved traces; no additional MCMC fit"
+}

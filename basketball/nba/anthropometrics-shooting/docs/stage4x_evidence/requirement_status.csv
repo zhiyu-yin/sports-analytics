@@ -1,0 +1,21 @@
+requirement,status,reason
+A,PASS,Historical manifest verified byte-for-byte
+B,PASS,Primary FT hash unchanged
+C,PASS,Transform constants unchanged
+D,PASS,No fit or Phase B freeze
+E,NOT_RUN,Mapping candidate only; no coefficients
+F,BLOCKED,Source validation fails unresolved conflicts
+G,PASS,Exact 3PM/3PA reconciliation exported
+H,PASS,Exact ID audit; no scientific inclusions
+I,NOT_RUN,No analysis panel; no zero rows constructed
+J,NOT_RUN,No primary secondary model
+K,NOT_RUN,No covariance
+L,NOT_RUN,No bootstrap
+M,PASS,All three outcomes explicitly NOT_RUN
+N,PASS,No coefficients inspected or sign-based selections
+O,NOT_RUN,No tests or Holm calculations
+P,NOT_RUN,No threshold freeze or fits
+Q,PASS,No causal inference made
+R,PASS,Rim described as finishing with limitations
+S,PASS,No common-support FT replacement
+T,PASS,Manuscript freeze hash unchanged

@@ -1,0 +1,33 @@
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l1dcachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l2cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l3cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.optional.neon'. Detail: [errno 1] Operation not permitted
+Initializing NUTS using jitter+adapt_diag...
+Multiprocess sampling (4 chains in 4 jobs)
+NUTS: [chol_cov, z_opportunity, a_0, a_RW, a_H, a_position, a_season, log_alpha_FTA, c_0, c_RW, c_H, c_position, c_season]
+chain=1 iteration=500 tuning=True
+chain=2 iteration=500 tuning=True
+chain=0 iteration=500 tuning=True
+chain=1 iteration=1000 tuning=True
+chain=2 iteration=1000 tuning=True
+chain=0 iteration=1000 tuning=True
+chain=1 iteration=1500 tuning=True
+chain=2 iteration=1500 tuning=True
+chain=0 iteration=1500 tuning=True
+chain=3 iteration=500 tuning=True
+chain=1 iteration=2000 tuning=False
+chain=0 iteration=2000 tuning=False
+chain=2 iteration=2000 tuning=False
+chain=3 iteration=1000 tuning=True
+chain=0 iteration=2500 tuning=False
+chain=1 iteration=2500 tuning=False
+chain=2 iteration=2500 tuning=False
+chain=0 iteration=3000 tuning=False
+chain=3 iteration=1500 tuning=True
+chain=1 iteration=3000 tuning=False
+chain=2 iteration=3000 tuning=False
+chain=3 iteration=2000 tuning=False
+chain=3 iteration=2500 tuning=False
+chain=3 iteration=3000 tuning=False
+Sampling 4 chains for 1_500 tune and 1_500 draw iterations (6_000 + 6_000 draws total) took 273 seconds.
+The rhat statistic is larger than 1.01 for some parameters. This indicates problems during sampling. See https://arxiv.org/abs/1903.08008 for details

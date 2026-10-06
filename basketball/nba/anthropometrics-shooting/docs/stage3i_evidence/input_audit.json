@@ -1,0 +1,12 @@
+{
+  "panel_sha256": "1c34331385e459ac5da67105658730d31d96c8114bd25fcb3b31cea52f1a1871",
+  "rows": 4117,
+  "historical_artifacts_preserved": 1199,
+  "reports_read": [
+    "stage3h_shared_opportunity_factor.md",
+    "stage3fr_f2_identification_reparameterization.md",
+    "stage3f_hurdle_within_between_adequacy.md",
+    "stage3dr_opportunity_prior_and_adequacy.md"
+  ],
+  "historical_decisions_unchanged": true
+}

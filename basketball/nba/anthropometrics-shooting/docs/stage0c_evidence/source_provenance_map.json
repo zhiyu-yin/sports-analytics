@@ -1,0 +1,688 @@
+{
+  "sources": [
+    {
+      "source_name": "Pinned ianstack combine archive",
+      "publisher": "ianstack",
+      "source_type": "pinned_secondary_archive",
+      "retrieval_timestamp_utc": "2026-09-28T18:56:12.094659+00:00",
+      "raw_sha256": "3e96ee46de3a11bb2ddca9a615087ee34a9f3997baf332301125385af1338c92",
+      "raw_path": "data/raw/3e96ee46de3a11bb2ddca9a615087ee34a9f3997baf332301125385af1338c92.payload",
+      "url_pattern": "https://raw.githubusercontent.com/ianstack/NBA-Draft-Combine-Analysis/{revision}/data/nba_draft_data.csv",
+      "url": "https://raw.githubusercontent.com/ianstack/NBA-Draft-Combine-Analysis/3422f3003b6a37d7aabdec94d8d8bd7da1e71f04/data/nba_draft_data.csv",
+      "years": [
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022
+      ],
+      "fields_available": [
+        "barefoot_height",
+        "wingspan",
+        "shoe_height",
+        "standing_reach",
+        "weight"
+      ],
+      "measurement_precision": "numeric inches and feet/inches display; quarter-inch increments",
+      "retrieval_method": "Stage 0 pinned CSV; column-projected read in Stage 0C",
+      "original_metadata": {
+        "source": "Secondary NBA-derived archive: ianstack",
+        "url": "https://raw.githubusercontent.com/ianstack/NBA-Draft-Combine-Analysis/3422f3003b6a37d7aabdec94d8d8bd7da1e71f04/data/nba_draft_data.csv",
+        "parameters": {
+          "revision": "3422f3003b6a37d7aabdec94d8d8bd7da1e71f04",
+          "file": "nba_draft_data.csv"
+        },
+        "retrieved_at": "2026-09-28T18:56:12.094659+00:00",
+        "sha256": "3e96ee46de3a11bb2ddca9a615087ee34a9f3997baf332301125385af1338c92",
+        "raw_path": "data/raw/3e96ee46de3a11bb2ddca9a615087ee34a9f3997baf332301125385af1338c92.payload",
+        "transport_exit": 0,
+        "error": "",
+        "bytes": 260623
+      }
+    },
+    {
+      "source_name": "NBA Stats rendered combine table",
+      "publisher": "NBA",
+      "source_type": "official_NBA_factual_record",
+      "url": "https://www.nba.com/stats/draft/combine-anthro?SeasonYear=2000-01",
+      "url_pattern": "https://www.nba.com/stats/draft/combine-anthro?SeasonYear={YYYY}-{YY}",
+      "years": [
+        2000
+      ],
+      "fields_available": [
+        "barefoot_height",
+        "shoe_height",
+        "wingspan",
+        "standing_reach",
+        "weight"
+      ],
+      "measurement_precision": "quarter-inch increments in feet/inches; missing explicitly blank or dash",
+      "retrieval_method": "browser: season dropdown, rendered DOM table extraction; no hidden state or API response fabricated",
+      "retrieval_timestamp_utc": "2026-09-28T19:54:58.468Z",
+      "raw_path": "data/raw/stage0c/browser_2000-01.json",
+      "raw_sha256": "b0a8ac211493eec1eaa6cc20a659ddae60196ad1565c5488d77d28b8b09ab406",
+      "accepted": true,
+      "notes": "Official page season + same-year unique normalized name mapping; archive ID is audit label, not independent ID certification."
+    },
+    {
+      "source_name": "NBA Stats rendered combine table",
+      "publisher": "NBA",
+      "source_type": "official_NBA_factual_record",
+      "url": "https://www.nba.com/stats/draft/combine-anthro?SeasonYear=2001-02",
+      "url_pattern": "https://www.nba.com/stats/draft/combine-anthro?SeasonYear={YYYY}-{YY}",
+      "years": [
+        2001
+      ],
+      "fields_available": [
+        "barefoot_height",
+        "shoe_height",
+        "wingspan",
+        "standing_reach",
+        "weight"
+      ],
+      "measurement_precision": "quarter-inch increments in feet/inches; missing explicitly blank or dash",
+      "retrieval_method": "browser: season dropdown, rendered DOM table extraction; no hidden state or API response fabricated",
+      "retrieval_timestamp_utc": "2026-09-28T19:55:29.391Z",
+      "raw_path": "data/raw/stage0c/browser_2001-02.json",
+      "raw_sha256": "cee270824de1c537d27a948d788edc2c3d7ad198c266bba166e3b6e61fcd9d92",
+      "accepted": false,
+      "notes": "Rejected stale capture: selected season changed before preceding year table refreshed. Retained for audit; verified 2001 capture supersedes."
+    },
+    {
+      "source_name": "NBA Stats rendered combine table",
+      "publisher": "NBA",
+      "source_type": "official_NBA_factual_record",
+      "url": "https://www.nba.com/stats/draft/combine-anthro?SeasonYear=2001-02",
+      "url_pattern": "https://www.nba.com/stats/draft/combine-anthro?SeasonYear={YYYY}-{YY}",
+      "years": [
+        2001
+      ],
+      "fields_available": [
+        "barefoot_height",
+        "shoe_height",
+        "wingspan",
+        "standing_reach",
+        "weight"
+      ],
+      "measurement_precision": "quarter-inch increments in feet/inches; missing explicitly blank or dash",
+      "retrieval_method": "browser: season dropdown, rendered DOM table extraction; no hidden state or API response fabricated",
+      "retrieval_timestamp_utc": "2026-09-28T19:57:36.427Z",
+      "raw_path": "data/raw/stage0c/browser_2001-02_verified.json",
+      "raw_sha256": "ec40330993d0bb53beb2c2aa0593c89c3bcc9c85c09f7ff6be9f3d3f42a13793",
+      "accepted": true,
+      "notes": "Official page season + same-year unique normalized name mapping; archive ID is audit label, not independent ID certification."
+    },
+    {
+      "source_name": "NBA Stats rendered combine table",
+      "publisher": "NBA",
+      "source_type": "official_NBA_factual_record",
+      "url": "https://www.nba.com/stats/draft/combine-anthro?SeasonYear=2002-03",
+      "url_pattern": "https://www.nba.com/stats/draft/combine-anthro?SeasonYear={YYYY}-{YY}",
+      "years": [
+        2002
+      ],
+      "fields_available": [
+        "barefoot_height",
+        "shoe_height",
+        "wingspan",
+        "standing_reach",
+        "weight"
+      ],
+      "measurement_precision": "quarter-inch increments in feet/inches; missing explicitly blank or dash",
+      "retrieval_method": "browser: season dropdown, rendered DOM table extraction; no hidden state or API response fabricated",
+      "retrieval_timestamp_utc": "2026-09-28T19:55:30.919Z",
+      "raw_path": "data/raw/stage0c/browser_2002-03.json",
+      "raw_sha256": "0472d6c83e94de7a5ed36061b7c14034347ee96b2fbc663b2868c35f86ff9983",
+      "accepted": true,
+      "notes": "Official page season + same-year unique normalized name mapping; archive ID is audit label, not independent ID certification."
+    },
+    {
+      "source_name": "NBA Stats rendered combine table",
+      "publisher": "NBA",
+      "source_type": "official_NBA_factual_record",
+      "url": "https://www.nba.com/stats/draft/combine-anthro?SeasonYear=2003-04",
+      "url_pattern": "https://www.nba.com/stats/draft/combine-anthro?SeasonYear={YYYY}-{YY}",
+      "years": [
+        2003
+      ],
+      "fields_available": [
+        "barefoot_height",
+        "shoe_height",
+        "wingspan",
+        "standing_reach",
+        "weight"
+      ],
+      "measurement_precision": "quarter-inch increments in feet/inches; missing explicitly blank or dash",
+      "retrieval_method": "browser: season dropdown, rendered DOM table extraction; no hidden state or API response fabricated",
+      "retrieval_timestamp_utc": "2026-09-28T19:55:32.374Z",
+      "raw_path": "data/raw/stage0c/browser_2003-04.json",
+      "raw_sha256": "4b1ac59cbc1c0159dab70ad1a50f95adaee4255a186dbd9f5b3b9e9c64812aa8",
+      "accepted": true,
+      "notes": "Official page season + same-year unique normalized name mapping; archive ID is audit label, not independent ID certification."
+    },
+    {
+      "source_name": "NBA Stats rendered combine table",
+      "publisher": "NBA",
+      "source_type": "official_NBA_factual_record",
+      "url": "https://www.nba.com/stats/draft/combine-anthro?SeasonYear=2004-05",
+      "url_pattern": "https://www.nba.com/stats/draft/combine-anthro?SeasonYear={YYYY}-{YY}",
+      "years": [
+        2004
+      ],
+      "fields_available": [
+        "barefoot_height",
+        "shoe_height",
+        "wingspan",
+        "standing_reach",
+        "weight"
+      ],
+      "measurement_precision": "quarter-inch increments in feet/inches; missing explicitly blank or dash",
+      "retrieval_method": "browser: season dropdown, rendered DOM table extraction; no hidden state or API response fabricated",
+      "retrieval_timestamp_utc": "2026-09-28T19:55:33.850Z",
+      "raw_path": "data/raw/stage0c/browser_2004-05.json",
+      "raw_sha256": "c6a3b517bdbc2cdf2b7832fa08dab06ab4b618f51bbda34222c1d158b97b133d",
+      "accepted": true,
+      "notes": "Official page season + same-year unique normalized name mapping; archive ID is audit label, not independent ID certification."
+    },
+    {
+      "source_name": "NBA Stats rendered combine table",
+      "publisher": "NBA",
+      "source_type": "official_NBA_factual_record",
+      "url": "https://www.nba.com/stats/draft/combine-anthro?SeasonYear=2005-06",
+      "url_pattern": "https://www.nba.com/stats/draft/combine-anthro?SeasonYear={YYYY}-{YY}",
+      "years": [
+        2005
+      ],
+      "fields_available": [
+        "barefoot_height",
+        "shoe_height",
+        "wingspan",
+        "standing_reach",
+        "weight"
+      ],
+      "measurement_precision": "quarter-inch increments in feet/inches; missing explicitly blank or dash",
+      "retrieval_method": "browser: season dropdown, rendered DOM table extraction; no hidden state or API response fabricated",
+      "retrieval_timestamp_utc": "2026-09-28T19:56:37.475Z",
+      "raw_path": "data/raw/stage0c/browser_2005-06.json",
+      "raw_sha256": "f1dbe7081817890fffcb4776967ac5c09440e4c0f97c8160703b9be817f4632d",
+      "accepted": true,
+      "notes": "Official page season + same-year unique normalized name mapping; archive ID is audit label, not independent ID certification."
+    },
+    {
+      "source_name": "NBA Stats rendered combine table",
+      "publisher": "NBA",
+      "source_type": "official_NBA_factual_record",
+      "url": "https://www.nba.com/stats/draft/combine-anthro?SeasonYear=2006-07",
+      "url_pattern": "https://www.nba.com/stats/draft/combine-anthro?SeasonYear={YYYY}-{YY}",
+      "years": [
+        2006
+      ],
+      "fields_available": [
+        "barefoot_height",
+        "shoe_height",
+        "wingspan",
+        "standing_reach",
+        "weight"
+      ],
+      "measurement_precision": "quarter-inch increments in feet/inches; missing explicitly blank or dash",
+      "retrieval_method": "browser: season dropdown, rendered DOM table extraction; no hidden state or API response fabricated",
+      "retrieval_timestamp_utc": "2026-09-28T19:57:03.380Z",
+      "raw_path": "data/raw/stage0c/browser_2006-07.json",
+      "raw_sha256": "5b38f042bbe1bfd5914d8b0e83006d1f31ee928990c256bd0749019c5325eb54",
+      "accepted": true,
+      "notes": "Official page season + same-year unique normalized name mapping; archive ID is audit label, not independent ID certification."
+    },
+    {
+      "source_name": "NBA Stats rendered combine table",
+      "publisher": "NBA",
+      "source_type": "official_NBA_factual_record",
+      "url": "https://www.nba.com/stats/draft/combine-anthro?SeasonYear=2007-08",
+      "url_pattern": "https://www.nba.com/stats/draft/combine-anthro?SeasonYear={YYYY}-{YY}",
+      "years": [
+        2007
+      ],
+      "fields_available": [
+        "barefoot_height",
+        "shoe_height",
+        "wingspan",
+        "standing_reach",
+        "weight"
+      ],
+      "measurement_precision": "quarter-inch increments in feet/inches; missing explicitly blank or dash",
+      "retrieval_method": "browser: season dropdown, rendered DOM table extraction; no hidden state or API response fabricated",
+      "retrieval_timestamp_utc": "2026-09-28T19:57:05.591Z",
+      "raw_path": "data/raw/stage0c/browser_2007-08.json",
+      "raw_sha256": "3c329f30e95bd4a6175ed481443462811f71e428c3818435079a36cbf1909df4",
+      "accepted": true,
+      "notes": "Official page season + same-year unique normalized name mapping; archive ID is audit label, not independent ID certification."
+    },
+    {
+      "source_name": "NBA Stats rendered combine table",
+      "publisher": "NBA",
+      "source_type": "official_NBA_factual_record",
+      "url": "https://www.nba.com/stats/draft/combine-anthro?SeasonYear=2008-09",
+      "url_pattern": "https://www.nba.com/stats/draft/combine-anthro?SeasonYear={YYYY}-{YY}",
+      "years": [
+        2008
+      ],
+      "fields_available": [
+        "barefoot_height",
+        "shoe_height",
+        "wingspan",
+        "standing_reach",
+        "weight"
+      ],
+      "measurement_precision": "quarter-inch increments in feet/inches; missing explicitly blank or dash",
+      "retrieval_method": "browser: season dropdown, rendered DOM table extraction; no hidden state or API response fabricated",
+      "retrieval_timestamp_utc": "2026-09-28T19:57:07.414Z",
+      "raw_path": "data/raw/stage0c/browser_2008-09.json",
+      "raw_sha256": "34a448f1ece4d744539ada7ea3bcd37ce2fb4367b2fa52a44c14bce634731b01",
+      "accepted": true,
+      "notes": "Official page season + same-year unique normalized name mapping; archive ID is audit label, not independent ID certification."
+    },
+    {
+      "source_name": "NBA Stats rendered combine table",
+      "publisher": "NBA",
+      "source_type": "official_NBA_factual_record",
+      "url": "https://www.nba.com/stats/draft/combine-anthro?SeasonYear=2009-10",
+      "url_pattern": "https://www.nba.com/stats/draft/combine-anthro?SeasonYear={YYYY}-{YY}",
+      "years": [
+        2009
+      ],
+      "fields_available": [
+        "barefoot_height",
+        "shoe_height",
+        "wingspan",
+        "standing_reach",
+        "weight"
+      ],
+      "measurement_precision": "quarter-inch increments in feet/inches; missing explicitly blank or dash",
+      "retrieval_method": "browser: season dropdown, rendered DOM table extraction; no hidden state or API response fabricated",
+      "retrieval_timestamp_utc": "2026-09-28T19:57:08.785Z",
+      "raw_path": "data/raw/stage0c/browser_2009-10.json",
+      "raw_sha256": "7ac3bbee5d892ca5d6c55a47e586008dfcb68937598a1af2e8a4e6de4d1e8aff",
+      "accepted": true,
+      "notes": "Official page season + same-year unique normalized name mapping; archive ID is audit label, not independent ID certification."
+    },
+    {
+      "source_name": "NBA Stats rendered combine table",
+      "publisher": "NBA",
+      "source_type": "official_NBA_factual_record",
+      "url": "https://www.nba.com/stats/draft/combine-anthro?SeasonYear=2010-11",
+      "url_pattern": "https://www.nba.com/stats/draft/combine-anthro?SeasonYear={YYYY}-{YY}",
+      "years": [
+        2010
+      ],
+      "fields_available": [
+        "barefoot_height",
+        "shoe_height",
+        "wingspan",
+        "standing_reach",
+        "weight"
+      ],
+      "measurement_precision": "quarter-inch increments in feet/inches; missing explicitly blank or dash",
+      "retrieval_method": "browser: season dropdown, rendered DOM table extraction; no hidden state or API response fabricated",
+      "retrieval_timestamp_utc": "2026-09-28T19:57:30.965Z",
+      "raw_path": "data/raw/stage0c/browser_2010-11.json",
+      "raw_sha256": "18fa655bb2e8a89152d3fb494ba970151516fdd302f6c32096d55d8801911caa",
+      "accepted": true,
+      "notes": "Official page season + same-year unique normalized name mapping; archive ID is audit label, not independent ID certification."
+    },
+    {
+      "source_name": "NBA Stats rendered combine table",
+      "publisher": "NBA",
+      "source_type": "official_NBA_factual_record",
+      "url": "https://www.nba.com/stats/draft/combine-anthro?SeasonYear=2011-12",
+      "url_pattern": "https://www.nba.com/stats/draft/combine-anthro?SeasonYear={YYYY}-{YY}",
+      "years": [
+        2011
+      ],
+      "fields_available": [
+        "barefoot_height",
+        "shoe_height",
+        "wingspan",
+        "standing_reach",
+        "weight"
+      ],
+      "measurement_precision": "quarter-inch increments in feet/inches; missing explicitly blank or dash",
+      "retrieval_method": "browser: season dropdown, rendered DOM table extraction; no hidden state or API response fabricated",
+      "retrieval_timestamp_utc": "2026-09-28T19:57:33.274Z",
+      "raw_path": "data/raw/stage0c/browser_2011-12.json",
+      "raw_sha256": "db4a8561c36f9770ea4b3e619002c484e87aafc0c7c1cd9d3187eefbedd3107f",
+      "accepted": true,
+      "notes": "Official page season + same-year unique normalized name mapping; archive ID is audit label, not independent ID certification."
+    },
+    {
+      "source_name": "NBA Stats rendered combine table",
+      "publisher": "NBA",
+      "source_type": "official_NBA_factual_record",
+      "url": "https://www.nba.com/stats/draft/combine-anthro?SeasonYear=2012-13",
+      "url_pattern": "https://www.nba.com/stats/draft/combine-anthro?SeasonYear={YYYY}-{YY}",
+      "years": [
+        2012
+      ],
+      "fields_available": [
+        "barefoot_height",
+        "shoe_height",
+        "wingspan",
+        "standing_reach",
+        "weight"
+      ],
+      "measurement_precision": "quarter-inch increments in feet/inches; missing explicitly blank or dash",
+      "retrieval_method": "browser: season dropdown, rendered DOM table extraction; no hidden state or API response fabricated",
+      "retrieval_timestamp_utc": "2026-09-28T19:57:35.027Z",
+      "raw_path": "data/raw/stage0c/browser_2012-13.json",
+      "raw_sha256": "438d06166446d7338d29c9a08a1f2fc8b4a477373c4a4b3f21ab1f88efb131fd",
+      "accepted": true,
+      "notes": "Official page season + same-year unique normalized name mapping; archive ID is audit label, not independent ID certification."
+    },
+    {
+      "source_name": "NBA Stats rendered combine table",
+      "publisher": "NBA",
+      "source_type": "official_NBA_factual_record",
+      "url": "https://www.nba.com/stats/draft/combine-anthro?SeasonYear=2013-14",
+      "url_pattern": "https://www.nba.com/stats/draft/combine-anthro?SeasonYear={YYYY}-{YY}",
+      "years": [
+        2013
+      ],
+      "fields_available": [
+        "barefoot_height",
+        "shoe_height",
+        "wingspan",
+        "standing_reach",
+        "weight"
+      ],
+      "measurement_precision": "quarter-inch increments in feet/inches; missing explicitly blank or dash",
+      "retrieval_method": "browser: season dropdown, rendered DOM table extraction; no hidden state or API response fabricated",
+      "retrieval_timestamp_utc": "2026-09-28T19:54:30.684Z",
+      "raw_path": "data/raw/stage0c/browser_2013-14.json",
+      "raw_sha256": "9a648066bf7723b66346b2decb3ce72176f31baffa25b6730a70e55fae474f1f",
+      "accepted": true,
+      "notes": "Official page season + same-year unique normalized name mapping; archive ID is audit label, not independent ID certification."
+    },
+    {
+      "source_name": "NBA Stats rendered combine table",
+      "publisher": "NBA",
+      "source_type": "official_NBA_factual_record",
+      "url": "https://www.nba.com/stats/draft/combine-anthro?SeasonYear=2019-20",
+      "url_pattern": "https://www.nba.com/stats/draft/combine-anthro?SeasonYear={YYYY}-{YY}",
+      "years": [
+        2019
+      ],
+      "fields_available": [
+        "barefoot_height",
+        "shoe_height",
+        "wingspan",
+        "standing_reach",
+        "weight"
+      ],
+      "measurement_precision": "quarter-inch increments in feet/inches; missing explicitly blank or dash",
+      "retrieval_method": "browser: season dropdown, rendered DOM table extraction; no hidden state or API response fabricated",
+      "retrieval_timestamp_utc": "2026-09-28T19:57:38.102Z",
+      "raw_path": "data/raw/stage0c/browser_2019-20.json",
+      "raw_sha256": "50c1f3c22a716501670a17e89a79a49ab4a4ca58747440648c62ca3e9efa5537",
+      "accepted": true,
+      "notes": "Official page season + same-year unique normalized name mapping; archive ID is audit label, not independent ID certification."
+    },
+    {
+      "source_name": "NBA 2013 results article",
+      "publisher": "NBA",
+      "source_type": "official_table",
+      "url": "https://www.nba.com/2013/news/05/17/nba-draft-combine-results/",
+      "years": [
+        2013
+      ],
+      "retrieval_timestamp_utc": "2026-09-28T19:53:40.894201+00:00",
+      "http_status": 404,
+      "transport_exit": 0,
+      "error": "",
+      "raw_sha256": "8f0671aaddd4f481b76443f5ce93e576c3d915e44ed98e6d0dd2175a8fa6ee97",
+      "raw_path": "data/raw/stage0c/8f0671aaddd4f481b76443f5ce93e576c3d915e44ed98e6d0dd2175a8fa6ee97.payload",
+      "bytes": 4652,
+      "retrieval_method": "curl GET",
+      "fields_available": [],
+      "measurement_precision": "unverified; no accepted measurements from this attempt",
+      "url_pattern": "https://www.nba.com/2013/news/05/17/nba-draft-combine-results/"
+    },
+    {
+      "source_name": "NBA stats historical table",
+      "publisher": "NBA",
+      "source_type": "official_table",
+      "url": "https://www.nba.com/stats/draft/combine-anthro?SeasonYear=2013-14",
+      "years": [
+        2013
+      ],
+      "retrieval_timestamp_utc": "2026-09-28T19:52:25.679838+00:00",
+      "http_status": 200,
+      "transport_exit": 0,
+      "error": "",
+      "raw_sha256": "f56ca3e63fc0d3b22ed7fba37fa949e986df4939b5bf89caa2dc9594af3e0db9",
+      "raw_path": "data/raw/stage0c/f56ca3e63fc0d3b22ed7fba37fa949e986df4939b5bf89caa2dc9594af3e0db9.payload",
+      "bytes": 267962,
+      "retrieval_method": "curl GET",
+      "fields_available": [
+        "page retrieved; not used as factual pair evidence"
+      ],
+      "measurement_precision": "unverified; no accepted measurements from this attempt",
+      "url_pattern": "https://www.nba.com/stats/draft/combine-anthro?SeasonYear=2013-14"
+    },
+    {
+      "source_name": "NBA 2019 results article",
+      "publisher": "NBA",
+      "source_type": "official_table",
+      "url": "https://www.nba.com/news/nba-draft-combine-top-measurements-prospects",
+      "years": [
+        2019
+      ],
+      "retrieval_timestamp_utc": "2026-09-28T19:53:40.895537+00:00",
+      "http_status": 200,
+      "transport_exit": 0,
+      "error": "",
+      "raw_sha256": "7cd7c58185e9b6d184ec2ef686133a62e5983f0e87230c53e07507cc105318a8",
+      "raw_path": "data/raw/stage0c/7cd7c58185e9b6d184ec2ef686133a62e5983f0e87230c53e07507cc105318a8.payload",
+      "bytes": 315078,
+      "retrieval_method": "curl GET",
+      "fields_available": [
+        "page retrieved; not used as factual pair evidence"
+      ],
+      "measurement_precision": "unverified; no accepted measurements from this attempt",
+      "url_pattern": "https://www.nba.com/news/nba-draft-combine-top-measurements-prospects"
+    },
+    {
+      "source_name": "Suns 2007 guide location probe",
+      "publisher": "NBA",
+      "source_type": "official_pdf",
+      "url": "https://www.nba.com/media/suns/2007_draft_guide.pdf",
+      "years": [
+        2007
+      ],
+      "retrieval_timestamp_utc": "2026-09-28T19:53:40.896203+00:00",
+      "http_status": 404,
+      "transport_exit": 0,
+      "error": "",
+      "raw_sha256": "8f0671aaddd4f481b76443f5ce93e576c3d915e44ed98e6d0dd2175a8fa6ee97",
+      "raw_path": "data/raw/stage0c/8f0671aaddd4f481b76443f5ce93e576c3d915e44ed98e6d0dd2175a8fa6ee97.payload",
+      "bytes": 4652,
+      "retrieval_method": "curl GET",
+      "fields_available": [],
+      "measurement_precision": "unverified; no accepted measurements from this attempt",
+      "url_pattern": "https://www.nba.com/media/suns/2007_draft_guide.pdf"
+    },
+    {
+      "source_name": "NBA API 2013",
+      "publisher": "NBA",
+      "source_type": "official_api",
+      "url": "https://stats.nba.com/stats/draftcombineplayeranthro?LeagueID=00&SeasonYear=2013",
+      "years": [
+        2013
+      ],
+      "retrieval_timestamp_utc": "2026-09-28T19:52:25.679891+00:00",
+      "http_status": 0,
+      "transport_exit": 28,
+      "error": "curl: (28) Operation timed out after 20006 milliseconds with 0 bytes received",
+      "raw_sha256": null,
+      "raw_path": null,
+      "bytes": 0,
+      "retrieval_method": "curl GET",
+      "fields_available": [],
+      "measurement_precision": "unverified; no accepted measurements from this attempt",
+      "url_pattern": "https://stats.nba.com/stats/draftcombineplayeranthro?LeagueID=00&SeasonYear=2013"
+    },
+    {
+      "source_name": "Wayback official 2013 PDF index",
+      "publisher": "see source URL",
+      "source_type": "historical_official_archive_index",
+      "url": "https://web.archive.org/cdx/search/cdx?url=mediacentral.nba.com/media/mediacentral/051713-2013-NBA-Draft-Combine-Anthropometric-Results.pdf&output=json&filter=statuscode:200",
+      "years": [
+        2013
+      ],
+      "retrieval_timestamp_utc": "2026-09-28T19:53:40.898111+00:00",
+      "http_status": 0,
+      "transport_exit": 28,
+      "error": "curl: (28) Connection timed out after 20008 milliseconds",
+      "raw_sha256": null,
+      "raw_path": null,
+      "bytes": 0,
+      "retrieval_method": "curl GET",
+      "fields_available": [],
+      "measurement_precision": "unverified; no accepted measurements from this attempt",
+      "url_pattern": "https://web.archive.org/cdx/search/cdx?url=mediacentral.nba.com/media/mediacentral/051713-2013-NBA-Draft-Combine-Anthropometric-Results.pdf&output=json&filter=statuscode:200"
+    },
+    {
+      "source_name": "Bulls 2004 pre-draft table",
+      "publisher": "NBA",
+      "source_type": "official_table",
+      "url": "https://www.nba.com/bulls/news/predraft_vitals_04.html",
+      "years": [
+        2004
+      ],
+      "retrieval_timestamp_utc": "2026-09-28T19:52:25.679827+00:00",
+      "http_status": 200,
+      "transport_exit": 0,
+      "error": "",
+      "raw_sha256": "8e482b0f7677c8fd6d2523b1e478832e10682dab01dffb5c30a90c8e8eebe702",
+      "raw_path": "data/raw/stage0c/8e482b0f7677c8fd6d2523b1e478832e10682dab01dffb5c30a90c8e8eebe702.payload",
+      "bytes": 93728,
+      "retrieval_method": "curl GET",
+      "fields_available": [],
+      "measurement_precision": "unverified; no accepted measurements from this attempt",
+      "url_pattern": "https://www.nba.com/bulls/news/predraft_vitals_04.html"
+    },
+    {
+      "source_name": "Wayback official Bulls index",
+      "publisher": "see source URL",
+      "source_type": "historical_official_archive_index",
+      "url": "https://web.archive.org/cdx/search/cdx?url=www.nba.com/bulls/news/predraft_vitals_04.html&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=timestamp:4",
+      "years": [
+        2004
+      ],
+      "retrieval_timestamp_utc": "2026-09-28T19:53:40.896844+00:00",
+      "http_status": 0,
+      "transport_exit": 28,
+      "error": "curl: (28) Connection timed out after 20008 milliseconds",
+      "raw_sha256": null,
+      "raw_path": null,
+      "bytes": 0,
+      "retrieval_method": "curl GET",
+      "fields_available": [],
+      "measurement_precision": "unverified; no accepted measurements from this attempt",
+      "url_pattern": "https://web.archive.org/cdx/search/cdx?url=www.nba.com/bulls/news/predraft_vitals_04.html&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=timestamp:4"
+    },
+    {
+      "source_name": "NBA original 2013 sheet",
+      "publisher": "NBA",
+      "source_type": "official_pdf",
+      "url": "https://mediacentral.nba.com/media/mediacentral/051713-2013-NBA-Draft-Combine-Anthropometric-Results.pdf",
+      "years": [
+        2013
+      ],
+      "retrieval_timestamp_utc": "2026-09-28T19:53:40.894577+00:00",
+      "http_status": 200,
+      "transport_exit": 0,
+      "error": "",
+      "raw_sha256": "4a873ff5f440fb4e9dfd8773adc928fde311de7dd31aa0f6c4f1c3b9109f2b66",
+      "raw_path": "data/raw/stage0c/4a873ff5f440fb4e9dfd8773adc928fde311de7dd31aa0f6c4f1c3b9109f2b66.payload",
+      "bytes": 14396,
+      "retrieval_method": "curl GET",
+      "fields_available": [],
+      "measurement_precision": "unverified; no accepted measurements from this attempt",
+      "url_pattern": "https://mediacentral.nba.com/media/mediacentral/051713-2013-NBA-Draft-Combine-Anthropometric-Results.pdf"
+    },
+    {
+      "source_name": "NBA API 2004",
+      "publisher": "NBA",
+      "source_type": "official_api",
+      "url": "https://stats.nba.com/stats/draftcombineplayeranthro?LeagueID=00&SeasonYear=2004",
+      "years": [
+        2004
+      ],
+      "retrieval_timestamp_utc": "2026-09-28T19:52:25.679534+00:00",
+      "http_status": 0,
+      "transport_exit": 28,
+      "error": "curl: (28) Operation timed out after 20006 milliseconds with 0 bytes received",
+      "raw_sha256": null,
+      "raw_path": null,
+      "bytes": 0,
+      "retrieval_method": "curl GET",
+      "fields_available": [],
+      "measurement_precision": "unverified; no accepted measurements from this attempt",
+      "url_pattern": "https://stats.nba.com/stats/draftcombineplayeranthro?LeagueID=00&SeasonYear=2004"
+    },
+    {
+      "source_name": "NBA API 2007",
+      "publisher": "NBA",
+      "source_type": "official_api",
+      "url": "https://stats.nba.com/stats/draftcombineplayeranthro?LeagueID=00&SeasonYear=2007",
+      "years": [
+        2007
+      ],
+      "retrieval_timestamp_utc": "2026-09-28T19:52:25.679878+00:00",
+      "http_status": 0,
+      "transport_exit": 56,
+      "error": "curl: (56) Recv failure: Operation timed out",
+      "raw_sha256": null,
+      "raw_path": null,
+      "bytes": 0,
+      "retrieval_method": "curl GET",
+      "fields_available": [],
+      "measurement_precision": "unverified; no accepted measurements from this attempt",
+      "url_pattern": "https://stats.nba.com/stats/draftcombineplayeranthro?LeagueID=00&SeasonYear=2007"
+    }
+  ],
+  "distinctions": "Browser-rendered NBA tables are direct official factual records. curl HTML shells, timeouts, stale browser capture and failed historical archives are not validation. Prior secondary 2013 PDF was not needed or reclassified.",
+  "accepted_historical_coverage": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013
+  ],
+  "supplemental_resolution_year": 2019
+}

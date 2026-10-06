@@ -1,0 +1,952 @@
+[
+  {
+    "path": "docs/stage0c_evidence/agreement_by_stratum.csv",
+    "rows": 9,
+    "fields": [
+      "dimension",
+      "stratum",
+      "preselected_players",
+      "successful_official_source_retrievals",
+      "direct_barefoot_observations",
+      "direct_wingspan_observations",
+      "complete_pairs",
+      "exact_pairs",
+      "rounding_consistent_pairs",
+      "conflict_pairs",
+      "official_source_unavailable",
+      "agreement_rate"
+    ]
+  },
+  {
+    "path": "docs/stage0c_evidence/anthro_barefoot_wingspan_crosscheck.csv",
+    "rows": 45,
+    "fields": [
+      "player_id",
+      "player_name",
+      "combine_year",
+      "sampling_era_stratum",
+      "sampling_height_stratum",
+      "sampling_relative_wingspan_stratum",
+      "archive_barefoot_height",
+      "archive_wingspan",
+      "within_cell_advantage_rank",
+      "official_barefoot_height",
+      "height_difference_inches",
+      "official_wingspan",
+      "wingspan_difference_inches",
+      "archive_source",
+      "official_source_type",
+      "official_source_url",
+      "retrieval_timestamp_utc",
+      "official_raw_sha256",
+      "height_status",
+      "wingspan_status",
+      "pair_status",
+      "availability_status",
+      "notes"
+    ]
+  },
+  {
+    "path": "docs/stage0c_evidence/candidate_population_source_coverage.csv",
+    "rows": 311,
+    "fields": [
+      "player_id",
+      "player_name",
+      "season",
+      "combine_year",
+      "source_coverage",
+      "official_source_url",
+      "notes"
+    ]
+  },
+  {
+    "path": "docs/stage0c_evidence/measurement_discrepancy_review.csv",
+    "rows": 4,
+    "fields": [
+      "player_id",
+      "player_name",
+      "combine_year",
+      "field",
+      "archive_numeric_value",
+      "archive_display_value",
+      "archive_display_inches",
+      "official_value",
+      "official_source",
+      "retrieval_timestamp_utc",
+      "raw_sha256",
+      "resolution",
+      "action"
+    ]
+  },
+  {
+    "path": "docs/stage0c_evidence/measurement_missingness_by_year.csv",
+    "rows": 14,
+    "fields": [
+      "combine_year",
+      "records",
+      "missing_barefoot_height",
+      "missing_wingspan",
+      "missing_standing_reach",
+      "complete_core_pairs"
+    ]
+  },
+  {
+    "path": "docs/stage0c_evidence/repeated_measurement_review.csv",
+    "rows": 28,
+    "fields": [
+      "player_id",
+      "player_name",
+      "earliest_year",
+      "latest_year",
+      "height_change_inches",
+      "wingspan_change_inches",
+      "classification",
+      "eligible_pre2014_records",
+      "review_scope",
+      "review_flag"
+    ]
+  },
+  {
+    "path": "docs/stage0c_evidence/standing_reach_difference_review.csv",
+    "rows": 2,
+    "fields": [
+      "player_id",
+      "player_name",
+      "combine_year",
+      "field",
+      "archive_numeric",
+      "archive_display_inches",
+      "official_value",
+      "difference_inches",
+      "status",
+      "source_url",
+      "explanation"
+    ]
+  },
+  {
+    "path": "docs/stage0c_evidence/validation_sample_predeclared.csv",
+    "rows": 45,
+    "fields": [
+      "player_id",
+      "player_name",
+      "combine_year",
+      "sampling_era_stratum",
+      "sampling_height_stratum",
+      "sampling_relative_wingspan_stratum",
+      "archive_barefoot_height",
+      "archive_wingspan",
+      "within_cell_advantage_rank"
+    ]
+  },
+  {
+    "path": "docs/stage1_evidence/FTA100_coefficients.csv",
+    "rows": 15,
+    "fields": [
+      "term",
+      "beta",
+      "se",
+      "ci_low",
+      "ci_high",
+      "p"
+    ]
+  },
+  {
+    "path": "docs/stage1_evidence/FTA100_covariance.csv",
+    "rows": 15,
+    "fields": [
+      "",
+      "const",
+      "residual_wingspan",
+      "height_wo_shoes_inches",
+      "position_C-PF",
+      "position_PF",
+      "position_PF-C",
+      "position_PF-SF",
+      "position_PG",
+      "position_PG-SG",
+      "position_SF",
+      "position_SF-PF",
+      "position_SF-SG",
+      "position_SG",
+      "position_SG-PG",
+      "position_SG-SF"
+    ]
+  },
+  {
+    "path": "docs/stage1_evidence/FTA100_influence.csv",
+    "rows": 145,
+    "fields": [
+      "player_id",
+      "player_name_nba",
+      "position",
+      "fta",
+      "fitted_probability",
+      "hat",
+      "pearson_residual",
+      "cooks_distance",
+      "high_leverage"
+    ]
+  },
+  {
+    "path": "docs/stage1_evidence/FTA50_coefficients.csv",
+    "rows": 16,
+    "fields": [
+      "term",
+      "beta",
+      "se",
+      "ci_low",
+      "ci_high",
+      "p"
+    ]
+  },
+  {
+    "path": "docs/stage1_evidence/FTA50_covariance.csv",
+    "rows": 16,
+    "fields": [
+      "",
+      "const",
+      "residual_wingspan",
+      "height_wo_shoes_inches",
+      "position_C-PF",
+      "position_PF",
+      "position_PF-C",
+      "position_PF-SF",
+      "position_PG",
+      "position_PG-SG",
+      "position_SF",
+      "position_SF-PF",
+      "position_SF-SG",
+      "position_SG",
+      "position_SG-PG",
+      "position_SG-SF",
+      "position_unknown"
+    ]
+  },
+  {
+    "path": "docs/stage1_evidence/FTA50_influence.csv",
+    "rows": 203,
+    "fields": [
+      "player_id",
+      "player_name_nba",
+      "position",
+      "fta",
+      "fitted_probability",
+      "hat",
+      "pearson_residual",
+      "cooks_distance",
+      "high_leverage"
+    ]
+  },
+  {
+    "path": "docs/stage1_evidence/M0_covariance.csv",
+    "rows": 2,
+    "fields": [
+      "",
+      "const",
+      "residual_wingspan"
+    ]
+  },
+  {
+    "path": "docs/stage1_evidence/M0_influence.csv",
+    "rows": 299,
+    "fields": [
+      "player_id",
+      "player_name_nba",
+      "position",
+      "fta",
+      "fitted_probability",
+      "hat",
+      "pearson_residual",
+      "cooks_distance",
+      "high_leverage"
+    ]
+  },
+  {
+    "path": "docs/stage1_evidence/M1_covariance.csv",
+    "rows": 3,
+    "fields": [
+      "",
+      "const",
+      "residual_wingspan",
+      "height_wo_shoes_inches"
+    ]
+  },
+  {
+    "path": "docs/stage1_evidence/M1_influence.csv",
+    "rows": 299,
+    "fields": [
+      "player_id",
+      "player_name_nba",
+      "position",
+      "fta",
+      "fitted_probability",
+      "hat",
+      "pearson_residual",
+      "cooks_distance",
+      "high_leverage"
+    ]
+  },
+  {
+    "path": "docs/stage1_evidence/M2_covariance.csv",
+    "rows": 16,
+    "fields": [
+      "",
+      "const",
+      "residual_wingspan",
+      "height_wo_shoes_inches",
+      "position_C-PF",
+      "position_PF",
+      "position_PF-C",
+      "position_PF-SF",
+      "position_PG",
+      "position_PG-SG",
+      "position_SF",
+      "position_SF-PF",
+      "position_SF-SG",
+      "position_SG",
+      "position_SG-PG",
+      "position_SG-SF",
+      "position_unknown"
+    ]
+  },
+  {
+    "path": "docs/stage1_evidence/M2_influence.csv",
+    "rows": 299,
+    "fields": [
+      "player_id",
+      "player_name_nba",
+      "position",
+      "fta",
+      "fitted_probability",
+      "hat",
+      "pearson_residual",
+      "cooks_distance",
+      "high_leverage"
+    ]
+  },
+  {
+    "path": "docs/stage1_evidence/adjusted_probability_curve.csv",
+    "rows": 151,
+    "fields": [
+      "residual_wingspan",
+      "probability",
+      "ci_low",
+      "ci_high"
+    ]
+  },
+  {
+    "path": "docs/stage1_evidence/alternate_exposure_sensitivity.csv",
+    "rows": 2,
+    "fields": [
+      "analysis",
+      "model",
+      "n",
+      "total_fta",
+      "exposure",
+      "scale",
+      "beta",
+      "se",
+      "ci_low",
+      "ci_high",
+      "p",
+      "odds_ratio",
+      "or_low",
+      "or_high"
+    ]
+  },
+  {
+    "path": "docs/stage1_evidence/binned_descriptive.csv",
+    "rows": 5,
+    "fields": [
+      "residual_wingspan",
+      "n",
+      "total_fta",
+      "total_ftm",
+      "mean_residual",
+      "pooled_ft_pct"
+    ]
+  },
+  {
+    "path": "docs/stage1_evidence/fta_threshold_sensitivity.csv",
+    "rows": 2,
+    "fields": [
+      "analysis",
+      "threshold",
+      "n",
+      "total_fta",
+      "absent_positions",
+      "exposure",
+      "scale",
+      "beta",
+      "se",
+      "ci_low",
+      "ci_high",
+      "p",
+      "odds_ratio",
+      "or_low",
+      "or_high"
+    ]
+  },
+  {
+    "path": "docs/stage1_evidence/model0_coefficients.csv",
+    "rows": 2,
+    "fields": [
+      "term",
+      "beta",
+      "se",
+      "ci_low",
+      "ci_high",
+      "p"
+    ]
+  },
+  {
+    "path": "docs/stage1_evidence/model1_coefficients.csv",
+    "rows": 3,
+    "fields": [
+      "term",
+      "beta",
+      "se",
+      "ci_low",
+      "ci_high",
+      "p"
+    ]
+  },
+  {
+    "path": "docs/stage1_evidence/model2_coefficients.csv",
+    "rows": 16,
+    "fields": [
+      "term",
+      "beta",
+      "se",
+      "ci_low",
+      "ci_high",
+      "p"
+    ]
+  },
+  {
+    "path": "docs/stage1_evidence/model_fit_summary.csv",
+    "rows": 7,
+    "fields": [
+      "model",
+      "n",
+      "total_fta",
+      "log_likelihood",
+      "deviance",
+      "aic",
+      "converged",
+      "df_resid",
+      "pearson_chi2",
+      "dispersion",
+      "covariance",
+      "min_probability",
+      "max_probability",
+      "max_hat",
+      "high_leverage_count",
+      "undefined_deletion_diagnostics",
+      "condition_number",
+      "separation"
+    ]
+  },
+  {
+    "path": "docs/stage1_evidence/position_counts.csv",
+    "rows": 14,
+    "fields": [
+      "position",
+      "n"
+    ]
+  },
+  {
+    "path": "docs/stage1_evidence/position_descriptive.csv",
+    "rows": 14,
+    "fields": [
+      "position",
+      "n",
+      "mean_residual",
+      "median_residual",
+      "total_fta",
+      "total_ftm",
+      "pooled_ft_pct"
+    ]
+  },
+  {
+    "path": "docs/stage1_evidence/primary_model_comparison.csv",
+    "rows": 3,
+    "fields": [
+      "model",
+      "or_per_sd",
+      "exposure",
+      "scale",
+      "beta",
+      "se",
+      "ci_low",
+      "ci_high",
+      "p",
+      "odds_ratio",
+      "or_low",
+      "or_high"
+    ]
+  },
+  {
+    "path": "docs/stage1_evidence/sample_characteristics.csv",
+    "rows": 5,
+    "fields": [
+      "",
+      "count",
+      "mean",
+      "std",
+      "min",
+      "25%",
+      "50%",
+      "75%",
+      "max"
+    ]
+  },
+  {
+    "path": "docs/stage1_evidence/selection_coverage.csv",
+    "rows": 2,
+    "fields": [
+      "",
+      "players",
+      "median_minutes",
+      "mean_minutes",
+      "median_games",
+      "mean_games",
+      "players_with_any_box_position",
+      "box_position_labeled_game_fraction"
+    ]
+  },
+  {
+    "path": "docs/stage1_evidence/shooting_descriptive.csv",
+    "rows": 3,
+    "fields": [
+      "",
+      "count",
+      "mean",
+      "std",
+      "min",
+      "25%",
+      "50%",
+      "75%",
+      "max"
+    ]
+  },
+  {
+    "path": "docs/stage1_evidence/wingspan_advantage_coefficients.csv",
+    "rows": 16,
+    "fields": [
+      "term",
+      "beta",
+      "se",
+      "ci_low",
+      "ci_high",
+      "p"
+    ]
+  },
+  {
+    "path": "docs/stage1_evidence/wingspan_advantage_covariance.csv",
+    "rows": 16,
+    "fields": [
+      "",
+      "const",
+      "wingspan_advantage",
+      "height_wo_shoes_inches",
+      "position_C-PF",
+      "position_PF",
+      "position_PF-C",
+      "position_PF-SF",
+      "position_PG",
+      "position_PG-SG",
+      "position_SF",
+      "position_SF-PF",
+      "position_SF-SG",
+      "position_SG",
+      "position_SG-PG",
+      "position_SG-SF",
+      "position_unknown"
+    ]
+  },
+  {
+    "path": "docs/stage1_evidence/wingspan_advantage_influence.csv",
+    "rows": 299,
+    "fields": [
+      "player_id",
+      "player_name_nba",
+      "position",
+      "fta",
+      "fitted_probability",
+      "hat",
+      "pearson_residual",
+      "cooks_distance",
+      "high_leverage"
+    ]
+  },
+  {
+    "path": "docs/stage1_evidence/wingspan_ratio_coefficients.csv",
+    "rows": 16,
+    "fields": [
+      "term",
+      "beta",
+      "se",
+      "ci_low",
+      "ci_high",
+      "p"
+    ]
+  },
+  {
+    "path": "docs/stage1_evidence/wingspan_ratio_covariance.csv",
+    "rows": 16,
+    "fields": [
+      "",
+      "const",
+      "wingspan_ratio",
+      "height_wo_shoes_inches",
+      "position_C-PF",
+      "position_PF",
+      "position_PF-C",
+      "position_PF-SF",
+      "position_PG",
+      "position_PG-SG",
+      "position_SF",
+      "position_SF-PF",
+      "position_SF-SG",
+      "position_SG",
+      "position_SG-PG",
+      "position_SG-SF",
+      "position_unknown"
+    ]
+  },
+  {
+    "path": "docs/stage1_evidence/wingspan_ratio_influence.csv",
+    "rows": 299,
+    "fields": [
+      "player_id",
+      "player_name_nba",
+      "position",
+      "fta",
+      "fitted_probability",
+      "hat",
+      "pearson_residual",
+      "cooks_distance",
+      "high_leverage"
+    ]
+  },
+  {
+    "path": "docs/stage2_evidence/BB_wingspan_advantage_covariance.csv",
+    "rows": 16,
+    "fields": [
+      "",
+      "const",
+      "wingspan_advantage",
+      "height_wo_shoes_inches",
+      "position_C-PF",
+      "position_PF",
+      "position_PF-C",
+      "position_PF-SF",
+      "position_PG",
+      "position_PG-SG",
+      "position_SF",
+      "position_SF-PF",
+      "position_SF-SG",
+      "position_SG",
+      "position_SG-PG",
+      "position_SG-SF",
+      "position_unknown"
+    ]
+  },
+  {
+    "path": "docs/stage2_evidence/BB_wingspan_ratio_covariance.csv",
+    "rows": 16,
+    "fields": [
+      "",
+      "const",
+      "wingspan_ratio",
+      "height_wo_shoes_inches",
+      "position_C-PF",
+      "position_PF",
+      "position_PF-C",
+      "position_PF-SF",
+      "position_PG",
+      "position_PG-SG",
+      "position_SF",
+      "position_SF-PF",
+      "position_SF-SG",
+      "position_SG",
+      "position_SG-PG",
+      "position_SG-SF",
+      "position_unknown"
+    ]
+  },
+  {
+    "path": "docs/stage2_evidence/FTA100_beta_binomial_covariance.csv",
+    "rows": 15,
+    "fields": [
+      "",
+      "const",
+      "residual_wingspan",
+      "height_wo_shoes_inches",
+      "position_C-PF",
+      "position_PF",
+      "position_PF-C",
+      "position_PF-SF",
+      "position_PG",
+      "position_PG-SG",
+      "position_SF",
+      "position_SF-PF",
+      "position_SF-SG",
+      "position_SG",
+      "position_SG-PG",
+      "position_SG-SF"
+    ]
+  },
+  {
+    "path": "docs/stage2_evidence/FTA50_beta_binomial_covariance.csv",
+    "rows": 16,
+    "fields": [
+      "",
+      "const",
+      "residual_wingspan",
+      "height_wo_shoes_inches",
+      "position_C-PF",
+      "position_PF",
+      "position_PF-C",
+      "position_PF-SF",
+      "position_PG",
+      "position_PG-SG",
+      "position_SF",
+      "position_SF-PF",
+      "position_SF-SG",
+      "position_SG",
+      "position_SG-PG",
+      "position_SG-SF",
+      "position_unknown"
+    ]
+  },
+  {
+    "path": "docs/stage2_evidence/HC0_covariance.csv",
+    "rows": 16,
+    "fields": [
+      "",
+      "const",
+      "residual_wingspan",
+      "height_wo_shoes_inches",
+      "position_C-PF",
+      "position_PF",
+      "position_PF-C",
+      "position_PF-SF",
+      "position_PG",
+      "position_PG-SG",
+      "position_SF",
+      "position_SF-PF",
+      "position_SF-SG",
+      "position_SG",
+      "position_SG-PG",
+      "position_SG-SF",
+      "position_unknown"
+    ]
+  },
+  {
+    "path": "docs/stage2_evidence/alternate_exposure_robustness.csv",
+    "rows": 4,
+    "fields": [
+      "model",
+      "beta",
+      "se",
+      "ci_low",
+      "ci_high",
+      "odds_ratio",
+      "or_low",
+      "or_high",
+      "p",
+      "ci_includes_zero",
+      "dispersion_or_overdispersion",
+      "n",
+      "FTA",
+      "converged",
+      "exposure",
+      "analysis",
+      "reported_unit",
+      "log_likelihood",
+      "AIC",
+      "kappa",
+      "dispersion_parameter"
+    ]
+  },
+  {
+    "path": "docs/stage2_evidence/beta_binomial_M2_covariance.csv",
+    "rows": 16,
+    "fields": [
+      "",
+      "const",
+      "residual_wingspan",
+      "height_wo_shoes_inches",
+      "position_C-PF",
+      "position_PF",
+      "position_PF-C",
+      "position_PF-SF",
+      "position_PG",
+      "position_PG-SG",
+      "position_SF",
+      "position_SF-PF",
+      "position_SF-SG",
+      "position_SG",
+      "position_SG-PG",
+      "position_SG-SF",
+      "position_unknown"
+    ]
+  },
+  {
+    "path": "docs/stage2_evidence/exclude_unknown_sensitivity.csv",
+    "rows": 1,
+    "fields": [
+      "model",
+      "beta",
+      "se",
+      "ci_low",
+      "ci_high",
+      "odds_ratio",
+      "or_low",
+      "or_high",
+      "p",
+      "ci_includes_zero",
+      "dispersion_or_overdispersion",
+      "n",
+      "FTA",
+      "converged"
+    ]
+  },
+  {
+    "path": "docs/stage2_evidence/fta_threshold_robustness.csv",
+    "rows": 4,
+    "fields": [
+      "model",
+      "beta",
+      "se",
+      "ci_low",
+      "ci_high",
+      "odds_ratio",
+      "or_low",
+      "or_high",
+      "p",
+      "ci_includes_zero",
+      "dispersion_or_overdispersion",
+      "n",
+      "FTA",
+      "converged",
+      "threshold",
+      "analysis",
+      "log_likelihood",
+      "AIC",
+      "kappa",
+      "dispersion_parameter"
+    ]
+  },
+  {
+    "path": "docs/stage2_evidence/grouped_position_sensitivity.csv",
+    "rows": 1,
+    "fields": [
+      "model",
+      "beta",
+      "se",
+      "ci_low",
+      "ci_high",
+      "odds_ratio",
+      "or_low",
+      "or_high",
+      "p",
+      "ci_includes_zero",
+      "dispersion_or_overdispersion",
+      "n",
+      "FTA",
+      "converged"
+    ]
+  },
+  {
+    "path": "docs/stage2_evidence/loo_player_results.csv",
+    "rows": 299,
+    "fields": [
+      "removed_id",
+      "removed_name",
+      "n",
+      "FTA",
+      "removed_position",
+      "omitted_empty_categories",
+      "exposure_unchanged",
+      "beta",
+      "converged",
+      "error",
+      "design_columns"
+    ]
+  },
+  {
+    "path": "docs/stage2_evidence/probability_contrast_comparison.csv",
+    "rows": 4,
+    "fields": [
+      "model",
+      "q25",
+      "q75",
+      "p25",
+      "p75",
+      "difference",
+      "se",
+      "ci_low",
+      "ci_high",
+      "averaging_players",
+      "method"
+    ]
+  },
+  {
+    "path": "docs/stage2_evidence/ratio_per_001_robustness.csv",
+    "rows": 2,
+    "fields": [
+      "model",
+      "beta",
+      "se",
+      "ci_low",
+      "ci_high",
+      "odds_ratio",
+      "or_low",
+      "or_high",
+      "p",
+      "ci_includes_zero",
+      "dispersion_or_overdispersion",
+      "n",
+      "FTA",
+      "converged",
+      "exposure",
+      "analysis",
+      "reported_unit",
+      "log_likelihood",
+      "AIC",
+      "kappa",
+      "dispersion_parameter"
+    ]
+  },
+  {
+    "path": "docs/stage2_evidence/robust_model_comparison.csv",
+    "rows": 11,
+    "fields": [
+      "model",
+      "beta",
+      "se",
+      "ci_low",
+      "ci_high",
+      "odds_ratio",
+      "or_low",
+      "or_high",
+      "p",
+      "ci_includes_zero",
+      "dispersion_or_overdispersion",
+      "n",
+      "FTA",
+      "converged",
+      "log_likelihood",
+      "AIC",
+      "kappa",
+      "dispersion_parameter",
+      "threshold",
+      "analysis",
+      "removed_players",
+      "relative_beta_change"
+    ]
+  }
+]

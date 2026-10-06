@@ -1,0 +1,27 @@
+{
+  "kind": "primary",
+  "attempt": 1,
+  "started_at": "2026-09-28T23:20:01.173247+00:00",
+  "settings": {
+    "chains": 4,
+    "tune": 2000,
+    "draws": 2000,
+    "target_accept": 0.95,
+    "seed": 20260928,
+    "sampler": "PyMC NUTS",
+    "cores": 4,
+    "blas_cores": 1
+  },
+  "protocol_sha256": "0fc49add517178355ce8b4572de8696864531952500a284eee4eda4c006a64b3",
+  "code_sha256": "00537cfd7230b286c6a819e8de029fbc289a5ad87fbd911b906a5a3f876347eb",
+  "panel_sha256": "1c34331385e459ac5da67105658730d31d96c8114bd25fcb3b31cea52f1a1871",
+  "status": "COMPLETE",
+  "primary_freeze_sha256": null,
+  "backend": "PyTensor NUMBA; PyMC NUTS unchanged",
+  "environment_sha256": "d5988bccdfeb608a8615a87df6149b956f655fb540cc351bac20fa744d4b92f5",
+  "completed_at": "2026-09-28T23:27:54.107433+00:00",
+  "elapsed_seconds": 472.94983970792964,
+  "trace_path": "models/stage3c/primary_attempt1_trace.nc",
+  "trace_sha256": "0694eb7312973f37d315f83a5255995e6778c23770205fd92b052ca71a6b43f5",
+  "trace_bytes": 107972071
+}

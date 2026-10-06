@@ -1,0 +1,258 @@
+{
+  "panel_hash": "1c34331385e459ac5da67105658730d31d96c8114bd25fcb3b31cea52f1a1871",
+  "model_protocol_hash": "0fc49add517178355ce8b4572de8696864531952500a284eee4eda4c006a64b3",
+  "software_environment": {
+    "python": "3.10.8",
+    "executable": "/Users/zhiyuyin/Documents/last time job hunting material/proj/sports-analytics/basketball/nba/anthropometrics-shooting/models/stage3c/environment/bin/python",
+    "platform": "macOS-14.7.4-arm64-arm-64bit",
+    "packages": {
+      "pymc": "5.25.1",
+      "arviz": "0.22.0",
+      "numpy": "2.2.6",
+      "scipy": "1.15.3",
+      "pandas": "2.2.3",
+      "pyarrow": "21.0.0",
+      "matplotlib": "3.10.3",
+      "pytensor": "2.31.7",
+      "h5py": "3.14.0",
+      "numba": "0.61.2",
+      "llvmlite": "0.44.0"
+    },
+    "requirements_sha256": "b2268bee516e8a08a663dbe69b44fc44e373b5e1f0119efc01d5b0820b2a51b1",
+    "backend_note": "PyTensor NUMBA for compiled log-density/gradient; PyMC NUTS; spawn workers; no statistical change."
+  },
+  "seed": 20260928,
+  "sampling": {
+    "chains": 4,
+    "tune": 2000,
+    "draws": 2000,
+    "target_accept": 0.95,
+    "seed": 20260928,
+    "sampler": "PyMC NUTS",
+    "cores": 4,
+    "blas_cores": 1
+  },
+  "beta_RW": {
+    "mean": -0.03991819447296463,
+    "median": -0.040008975310221684,
+    "SD": 0.007726869536014423,
+    "CI95": [
+      -0.05494864610199009,
+      -0.024563072248675676
+    ]
+  },
+  "OR_per_residual_inch": {
+    "mean": 0.9608967217212239,
+    "median": 0.9607808158101709,
+    "SD": 0.0074250449324503335,
+    "CI95": [
+      0.9465337549067152,
+      0.9757361451112913
+    ]
+  },
+  "P_beta_RW_negative": 1.0,
+  "probability_contrast": {
+    "Q25_inches": -1.1808498774250467,
+    "Q75_inches": 1.8238436383798557,
+    "quantile_population": "all accounting player-seasons in this panel; repeated seasons weight players accordingly",
+    "conditional": {
+      "Q25": {
+        "mean": 0.7605723273042051,
+        "median": 0.76060942651917,
+        "SD": 0.0022617868872595406,
+        "CI95": [
+          0.756126830797812,
+          0.7649516614078271
+        ]
+      },
+      "Q75": {
+        "mean": 0.7389268458661068,
+        "median": 0.7389731228336639,
+        "SD": 0.0024680705339809065,
+        "CI95": [
+          0.7340678912744559,
+          0.7437258274899745
+        ]
+      },
+      "difference_percentage_points": {
+        "mean": -2.1645481438098306,
+        "median": -2.169524912884002,
+        "SD": 0.41929759880076856,
+        "CI95": [
+          -2.98157073006273,
+          -1.3303231635126533
+        ]
+      },
+      "P_difference_negative": 1.0
+    },
+    "zero_random_effect_reference_player": {
+      "Q25": {
+        "mean": 0.7542214149173149,
+        "median": 0.7542792280146234,
+        "SD": 0.003516731816833847,
+        "CI95": [
+          0.7471643169496419,
+          0.7610760675199951
+        ]
+      },
+      "Q75": {
+        "mean": 0.7315774960290621,
+        "median": 0.7315804576257929,
+        "SD": 0.0038921827489280694,
+        "CI95": [
+          0.7238823742567491,
+          0.7392038169641807
+        ]
+      },
+      "difference_percentage_points": {
+        "mean": -2.2643918888252736,
+        "median": -2.268299949081376,
+        "SD": 0.43954262734313043,
+        "CI95": [
+          -3.116515505924052,
+          -1.3903303177582498
+        ]
+      },
+      "P_difference_negative": 1.0
+    },
+    "interpretation": "Adjusted model-based association contrast; equal player-season averaging; zero-random-effect version is not marginalization over a new-player distribution."
+  },
+  "variance_components": {
+    "sigma_player": {
+      "mean": 0.3787303023151874,
+      "median": 0.378486150006248,
+      "SD": 0.012803193200265808,
+      "CI95": [
+        0.35387800342078496,
+        0.4046634910779773
+      ]
+    },
+    "kappa": {
+      "mean": 168.11851382856688,
+      "median": 167.71437212671543,
+      "SD": 10.713221320054878,
+      "CI95": [
+        148.71733094894338,
+        190.24013932534424
+      ]
+    },
+    "rho": {
+      "mean": 0.005936661465418421,
+      "median": 0.005927177319837054,
+      "SD": 0.0003747971446530921,
+      "CI95": [
+        0.00522902779790539,
+        0.0066792534595286005
+      ]
+    },
+    "log_kappa": {
+      "mean": 5.122647359934859,
+      "median": 5.12226236656854,
+      "SD": 0.06355878779626624,
+      "CI95": [
+        5.002047396081525,
+        5.2482871629800325
+      ]
+    },
+    "probability_scale_at_reference_mu_075": {
+      "minus_one_sigma": {
+        "mean": 0.6725748028248978,
+        "median": 0.6726347930562662,
+        "SD": 0.0028199952133548113,
+        "CI95": [
+          0.6668447799782067,
+          0.678030245375205
+        ]
+      },
+      "plus_one_sigma": {
+        "mean": 0.8141630692021197,
+        "median": 0.8141339169294066,
+        "SD": 0.0019363876446170244,
+        "CI95": [
+          0.8103813965151747,
+          0.818062538950061
+        ]
+      },
+      "interpretation": "Illustrative logit-scale random intercept spread around fixed baseline probability .75, not individual player rankings."
+    }
+  },
+  "diagnostics": {
+    "kind": "primary",
+    "attempt": 1,
+    "max_rhat": 1.007890895887242,
+    "min_bulk_ESS": 589.8295136309212,
+    "min_tail_ESS": 906.1510309159768,
+    "BFMI_by_chain": [
+      0.732759478504109,
+      0.6740877126991804,
+      0.678546566593271,
+      0.6930852264119002
+    ],
+    "divergences": 0,
+    "max_treedepth_hits": 0,
+    "finite_covariance": true,
+    "numeric_gate_pass": true,
+    "visual_review": {
+      "reviewed_at": "2026-09-28T23:28:36.909125+00:00",
+      "chains_mix": true,
+      "energy_acceptable": true,
+      "figures": [
+        "primary_attempt1_trace_review.png",
+        "primary_attempt1_energy.png"
+      ],
+      "notes": "Four chain densities overlap for scalar parameters and each position/season coefficient. Trace bands are stationary without separated chains or sustained drift; some autocorrelation remains, consistent with the reported ESS. Marginal and transition energy distributions overlap substantially; all chain BFMI values exceed 0.67. No obvious pathological mixing or energy behavior."
+    },
+    "scientific_summary_released": true,
+    "checked_at": "2026-09-28T23:28:11.459616+00:00"
+  },
+  "PPC": {
+    "draws": 1000,
+    "seed": 20260929,
+    "replicated_makes_summary": {
+      "mean": 358544.778,
+      "median": 358560.5,
+      "SD": 609.2215143685994,
+      "CI95": [
+        357279.775,
+        359702.5
+      ]
+    },
+    "observed_total_FTM": 360001,
+    "FTA": 469099,
+    "pooled_rate": {
+      "metric": "pooled_rate",
+      "observed": 0.7674307555547976,
+      "replicated_mean": 0.7643264598730758,
+      "replicated_median": 0.7643599751864745,
+      "predictive_95_low": 0.7616297945636209,
+      "predictive_95_high": 0.7667944293208896,
+      "predictive_99_low": 0.7609373287941351,
+      "predictive_99_high": 0.7672776428856168,
+      "outside_99": true,
+      "posterior_predictive_tail_fraction": 0.004
+    },
+    "global_distribution_outside_99": 2,
+    "season_rates_outside_99": 0,
+    "metrics_outside_99": [
+      "pooled_rate",
+      "rate_q95",
+      "rate_one_fraction",
+      "FTA_1-9_pooled",
+      "FTA_1-9_one_fraction",
+      "FTA_10-49_pooled",
+      "FTA_50-99_q95",
+      "FTA_100-299_pooled",
+      "FTA_300+_pooled"
+    ],
+    "serious_failure_by_frozen_rule": true,
+    "minimum_alpha": 37.32612185950724,
+    "minimum_beta": 7.079996149467637,
+    "visual_review": "PENDING",
+    "scope": "Conditional replication for observed players/attempt denominators, not an out-of-sample validation",
+    "metric_table": "primary_PPC_metrics.csv"
+  },
+  "model_code_sha256": "00537cfd7230b286c6a819e8de029fbc289a5ad87fbd911b906a5a3f876347eb",
+  "summary_code_sha256": "d3fa74b13939379c9845a8d0cc3724637b78292e286272ad5e4ab186d6773a1c",
+  "trace_sha256": "0694eb7312973f37d315f83a5255995e6778c23770205fd92b052ca71a6b43f5",
+  "attempt": 1
+}

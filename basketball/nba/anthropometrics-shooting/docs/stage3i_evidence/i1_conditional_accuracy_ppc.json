@@ -1,0 +1,76 @@
+{
+  "candidate": "I1",
+  "replicates": 2000,
+  "seed": 20260930,
+  "pooled_rate_99_pass": true,
+  "global_metrics_99_fail_count": 1,
+  "season_rate_99_fail_count": 0,
+  "season_count": 13,
+  "FTA_bin_99_fail_count": 0,
+  "systematic_volume_pattern": true,
+  "gate_pass": false,
+  "pooled_rate": {
+    "metric": "pooled_rate",
+    "observed": 0.7674307555547976,
+    "replicated_mean": 0.766779868428626,
+    "predictive_99_low": 0.7635062001837565,
+    "predictive_99_high": 0.7699250371456772,
+    "outside_99": false,
+    "MCSE_mean": 3.0390117783899708e-05
+  },
+  "bin_checks": [
+    {
+      "metric": "FTA_1-9_pooled",
+      "observed": 0.6840474961280331,
+      "replicated_mean": 0.7073825503355705,
+      "predictive_99_low": 0.6794011357769747,
+      "predictive_99_high": 0.7351574599896747,
+      "outside_99": false,
+      "MCSE_mean": 0.0002621481644733153
+    },
+    {
+      "metric": "FTA_10-49_pooled",
+      "observed": 0.7152835987706063,
+      "replicated_mean": 0.723174874266555,
+      "predictive_99_low": 0.7143051480860576,
+      "predictive_99_high": 0.7316993224364348,
+      "outside_99": false,
+      "MCSE_mean": 8.806378019329356e-05
+    },
+    {
+      "metric": "FTA_50-99_pooled",
+      "observed": 0.7443223443223443,
+      "replicated_mean": 0.7433014082214082,
+      "predictive_99_low": 0.7370775742775743,
+      "predictive_99_high": 0.749906796906797,
+      "outside_99": false,
+      "MCSE_mean": 5.994113470431079e-05
+    },
+    {
+      "metric": "FTA_100-299_pooled",
+      "observed": 0.7663528501418623,
+      "replicated_mean": 0.7644089115295332,
+      "predictive_99_low": 0.7605063408133436,
+      "predictive_99_high": 0.7681626902244003,
+      "outside_99": false,
+      "MCSE_mean": 3.5687041791858425e-05
+    },
+    {
+      "metric": "FTA_300+_pooled",
+      "observed": 0.7904419143855763,
+      "replicated_mean": 0.7900158251721632,
+      "predictive_99_low": 0.7837005571512614,
+      "predictive_99_high": 0.7963252932830397,
+      "outside_99": false,
+      "MCSE_mean": 7.180407163736509e-05
+    }
+  ],
+  "metrics_outside_99": [
+    "rate_q95"
+  ],
+  "visual_review": {
+    "reviewed_at": "2026-09-30T20:47:40.240008+00:00",
+    "passed": true,
+    "scope": "Accuracy-bin and zero/positive-count PPC figures visually checked; numerical gates unchanged"
+  }
+}

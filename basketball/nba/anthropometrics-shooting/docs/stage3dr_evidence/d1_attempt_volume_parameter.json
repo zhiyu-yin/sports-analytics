@@ -1,0 +1,5 @@
+{
+  "parameter": "gamma_FTA",
+  "status": "WITHHELD_FAILED_SAMPLER_GATE",
+  "reason": "Minimum bulk ESS below 400; posterior exists but no reportable mechanism summary"
+}

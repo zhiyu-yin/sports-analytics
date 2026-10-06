@@ -1,0 +1,29 @@
+{
+  "started_at": "2026-09-28T23:29:56.021636+00:00",
+  "primary_result_sha256": "84845c1eeef1fde09da865ee18a75c715604c684f60cd9f7d20b7d7e76835d1a",
+  "settings": {
+    "chains": 4,
+    "tune": 2000,
+    "draws": 2000,
+    "target_accept": 0.95,
+    "seed": 20260928,
+    "sampler": "PyMC NUTS",
+    "cores": 4,
+    "blas_cores": 1
+  },
+  "seed": 20260928,
+  "status": "COMPLETE",
+  "purpose": "Same-seed numerical reproducibility check; does not replace frozen inference",
+  "criterion": "Each key-parameter mean within four combined MCSEs; exact posterior equality also checked",
+  "code_sha256": "b6e9232ae3d26dbdbb1ad59003b2b0902c0db382899267a68931d3008222127f",
+  "completed_at": "2026-09-28T23:36:36.418786+00:00",
+  "elapsed_seconds": 400.4075422089081,
+  "all_posterior_arrays_exact": true,
+  "means_within_predeclared_MCSE_tolerance": true,
+  "max_Rhat": 1.007890895887242,
+  "minimum_bulk_ESS": 589.8295136309212,
+  "minimum_tail_ESS": 906.1510309159768,
+  "divergences": 0,
+  "trace_sha256": "dc6ed137c12f92e98d429a8e1dceb89dfb6e45aa86a26f8beed6c08c1e2de53b",
+  "trace_bytes": 107972759
+}

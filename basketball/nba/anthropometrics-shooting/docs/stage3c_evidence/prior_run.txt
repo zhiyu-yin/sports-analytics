@@ -1,0 +1,30 @@
+WARNING (pytensor.configdefaults): g++ not detected!  PyTensor will be unable to compile C-implementations and will default to Python. Performance may be severely degraded. To remove this warning, set PyTensor flags cxx to an empty string.
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l1dcachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l2cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l3cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.optional.neon'. Detail: [errno 1] Operation not permitted
+Sampling: [beta_0, beta_H, beta_RW, position_effect, season_effect, sigma_player, z_player]
+{
+  "completed_at": "2026-09-28T23:00:34.735495+00:00",
+  "protocol_sha256": "0fc49add517178355ce8b4572de8696864531952500a284eee4eda4c006a64b3",
+  "draws": 1000,
+  "implied_mu_quantiles": {
+    "0.001": 8.673202610586369e-06,
+    "0.01": 0.00021993471454104845,
+    "0.025": 0.0008969421501499033,
+    "0.1": 0.010541083467110097,
+    "0.25": 0.08392742674538914,
+    "0.5": 0.47918990590524624,
+    "0.75": 0.9079164454867834,
+    "0.9": 0.9895218073688614,
+    "0.975": 0.9992511959340529,
+    "0.99": 0.9998281472429263,
+    "0.999": 0.9999942076305731
+  },
+  "fraction_below_001": 0.09744924623115578,
+  "fraction_above_099": 0.09780201005025126,
+  "all_finite": true,
+  "acceptable": true,
+  "interpretation": "Broad weakly informative support, not a calibrated population FT distribution; gate assesses boundary pathologies only.",
+  "observed_association_examined": false
+}

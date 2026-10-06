@@ -1,0 +1,129 @@
+{
+  "classification": "SHOT-TYPE EXTENSION BLOCKED",
+  "files": {
+    "docs/stage4x_evidence/player_game_disagreements.csv": {
+      "sha256": "362d2934a35534a40eb91ddeaedd883fbb5d48079bb77e7d0bb09713d7cc1749",
+      "bytes": 39048
+    },
+    "docs/stage4x_evidence/official_probe_error.txt": {
+      "sha256": "fdba49da4d529d2a1ce605179d9ebda3170962b8fd7f47af0a8dc1d378c27d98",
+      "bytes": 78
+    },
+    "docs/stage4x_evidence/candidate_outcome_counts.csv": {
+      "sha256": "55c9aa58700015b995e212d71f5cab08fa491e6b54cd653f4e707f004af585fe",
+      "bytes": 2940
+    },
+    "docs/stage4x_evidence/duplicate_record_groups.csv": {
+      "sha256": "ff7a8810bf9050ea0ce60d05ad170f643a8cf4af75cfe775c1f5aa3224ddd3d5",
+      "bytes": 37409
+    },
+    "docs/stage4x_evidence/heterogeneity_test.json": {
+      "sha256": "5033cfa8082e974655e7cdb23967954c616b245c62b6c4ea2bfbbe5d3a6397c7",
+      "bytes": 132
+    },
+    "docs/stage4x_evidence/archive_directory.json": {
+      "sha256": "9967ee30cf0149cd2c9ddacfee7daa37c2950cc0d50afdbbf6ad61ce1d21e7f2",
+      "bytes": 24300
+    },
+    "docs/stage4x_evidence/archive_readme.md": {
+      "sha256": "0af5e822314b0fd95c66df9c1394dc30e5d1827ee0198a58b6eb7cd8b257bfbb",
+      "bytes": 2714
+    },
+    "docs/stage4x_evidence/history_read_receipt.json": {
+      "sha256": "db9c855805c7bf2271aa07f846c97858b9686fe286297a5ea91f20bb270cf8f9",
+      "bytes": 1270
+    },
+    "docs/stage4x_evidence/shot_zone_mapping_protocol.json": {
+      "sha256": "d7604d51af7edd9edc1222e21b002221b48bff255695e9f640a85d13afda2f6a",
+      "bytes": 897
+    },
+    "docs/stage4x_evidence/preservation_manifest.json": {
+      "sha256": "7e362dc98f15a3711197448ef74fa42f561d416dfb63143a5b1eeac56e405245",
+      "bytes": 2782836
+    },
+    "docs/stage4x_evidence/zone_type_conflicts.csv": {
+      "sha256": "498585ca113acb9e66490da5f22bf39a28090877ea5ab2cddfb629240d85641c",
+      "bytes": 176500
+    },
+    "docs/stage4x_evidence/source_audit_log.txt": {
+      "sha256": "f5dfee8baa0331d297e6e379f2cea22b630ea1159c811f4ea1051b3f6b10f37d",
+      "bytes": 8117
+    },
+    "docs/stage4x_evidence/shot_source_validation.json": {
+      "sha256": "8272c5e63dc0146579d6e687fbd90980ab6efa299d87229814c56a4548abea11",
+      "bytes": 3839
+    },
+    "docs/stage4x_evidence/shot_data_inventory.json": {
+      "sha256": "952473f77890a6ddb1a2973064da79075978f12bb63846b9759f3e6682141283",
+      "bytes": 208117
+    },
+    "docs/stage4x_evidence/download_verification.json": {
+      "sha256": "19f51c212e9c776622012314a5c8b7c95c0dfb92f9ff73706381181bf67d8da9",
+      "bytes": 479
+    },
+    "docs/stage4x_evidence/shot_season_coverage.csv": {
+      "sha256": "7a9d800469b7385d477de72f5f8a6a36d2f0a9a4890dbf2ba0dbbeead49324fa",
+      "bytes": 1264
+    },
+    "docs/stage4x_evidence/shot_player_linkage.csv": {
+      "sha256": "e058d4c5517c2665ed95ab1602e7f071d4f3e02caea2fa9d4cbb5a199a0e48b3",
+      "bytes": 262351
+    },
+    "docs/stage4x_evidence/test_summary.json": {
+      "sha256": "cc0326e94b61c93520ccb88db1a43162f574aa3d6791c25fbbe1d2e3575860ad",
+      "bytes": 603
+    },
+    "docs/stage4x_evidence/zone_3pt_reconciliation.csv": {
+      "sha256": "5fb56ad78f794a49a5ed2ec5e4bf84836e0afe749c2499887d81b8d43cda2c87",
+      "bytes": 310806
+    },
+    "docs/stage4x_evidence/downloaded_sources.json": {
+      "sha256": "827554a5c32143e498b31e1235685abfde3eab0bcb58c069bcb9dbd8ffdbbc98",
+      "bytes": 11287
+    },
+    "docs/stage4x_evidence/audit_counts.json": {
+      "sha256": "65c086b4679cc0bfa3ed8d39749ceaca3419ef323555679f19d5e5292f8ac4a9",
+      "bytes": 8535
+    },
+    "docs/stage4x_evidence/zone_counts.csv": {
+      "sha256": "b85ac83c7761872fc47b7299b7a10164bd2a7210faf99ff0589ace4033c1f0cb",
+      "bytes": 3329
+    },
+    "docs/stage4x_evidence/requirement_status.csv": {
+      "sha256": "f13418e3d0805989a76cb31c5a1308629a7780afa29099d67c10a525c5ebbfe4",
+      "bytes": 858
+    },
+    "docs/stage4x_evidence/test_run.txt": {
+      "sha256": "b9bd41af95bdd95249b6bd249f4b4e6b612610b81f50072a7649d3398f61823e",
+      "bytes": 748
+    },
+    "docs/stage4x_evidence/shot_source_provenance.md": {
+      "sha256": "e875a1e3d3ef85e7961a18dcfb8d0a0deb9cb7af5ffe02ab0db21af946b141c9",
+      "bytes": 2208
+    },
+    "docs/stage4x_evidence/archive_commit.json": {
+      "sha256": "b66aa510f78ece7470084a736608b14ba2e2e5cdc7f32efab01886939d65030f",
+      "bytes": 5934
+    },
+    "docs/stage4x_shot_data_feasibility.md": {
+      "sha256": "41ba1128638018391bbf32ca368ba947fef096889da2534b1403a52a87b4a2e9",
+      "bytes": 1943
+    },
+    "docs/stage4x_shot_type_specificity.md": {
+      "sha256": "310d86c9b3bbde9324825b812c57bddc618c0776b197629acaf20643937a2cca",
+      "bytes": 6627
+    },
+    "scripts/stage4x_feasibility.py": {
+      "sha256": "1b456fb4d071dfa566bce330882ea272c0badcbf7ff37fc8f692137cf2dd7fb9",
+      "bytes": 5880
+    },
+    "scripts/test_stage4x.py": {
+      "sha256": "7bb505d5dbd7e78ac210716f6128a397b47fd9e4022e51db3f5fb0bf9a54911c",
+      "bytes": 4561
+    },
+    "scripts/stage4x_finish_audit.py": {
+      "sha256": "809f66e33c6567617ca033a1fe9502399f3b0a6fdb41850151d66108756071fd",
+      "bytes": 17018
+    }
+  }
+}

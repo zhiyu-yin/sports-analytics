@@ -1,0 +1,42 @@
+{
+  "pre2014_rows": 970,
+  "complete_pairs": 965,
+  "core_conflicts": [],
+  "standing_reach_official_conflicts": [
+    {
+      "player_id": "12038",
+      "player_name": "Robb Dryden",
+      "year": 2001,
+      "height_agrees": true,
+      "wingspan_agrees": true,
+      "complete_pair": true,
+      "standing_reach_agrees": false
+    },
+    {
+      "player_id": "12170",
+      "player_name": "Damone Thornton",
+      "year": 2001,
+      "height_agrees": true,
+      "wingspan_agrees": true,
+      "complete_pair": true,
+      "standing_reach_agrees": false
+    }
+  ],
+  "duplicate_player_year_keys": [],
+  "reference_numeric_display": {
+    "HEIGHT_WO_SHOES": {
+      "exact": 960
+    },
+    "WINGSPAN": {
+      "exact": 960
+    },
+    "STANDING_REACH": {
+      "exact": 957,
+      "conflict": 2,
+      "missing": 1
+    }
+  },
+  "reference_implausible_core": 0,
+  "reference_reach_not_above_height": 0,
+  "reference_reach_outside_80_132": 0
+}

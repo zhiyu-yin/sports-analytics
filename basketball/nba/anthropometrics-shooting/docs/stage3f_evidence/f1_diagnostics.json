@@ -1,0 +1,25 @@
+{
+  "candidate": "F1",
+  "attempt": 1,
+  "max_rhat": 1.0045233608348685,
+  "min_bulk_ESS": 1026.5097086803107,
+  "min_tail_ESS": 2183.316116418772,
+  "BFMI": [
+    0.6537230749248746,
+    0.6972178272850749,
+    0.7536480563721916,
+    0.6849937033587924
+  ],
+  "divergences": 0,
+  "max_depth_hits": 0,
+  "finite_covariance": true,
+  "numeric_gate_pass": true,
+  "visual_review": {
+    "reviewed_at": "2026-09-29T18:42:23.255926+00:00",
+    "chains_mix": true,
+    "energy_acceptable": true,
+    "notes": "Four-chain distributions and traces overlap across permitted mechanism and adjustment variables without sustained drift or separated modes. Correlation near the positive boundary is consistently explored across chains. Energy overlap is acceptable and all BFMI exceed 0.3. No scientific-coefficient plot was created or inspected."
+  },
+  "checked_at": "2026-09-29T18:41:22.834829+00:00",
+  "sampler_pass": true
+}

@@ -1,0 +1,6 @@
+{
+  "status": "NOT_RUN",
+  "reason": "PRIOR_OPPORTUNITY_GATE_FAILED",
+  "posterior_fitted": false,
+  "sampler_pass": null
+}

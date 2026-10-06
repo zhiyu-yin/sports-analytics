@@ -1,0 +1,29 @@
+{
+  "candidate": "D2",
+  "started_at": "2026-09-29T00:41:27.193708+00:00",
+  "completed_at": "2026-09-29T00:41:29.785656+00:00",
+  "protocol_sha256": "8be5e5b796396ae0edc5d01ba5c1a6b62ceb0928aae6f47d7f0180595b3ea703",
+  "model_code_sha256": "a3c1afed6d912b9e4926040315297152dbebb55d4b6ef3105b8fd77feb5a3c97",
+  "draws": 2000,
+  "seed": 20260928,
+  "accuracy": {
+    "finite": true,
+    "fraction_below_001": 0.0997574120603015,
+    "fraction_above_099": 0.09585439698492462,
+    "quantiles": {
+      "0.001": 7.547588546653944e-06,
+      "0.01": 0.00021097288239265425,
+      "0.025": 0.0008649011543289385,
+      "0.25": 0.08010959876823673,
+      "0.5": 0.4742439709750233,
+      "0.75": 0.9058122522644149,
+      "0.975": 0.9992020640901192,
+      "0.99": 0.9998129422770099,
+      "0.999": 0.9999931104888602
+    },
+    "acceptable": true
+  },
+  "posterior_fitted": false,
+  "scientific_parameter_status": "SEALED_PENDING_STAGE3E",
+  "acceptable": true
+}

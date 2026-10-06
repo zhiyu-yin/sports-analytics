@@ -1,0 +1,52 @@
+{
+  "draws": 1000,
+  "seed": 20260929,
+  "replicated_makes_summary": {
+    "mean": 358544.778,
+    "median": 358560.5,
+    "SD": 609.2215143685994,
+    "CI95": [
+      357279.775,
+      359702.5
+    ]
+  },
+  "observed_total_FTM": 360001,
+  "FTA": 469099,
+  "pooled_rate": {
+    "metric": "pooled_rate",
+    "observed": 0.7674307555547976,
+    "replicated_mean": 0.7643264598730758,
+    "replicated_median": 0.7643599751864745,
+    "predictive_95_low": 0.7616297945636209,
+    "predictive_95_high": 0.7667944293208896,
+    "predictive_99_low": 0.7609373287941351,
+    "predictive_99_high": 0.7672776428856168,
+    "outside_99": true,
+    "posterior_predictive_tail_fraction": 0.004
+  },
+  "global_distribution_outside_99": 2,
+  "season_rates_outside_99": 0,
+  "metrics_outside_99": [
+    "pooled_rate",
+    "rate_q95",
+    "rate_one_fraction",
+    "FTA_1-9_pooled",
+    "FTA_1-9_one_fraction",
+    "FTA_10-49_pooled",
+    "FTA_50-99_q95",
+    "FTA_100-299_pooled",
+    "FTA_300+_pooled"
+  ],
+  "serious_failure_by_frozen_rule": true,
+  "minimum_alpha": 37.32612185950724,
+  "minimum_beta": 7.079996149467637,
+  "visual_review": {
+    "reviewed_at": "2026-09-28T23:29:31.079487+00:00",
+    "acceptable": false,
+    "figure": "primary_04_PPC.png",
+    "metric_table": "primary_PPC_metrics.csv",
+    "notes": "Frozen serious-failure rule triggered by pooled observed FT rate above the 99% predictive interval (tail fraction 0.004). The pooled miss is close to the finite-simulation boundary and is not reclassified after inspection. Additional systematic discrepancies: FTA 1-9 and 10-49 pooled rates overpredicted; FTA 100-299 and 300+ underpredicted; overall q95 and perfect-rate fraction overpredicted. Observed overall and within-player rate SD are high relative to replications (outside 95%, inside 99%); between-player pooled-rate SD and all season pooled rates fall inside 99% intervals. These findings do not support adequate scientific inference under the frozen gate. No formula, prior, predictor or threshold changed."
+  },
+  "scope": "Conditional replication for observed players/attempt denominators, not an out-of-sample validation",
+  "metric_table": "primary_PPC_metrics.csv"
+}

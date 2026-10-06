@@ -1,0 +1,8 @@
+{
+  "started_at": "2026-10-01T00:55:39.224269+00:00",
+  "reason": "Execute independent predeclared secondary analyses while J2 bootstrap numerical failures are retained; no J2 interval interpretation or repair",
+  "source_sha256": "7e734b831fd362bc083836b8c82593c3979dc657e209cfe7b3b6216b36e4b63e",
+  "exact_original_AST_suffix_sha256": "f678b0698a1ff0afc84d88e46974fb9a06ccd0c4e3a9000ea3bacc8ffcf7aa90",
+  "primary_sha256": "79b8f461efcc61e0a6e3ff33728fa0d0019839aae03b9809d530f8c9b6906e02",
+  "model_changes": false
+}

@@ -1,0 +1,6 @@
+{
+  "original_code_sha256": "d3fa74b13939379c9845a8d0cc3724637b78292e286272ad5e4ab186d6773a1c",
+  "replay_code_sha256": "8cd5d13861d75dcd0cfe992977888bc95c375c3bef99ff32f24041330a8fd514",
+  "exact_all_other_fields": true,
+  "reason": "Freeze path extended to preserve failed PPC results without granting scientific authorization; original provenance hash retained."
+}

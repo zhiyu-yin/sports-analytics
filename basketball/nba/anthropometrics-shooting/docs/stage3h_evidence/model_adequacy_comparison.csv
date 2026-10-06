@@ -1,0 +1,5 @@
+candidate,status,sampler_pass,max_rhat,min_bulk_ESS,min_tail_ESS,accuracy_pass,opportunity_pass,FTA_bin_failures,systematic_volume_pattern,latent_dimensions_per_player
+F1,ASSESSED,True,1.0045233608348685,1026.5097086803107,2183.316116418772,False,False,3.0,True,3
+F2,ASSESSED,False,1.1157045388632858,28.772624512035552,54.35964679340014,,,,,3
+H1,ASSESSED,True,1.0036319066805863,1298.755587882198,2479.556884332088,False,False,3.0,True,2
+H2,ASSESSED,True,1.0041380088688636,1400.6780166681574,2732.4494709529213,False,False,0.0,True,2

@@ -1,0 +1,47 @@
+{
+  "beta": -0.03342553935118659,
+  "odds_ratio": 0.9671269214484619,
+  "kappa": 32.01931413399689,
+  "rho": 0.030285305016992878,
+  "attempts": [
+    {
+      "start_kappa": 10.0,
+      "success": true,
+      "accepted": true,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "negative_log_likelihood": 12915.903905172256,
+      "score_max": 0.0008870611202098644,
+      "iterations": 28
+    },
+    {
+      "start_kappa": 50.0,
+      "success": true,
+      "accepted": true,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "negative_log_likelihood": 12915.903905172272,
+      "score_max": 5.851034789827736e-05,
+      "iterations": 32
+    },
+    {
+      "start_kappa": 200.0,
+      "success": true,
+      "accepted": true,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "negative_log_likelihood": 12915.903905172363,
+      "score_max": 0.0003456216999602191,
+      "iterations": 31
+    }
+  ],
+  "converged": true,
+  "player_seasons": 4117,
+  "players": 857,
+  "seasons": 13,
+  "positive_FTA_rows": 3980,
+  "zero_FTA_rows": 137,
+  "contributing_players": 835,
+  "FTA": 469099,
+  "FTM": 360001,
+  "status": "Original fit valid; bootstrap uncertainty awaiting completion / numerical gate",
+  "same_frozen_estimator": true,
+  "recorded_at": "2026-10-01T00:55:38.359009+00:00"
+}

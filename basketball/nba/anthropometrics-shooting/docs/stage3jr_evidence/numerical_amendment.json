@@ -1,0 +1,10 @@
+{
+  "frozen_at": "2026-10-01T01:23:38.348456+00:00",
+  "previous_protocol_sha256": "cf85b4bf5c182a55f1b18ea470e1da026a742532aa9242c9b7c4cbb643bbb676",
+  "new_protocol_sha256": "bdbd3a4cdd1041ac76d4d2f17cf90e613412a23d2ef01484ab47254b0c0a48da",
+  "basis": "Four numerical solver-status failures only; no scientific summary",
+  "acceptance_criteria_unchanged": true,
+  "model_unchanged": true,
+  "original_trial_preserved": true,
+  "scientific_firewall_intact": true
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "source": "warriors_2016_17_guide",
+    "url": "https://ak-static-int.nba.com/wp-content/uploads/sites/3/2016/10/2016-17-Media-Guide-Warriors.pdf",
+    "retrieval_timestamp": "2026-09-28T19:20:32.841198+00:00",
+    "http_status": 200,
+    "transport_exit": 0,
+    "error": "",
+    "raw_sha256": "d27ef1c611a7b7c6c2d2c6b0dca4454200bf900bfb17217d51d0fba21b90b7b8",
+    "raw_path": "data/raw/stage0b/d27ef1c611a7b7c6c2d2c6b0dca4454200bf900bfb17217d51d0fba21b90b7b8.payload",
+    "bytes": 20195574
+  },
+  {
+    "source": "combine_2013_original",
+    "url": "https://mediacentral.nba.com/media/mediacentral/051713-2013-NBA-Draft-Combine-Anthropometric-Results.pdf",
+    "retrieval_timestamp": "2026-09-28T19:20:32.841867+00:00",
+    "http_status": 200,
+    "transport_exit": 0,
+    "error": "",
+    "raw_sha256": "4a873ff5f440fb4e9dfd8773adc928fde311de7dd31aa0f6c4f1c3b9109f2b66",
+    "raw_path": "data/raw/stage0b/4a873ff5f440fb4e9dfd8773adc928fde311de7dd31aa0f6c4f1c3b9109f2b66.payload",
+    "bytes": 14396
+  },
+  {
+    "source": "combine_2013_stats",
+    "url": "https://stats.nba.com/stats/draftcombineplayeranthro?LeagueID=00&SeasonYear=2013",
+    "retrieval_timestamp": "2026-09-28T19:20:32.842002+00:00",
+    "http_status": 0,
+    "transport_exit": 56,
+    "error": "curl: (56) Recv failure: Operation timed out",
+    "raw_sha256": null,
+    "raw_path": null,
+    "bytes": 0
+  },
+  {
+    "source": "durant_career_stats",
+    "url": "https://stats.nba.com/stats/playercareerstats?LeagueID=00&PerMode=Totals&PlayerID=201142",
+    "retrieval_timestamp": "2026-09-28T19:20:33.615817+00:00",
+    "http_status": 0,
+    "transport_exit": 28,
+    "error": "curl: (28) Operation timed out after 40006 milliseconds with 0 bytes received",
+    "raw_sha256": null,
+    "raw_path": null,
+    "bytes": 0
+  },
+  {
+    "source": "durant_mvp",
+    "url": "https://pr.nba.com/kevin-durant-2013-14-kia-nba-mvp/",
+    "retrieval_timestamp": "2026-09-28T19:20:33.754732+00:00",
+    "http_status": 200,
+    "transport_exit": 0,
+    "error": "",
+    "raw_sha256": "803f416e3f9d847d04c81c4b8cabccbbeed35477af40f76b97e38a65d0b02be1",
+    "raw_path": "data/raw/stage0b/803f416e3f9d847d04c81c4b8cabccbbeed35477af40f76b97e38a65d0b02be1.payload",
+    "bytes": 121862
+  },
+  {
+    "source": "largest_wingspans",
+    "url": "https://www.nba.com/news/nba-draft-combine-largest-wingspans",
+    "retrieval_timestamp": "2026-09-28T19:20:34.674533+00:00",
+    "http_status": 200,
+    "transport_exit": 0,
+    "error": "",
+    "raw_sha256": "54b63a8ffbe90c76e2b023cdd7a4999f3f5c2749834312e4809e242f2ba629d8",
+    "raw_path": "data/raw/stage0b/54b63a8ffbe90c76e2b023cdd7a4999f3f5c2749834312e4809e242f2ba629d8.payload",
+    "bytes": 332523
+  }
+]

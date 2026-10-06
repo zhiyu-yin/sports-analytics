@@ -1,0 +1,13 @@
+{
+  "python": "3.10.8",
+  "executable": "/Users/zhiyuyin/Documents/last time job hunting material/proj/sports-analytics/basketball/nba/anthropometrics-shooting/.venv/bin/python",
+  "packages": {
+    "statsmodels": "0.14.5",
+    "numpy": "2.2.6",
+    "scipy": "1.15.3",
+    "pandas": "2.2.3",
+    "pyarrow": "21.0.0",
+    "matplotlib": "3.10.3"
+  },
+  "policy": "Reuse existing .venv; no installation"
+}

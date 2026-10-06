@@ -1,0 +1,28 @@
+{
+  "primary": {
+    "path": "data/processed/stage3_primary_replication_panel.parquet",
+    "sha256": "1c34331385e459ac5da67105658730d31d96c8114bd25fcb3b31cea52f1a1871",
+    "player_seasons": 4117,
+    "players": 857,
+    "seasons": 13,
+    "positive_FTA_rows": 3980,
+    "zero_FTA_rows": 137,
+    "contributing_players": 835,
+    "FTA": 469099,
+    "FTM": 360001
+  },
+  "full": {
+    "path": "data/processed/stage3_multiseason_ft_panel.parquet",
+    "sha256": "5306ffd228fb71b34b174d18cf86e351b6fa48598579e4f49935078239662978",
+    "player_seasons": 4428,
+    "players": 866,
+    "seasons": 14,
+    "positive_FTA_rows": 4279,
+    "zero_FTA_rows": 149,
+    "contributing_players": 843,
+    "FTA": 511686,
+    "FTM": 392216
+  },
+  "historical_artifacts": 1323,
+  "verified_at": "2026-10-01T00:49:30.082574+00:00"
+}

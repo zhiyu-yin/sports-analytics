@@ -1,0 +1,130 @@
+[
+  {
+    "path": "data/raw/stage3/combine_2014.json",
+    "sha256": "349f41829a47b17a1f87f56c17f2ebeb47dc7b07f1e66882364956dc99e0123f",
+    "url": "https://www.nba.com/stats/draft/combine-anthro?SeasonYear=2014-15",
+    "retrieved_at": "2026-09-28T21:43:01.274Z",
+    "accepted": true,
+    "note": "official rendered DOM factual table"
+  },
+  {
+    "path": "data/raw/stage3/combine_2015.json",
+    "sha256": "d5120a1b25b08b0357fad2bdc36c112c0a4b044f936aae7344735b951a1b7daf",
+    "url": "https://www.nba.com/stats/draft/combine-anthro?SeasonYear=2015-16",
+    "retrieved_at": "2026-09-28T21:43:49.890Z",
+    "accepted": true,
+    "note": "official rendered DOM factual table"
+  },
+  {
+    "path": "data/raw/stage3/combine_2016.json",
+    "sha256": "84b2765a295fab7541e307c48239944dc2c58093e5404d80b80ce4eac1666754",
+    "url": "https://www.nba.com/stats/draft/combine-anthro?SeasonYear=2016-17",
+    "retrieved_at": "2026-09-28T21:44:08.010Z",
+    "accepted": true,
+    "note": "official rendered DOM factual table"
+  },
+  {
+    "path": "data/raw/stage3/combine_2017.json",
+    "sha256": "9b86d1f40910adfb3fbad4d531cbbf054c86f411c66d17546346dc0c5462cfc2",
+    "url": "https://www.nba.com/stats/draft/combine-anthro?SeasonYear=2017-18",
+    "retrieved_at": "2026-09-28T21:44:22.626Z",
+    "accepted": true,
+    "note": "official rendered DOM factual table"
+  },
+  {
+    "path": "data/raw/stage3/combine_2018.json",
+    "sha256": "f15cf3d6219724d150239f39f29cddc92c5943c3c6476e9ef3484aa88e0951d0",
+    "url": "https://www.nba.com/stats/draft/combine-anthro?SeasonYear=2018-19",
+    "retrieved_at": "2026-09-28T21:44:40.204Z",
+    "accepted": true,
+    "note": "official rendered DOM factual table"
+  },
+  {
+    "path": "data/raw/stage3/combine_2019.json",
+    "sha256": "0ca2ccf450d9a77bbe74ffa3499c12b255828ba5c16f792d0b1a2f0164b8b9e4",
+    "url": "https://www.nba.com/stats/draft/combine-anthro?SeasonYear=2019-20",
+    "retrieved_at": "2026-09-28T21:45:02.286Z",
+    "accepted": true,
+    "note": "official rendered DOM factual table"
+  },
+  {
+    "path": "data/raw/stage3/combine_2020.json",
+    "sha256": "02be04d96ed54a009bea6e066293489ac96afe29844fe243a64c8f717948da3b",
+    "url": "https://www.nba.com/stats/draft/combine-anthro?SeasonYear=2020-21",
+    "retrieved_at": "2026-09-28T21:45:16.185Z",
+    "accepted": true,
+    "note": "official rendered DOM factual table"
+  },
+  {
+    "path": "data/raw/stage3/combine_2021.json",
+    "sha256": "2aabf45288d98c4af0417e6ecd0529c7eb1aac29d79482db34c9ea6c570d6e8f",
+    "url": "https://www.nba.com/stats/draft/combine-anthro?SeasonYear=2021-22",
+    "retrieved_at": "2026-09-28T21:45:41.236Z",
+    "accepted": true,
+    "note": "official rendered DOM factual table"
+  },
+  {
+    "path": "data/raw/stage3/combine_2022.json",
+    "sha256": "66e7f64f73bf433d9318df9b4244d6ca7134622b3b494d969a735af6265135fa",
+    "url": "https://www.nba.com/stats/draft/combine-anthro?SeasonYear=2022-23",
+    "retrieved_at": "2026-09-28T21:45:59.590Z",
+    "accepted": true,
+    "note": "official rendered DOM factual table"
+  },
+  {
+    "path": "data/raw/stage3/players_2010-11.json",
+    "sha256": "dd6a716edff1f0d62a499a3fc2f29f1d352fc70227888d2786656cda5ac5e690",
+    "url": "https://www.nba.com/stats/players/traditional?Season=2010-11&SeasonType=Regular%20Season&PerMode=Totals",
+    "retrieved_at": "2026-09-28T21:44:46.647Z",
+    "accepted": true,
+    "note": "official rendered DOM factual table"
+  },
+  {
+    "path": "data/raw/stage3/players_2016-17.json",
+    "sha256": "ff34e1d608487c4d09ee353c2fc3e64d0c2b0d08408e07c55698f9e44ea1e182",
+    "url": "https://www.nba.com/stats/players/traditional?Season=2016-17&SeasonType=Regular+Season&PerMode=Totals",
+    "retrieved_at": "2026-09-28T21:45:02.764Z",
+    "accepted": false,
+    "note": "partial pagination capture superseded by complete capture"
+  },
+  {
+    "path": "data/raw/stage3/players_2016-17_complete.json",
+    "sha256": "57731026fb08022a294557e950809cccad58654256143c6e006c12940f9045c0",
+    "url": "https://www.nba.com/stats/players/traditional?Season=2016-17&SeasonType=Regular+Season&PerMode=Totals",
+    "retrieved_at": "2026-09-28T21:46:06.234Z",
+    "accepted": true,
+    "note": "official rendered DOM factual table"
+  },
+  {
+    "path": "data/raw/stage3/players_2023-24.json",
+    "sha256": "a60ab0e389f7f38cb48e0969c59ee7bd6fe8ffc9ac093cd824c57e3c5973a584",
+    "url": "https://www.nba.com/stats/players/traditional?Season=2023-24&SeasonType=Regular+Season&PerMode=Totals",
+    "retrieved_at": "2026-09-28T21:45:39.836Z",
+    "accepted": true,
+    "note": "official rendered DOM factual table"
+  },
+  {
+    "path": "data/raw/stage3/teams_2010-11.json",
+    "sha256": "ac017ed3eac106a9dd04fb1f264124c5c9aa0142a65bbd1dc7a7ae4b0aa24fc9",
+    "url": "https://www.nba.com/stats/teams/traditional?Season=2010-11&SeasonType=Regular%20Season&PerMode=Totals",
+    "retrieved_at": "2026-09-28T21:45:16.920Z",
+    "accepted": true,
+    "note": "official rendered DOM factual table"
+  },
+  {
+    "path": "data/raw/stage3/teams_2016-17.json",
+    "sha256": "8b54a2b28e55a4c6b7300ee28f7eab053b09794dafc88bd70438227506110b8a",
+    "url": "https://www.nba.com/stats/teams/traditional?Season=2016-17&SeasonType=Regular+Season&PerMode=Totals",
+    "retrieved_at": "2026-09-28T21:46:06.422Z",
+    "accepted": true,
+    "note": "official rendered DOM factual table"
+  },
+  {
+    "path": "data/raw/stage3/teams_2023-24.json",
+    "sha256": "7d4494ced43ba8b25d4e613db4cb5e2482d78b716099c05d6e07a29e5b08c467",
+    "url": "https://www.nba.com/stats/teams/traditional?Season=2023-24&SeasonType=Regular+Season&PerMode=Totals",
+    "retrieved_at": "2026-09-28T21:46:19.513Z",
+    "accepted": true,
+    "note": "official rendered DOM factual table"
+  }
+]

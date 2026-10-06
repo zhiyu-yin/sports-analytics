@@ -1,0 +1,17 @@
+{
+  "validated_at": "2026-09-28T23:19:25.685146+00:00",
+  "mode": "NUMBA",
+  "gradient_allclose": true,
+  "rtol": 1e-08,
+  "atol": 1e-08,
+  "max_abs_gradient_difference": 5.4569682106375694e-11,
+  "compile_seconds": 4.2094982920680195,
+  "evaluation_seconds": [
+    0.0005429589655250311,
+    0.0005300410557538271,
+    0.0005009580636397004,
+    0.0004736250266432762,
+    0.00048162497114390135
+  ],
+  "posterior_inspected": false
+}

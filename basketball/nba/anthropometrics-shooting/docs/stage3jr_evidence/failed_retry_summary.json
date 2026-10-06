@@ -1,0 +1,9 @@
+{
+  "completed_at": "2026-10-01T01:25:38.125509+00:00",
+  "original_failures": 299,
+  "repaired": 299,
+  "remaining_failures": 0,
+  "eligible_for_full_rerun": true,
+  "uniform_algorithm": "Exact frozen R0 + per-start R1/R2/R3/R4 polishing",
+  "beta_distribution_summarized": false
+}

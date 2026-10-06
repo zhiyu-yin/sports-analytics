@@ -1,0 +1,16 @@
+{
+  "candidate": "DIAG-A",
+  "attempt": 2,
+  "started_at": "2026-09-29T20:51:32.732652+00:00",
+  "settings": {
+    "chains": 4,
+    "tune": 3000,
+    "draws": 3000,
+    "target_accept": 0.99,
+    "random_seed": 20260928
+  },
+  "status": "COMPLETE",
+  "protocol_sha256": "fbf28d1887e76c0691e2d802fe6234470e26a0112caad402ff5682dbcf0d51f7",
+  "completed_at": "2026-09-29T21:14:34.557806+00:00",
+  "trace_sha256": "7d1635aab0e30b73d5da1a6e29e8a2d94b8c86c6f7f8024eeb09cd64eb793b11"
+}

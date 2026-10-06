@@ -1,0 +1,19 @@
+{
+  "stage3_execution": "BLOCKED_AT_PART_A",
+  "part_A_pass": false,
+  "part_B_started": false,
+  "reason": "Four sampled season-minute totals exceed frozen 0.05 minute tolerance; 170 census minute comparisons exceed it. Count/GP mismatches resolved without modifying prior artifacts.",
+  "not_executed": [
+    "PyMC installation/model specification",
+    "prior predictive simulation",
+    "NUTS sampling",
+    "primary posterior freeze",
+    "full-panel model",
+    "LOSO models",
+    "threshold models",
+    "grouped-position model",
+    "alternate-exposure models",
+    "posterior predictive checks"
+  ],
+  "scientific_direction": "not assessed"
+}

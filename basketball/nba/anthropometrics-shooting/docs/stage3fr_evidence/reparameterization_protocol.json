@@ -1,0 +1,131 @@
+{
+  "frozen_at": "2026-09-29T20:45:58.781129+00:00",
+  "panel_sha256": "1c34331385e459ac5da67105658730d31d96c8114bd25fcb3b31cea52f1a1871",
+  "decomposition_csv_sha256": "2412df80bf520b5dd90b2dc71365651647c59d44bd676de5115a056385bdb1ac",
+  "scales": {
+    "B": 0.43549438676312385,
+    "W": 0.2650297801192153
+  },
+  "scaling_rule": "ddof=1 across all frozen player-season rows, no shooting outcomes",
+  "candidates": {
+    "DIAG-A": "Accuracy only; independent HalfNormal(1) accuracy SD; diagnostic only",
+    "DIAG-B": "All F2 likelihoods; independent marginal SDs; diagnostic only",
+    "DIAG-C": "Opportunity only; 2D marginal covariance with LKJ eta=2.5 induced by original 3D eta=2; diagnostic only",
+    "R1": "Exact scaling of two decomposition coefficients and priors; original noncentered 3D effects",
+    "R2": "R1 plus centered 3D MVNormal effects",
+    "R3": "R1 plus centered (u,v) and noncentered conditional hurdle residual"
+  },
+  "diagnostic_sampling": {
+    "chains": 4,
+    "tune": 1500,
+    "draws": 1500,
+    "target_accept": 0.95,
+    "random_seed": 20260928
+  },
+  "diagnostic_recovery": {
+    "tune": 3000,
+    "draws": 3000,
+    "target_accept": 0.99
+  },
+  "eligible_sampling": {
+    "chains": 4,
+    "tune": 2000,
+    "draws": 2000,
+    "target_accept": 0.95,
+    "random_seed": 20260928
+  },
+  "eligible_recovery": {
+    "tune": 4000,
+    "draws": 4000,
+    "target_accept": 0.99
+  },
+  "max_attempts_per_candidate": 2,
+  "order": [
+    "DIAG-A",
+    "DIAG-B",
+    "DIAG-C",
+    "R1",
+    "R2",
+    "R3"
+  ],
+  "selection": "First equivalent R model passing all sampler gates, including visual mixing; no later R model after a pass; diagnostic models never eligible; no R4",
+  "diagnostics": {
+    "max_rhat": 1.01,
+    "min_bulk_ESS": 400,
+    "min_tail_ESS": 400,
+    "max_divergences": 0,
+    "max_treedepth_hits": 0,
+    "min_BFMI": 0.3,
+    "finite_covariance": true,
+    "visual_review": true,
+    "sealed_parameter_handling": "Include anonymous convergence diagnostics for the sealed slope; never export its location, scale, interval, sign or posterior probability; no raw trace plot of that parameter"
+  },
+  "latent_gate": "Every scalar element of native and induced latent blocks must meet the same ESS/R-hat gates, in addition to all major globals; no threshold relaxations",
+  "PPC": {
+    "draws": 2000,
+    "seed": 20260929,
+    "global_metrics": [
+      "rate_mean",
+      "rate_SD",
+      "rate_q05",
+      "rate_q50",
+      "rate_q95",
+      "rate_zero_fraction",
+      "rate_one_fraction"
+    ],
+    "accuracy_failure_rules": {
+      "pooled_outside_99": true,
+      "global_outside_99_at_least": 3,
+      "season_outside_99_fraction": 0.3333333333333333,
+      "FTA_bin_outside_99_at_least": 2,
+      "systematic_directional_pattern": true
+    },
+    "pattern_definition": "For each bin, bias=replicate mean minus observed. Evidence of direction requires abs(bias)>2.576*MCSE(replica mean), MCSE estimated by 40 consecutive batch means of 50 replicates in chain-major draw order. Both low bins same sign and both high bins opposite sign triggers failure. This is Monte Carlo uncertainty, not posterior predictive interval width.",
+    "joint_failure_rules": {
+      "zero_fraction_outside_99": true,
+      "quantiles": [
+        0.25,
+        0.5,
+        0.75,
+        0.9,
+        0.95
+      ],
+      "quantiles_outside_99_at_least": 3,
+      "season_total_gross_rule": "At least ceil(n_seasons/3) season totals outside 99% predictive intervals in the same direction"
+    },
+    "conditional_accuracy": "Hold observed FTA fixed, using joint posterior",
+    "joint_generation": "Simulate all FTA then FTM conditional on simulated FTA and the same correlated player draw",
+    "opportunity_checks": [
+      "overall distribution",
+      "season distributions/totals",
+      "original-position distributions",
+      "zero fraction",
+      "Q25",
+      "Q50",
+      "Q75",
+      "Q90",
+      "Q95"
+    ],
+    "baseline_policy": "Reuse original 1000 saved D0 replications; no re-evaluation to seek a different baseline outcome"
+  },
+  "positive_count_gate": {
+    "quantiles": [
+      0.25,
+      0.5,
+      0.75
+    ],
+    "fail_at_least": 2,
+    "interval": 0.99
+  },
+  "F2_joint_generation": "Generate all hurdle states and truncated positive FTA, recompute between/within decomposition from that generated panel (including generated zeros), center across unique players, then simulate FTM using the same posterior player effects. Conditional accuracy instead holds observed FTA and decomposition fixed.",
+  "prior_protocol_sha256": "59a342a61a962733a29cce1dedc34cac862d6aa6fba32527fb63e951f8abe6a2",
+  "original_model_sha256": "ed5b1246c89faf77de23898bff5b4641949ab00fd8b75f11f6966a0eeb59a295",
+  "r3_derivation_sha256": "d6516c0162b9f5e2966f1bcf7e0bf1636977cc88408476de5856927afe223ed8",
+  "scientific_parameter_status": "SEALED",
+  "stage3g_executed": false,
+  "frozen_code": {
+    "scripts/stage3fr_model.py": "ffcb76bcc84b54a8a445f4ecf439294a3fdf6e9c00f87b107ee9221e84a20548",
+    "scripts/stage3fr_common.py": "885c40c69bf94ef514b17142021cd7a98f43bec4148fa71ec2d667f55923eacb",
+    "scripts/stage3fr_sampling.py": "d18b7a22c47360f1295f872fd5afe5d70b55dbfcc9b5ec4fcf7f4d270678bb60"
+  }
+}

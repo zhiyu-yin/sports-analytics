@@ -1,0 +1,10 @@
+{
+  "players": 63,
+  "unmatched": [],
+  "statuses": {
+    "exact": 311,
+    "unavailable": 4
+  },
+  "core_conflicts": [],
+  "interpretation": "Secondary corroboration only. Does not count as successful retrieval from official NBA host."
+}

@@ -1,0 +1,87 @@
+{
+  "combine_issues": {
+    "height_inches:missing": 44,
+    "wingspan_inches:missing": 43
+  },
+  "missing": {
+    "HEIGHT_WO_SHOES": 44,
+    "HEIGHT_W_SHOES": 347,
+    "WINGSPAN": 43,
+    "WEIGHT": 46,
+    "STANDING_REACH": 45,
+    "HAND_LENGTH": 780,
+    "HAND_WIDTH": 780
+  },
+  "duplicate_player_year": {},
+  "repeated_player_ids": {
+    "1628417": 2,
+    "1628404": 2,
+    "1628502": 2,
+    "1629005": 2,
+    "1628403": 2,
+    "1628453": 2,
+    "1628959": 2,
+    "1628977": 2,
+    "1628992": 2,
+    "1629004": 2,
+    "1629021": 2,
+    "1628962": 2,
+    "1628968": 2,
+    "1628981": 2,
+    "1628986": 2,
+    "1628998": 2,
+    "1629007": 2,
+    "1629023": 2,
+    "1629025": 2,
+    "1629646": 2,
+    "1629653": 2,
+    "1629656": 2,
+    "1629670": 2,
+    "1629617": 2,
+    "1629674": 2,
+    "1630534": 2,
+    "1630577": 2,
+    "1630548": 2
+  },
+  "wingspan_below_height": 17,
+  "formatted_numeric_issues": [
+    [
+      "1629655",
+      "WINGSPAN",
+      "mismatch"
+    ],
+    [
+      "1629672",
+      "WINGSPAN",
+      "mismatch"
+    ],
+    [
+      "1629675",
+      "HEIGHT_WO_SHOES",
+      "mismatch"
+    ],
+    [
+      "1629023",
+      "WINGSPAN",
+      "mismatch"
+    ]
+  ],
+  "shooting": {
+    "raw_rows": 424478,
+    "rows_without_positive_minutes": 73069
+  },
+  "shooting_conflicting_duplicates": 0,
+  "box_position_distribution": {
+    "(missing)": 184829,
+    "F": 66632,
+    "C": 33316,
+    "G": 66632
+  },
+  "id_name_difference_count": 36,
+  "final_player_season_duplicate_count": 0,
+  "notes": [
+    "Zero-attempt percentages normalized to missing, never 0 accuracy.",
+    "Range flags are review prompts, not corrections.",
+    "Complete measurement means positive plausible numeric height and wingspan."
+  ]
+}

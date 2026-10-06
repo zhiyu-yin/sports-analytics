@@ -1,0 +1,10 @@
+{
+  "classification": "ADEQUACY UNRESOLVED \u2014 D3 FAILS",
+  "stop_phase": "PRIOR_PREDICTIVE",
+  "verification_passed": true,
+  "adequacy_resolved": false,
+  "stage3e_authorized": false,
+  "posterior_fits": 0,
+  "committed": false,
+  "pushed": false
+}

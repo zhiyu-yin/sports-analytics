@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "/Users/zhiyuyin/Documents/last time job hunting material/proj/sports-analytics/basketball/nba/anthropometrics-shooting/scripts/stage3jr_run.py", line 66, in <module>
+    if __name__=='__main__':{'retry':retry,'full':full,'reproduce':reproduce,'decision':decision,'summary':summary}[sys.argv[1]]()
+  File "/Users/zhiyuyin/Documents/last time job hunting material/proj/sports-analytics/basketball/nba/anthropometrics-shooting/scripts/stage3jr_run.py", line 6, in retry
+    p=protocol();assert read(E/'preflight_test_summary.json')['passed'];assert not (E/'failed_retry_summary.json').exists();bundle=inputs();out=[]
+  File "/Users/zhiyuyin/Documents/last time job hunting material/proj/sports-analytics/basketball/nba/anthropometrics-shooting/scripts/stage3j_core.py", line 23, in read
+    def read(p):return json.loads(Path(p).read_text())
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/pathlib.py", line 1134, in read_text
+    with self.open(mode='r', encoding=encoding, errors=errors) as f:
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/pathlib.py", line 1119, in open
+    return self._accessor.open(self, mode, buffering, encoding, errors,
+FileNotFoundError: [Errno 2] No such file or directory: '/Users/zhiyuyin/Documents/last time job hunting material/proj/sports-analytics/basketball/nba/anthropometrics-shooting/docs/stage3jr_evidence/preflight_test_summary.json'

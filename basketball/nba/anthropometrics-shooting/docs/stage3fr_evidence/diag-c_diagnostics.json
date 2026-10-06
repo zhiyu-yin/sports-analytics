@@ -1,0 +1,28 @@
+{
+  "candidate": "DIAG-C",
+  "attempt": 2,
+  "max_rhat": 1.004846419365487,
+  "min_bulk_ESS": 1244.9693662377836,
+  "min_tail_ESS": 2351.1941917755616,
+  "BFMI": [
+    0.6704926832486405,
+    0.7071373549383644,
+    0.6994337824889618,
+    0.7102551276384377
+  ],
+  "divergences": 0,
+  "max_depth_hits": 0,
+  "finite_covariance": true,
+  "sealed_parameter_sampler_pass": true,
+  "numeric_gate_pass": true,
+  "visual_review": {
+    "reviewed_at": "2026-09-29T21:48:29.597048+00:00",
+    "chains_mix": true,
+    "energy_acceptable": true,
+    "scope": "Permitted standardized chains and energy; all non-sealed scalar convergence checks also passed; no scientific-effect plot"
+  },
+  "checked_at": "2026-09-29T21:48:12.862272+00:00",
+  "all_latent_elements_in_gate": true,
+  "sealed_parameter_in_model": false,
+  "sampler_pass": true
+}

@@ -1,0 +1,6 @@
+{
+  "status": "NOT_RUN",
+  "reason": "NOT_FITTED_GLOBAL_PRIOR_STOP",
+  "posterior_fitted": false,
+  "sampler_pass": null
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "source": "Official NBA corroboration / Data Hub",
+    "url": "https://www.nba.com/draft/2022/prospects/andrew-nembhard",
+    "parameters": {},
+    "retrieved_at": "2026-09-28T18:59:31.144044+00:00",
+    "sha256": "335bf97b3fc211698a06c957724043ad444f04b9d825be857644c4981bcf1457",
+    "raw_path": "data/raw/335bf97b3fc211698a06c957724043ad444f04b9d825be857644c4981bcf1457.payload",
+    "transport_exit": 0,
+    "http_status": 200,
+    "error": "",
+    "bytes": 256143
+  },
+  {
+    "source": "Official NBA corroboration / Data Hub",
+    "url": "https://www.nba.com/draft/2022/prospects/nikola-jovic",
+    "parameters": {},
+    "retrieved_at": "2026-09-28T18:59:31.144484+00:00",
+    "sha256": "ad39db32feb5309823e4ee0a918c0b9d15fc142f3ae2dc00958aa9debba80671",
+    "raw_path": "data/raw/ad39db32feb5309823e4ee0a918c0b9d15fc142f3ae2dc00958aa9debba80671.payload",
+    "transport_exit": 0,
+    "http_status": 200,
+    "error": "",
+    "bytes": 258202
+  },
+  {
+    "source": "Official NBA corroboration / Data Hub",
+    "url": "https://combine.nba.com/",
+    "parameters": {},
+    "retrieved_at": "2026-09-28T18:59:31.145968+00:00",
+    "sha256": "6c6a1cd0a9228f505e3395c3f0a704de71199fd65ae3238c74a18f60410aeb98",
+    "raw_path": "data/raw/6c6a1cd0a9228f505e3395c3f0a704de71199fd65ae3238c74a18f60410aeb98.payload",
+    "transport_exit": 0,
+    "http_status": 200,
+    "error": "",
+    "bytes": 3174
+  }
+]

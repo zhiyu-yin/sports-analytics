@@ -1,0 +1,11 @@
+{
+  "reviewed_at": "2026-10-01T00:10:24.271696+00:00",
+  "passed": true,
+  "scope": "All four final figures inspected; labels and intervals readable; failed-sampler panels explicitly withheld; no scientific-effect plot",
+  "figures": {
+    "01_accuracy_comparison.png": "36326280df60aceede0336c35e57b9ee72c02dfabb204b9e4656b1efe15cbedd",
+    "02_positive_FTA_distribution.png": "20ba73216965386fc70b9a2ccf06dc251ca53f091f241420c90a4a2fc12703f3",
+    "03_within_parameters.png": "e631669770204d1ffa08405b909391098504fe1916a1e6489ccfe40e0f3f31f1",
+    "04_count_residual.png": "7e9600f2bd2e2a6f47d1c18169e14a1e8ecb88442de66468590edcd160c25642"
+  }
+}

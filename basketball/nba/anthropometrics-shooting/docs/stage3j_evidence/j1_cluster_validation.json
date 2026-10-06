@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "max_absolute_error": 2.163158541179655e-12,
+  "relative_frobenius_error": 1.264152579601679e-12,
+  "cluster_order_invariant": true,
+  "finite_sample_correction_verified": true,
+  "N": 3980,
+  "K": 28,
+  "G": 835,
+  "correction": 1.0080392164001593
+}

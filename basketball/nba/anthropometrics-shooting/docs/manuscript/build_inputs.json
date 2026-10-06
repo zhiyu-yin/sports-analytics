@@ -1,0 +1,19 @@
+{
+  "docs/stage3j_evidence/primary_result.json": "79b8f461efcc61e0a6e3ff33728fa0d0019839aae03b9809d530f8c9b6906e02",
+  "docs/stage3jr_evidence/full_bootstrap_summary.json": "6933e3ec7bc9bef8b6ec56f141c2bfb44411ba4cfb6865fad10d387827464882",
+  "docs/stage3j_evidence/analysis_protocol.json": "8c2d5908b67018573c655750414cccfa335c37e2dde006a7e8f6ca9fd74bce1d",
+  "docs/stage3j_evidence/j2_original_fit_audit.json": "ce6c8eb6df68fc1585a35662f0d6585527c472cdc018f5e3ad7ea8e0724a0c39",
+  "docs/stage3j_evidence/j3_first_season_result.json": "a6705bbea8f9cb45927e4ac169f1ba5275e79b47348e31f38754a747ac403d12",
+  "docs/stage3j_evidence/j4_player_balanced_result.json": "acd32ebfcdd998adc2a753fbcc61a4f1caf6e0e5113be9a7933b57649bea25b4",
+  "docs/stage3j_evidence/j6_fta_thresholds.csv": "5f5af5fb60d8e3fc914a47c28d83266247fe5a6d567b5c7c4e4484259305acde",
+  "docs/stage3j_evidence/full_panel_secondary_result.json": "78f1095a9f992a35308b140c66f8ea544725a64398c37175e9c2671c191ef44a",
+  "docs/stage3j_evidence/sample_anthropometrics_unique_players.csv": "ad75ee3be09e82df71318070c4480907b96612b106a4a47d36d60b0bfa95b949",
+  "docs/stage3j_evidence/selection_coverage_by_season.csv": "7aef2bd2ddbe84162e18d9f45f29f44cfaac314b0d5e1d206c88c9a6f27df8d2",
+  "docs/stage3dr_evidence/d3_joint_PPC_metrics.csv": "d7a8ab1aaa99767f13d297d9e64489a68069d2f5199e13a3a0144ae5af2fcfc7",
+  "docs/stage3j_evidence/j5_leave_one_season_out.csv": "1e58b20d846357c6a48020609c21e5aa940a5c668bb55a24a8819771008acc20",
+  "docs/stage3j_evidence/loso_summary.json": "6dbfdbe72c7f82b1e2887a7be136d53fca556bf2ec3cac2463dea4e3e3a9fb52",
+  "docs/stage3j_evidence/alternate_exposures_detail.json": "cbfcf488f013d0a84c7462181b3168ef7ffdcf493c9e1bc980a3dcc9d27c9038",
+  "docs/stage3j_evidence/residual_diagnostics_by_fta_bin.csv": "039710875294ac0b5947c13e83c90b1964511096645beabe64e658c6b586e8f0",
+  "docs/stage3_evidence/shooting_archive_provenance.json": "511ccb9dbc27ce413b3fd2900ac902bf6e606afdc87e01c90aac76cb2926cd28",
+  "docs/stage0c_evidence/validation_summary.json": "95bd7a8cbc8869cb3d25499a27476c46ea9b7d038689c76e67d8faf4be62f4a9"
+}

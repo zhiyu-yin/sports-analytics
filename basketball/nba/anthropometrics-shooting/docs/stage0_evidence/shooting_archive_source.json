@@ -1,0 +1,14 @@
+{
+  "source": "Secondary NBA-shaped box-score archive: NocturneBear",
+  "url": "https://raw.githubusercontent.com/NocturneBear/NBA-Data-2010-2024/a5f108b5b1f08074d78b9e8e901926a9ce4c06c5/regular_season_box_scores_2010_2024_part_1.csv",
+  "parameters": {
+    "revision": "a5f108b5b1f08074d78b9e8e901926a9ce4c06c5",
+    "file": "regular_season_box_scores_2010_2024_part_1.csv"
+  },
+  "retrieved_at": "2026-09-28T18:55:19.652355+00:00",
+  "sha256": "ca9636d08c577e3d752f69e32f90b173f4c3374c15f4dc8494b655049fdfc557",
+  "raw_path": "data/raw/ca9636d08c577e3d752f69e32f90b173f4c3374c15f4dc8494b655049fdfc557.payload",
+  "transport_exit": 0,
+  "error": "",
+  "bytes": 22567190
+}

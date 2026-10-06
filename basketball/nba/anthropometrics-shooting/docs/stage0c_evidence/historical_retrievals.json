@@ -1,0 +1,104 @@
+[
+  {
+    "source_name": "NBA 2013 results article",
+    "publisher": "NBA",
+    "source_type": "official_table",
+    "url": "https://www.nba.com/2013/news/05/17/nba-draft-combine-results/",
+    "years": [
+      2013
+    ],
+    "retrieval_timestamp_utc": "2026-09-28T19:53:40.894201+00:00",
+    "http_status": 404,
+    "transport_exit": 0,
+    "error": "",
+    "raw_sha256": "8f0671aaddd4f481b76443f5ce93e576c3d915e44ed98e6d0dd2175a8fa6ee97",
+    "raw_path": "data/raw/stage0c/8f0671aaddd4f481b76443f5ce93e576c3d915e44ed98e6d0dd2175a8fa6ee97.payload",
+    "bytes": 4652,
+    "retrieval_method": "curl GET"
+  },
+  {
+    "source_name": "NBA original 2013 sheet",
+    "publisher": "NBA",
+    "source_type": "official_pdf",
+    "url": "https://mediacentral.nba.com/media/mediacentral/051713-2013-NBA-Draft-Combine-Anthropometric-Results.pdf",
+    "years": [
+      2013
+    ],
+    "retrieval_timestamp_utc": "2026-09-28T19:53:40.894577+00:00",
+    "http_status": 200,
+    "transport_exit": 0,
+    "error": "",
+    "raw_sha256": "4a873ff5f440fb4e9dfd8773adc928fde311de7dd31aa0f6c4f1c3b9109f2b66",
+    "raw_path": "data/raw/stage0c/4a873ff5f440fb4e9dfd8773adc928fde311de7dd31aa0f6c4f1c3b9109f2b66.payload",
+    "bytes": 14396,
+    "retrieval_method": "curl GET"
+  },
+  {
+    "source_name": "Suns 2007 guide location probe",
+    "publisher": "NBA",
+    "source_type": "official_pdf",
+    "url": "https://www.nba.com/media/suns/2007_draft_guide.pdf",
+    "years": [
+      2007
+    ],
+    "retrieval_timestamp_utc": "2026-09-28T19:53:40.896203+00:00",
+    "http_status": 404,
+    "transport_exit": 0,
+    "error": "",
+    "raw_sha256": "8f0671aaddd4f481b76443f5ce93e576c3d915e44ed98e6d0dd2175a8fa6ee97",
+    "raw_path": "data/raw/stage0c/8f0671aaddd4f481b76443f5ce93e576c3d915e44ed98e6d0dd2175a8fa6ee97.payload",
+    "bytes": 4652,
+    "retrieval_method": "curl GET"
+  },
+  {
+    "source_name": "NBA 2019 results article",
+    "publisher": "NBA",
+    "source_type": "official_table",
+    "url": "https://www.nba.com/news/nba-draft-combine-top-measurements-prospects",
+    "years": [
+      2019
+    ],
+    "retrieval_timestamp_utc": "2026-09-28T19:53:40.895537+00:00",
+    "http_status": 200,
+    "transport_exit": 0,
+    "error": "",
+    "raw_sha256": "7cd7c58185e9b6d184ec2ef686133a62e5983f0e87230c53e07507cc105318a8",
+    "raw_path": "data/raw/stage0c/7cd7c58185e9b6d184ec2ef686133a62e5983f0e87230c53e07507cc105318a8.payload",
+    "bytes": 315078,
+    "retrieval_method": "curl GET"
+  },
+  {
+    "source_name": "Wayback official Bulls index",
+    "publisher": "see source URL",
+    "source_type": "historical_official_archive_index",
+    "url": "https://web.archive.org/cdx/search/cdx?url=www.nba.com/bulls/news/predraft_vitals_04.html&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=timestamp:4",
+    "years": [
+      2004
+    ],
+    "retrieval_timestamp_utc": "2026-09-28T19:53:40.896844+00:00",
+    "http_status": 0,
+    "transport_exit": 28,
+    "error": "curl: (28) Connection timed out after 20008 milliseconds",
+    "raw_sha256": null,
+    "raw_path": null,
+    "bytes": 0,
+    "retrieval_method": "curl GET"
+  },
+  {
+    "source_name": "Wayback official 2013 PDF index",
+    "publisher": "see source URL",
+    "source_type": "historical_official_archive_index",
+    "url": "https://web.archive.org/cdx/search/cdx?url=mediacentral.nba.com/media/mediacentral/051713-2013-NBA-Draft-Combine-Anthropometric-Results.pdf&output=json&filter=statuscode:200",
+    "years": [
+      2013
+    ],
+    "retrieval_timestamp_utc": "2026-09-28T19:53:40.898111+00:00",
+    "http_status": 0,
+    "transport_exit": 28,
+    "error": "curl: (28) Connection timed out after 20008 milliseconds",
+    "raw_sha256": null,
+    "raw_path": null,
+    "bytes": 0,
+    "retrieval_method": "curl GET"
+  }
+]

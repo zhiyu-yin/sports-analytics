@@ -1,0 +1,31 @@
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l1dcachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l2cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l3cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.optional.neon'. Detail: [errno 1] Operation not permitted
+test_A_candidate_hash (test_stage1.Stage1) ... ok
+test_B_reference_hash (test_stage1.Stage1) ... ok
+test_C_reference_only (test_stage1.Stage1) ... ok
+test_D_outcome_exclusion (test_stage1.Stage1) ... ok
+test_E_year (test_stage1.Stage1) ... ok
+test_F_primary (test_stage1.Stage1) ... ok
+test_G_counts (test_stage1.Stage1) ... ok
+test_H_zero_accounting (test_stage1.Stage1) ... ok
+test_I_no_threshold (test_stage1.Stage1) ... ok
+test_J_M0 (test_stage1.Stage1) ... ok
+test_K_M1 (test_stage1.Stage1) ... ok
+test_L_M2 (test_stage1.Stage1) ... ok
+test_M_original_positions (test_stage1.Stage1) ... ok
+test_N_no_outcome_grouping (test_stage1.Stage1) ... ok
+test_O_secondary_is_secondary (test_stage1.Stage1) ... ok
+test_P_thresholds (test_stage1.Stage1) ... ok
+test_Q_language (test_stage1.Stage1) ... ok
+test_R_deterministic (test_stage1.Stage1) ... ok
+test_S_binomial_denominator (test_stage1.Stage1) ... ok
+test_T_frozen_code (test_stage1.Stage1) ... ok
+test_U_geometry_application (test_stage1.Stage1) ... ok
+test_V_analysis_hash (test_stage1.Stage1) ... ok
+
+----------------------------------------------------------------------
+Ran 22 tests in 0.126s
+
+OK

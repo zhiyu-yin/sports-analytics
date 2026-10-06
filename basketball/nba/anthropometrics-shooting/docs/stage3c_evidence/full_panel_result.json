@@ -1,0 +1,8 @@
+{
+  "status": "NOT_RUN_PRIMARY_PPC_FAILED",
+  "scientifically_reportable": false,
+  "panel_hash": "5306ffd228fb71b34b174d18cf86e351b6fa48598579e4f49935078239662978",
+  "primary_result_sha256": "84845c1eeef1fde09da865ee18a75c715604c684f60cd9f7d20b7d7e76835d1a",
+  "reason": "Primary posterior predictive gate failed; no full-panel scientific fit authorized by the frozen Stage 3C workflow.",
+  "model_fitted": false
+}

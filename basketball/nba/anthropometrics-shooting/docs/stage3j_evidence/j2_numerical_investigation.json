@@ -1,0 +1,83 @@
+{
+  "recorded_at": "2026-10-01T00:55:38.377220+00:00",
+  "replicates_seen": 467,
+  "failures_seen": 79,
+  "frozen_score_threshold": 0.001,
+  "diagnosis": "Absolute score rejection after relative objective convergence in larger repeated-season bootstrap samples; near-identical start likelihoods do not override the frozen all-start score gate.",
+  "synthetic_4000_row_gradient_max_absolute_error": 5.354933701795517e-06,
+  "optimizer_or_tolerance_changed": false,
+  "failed_replicates_replaced": false,
+  "interval_action": "Withhold J2 bootstrap interval if final failure count exceeds 20. Primary result remains immutable. No recovery tuning authorized in frozen Stage 3J.",
+  "examples": [
+    {
+      "replicate": 9,
+      "error": "RuntimeError(\"BB convergence failure: [{'start_kappa': 10.0, 'success': True, 'accepted': True, 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH', 'negative_log_likelihood': 13085.462645298941, 'score_max': 0.0006401392585075882, 'iterations': 33}, {'start_kappa': 50.0, 'success': True, 'accepted': False, 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH', 'negative_log_likelihood': 13085.462645299074, 'score_max': 0.0012534492783018436, 'iterations': 32}, {'start_kappa': 200.0, 'success': True, 'accepted': True, 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH', 'negative_log_likelihood': 13085.46264529886, 'score_max': 0.00024232374218513542, 'iterations': 32}]\")",
+      "all_optimizer_success": true,
+      "max_score": 0.0012534492783018436,
+      "likelihood_spread": 2.1464074961841106e-10
+    },
+    {
+      "replicate": 13,
+      "error": "RuntimeError(\"BB convergence failure: [{'start_kappa': 10.0, 'success': True, 'accepted': True, 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH', 'negative_log_likelihood': 12977.620300781819, 'score_max': 0.0006194771507885832, 'iterations': 36}, {'start_kappa': 50.0, 'success': True, 'accepted': True, 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH', 'negative_log_likelihood': 12977.620300781638, 'score_max': 0.00027822942233513004, 'iterations': 31}, {'start_kappa': 200.0, 'success': True, 'accepted': False, 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH', 'negative_log_likelihood': 12977.620300781819, 'score_max': 0.0016289439354579827, 'iterations': 34}]\")",
+      "all_optimizer_success": true,
+      "max_score": 0.0016289439354579827,
+      "likelihood_spread": 1.800799509510398e-10
+    },
+    {
+      "replicate": 16,
+      "error": "RuntimeError(\"BB convergence failure: [{'start_kappa': 10.0, 'success': True, 'accepted': False, 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH', 'negative_log_likelihood': 13142.928087836728, 'score_max': 0.0016870410633096355, 'iterations': 33}, {'start_kappa': 50.0, 'success': True, 'accepted': True, 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH', 'negative_log_likelihood': 13142.928087835939, 'score_max': 0.0003967755313043497, 'iterations': 39}, {'start_kappa': 200.0, 'success': True, 'accepted': True, 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH', 'negative_log_likelihood': 13142.928087835962, 'score_max': 0.00046462566923111126, 'iterations': 34}]\")",
+      "all_optimizer_success": true,
+      "max_score": 0.0016870410633096355,
+      "likelihood_spread": 7.894414011389017e-10
+    },
+    {
+      "replicate": 19,
+      "error": "RuntimeError(\"BB convergence failure: [{'start_kappa': 10.0, 'success': True, 'accepted': True, 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH', 'negative_log_likelihood': 13240.887602152572, 'score_max': 0.0005244742659780144, 'iterations': 31}, {'start_kappa': 50.0, 'success': True, 'accepted': False, 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH', 'negative_log_likelihood': 13240.887602152647, 'score_max': 0.001073246221508839, 'iterations': 36}, {'start_kappa': 200.0, 'success': True, 'accepted': True, 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH', 'negative_log_likelihood': 13240.887602152623, 'score_max': 0.0004716915161537827, 'iterations': 36}]\")",
+      "all_optimizer_success": true,
+      "max_score": 0.001073246221508839,
+      "likelihood_spread": 7.457856554538012e-11
+    },
+    {
+      "replicate": 23,
+      "error": "RuntimeError(\"BB convergence failure: [{'start_kappa': 10.0, 'success': True, 'accepted': True, 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH', 'negative_log_likelihood': 12776.990538553564, 'score_max': 0.0008764431519381333, 'iterations': 28}, {'start_kappa': 50.0, 'success': True, 'accepted': True, 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH', 'negative_log_likelihood': 12776.99053855357, 'score_max': 0.0002023230907566287, 'iterations': 33}, {'start_kappa': 200.0, 'success': True, 'accepted': False, 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH', 'negative_log_likelihood': 12776.990538554537, 'score_max': 0.003513532295130517, 'iterations': 32}]\")",
+      "all_optimizer_success": true,
+      "max_score": 0.003513532295130517,
+      "likelihood_spread": 9.731593308970332e-10
+    },
+    {
+      "replicate": 24,
+      "error": "RuntimeError(\"BB convergence failure: [{'start_kappa': 10.0, 'success': True, 'accepted': True, 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH', 'negative_log_likelihood': 13261.06300663179, 'score_max': 0.00010278133192365146, 'iterations': 34}, {'start_kappa': 50.0, 'success': True, 'accepted': True, 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH', 'negative_log_likelihood': 13261.063006631804, 'score_max': 0.0004723991878190503, 'iterations': 39}, {'start_kappa': 200.0, 'success': True, 'accepted': False, 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH', 'negative_log_likelihood': 13261.063006632046, 'score_max': 0.0011639404189630609, 'iterations': 33}]\")",
+      "all_optimizer_success": true,
+      "max_score": 0.0011639404189630609,
+      "likelihood_spread": 2.5647750589996576e-10
+    },
+    {
+      "replicate": 25,
+      "error": "RuntimeError(\"BB convergence failure: [{'start_kappa': 10.0, 'success': True, 'accepted': False, 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH', 'negative_log_likelihood': 13169.698855453935, 'score_max': 0.001160337839351655, 'iterations': 30}, {'start_kappa': 50.0, 'success': True, 'accepted': True, 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH', 'negative_log_likelihood': 13169.698855453757, 'score_max': 0.0001042964545661107, 'iterations': 36}, {'start_kappa': 200.0, 'success': True, 'accepted': True, 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH', 'negative_log_likelihood': 13169.698855453851, 'score_max': 0.0002898649444915691, 'iterations': 33}]\")",
+      "all_optimizer_success": true,
+      "max_score": 0.001160337839351655,
+      "likelihood_spread": 1.7826096154749393e-10
+    },
+    {
+      "replicate": 36,
+      "error": "RuntimeError(\"BB convergence failure: [{'start_kappa': 10.0, 'success': True, 'accepted': True, 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH', 'negative_log_likelihood': 12535.319892199635, 'score_max': 0.0001309895578032183, 'iterations': 33}, {'start_kappa': 50.0, 'success': True, 'accepted': False, 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH', 'negative_log_likelihood': 12535.319892199936, 'score_max': 0.0012259669951149021, 'iterations': 30}, {'start_kappa': 200.0, 'success': True, 'accepted': True, 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH', 'negative_log_likelihood': 12535.319892200305, 'score_max': 0.0003710061452935065, 'iterations': 35}]\")",
+      "all_optimizer_success": true,
+      "max_score": 0.0012259669951149021,
+      "likelihood_spread": 6.693881005048752e-10
+    },
+    {
+      "replicate": 42,
+      "error": "RuntimeError(\"BB convergence failure: [{'start_kappa': 10.0, 'success': True, 'accepted': False, 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH', 'negative_log_likelihood': 12894.966056362613, 'score_max': 0.002105790731201651, 'iterations': 31}, {'start_kappa': 50.0, 'success': True, 'accepted': True, 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH', 'negative_log_likelihood': 12894.966056361958, 'score_max': 0.00030643398089225116, 'iterations': 33}, {'start_kappa': 200.0, 'success': True, 'accepted': True, 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH', 'negative_log_likelihood': 12894.966056361918, 'score_max': 0.00031607733192728915, 'iterations': 36}]\")",
+      "all_optimizer_success": true,
+      "max_score": 0.002105790731201651,
+      "likelihood_spread": 6.948539521545172e-10
+    },
+    {
+      "replicate": 44,
+      "error": "RuntimeError(\"BB convergence failure: [{'start_kappa': 10.0, 'success': True, 'accepted': False, 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH', 'negative_log_likelihood': 12905.3938354413, 'score_max': 0.0021882264630974646, 'iterations': 29}, {'start_kappa': 50.0, 'success': True, 'accepted': True, 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH', 'negative_log_likelihood': 12905.393835440815, 'score_max': 0.0008663728448752295, 'iterations': 36}, {'start_kappa': 200.0, 'success': True, 'accepted': True, 'message': 'CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH', 'negative_log_likelihood': 12905.393835440716, 'score_max': 0.0004071345198770615, 'iterations': 31}]\")",
+      "all_optimizer_success": true,
+      "max_score": 0.0021882264630974646,
+      "likelihood_spread": 5.838955985382199e-10
+    }
+  ]
+}

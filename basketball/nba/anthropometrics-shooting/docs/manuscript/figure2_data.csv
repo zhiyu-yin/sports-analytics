@@ -1,0 +1,9 @@
+analysis,beta,odds_ratio,ci_low,ci_high,uncertainty_method,player_seasons,players,contributing_players,FTA,notes
+Primary grouped-binomial model,-0.030451990605906667,0.9700070003976983,-0.05228115912326727,-0.008622822088546062,Player-cluster CR1,4117,857,835,469099,Primary; development season excluded
+Primary grouped-binomial model (bootstrap),-0.030451990605906667,0.9700070003976983,-0.054330558012167116,-0.010475281001090258,Player bootstrap percentile,4117,857,835,469099,Same original primary point estimate
+Beta-binomial robustness,-0.03342553935118659,0.9671269214484619,-0.0504424509753622,-0.017015686051392698,Remediated player bootstrap percentile,4117,857,835,469099,Secondary; Stage 3J-R numerical remediation
+First eligible season only,-0.027686793730878064,0.9726929726334883,-0.04911562902310414,-0.006257958438651991,HC1,857,857,803,68480,First eligible replication season; zeros not replaced
+Player-balanced weighting,-0.02768225943126821,0.9726973831248539,-0.046365034274872666,-0.008999484587663757,Player-cluster CR1,4117,857,835,469099,1/T_i likelihood weights; information not equalized
+FTA >=50 sensitivity,-0.03144334277491623,0.9690458583477434,-0.0539003572287497,-0.008986328321082752,Player-cluster CR1,2535,545,545,438530,Frozen secondary threshold
+FTA >=100 sensitivity,-0.03488194532831701,0.9657194172169986,-0.05896628757968418,-0.010797603076949835,Player-cluster CR1,1688,398,398,377105,Frozen secondary threshold
+Full panel including development,-0.030828126568849378,0.9696422144893928,-0.052629500892011835,-0.009026752245686925,Player-cluster CR1,4428,866,843,511686,Includes 2013-14 development; not independent replication

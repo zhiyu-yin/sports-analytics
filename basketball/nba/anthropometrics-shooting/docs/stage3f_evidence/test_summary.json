@@ -1,0 +1,7 @@
+{
+  "tests_run": 22,
+  "tests_passed": 22,
+  "passed": true,
+  "historical_artifacts_unchanged": 841,
+  "scope": "Protocol, likelihood, decomposition, data and firewall tests; predictive adequacy is separate"
+}

@@ -1,0 +1,14 @@
+{
+  "intercept": 4.574910520685837,
+  "slope": 1.0013410045156863,
+  "r_squared": 0.7041518917246575,
+  "n": 960,
+  "residual_mean": -3.0346096006420944e-15,
+  "residual_sd": 2.2627170903574103,
+  "reference_hash": "14537d9c1cec20b388fc2cf5c86d7ea9ec2e435117c62da499f2b2fa2820d85a",
+  "code_hash": "21f85586bc6347a562b3ff2a3a43e3e1c9d1be0e5e231a406a252e3df45f4bf1",
+  "predictors": [
+    "height_wo_shoes_inches"
+  ],
+  "response": "wingspan_inches"
+}

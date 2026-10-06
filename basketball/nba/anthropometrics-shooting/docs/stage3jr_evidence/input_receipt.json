@@ -1,0 +1,13 @@
+{
+  "created_at": "2026-10-01T01:11:25.786563+00:00",
+  "panel_sha256": "1c34331385e459ac5da67105658730d31d96c8114bd25fcb3b31cea52f1a1871",
+  "schedule_sha256": "84cac8375563293f1a98a4c601262ee2b56669519c2a92197b79d66ca2ad52bb",
+  "draw_vectors_sha256": "7b5b1d1fa265ac5acca9b3396cce01782b96711096b928b52060479d02af6285",
+  "samples": 2000,
+  "draws_per_sample": 857,
+  "new_samples_drawn": false,
+  "reconstruction": "Exact existing PCG64 stream reconstruction from seed 20260931; all 2000 original sample hashes matched before use",
+  "primary_result_sha256": "79b8f461efcc61e0a6e3ff33728fa0d0019839aae03b9809d530f8c9b6906e02",
+  "old_likelihood_sha256": "bcf2e8b243e6f49a30c30d28603e10b4aec4b33d1faf8d51ec862ed0aa4639b7",
+  "historical_artifacts": 1406
+}

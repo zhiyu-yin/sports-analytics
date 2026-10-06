@@ -1,0 +1,80 @@
+{
+  "candidate": "F1",
+  "replicates": 2000,
+  "seed": 20260929,
+  "pooled_rate_99_pass": true,
+  "global_metrics_99_fail_count": 2,
+  "season_rate_99_fail_count": 0,
+  "season_count": 13,
+  "FTA_bin_99_fail_count": 3,
+  "systematic_volume_pattern": true,
+  "gate_pass": false,
+  "pooled_rate": {
+    "metric": "pooled_rate",
+    "observed": 0.7674307555547976,
+    "replicated_mean": 0.764909146043799,
+    "predictive_99_low": 0.7614873939189809,
+    "predictive_99_high": 0.7682197467911891,
+    "outside_99": false,
+    "MCSE_mean": 3.2967831285254714e-05
+  },
+  "bin_checks": [
+    {
+      "metric": "FTA_1-9_pooled",
+      "observed": 0.6840474961280331,
+      "replicated_mean": 0.7185911202891069,
+      "predictive_99_low": 0.6907537429013939,
+      "predictive_99_high": 0.7454827052142489,
+      "outside_99": true,
+      "MCSE_mean": 0.00029811366442291146
+    },
+    {
+      "metric": "FTA_10-49_pooled",
+      "observed": 0.7152835987706063,
+      "replicated_mean": 0.7321436504610226,
+      "predictive_99_low": 0.7238048337524449,
+      "predictive_99_high": 0.7402909332215702,
+      "outside_99": true,
+      "MCSE_mean": 6.719852960119142e-05
+    },
+    {
+      "metric": "FTA_50-99_pooled",
+      "observed": 0.7443223443223443,
+      "replicated_mean": 0.7482000244200244,
+      "predictive_99_low": 0.7417173789173789,
+      "predictive_99_high": 0.7546603174603175,
+      "outside_99": false,
+      "MCSE_mean": 5.648493908182623e-05
+    },
+    {
+      "metric": "FTA_100-299_pooled",
+      "observed": 0.7663528501418623,
+      "replicated_mean": 0.7626181562204454,
+      "predictive_99_low": 0.7586876880749721,
+      "predictive_99_high": 0.7670626343392658,
+      "outside_99": false,
+      "MCSE_mean": 3.8577243820140476e-05
+    },
+    {
+      "metric": "FTA_300+_pooled",
+      "observed": 0.7904419143855763,
+      "replicated_mean": 0.7828151399799288,
+      "predictive_99_low": 0.775886389590615,
+      "predictive_99_high": 0.7892584351316746,
+      "outside_99": true,
+      "MCSE_mean": 7.024773271950232e-05
+    }
+  ],
+  "metrics_outside_99": [
+    "rate_q95",
+    "FTA_1-9_pooled",
+    "FTA_10-49_pooled",
+    "FTA_300+_pooled",
+    "rate_mean"
+  ],
+  "visual_review": {
+    "reviewed_at": "2026-09-29T18:44:31.569215+00:00",
+    "review_complete": true,
+    "notes": "F1 observed zero fraction is inside its predictive interval, unlike saved F0. Positive-count median and upper quartile remain above 99% intervals. Accuracy still overpredicts both low-volume bins and underpredicts both high-volume bins beyond MC uncertainty, with three pooled-bin interval failures. Visuals agree with the frozen gate outcomes; no rule changed."
+  }
+}

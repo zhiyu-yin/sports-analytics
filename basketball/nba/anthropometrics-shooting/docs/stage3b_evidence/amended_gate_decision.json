@@ -1,0 +1,24 @@
+{
+  "classification": "PASS UNDER AMENDED PROTOCOL",
+  "evaluated_at": "2026-09-28T22:48:00.666138+00:00",
+  "protocol_frozen_at": "2026-09-28T22:47:51.096680+00:00",
+  "protocol_sha256": "6c6c1af1beabe68e68b6d6ed8bf973244867dbc403647a40033eeced0d848230",
+  "conditions": {
+    "exact_FTM_FTA": true,
+    "exact_required_counts": true,
+    "audited_game_MIN": true,
+    "appearance_GP": true,
+    "positive_season_eligibility": true,
+    "recorded_zero_and_DNP": true,
+    "later_anthropometrics": true,
+    "quarantine_preserved": true,
+    "candidate_hashes_and_accounting": true,
+    "no_Stage3_association_examined": true,
+    "historical_chain_unchanged": true
+  },
+  "historical_stage3": "BLOCKED under original protocol",
+  "historical_stage3a": "UNRESOLVED — INSUFFICIENT PRECISION EVIDENCE",
+  "part_b_authorized": true,
+  "part_b_executed": false,
+  "reason": "Field-role and observable-representation rule; not a magnitude-based tolerance. Unknown internal NBA aggregation is retained as a limitation."
+}

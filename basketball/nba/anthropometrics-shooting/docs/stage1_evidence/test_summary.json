@@ -1,0 +1,9 @@
+{
+  "tests": 22,
+  "failures": 0,
+  "errors": 0,
+  "passed": true,
+  "scope": "Stage 1 A\u2013R plus denominator, code, geometry application and derived dataset integrity",
+  "prior_stage_files_verified": 262,
+  "exact_primary_refit": true
+}

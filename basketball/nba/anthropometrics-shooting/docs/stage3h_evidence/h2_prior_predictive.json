@@ -1,0 +1,57 @@
+{
+  "candidate": "H2",
+  "started_at": "2026-09-30T19:13:10.968335+00:00",
+  "completed_at": "2026-09-30T19:14:14.262399+00:00",
+  "draws": 5000,
+  "seed": 20260930,
+  "positive_rate_quantiles": {
+    "0.01": 0.10614215520920922,
+    "0.05": 0.251750719298887,
+    "0.25": 0.853881900296902,
+    "0.5": 1.9974919807795743,
+    "0.75": 4.723491492365726,
+    "0.95": 16.90740559997796,
+    "0.99": 44.56153775068305,
+    "0.999": 162.8044100181949
+  },
+  "total_FTA_quantiles": {
+    "0.01": 0.0,
+    "0.05": 0.0,
+    "0.25": 8.0,
+    "0.5": 46.0,
+    "0.75": 164.0,
+    "0.95": 845.0,
+    "0.99": 2613.0,
+    "0.999": 10184.0
+  },
+  "maximum_FTA": 4609424,
+  "fraction_positive_rate_over_100": 0.0024028661646830216,
+  "fraction_total_FTA_over_1000000": 3.400534369686665e-07,
+  "zero_fraction_95_interval": [
+    0.01360213747874666,
+    0.34200267184843325
+  ],
+  "zero_fraction_median": 0.09521496235122662,
+  "zero_fraction_extreme_mass": 0.0016,
+  "accuracy_fraction_below_001": 0.097240320621812,
+  "accuracy_fraction_above_099": 0.09770332766577605,
+  "accuracy_probability_quantiles": {
+    "0.01": 0.00020618771293943588,
+    "0.05": 0.002851659112245389,
+    "0.25": 0.08487505040576293,
+    "0.5": 0.4975383155719497,
+    "0.75": 0.9136651245193825,
+    "0.95": 0.9972965939786458,
+    "0.99": 0.9998213944475215,
+    "0.999": 0.9999941261951303
+  },
+  "finite": true,
+  "numeric_pass": true,
+  "wide_range_review": {
+    "reviewed_at": "2026-09-30T19:14:37.415420+00:00",
+    "passed": true,
+    "rationale": "Broad zero-fraction 95% interval 1.36%-34.20%, extreme zero mass 0.16%; finite accuracy probabilities with about 9.7% in each near-boundary tail. Gross screen passed without matching observed outcomes or changing priors."
+  },
+  "passed": true,
+  "scientific_parameter_summary_exported": false
+}

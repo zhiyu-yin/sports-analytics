@@ -1,0 +1,6 @@
+{
+  "reviewed_at": "2026-09-29T18:42:23.255926+00:00",
+  "chains_mix": true,
+  "energy_acceptable": true,
+  "notes": "Four-chain distributions and traces overlap across permitted mechanism and adjustment variables without sustained drift or separated modes. Correlation near the positive boundary is consistently explored across chains. Energy overlap is acceptable and all BFMI exceed 0.3. No scientific-coefficient plot was created or inspected."
+}

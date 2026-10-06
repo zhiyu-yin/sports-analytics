@@ -1,0 +1,17 @@
+{
+  "replicates": 2000,
+  "successful": 2000,
+  "failed": 0,
+  "seed": 20260930,
+  "RNG": "numpy.default_rng PCG64",
+  "mean": -0.0317503122488305,
+  "SD": 0.01147371278956374,
+  "percentile_CI": [
+    -0.054330558012167116,
+    -0.010475281001090258
+  ],
+  "fraction_beta_negative": 0.9995,
+  "percentile_method": "linear",
+  "no_failed_replicate_replacement": true,
+  "valid_for_interpretation": true
+}

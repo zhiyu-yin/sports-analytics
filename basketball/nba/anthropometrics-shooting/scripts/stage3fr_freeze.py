@@ -1,0 +1,22 @@
+from stage3fr_common import *
+def main():
+ assert (E/'posterior_geometry_summary.json').exists();assert not (E/'reparameterization_protocol.json').exists()
+ deriv='''# R3 exact mixed parameterization, predeclared before new fits
+
+Order player effects as (u,v,h). Let L be the lower Cholesky factor under the unchanged 3-dimensional LKJ eta=2 covariance prior, and A=L[:2,:2]. Original coordinates are independent standard normal z=(z0,z1,z2), with r=Lz.
+
+Forward: q=(u,v)=A(z0,z1); e=z2. Then h=L20*z0+L21*z1+L22*e.
+
+Inverse: z0=u/L00; z1=(v-L10*z0)/L11; z2=e. Equivalently, from full r, e=(h-L20*z0-L21*z1)/L22. Positive Cholesky diagonals make this invertible almost surely.
+
+New joint latent density: q~MVNormal(0,A*A.T), e~Normal(0,1), independently conditional on L. The forward Jacobian from z to (q,e) is det(A)=L00*L11 per player. Therefore log p(q,e|L) + log det(A) = log p(z). Across N players add N*log det(A). For covariance-dependent transformations the full Jacobian is block triangular with covariance coordinates unchanged, so this is still the complete determinant contribution. The MvNormal density includes this normalization; no additional Potential is added.
+
+The induced r has covariance L*L.T, exactly the original distribution. The same deterministic r enters the same likelihood. R1 coefficient scaling remains, with independent theta_std priors having SD 0.5*s; its coordinate Jacobian is sB*sW. No covariance prior, scientific coefficient prior, categorical coding, predictor, outcome or conditioning set changes.
+
+Accuracy and positive-count directions are centered, while the conditional hurdle residual is non-centered. This fixed choice reflects the likelihood structures (3980 positive accuracy/count rows and sparse binary failures), without fitting a partial-centering coefficient. It does not force effects orthogonal to predictors. R3 is eligible only after both R1 and R2 exhaust their authorized sampler attempts, and after numerical density, inverse, prior and likelihood equivalence validation passes.
+'''
+ (E/'r3_equivalence_derivation.md').write_text(deriv)
+ scales=read(E/'design_identification_audit.json')['scales'];old=read(ROOT/'docs/stage3f_evidence/model_protocol.json')
+ p=dict(frozen_at=now(),panel_sha256=EXPECTED,decomposition_csv_sha256=sha(ROOT/'docs/stage3f_evidence/opportunity_decomposition.csv'),scales=scales,scaling_rule='ddof=1 across all frozen player-season rows, no shooting outcomes',candidates={'DIAG-A':'Accuracy only; independent HalfNormal(1) accuracy SD; diagnostic only','DIAG-B':'All F2 likelihoods; independent marginal SDs; diagnostic only','DIAG-C':'Opportunity only; 2D marginal covariance with LKJ eta=2.5 induced by original 3D eta=2; diagnostic only','R1':'Exact scaling of two decomposition coefficients and priors; original noncentered 3D effects','R2':'R1 plus centered 3D MVNormal effects','R3':'R1 plus centered (u,v) and noncentered conditional hurdle residual'},diagnostic_sampling=dict(chains=4,tune=1500,draws=1500,target_accept=.95,random_seed=20260928),diagnostic_recovery=dict(tune=3000,draws=3000,target_accept=.99),eligible_sampling=dict(chains=4,tune=2000,draws=2000,target_accept=.95,random_seed=20260928),eligible_recovery=dict(tune=4000,draws=4000,target_accept=.99),max_attempts_per_candidate=2,order=['DIAG-A','DIAG-B','DIAG-C','R1','R2','R3'],selection='First equivalent R model passing all sampler gates, including visual mixing; no later R model after a pass; diagnostic models never eligible; no R4',diagnostics=old['diagnostics'],latent_gate='Every scalar element of native and induced latent blocks must meet the same ESS/R-hat gates, in addition to all major globals; no threshold relaxations',PPC=old['PPC'],positive_count_gate=old['positive_count_gate'],F2_joint_generation=old['F2_joint_generation'],prior_protocol_sha256=sha(ROOT/'docs/stage3f_evidence/prior_protocol.json'),original_model_sha256=sha(ROOT/'scripts/stage3f_model.py'),r3_derivation_sha256=sha(E/'r3_equivalence_derivation.md'),scientific_parameter_status='SEALED',stage3g_executed=False,frozen_code={str(f.relative_to(ROOT)):sha(f) for f in [ROOT/'scripts/stage3fr_model.py',ROOT/'scripts/stage3fr_common.py',ROOT/'scripts/stage3fr_sampling.py']})
+ save('reparameterization_protocol.json',p);save('freeze_receipt.json',dict(frozen_at=now(),protocol_sha256=sha(E/'reparameterization_protocol.json')))
+if __name__=='__main__':main()

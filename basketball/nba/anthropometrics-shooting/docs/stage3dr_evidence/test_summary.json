@@ -1,0 +1,7 @@
+{
+  "tests_run": 23,
+  "tests_passed": 23,
+  "passed": true,
+  "historical_artifacts_unchanged": 751,
+  "scope": "Amendment/provenance/model invariants/firewall/frozen gate checks; adequacy remains a separate decision"
+}

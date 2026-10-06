@@ -1,0 +1,29 @@
+player_id,player_name,earliest_year,latest_year,height_change_inches,wingspan_change_inches,classification,eligible_pre2014_records,review_scope,review_flag
+1628417,Jaron Blossomgame,2016,2017,-0.5,0.0,materially different,0,Full-archive supplementary audit; no repeated eligible pre-2014 records,True
+1628404,Josh Hart,2016,2017,-0.25,-0.25,near-identical,0,Full-archive supplementary audit; no repeated eligible pre-2014 records,False
+1628502,Nigel Hayes,2016,2017,0.0,0.25,near-identical,0,Full-archive supplementary audit; no repeated eligible pre-2014 records,False
+1629005,Malik Newman,2016,2018,0.25,-0.25,near-identical,0,Full-archive supplementary audit; no repeated eligible pre-2014 records,False
+1628403,Caleb Swanigan,2016,2017,0.0,-0.5,materially different,0,Full-archive supplementary audit; no repeated eligible pre-2014 records,True
+1628453,Melo Trimble,2016,2017,0.0,0.0,identical,0,Full-archive supplementary audit; no repeated eligible pre-2014 records,False
+1628959,Rawle Alkins,2017,2018,0.25,0.0,near-identical,0,Full-archive supplementary audit; no repeated eligible pre-2014 records,False
+1628977,Hamidou Diallo,2017,2018,0.5,0.25,materially different,0,Full-archive supplementary audit; no repeated eligible pre-2014 records,True
+1628992,Justin Jackson,2017,2018,0.25,-0.25,near-identical,0,Full-archive supplementary audit; no repeated eligible pre-2014 records,False
+1629004,Sviatoslav Mykhailiuk,2017,2018,0.0,-0.25,near-identical,0,Full-archive supplementary audit; no repeated eligible pre-2014 records,False
+1629021,Moritz Wagner,2017,2018,0.5,0.0,materially different,0,Full-archive supplementary audit; no repeated eligible pre-2014 records,True
+1628962,Udoka Azubuike,2018,2020,0.0,0.25,near-identical,0,Full-archive supplementary audit; no repeated eligible pre-2014 records,False
+1628968,Brian Bowen II,2018,2019,0.0,-0.25,near-identical,0,Full-archive supplementary audit; no repeated eligible pre-2014 records,False
+1628981,Bruno Fernando,2018,2019,0.0,-1.0,materially different,0,Full-archive supplementary audit; no repeated eligible pre-2014 records,True
+1628986,Jaylen Hands,2018,2019,0.0,0.0,identical,0,Full-archive supplementary audit; no repeated eligible pre-2014 records,False
+1628998,Cody Martin,2018,2019,0.0,0.0,identical,0,Full-archive supplementary audit; no repeated eligible pre-2014 records,False
+1629007,Jontay Porter,2018,2019,-0.25,-0.25,near-identical,0,Full-archive supplementary audit; no repeated eligible pre-2014 records,False
+1629023,P.J. Washington,2018,2019,0.0,0.0,identical,0,Full-archive supplementary audit; no repeated eligible pre-2014 records,False
+1629025,Kris Wilkes,2018,2019,-0.25,0.5,materially different,0,Full-archive supplementary audit; no repeated eligible pre-2014 records,True
+1629646,Charles Bassey,2019,2021,0.5,-0.5,materially different,0,Full-archive supplementary audit; no repeated eligible pre-2014 records,True
+1629653,Devon Dotson,2019,2020,0.5,-0.25,materially different,0,Full-archive supplementary audit; no repeated eligible pre-2014 records,True
+1629656,Quentin Grimes,2019,2021,0.0,0.25,near-identical,0,Full-archive supplementary audit; no repeated eligible pre-2014 records,False
+1629670,Jordan Nwora,2019,2020,0.0,-0.25,near-identical,0,Full-archive supplementary audit; no repeated eligible pre-2014 records,False
+1629617,Reggie Perry,2019,2020,0.25,-0.25,near-identical,0,Full-archive supplementary audit; no repeated eligible pre-2014 records,False
+1629674,Neemias Queta,2019,2021,0.5,-0.25,materially different,0,Full-archive supplementary audit; no repeated eligible pre-2014 records,True
+1630534,Ochai Agbaji,2021,2022,0.0,0.25,near-identical,0,Full-archive supplementary audit; no repeated eligible pre-2014 records,False
+1630577,Julian Champagnie,2021,2022,-0.25,0.0,near-identical,0,Full-archive supplementary audit; no repeated eligible pre-2014 records,False
+1630548,Johnny Juzang,2021,2022,-0.25,0.5,materially different,0,Full-archive supplementary audit; no repeated eligible pre-2014 records,True

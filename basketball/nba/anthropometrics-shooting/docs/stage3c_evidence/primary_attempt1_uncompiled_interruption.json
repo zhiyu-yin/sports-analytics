@@ -1,0 +1,22 @@
+{
+  "kind": "primary",
+  "attempt": 1,
+  "started_at": "2026-09-28T23:05:43.076784+00:00",
+  "settings": {
+    "chains": 4,
+    "tune": 2000,
+    "draws": 2000,
+    "target_accept": 0.95,
+    "seed": 20260928,
+    "sampler": "PyMC NUTS",
+    "cores": 4,
+    "blas_cores": 1
+  },
+  "protocol_sha256": "0fc49add517178355ce8b4572de8696864531952500a284eee4eda4c006a64b3",
+  "code_sha256": "b789508b952956ff4c69bb94c4efee727ef59b64da69e0cffd82948a85ab8272",
+  "panel_sha256": "1c34331385e459ac5da67105658730d31d96c8114bd25fcb3b31cea52f1a1871",
+  "status": "INTERRUPTED_FOR_BACKEND_PERFORMANCE",
+  "primary_freeze_sha256": null,
+  "completed_at": "2026-09-28T23:19:15.805520+00:00",
+  "reason": "Default uncompiled gradient benchmark ~0.23\u20130.40 seconds per evaluation; no completed posterior or scientific summary inspected."
+}

@@ -1,0 +1,31 @@
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l1dcachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l2cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l3cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.optional.neon'. Detail: [errno 1] Operation not permitted
+test_A_history_preserved (test_stage3f.Stage3F) ... ok
+test_B_panel_hash (test_stage3f.Stage3F) ... ok
+test_C_excluded_season (test_stage3f.Stage3F) ... ok
+test_D_frozen_before_fit (test_stage3f.Stage3F) ... ok
+test_E_separate_hurdle (test_stage3f.Stage3F) ... ok
+test_F_true_truncation (test_stage3f.Stage3F) ... ok
+test_G_GP_offset_one (test_stage3f.Stage3F) ... ok
+test_H_no_minutes (test_stage3f.Stage3F) ... ok
+test_I_all_hurdle_rows (test_stage3f.Stage3F) ... ok
+test_J_positive_count_rows (test_stage3f.Stage3F) ... ok
+test_K_positive_accuracy_rows (test_stage3f.Stage3F) ... ok
+test_L_decomposition_exact (test_stage3f.Stage3F) ... ok
+test_M_zero_retained (test_stage3f.Stage3F) ... ok
+test_N_no_threshold (test_stage3f.Stage3F) ... ok
+test_O_no_player_exclusion (test_stage3f.Stage3F) ... ok
+test_P_no_new_confounders (test_stage3f.Stage3F) ... ok
+test_Q_firewall (test_stage3f.Stage3F) ... ok
+test_R_no_public_scientific_summary (test_stage3f.Stage3F) ... ok
+test_S_pure_selection (test_stage3f.Stage3F) ... ok
+test_T_frozen_PPC_gates (test_stage3f.Stage3F) ... ok
+test_U_no_automatic_science (test_stage3f.Stage3F) ... ok
+test_V_no_causal_claim (test_stage3f.Stage3F) ... ok
+
+----------------------------------------------------------------------
+Ran 22 tests in 1.487s
+
+OK

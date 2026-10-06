@@ -1,0 +1,35 @@
+[
+  {
+    "source": "Rockets centers 2012",
+    "url": "https://www.nba.com/rockets/news/nba-draft-preview-part-i-centers",
+    "retrieval_timestamp": "2026-09-28T19:25:41.647712+00:00",
+    "http_status": 200,
+    "transport_exit": 0,
+    "error": "",
+    "raw_sha256": "aae0feeca6dd162ed63f8269232e49899091b8832e095c5a1520a28b18c60a1a",
+    "raw_path": "data/raw/stage0b/aae0feeca6dd162ed63f8269232e49899091b8832e095c5a1520a28b18c60a1a.payload",
+    "bytes": 140848
+  },
+  {
+    "source": "Rockets power forwards 2012",
+    "url": "https://www.nba.com/rockets/news/nba-draft-preview-part-ii-power-forwards",
+    "retrieval_timestamp": "2026-09-28T19:25:41.647911+00:00",
+    "http_status": 200,
+    "transport_exit": 0,
+    "error": "",
+    "raw_sha256": "5853b2898e0967957ac00a3d5812fc83c1dcd65181946bd117f5a195c3404059",
+    "raw_path": "data/raw/stage0b/5853b2898e0967957ac00a3d5812fc83c1dcd65181946bd117f5a195c3404059.payload",
+    "bytes": 160979
+  },
+  {
+    "source": "NBA-authored 2013 combine PDF, independent secondary mirror",
+    "url": "https://www.thehrr.com/PDF/nba/mediacentral.nba.com_media_mediacentral_051713-2013-NBA-Draft-Combine-Anthropometric-Results.pdf",
+    "retrieval_timestamp": "2026-09-28T19:25:41.648006+00:00",
+    "http_status": 200,
+    "transport_exit": 0,
+    "error": "",
+    "raw_sha256": "9fa9c060ada7fe020b0d84a4bc2bb63b09c7af43072acd0badb110de357a2efe",
+    "raw_path": "data/raw/stage0b/9fa9c060ada7fe020b0d84a4bc2bb63b09c7af43072acd0badb110de357a2efe.payload",
+    "bytes": 23135
+  }
+]

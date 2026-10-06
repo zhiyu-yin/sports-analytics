@@ -1,0 +1,25 @@
+test_A_all_historical_artifacts_unchanged (__main__.Stage4A) ... ok
+test_B_J1_hash_unchanged (__main__.Stage4A) ... ok
+test_C_J2_remediation_hashes_unchanged (__main__.Stage4A) ... ok
+test_D_panel_hashes_unchanged (__main__.Stage4A) ... ok
+test_E_numeric_sources_and_prose_traceable (__main__.Stage4A) ... ok
+test_F_no_new_statistical_fit (__main__.Stage4A) ... ok
+test_G_no_new_bootstrap (__main__.Stage4A) ... ok
+test_H_no_new_filtering (__main__.Stage4A) ... ok
+test_I_development_explicit_when_included (__main__.Stage4A) ... ok
+test_J_primary_excludes_development (__main__.Stage4A) ... ok
+test_K_J1_primary_and_original_points (__main__.Stage4A) ... ok
+test_L_J2_secondary_and_original_point (__main__.Stage4A) ... ok
+test_M_remediation_disclosed (__main__.Stage4A) ... ok
+test_N_historical_failures_preserved (__main__.Stage4A) ... ok
+test_O_conclusion_and_limitations (__main__.Stage4A) ... ok
+test_P_figures_from_frozen_values_and_visually_checked (__main__.Stage4A) ... ok
+test_Q_every_numeric_table_cell_bound (__main__.Stage4A) ... ok
+test_R_evidence_map_covers_main_claims (__main__.Stage4A) ... ok
+test_S_disposition_complete (__main__.Stage4A) ... ok
+test_T_stage4_scope_and_freeze_chronology (__main__.Stage4A) ... ok
+
+----------------------------------------------------------------------
+Ran 20 tests in 8.988s
+
+OK

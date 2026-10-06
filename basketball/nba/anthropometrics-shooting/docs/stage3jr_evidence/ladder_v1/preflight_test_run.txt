@@ -1,0 +1,29 @@
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l1dcachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l2cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l3cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.optional.neon'. Detail: [errno 1] Operation not permitted
+test_A_Stage3J_artifacts_unchanged (test_stage3jr.TestStage3JR) ... ok
+test_B_panel_hash (test_stage3jr.TestStage3JR) ... ok
+test_C_sample_hashes (test_stage3jr.TestStage3JR) ... ok
+test_D_same_2000_samples (test_stage3jr.TestStage3JR) ... ok
+test_E_same_likelihood (test_stage3jr.TestStage3JR) ... ok
+test_F_same_formula (test_stage3jr.TestStage3JR) ... ok
+test_G_same_counts (test_stage3jr.TestStage3JR) ... ok
+test_H_same_residual (test_stage3jr.TestStage3JR) ... ok
+test_I_no_penalty (test_stage3jr.TestStage3JR) ... ok
+test_J_no_tolerance_relaxation (test_stage3jr.TestStage3JR) ... ok
+test_K_gradient (test_stage3jr.TestStage3JR) ... ok
+test_L_scaling (test_stage3jr.TestStage3JR) ... ok
+test_M_warm_start (test_stage3jr.TestStage3JR) ... ok
+test_N_numeric_selection_only (test_stage3jr.TestStage3JR) ... ok
+test_O_no_replacement (test_stage3jr.TestStage3JR) ... ok
+test_P_uniform_algorithm (test_stage3jr.TestStage3JR) ... ok
+test_Q_old_success_reproduce (test_stage3jr.TestStage3JR) ... ok
+test_R_summary_after_valid_gate (test_stage3jr.TestStage3JR) ... ok
+test_S_J1_unchanged (test_stage3jr.TestStage3JR) ... ok
+test_T_no_causal_wording (test_stage3jr.TestStage3JR) ... ok
+
+----------------------------------------------------------------------
+Ran 20 tests in 6.579s
+
+OK

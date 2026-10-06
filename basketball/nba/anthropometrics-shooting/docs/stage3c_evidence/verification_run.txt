@@ -1,0 +1,23 @@
+{
+  "test_summary": {
+    "tests_run": 26,
+    "tests_passed": 26,
+    "passed": true,
+    "historical_files_preserved": 619,
+    "no_stage3d": true,
+    "scope": "data/model/diagnostic/PPC/freeze/replay verification; scientific sign is not a gate"
+  },
+  "execution": {
+    "stage3c_execution": "FAIL",
+    "reason": "Primary posterior predictive adequacy gate failed",
+    "verification_tests_passed": true,
+    "scientific_result_independent_of_execution": true,
+    "primary_frozen": true,
+    "primary_scientifically_reportable": false,
+    "full_secondary_fitted": false,
+    "stage3d_executed": false,
+    "committed": false,
+    "pushed": false,
+    "reproduction": "Exact posterior-summary replay from retained traces and separate same-seed primary sampler reproduction"
+  }
+}

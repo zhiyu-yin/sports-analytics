@@ -1,0 +1,7 @@
+{
+  "corrected_at": "2026-10-01T01:19:34.158268+00:00",
+  "old_protocol_sha256": "5bb480b0b7faae1706a781fbca01ad96c697a47eb195657bc57f7ffc8a60c5a0",
+  "new_protocol_sha256": "cf85b4bf5c182a55f1b18ea470e1da026a742532aa9242c9b7c4cbb643bbb676",
+  "test_only": true,
+  "reason": "Uniform-algorithm test had asserted an imprecise comment substring. Check actual method loop instead. No failed sample retried; numerical/scientific protocol and solver unchanged."
+}

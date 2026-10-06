@@ -1,0 +1,11 @@
+{
+  "run_at": "2026-09-28T19:41:37.699481+00:00",
+  "python": "3.12.14",
+  "tests_run": 33,
+  "passed": 33,
+  "failures": 0,
+  "errors": 0,
+  "skipped": 0,
+  "successful": true,
+  "scope": "7 Stage 0 tests plus Stage 0B eligibility, provenance, frozen-table and static no-model guard tests; offline local source files required"
+}

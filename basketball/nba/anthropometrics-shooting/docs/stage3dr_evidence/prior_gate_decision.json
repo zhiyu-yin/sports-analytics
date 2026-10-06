@@ -1,0 +1,8 @@
+{
+  "classification": "PRIOR CALIBRATION PASSED",
+  "passed": true,
+  "frozen_at": "2026-09-29T01:22:09.686399+00:00",
+  "prior_result_sha256": "63e76670829101bdb999d0f41b61b458e099446caa1f3b0b6965ba43d96bc092",
+  "amendment_sha256": "8e273a702e0a811f53f97e0d42cf64133f57e0fc210bc97f578b4cbf4a7635b8",
+  "thresholds_unchanged": true
+}

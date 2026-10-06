@@ -1,0 +1,34 @@
+{
+  "docs/stage0b_protocol.md": {
+    "sha256": "7ae37270154b1ddee1948b78b6a49576e75ef1fc42ecf37943c17e8416eb7dca",
+    "characters": 5674
+  },
+  "docs/stage0c_anthropometric_validation.md": {
+    "sha256": "7e0c7d0ae52c4a8f138275c5ca7878b38fffd09020db281ac5f47fa4c8d91125",
+    "characters": 21228
+  },
+  "docs/stage1_ft_residual_wingspan_analysis.md": {
+    "sha256": "d81e8bc7f3721053b419b0080614422d1df1ff7aa7be08d03ed83b734f5f9cfe",
+    "characters": 17750
+  },
+  "docs/stage2_robust_inference.md": {
+    "sha256": "d401541cab6ddc9c9223ac5e3ba0a13fec985f04978750a8f1bdaabd39313e5a",
+    "characters": 18352
+  },
+  "docs/stage3j_simplified_multiseason_inference.md": {
+    "sha256": "c8f05bdb7a41d9adfbdf5cf16814338a2458967f5ccc26b8f09e6d2e48f0eea3",
+    "characters": 22892
+  },
+  "docs/stage3jr_beta_binomial_numerical_remediation.md": {
+    "sha256": "8d823dcd3c838d7674dd945332c9711cfc63976b424cbb519e4ff3aa152494d3",
+    "characters": 13340
+  },
+  "docs/stage4a_manuscript_freeze_report.md": {
+    "sha256": "5a5a643567238f381fd505b588e131212cc21dabe77b515f465e360fec890e63",
+    "characters": 9693
+  },
+  "docs/manuscript/manuscript_freeze.json": {
+    "sha256": "66a07aa5c826ac34f7aa8a09ee9565312e350e676d0965bb7f2040b02f7c6def",
+    "characters": 7248
+  }
+}

@@ -1,0 +1,5 @@
+candidate,sampler_pass,max_rhat,min_bulk_ESS,min_tail_ESS,accuracy_pass,opportunity_pass,FTA_bin_failures,systematic_volume_pattern,total_quantile_failures,positive_quantile_failures,eligible_for_selection
+H2 (I0 saved),True,1.0041380088688636,1400.6780166681574,2732.4494709529213,False,False,0.0,True,2.0,2.0,False
+I1,True,1.0041101073470862,1505.7012465131759,2833.6767655145254,False,False,0.0,True,2.0,2.0,False
+I2,False,1.0342348406049835,68.70455287602444,74.19521733029536,,,,,,,False
+I3,False,1.0285983585355645,148.2935156055297,160.3636639214767,,,,,,,True

@@ -1,0 +1,19 @@
+{
+  "candidate": "D3",
+  "attempt": 1,
+  "max_rhat": 1.0075039638473815,
+  "min_bulk_ESS": 1040.4405150473453,
+  "min_tail_ESS": 2270.512922363089,
+  "BFMI": [
+    0.6367841319964266,
+    0.6510089258124518,
+    0.589205248137665,
+    0.6239439166588667
+  ],
+  "divergences": 0,
+  "max_depth_hits": 0,
+  "finite_covariance": true,
+  "numeric_gate_pass": true,
+  "visual_review": "PENDING",
+  "checked_at": "2026-09-29T01:49:11.769793+00:00"
+}

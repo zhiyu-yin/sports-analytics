@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "tests": 25,
+  "failures": 0,
+  "errors": 0,
+  "phase": "Frozen protocol plus synthetic estimation and real-input design checks; no real coefficients fitted",
+  "finished_at": "2026-10-01T00:50:37.384193+00:00",
+  "log_sha256": "eb8595f7560d15a5cc6150e117a5c93efaab78fe9a8da24abef662781b1acd39",
+  "protocol_sha256": "8c2d5908b67018573c655750414cccfa335c37e2dde006a7e8f6ca9fd74bce1d"
+}

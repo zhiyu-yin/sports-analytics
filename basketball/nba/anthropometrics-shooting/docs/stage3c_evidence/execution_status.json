@@ -1,0 +1,13 @@
+{
+  "stage3c_execution": "FAIL",
+  "reason": "Primary posterior predictive adequacy gate failed",
+  "verification_tests_passed": true,
+  "scientific_result_independent_of_execution": true,
+  "primary_frozen": true,
+  "primary_scientifically_reportable": false,
+  "full_secondary_fitted": false,
+  "stage3d_executed": false,
+  "committed": false,
+  "pushed": false,
+  "reproduction": "Exact posterior-summary replay from retained traces and separate same-seed primary sampler reproduction"
+}

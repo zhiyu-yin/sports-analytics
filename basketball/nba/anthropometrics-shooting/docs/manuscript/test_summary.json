@@ -1,0 +1,14 @@
+{
+  "tests": 20,
+  "passed": 20,
+  "failures": 0,
+  "errors": 0,
+  "skipped": 0,
+  "classification": "PASS — MANUSCRIPT ANALYSIS FROZEN",
+  "historical_artifacts": 19939,
+  "numeric_source_values": 266,
+  "numeric_output_bindings": 364,
+  "approved_prose_paragraphs": 55,
+  "verification_scope": "Artifact integrity, declared assembly code and local outputs. Static guards are not a universal proof about arbitrary external processes.",
+  "verified_at": "2026-10-01T02:14:52.193439+00:00"
+}

@@ -1,0 +1,5 @@
+{
+  "reviewed_at": "2026-09-29T18:44:31.569215+00:00",
+  "review_complete": true,
+  "notes": "F1 observed zero fraction is inside its predictive interval, unlike saved F0. Positive-count median and upper quartile remain above 99% intervals. Accuracy still overpredicts both low-volume bins and underpredicts both high-volume bins beyond MC uncertainty, with three pooled-bin interval failures. Visuals agree with the frozen gate outcomes; no rule changed."
+}

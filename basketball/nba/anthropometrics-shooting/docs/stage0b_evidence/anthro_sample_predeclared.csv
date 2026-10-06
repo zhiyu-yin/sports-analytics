@@ -1,0 +1,28 @@
+PLAYER_ID,PLAYER_NAME,SEASON,HEIGHT_WO_SHOES,HEIGHT_W_SHOES,WINGSPAN,STANDING_REACH,WEIGHT,era,selection_rule,stratum
+201160,Jason Smith,2007,82.75,83.5,82.75,106.0,233,early,advantage quantile rank 0.02,short
+12006,Randall Orr,2004,81.0,82.75,82.5,107.5,193,early,advantage quantile rank 0.1,short
+201159,Javaris Crittenton,2007,75.0,76.75,77.5,98.0,194,early,advantage quantile rank 0.2,short
+12076,Ruben Douglas,2003,75.5,,79.25,100.5,193,early,advantage quantile rank 0.35,middle
+2404,Chris Wilcox,2002,80.25,,85.0,107.5,218,early,advantage quantile rank 0.5,middle
+2596,Tommy Smith,2003,81.0,,86.5,107.5,200,early,advantage quantile rank 0.65,middle
+200812,Daniel Horton,2006,72.5,74.25,79.0,96.5,198,early,advantage quantile rank 0.8,long
+200995,Aloysius Anagonye,2003,78.75,,86.5,106.0,257,early,advantage quantile rank 0.9,long
+12210,Zabian Dowdell,2007,73.0,75.0,82.0,100.0,191,early,advantage quantile rank 0.98,long
+203510,Pierre Jackson,2013,69.5,70.5,70.0,90.0,176,middle,advantage quantile rank 0.02,short
+202720,Jon Leuer,2011,82.0,83.5,84.0,105.5,223.2,middle,advantage quantile rank 0.1,short
+203099,Jared Cunningham,2012,75.5,77.0,78.5,98.0,187.6,middle,advantage quantile rank 0.2,short
+201967,Dante Cunningham,2009,79.0,80.25,83.0,106.5,227.4,middle,advantage quantile rank 0.35,middle
+203115,Will Barton,2012,77.0,78.0,81.75,102.5,174.4,middle,advantage quantile rank 0.5,middle
+202684,Tristan Thompson,2011,79.5,80.75,85.25,108.5,227.4,middle,advantage quantile rank 0.65,middle
+203471,Dennis Schroder,2013,73.0,74.0,79.75,98.0,164.8,middle,advantage quantile rank 0.8,long
+203464,Brandon Paul,2013,74.75,76.0,82.25,98.0,201,middle,advantage quantile rank 0.9,long
+203895,Jordan McRae,2014,75.75,77.25,84.5,104.0,179.4,middle,advantage quantile rank 0.98,long
+1628453,Melo Trimble,2017,73.25,74.5,74.0,95.5,195.2,recent,advantage quantile rank 0.02,short
+1962937123,Omer Yurtseven,2017,82.5,83.75,85.0,108.5,248.4,recent,advantage quantile rank 0.1,short
+1627744,Brice Johnson,2016,81.0,82.5,84.5,106.5,208.6,recent,advantage quantile rank 0.2,short
+1628452,Kennedy Meeks,2017,80.75,82.25,85.0,106.0,276.6,recent,advantage quantile rank 0.35,middle
+1630566,John Petty Jr.,2021,76.5,77.75,81.5,103.5,186.20,recent,advantage quantile rank 0.5,middle
+1626154,R.J. Hunter,2015,76.5,78.0,82.5,104.0,185,recent,advantage quantile rank 0.65,middle
+1630245,Ayo Dosunmu,2021,75.5,77.0,82.25,102.0,194.40,recent,advantage quantile rank 0.8,long
+1630567,Scottie Barnes,2021,79.0,80.0,86.75,108.0,225.40,recent,advantage quantile rank 0.9,long
+1628982,Melvin Frazier,2018,76.5,78.0,85.75,105.0,198.2,recent,advantage quantile rank 0.98,long

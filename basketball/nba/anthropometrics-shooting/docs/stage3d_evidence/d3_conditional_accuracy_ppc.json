@@ -1,0 +1,6 @@
+{
+  "status": "NOT_RUN",
+  "reason": "PRIOR_OPPORTUNITY_GATE_FAILED",
+  "posterior_predictive_replicates": 0,
+  "gate_pass": null
+}

@@ -1,0 +1,12 @@
+Collecting numba==0.61.2
+  Downloading numba-0.61.2-cp310-cp310-macosx_11_0_arm64.whl (2.8 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2.8/2.8 MB 21.9 MB/s eta 0:00:00
+Requirement already satisfied: numpy<2.3,>=1.24 in ./basketball/nba/anthropometrics-shooting/models/stage3c/environment/lib/python3.10/site-packages (from numba==0.61.2) (2.2.6)
+Collecting llvmlite<0.45,>=0.44.0dev0
+  Downloading llvmlite-0.44.0-cp310-cp310-macosx_11_0_arm64.whl (26.2 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 26.2/26.2 MB 27.2 MB/s eta 0:00:00
+Installing collected packages: llvmlite, numba
+Successfully installed llvmlite-0.44.0 numba-0.61.2
+
+[notice] A new release of pip available: 22.2.2 -> 26.2.1
+[notice] To update, run: /Users/zhiyuyin/Documents/last time job hunting material/proj/sports-analytics/basketball/nba/anthropometrics-shooting/models/stage3c/environment/bin/python -m pip install --upgrade pip

@@ -1,0 +1,5 @@
+{
+  "classification": "UNCERTAIN DIRECTION",
+  "rule": "Strong directional robustness: major quasi/BB/HC0 estimates negative, their intervals exclude zero, LOO and secondary influence no reversal or >50% magnitude change, major magnitude 0.5 to 1.5 times Stage 1. Uncertain direction: mostly negative but any major interval includes zero or influence/magnitude destabilizes; not robust: major reasonable specification reverses or severe instability. These operational criteria are descriptive, not execution gates or model selection.",
+  "reason": "All tested estimates remain negative and major robust intervals exclude zero, but removing the predeclared 42 high-leverage players changes magnitude by 59%, exceeding the frozen 50% materiality rule. Sign stability is stronger than magnitude stability."
+}

@@ -1,0 +1,12 @@
+{
+  "reviewed_at": "2026-10-01T01:03:13.971476+00:00",
+  "passed": true,
+  "figures": {
+    "03_leave_one_season_out.png": "500d3890ab60fb7caf09649c34f96f0b0af1915fd5ef563a4db943d4e49e40e6",
+    "05_volume_diagnostics.png": "af8174b04341a1f99ddf83fbf687f6a67def4328443a5c964c7fd1ee4af9a85c",
+    "02_robustness.png": "55956ef2a08203f55262644756f05251a34588c266ceef246c9d5c916c530458",
+    "01_primary.png": "f6947c58344c5f9a76b2c9588346c0b8f6af339fd533d825db71b2bd9afdfbae",
+    "04_coverage.png": "84afda79296eb99693efd109ebdb18e3eebffa4d5dc98619bf4296fe1fa7bfea"
+  },
+  "notes": "All five figures inspected. Labels and intervals readable, no clipping. J2 shows original point only with explicit CI-withheld numerical-gate annotation. All titles are associational/descriptive."
+}

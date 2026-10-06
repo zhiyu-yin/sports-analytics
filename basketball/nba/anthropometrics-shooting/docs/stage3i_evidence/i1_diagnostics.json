@@ -1,0 +1,27 @@
+{
+  "candidate": "I1",
+  "attempt": 1,
+  "max_rhat": 1.0041101073470862,
+  "min_bulk_ESS": 1505.7012465131759,
+  "min_tail_ESS": 2833.6767655145254,
+  "BFMI": [
+    0.6421613053842756,
+    0.6493602106973541,
+    0.6155501255902447,
+    0.6270991721998185
+  ],
+  "divergences": 0,
+  "max_depth_hits": 0,
+  "finite_covariance": true,
+  "sealed_parameter_sampler_pass": true,
+  "numeric_gate_pass": true,
+  "visual_review": {
+    "reviewed_at": "2026-09-30T20:46:18.698802+00:00",
+    "chains_mix": true,
+    "energy_acceptable": true,
+    "scope": "Permitted standardized chains and energy; scientific coefficient never plotted"
+  },
+  "checked_at": "2026-09-30T20:45:53.220458+00:00",
+  "all_latent_elements_in_gate": true,
+  "sampler_pass": true
+}

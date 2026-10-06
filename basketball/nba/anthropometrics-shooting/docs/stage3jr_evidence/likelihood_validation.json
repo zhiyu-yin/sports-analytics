@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "fixture_seed": 630,
+  "rows": 600,
+  "kappas": [
+    2,
+    10,
+    32,
+    200
+  ],
+  "scipy_beta_binomial_loglik_max_error": 8.003553375601768e-11,
+  "old_likelihood_unchanged": true,
+  "validated_at": "2026-10-01T01:13:09.708255+00:00"
+}

@@ -1,0 +1,196 @@
+{
+  "frozen_at": "2026-10-01T00:49:30.083151+00:00",
+  "primary_panel_sha256": "1c34331385e459ac5da67105658730d31d96c8114bd25fcb3b31cea52f1a1871",
+  "full_panel_sha256": "5306ffd228fb71b34b174d18cf86e351b6fa48598579e4f49935078239662978",
+  "formula": "1 + residual_wingspan + height_wo_shoes_inches + C(original_combine_position) + C(season)",
+  "response": [
+    "ftm",
+    "fta-ftm"
+  ],
+  "exposure": "residual_wingspan",
+  "residualization": {
+    "intercept": 4.574910520685837,
+    "slope": 1.0013410045156863,
+    "units": "inches",
+    "refit": false
+  },
+  "positions": [
+    "C",
+    "C-PF",
+    "PF",
+    "PF-C",
+    "PF-SF",
+    "PG",
+    "PG-SG",
+    "SF",
+    "SF-PF",
+    "SF-SG",
+    "SG",
+    "SG-PG",
+    "SG-SF",
+    "unknown"
+  ],
+  "position_reference": "C",
+  "seasons": [
+    "2010-11",
+    "2011-12",
+    "2012-13",
+    "2014-15",
+    "2015-16",
+    "2016-17",
+    "2017-18",
+    "2018-19",
+    "2019-20",
+    "2020-21",
+    "2021-22",
+    "2022-23",
+    "2023-24"
+  ],
+  "full_seasons": [
+    "2010-11",
+    "2011-12",
+    "2012-13",
+    "2013-14",
+    "2014-15",
+    "2015-16",
+    "2016-17",
+    "2017-18",
+    "2018-19",
+    "2019-20",
+    "2020-21",
+    "2021-22",
+    "2022-23",
+    "2023-24"
+  ],
+  "season_reference": "2010-11",
+  "height": "raw barefoot inches",
+  "missing_position": "blank/missing -> unknown; hybrids separate",
+  "accounting": {
+    "player_seasons": 4117,
+    "players": 857,
+    "seasons": 13,
+    "positive_FTA_rows": 3980,
+    "zero_FTA_rows": 137,
+    "contributing_players": 835,
+    "FTA": 469099,
+    "FTM": 360001
+  },
+  "random_effects": false,
+  "opportunity_model": false,
+  "predictors": [
+    "intercept",
+    "residual_wingspan",
+    "height_wo_shoes_inches",
+    "original_combine_position",
+    "season"
+  ],
+  "cluster": "player_id",
+  "covariance": {
+    "method": "CR1",
+    "correction": "G/(G-1)*(N-1)/(N-K)",
+    "N": "positive-FTA grouped rows",
+    "G": "players contributing positive-FTA rows (835 primary); 22 zero-only players retain accounting/bootstrap membership but contribute no scores",
+    "K": "estimable design rank",
+    "reference": "statsmodels cov_cluster(use_correction=True)",
+    "interval": "normal 1.959963984540054 Wald, two-sided normal p"
+  },
+  "fit": {
+    "algorithm": "statsmodels GLM IRLS",
+    "maxiter": 200,
+    "atol": 1e-10,
+    "rtol": 0,
+    "score_scaled_max": 1e-05,
+    "separation_warning": "failure"
+  },
+  "rank_policy": "Fixed global original-level dummy coding and reference throughout bootstrap. Drop only nonidentifiable columns using deterministic ordered modified Gram-Schmidt, twice reorthogonalized, relative norm cutoff 1e-10. Intercept/exposure/height must survive. No levels pooled; absent/reference aliases removed only as numerical basis reduction. Log all dropped columns.",
+  "bootstrap": {
+    "replicates": 2000,
+    "J1_seed": 20260930,
+    "J2_seed": 20260931,
+    "RNG": "numpy.default_rng PCG64",
+    "draws": 857,
+    "unit": "player",
+    "replace": true,
+    "zero_rows": "all seasons retained in copied accounting; positive rows only for fit",
+    "duplicates": "new cluster instance per draw",
+    "fit": "actual duplicated grouped rows; exact fixed design; no Bernoulli expansion",
+    "interval": "95% percentile numpy quantile method=linear",
+    "SD_ddof": 1,
+    "failure": "log error and retain replicate number; never replace; stop interpretation if >20 failures",
+    "replay_first_N": 3
+  },
+  "sensitivities": {
+    "J2": "Exact Stage 2 fit_bb including analytic likelihood, 3 starts kappa=10,50,200, L-BFGS-B, maxiter=3000, score<1e-3, all starts accepted/agreement 1e-5, positive information and Hessian stability; per-replicate grouped GLM start; no model change; bootstrap seed 20260931",
+    "J3": "Earliest chronological eligible accounting season per player, selected before filtering FTA=0; HC1=N/(N-K) on independent row scores",
+    "J4": "Let T_i count all primary accounting seasons, including zero-FTA seasons, and w_it=1/T_i. J4 maximizes sum_it w_it log Binomial(FTM_it | FTA_it, expit(X_it beta)). The grouped response remains [FTM, FTA-FTM]; fractional likelihood weights do not turn counts into fractional trials. Score s_it=w_it X_it(FTM_it-FTA_it p_it); information=sum w_it FTA_it p_it(1-p_it) X_it X_it^T. Cluster meat sums these weighted scores by player before outer products. statsmodels freq_weights implements this powered likelihood; independent score/Hessian checks validate it. The CR1 correction uses actual positive rows and contributing players, not sum(weights). Equal aggregate season weights precede unequal FTA precision; total player information is not equalized.",
+    "J5": "Each of 13 seasons omitted once; unchanged J1 and CR1; fixed rank policy",
+    "J6": [
+      50,
+      100
+    ],
+    "alternate_exposures": [
+      "wingspan_advantage",
+      "wingspan_ratio"
+    ],
+    "alternate_units": "advantage per inch; ratio raw per 1.0 and additional per .01 scale",
+    "full": "Exact full frozen panel with 2013-14, after primary freeze; CR1; not independent replication",
+    "season_specific": "NOT RUN optional"
+  },
+  "ordering": "protocol + hash -> implementation tests -> J1 + CR1 + 2000 bootstrap -> immutable primary_result + receipt -> every sensitivity",
+  "estimand": "Conditional population-average association among observed measured player-seasons adjusted for barefoot height, original combine position and season; attempt-weighted through grouped denominator; time-invariant exposure identified between players.",
+  "interpretation": {
+    "direction": "negative if beta<0 else nonnegative",
+    "magnitude": "coefficient and exp(beta) per residual inch, not percentage points",
+    "precision": "both cluster Wald and percentile intervals, descriptive p; significance not execution criterion",
+    "stability": "report every predeclared analysis sign/magnitude without composite score or selection",
+    "primary": "J1 always; no secondary replacement",
+    "no_causal_claim": true,
+    "comparison": "Stage 1/2 descriptive comparison only after primary freeze; development season excluded from primary",
+    "opportunity": "Free-throw attempt volume is the grouped-binomial denominator rather than an accuracy predictor. Earlier analyses demonstrated informative opportunity and predictive misspecification or weak posterior identification. This simpler conditional association does not model the opportunity data-generating process or resolve that limitation.",
+    "clustering": "Dependence adjustment does not control unmeasured player ability, training, role, selection, NBA survival, combine participation or informative opportunity.",
+    "selection": "Measured players are selected; reuse approved coverage table; no FT%-based recalculation"
+  },
+  "diagnostics": {
+    "bins": [
+      [
+        1,
+        9,
+        "1-9"
+      ],
+      [
+        10,
+        49,
+        "10-49"
+      ],
+      [
+        50,
+        99,
+        "50-99"
+      ],
+      [
+        100,
+        299,
+        "100-299"
+      ],
+      [
+        300,
+        null,
+        "300+"
+      ]
+    ],
+    "summary": "pooled observed rate=sum FTM/sum FTA; fitted=sum FTA*p/sum FTA; residual=observed-fitted, overall/bins/seasons; min/max and counts p<.01 or >.99",
+    "use": "transparency only; no generative PPC gate or modification"
+  },
+  "J4_weight_note_sha256": "0b2401c15205b9da33103cd092e97ccc87dcc68688301b823e1eb172055a129d",
+  "frozen_code": {
+    "scripts/stage3j_core.py": "12d54a1d310847f2ebb8d57d0f96a427797b560a702576a9a25f25bb04426125",
+    "scripts/stage3j_freeze.py": "c0e5acbae376fff8697e64c3a25203e5197029643837c3e56c289a10c8891aaf",
+    "scripts/stage3j_run.py": "7e734b831fd362bc083836b8c82593c3979dc657e209cfe7b3b6216b36e4b63e",
+    "scripts/stage2_models.py": "bcf2e8b243e6f49a30c30d28603e10b4aec4b33d1faf8d51ec862ed0aa4639b7",
+    "tests/test_stage3j.py": "627570b5eb37bd7456baa1621af831363e7e80bbe82843955664ae1d1199a024"
+  },
+  "historical_trace_policy": "Hash bytes only; do not decode old Stage 3C/H/I scientific coefficients",
+  "no_commit": true,
+  "no_push": true,
+  "no_stage4": true
+}

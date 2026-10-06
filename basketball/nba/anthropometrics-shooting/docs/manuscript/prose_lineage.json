@@ -1,0 +1,529 @@
+[
+  {
+    "output": "docs/manuscript/abstract_skeleton.md",
+    "claim_id": "A01",
+    "text": "Relative wingspan may be associated with free-throw accuracy, but player selection and heterogeneous shooting opportunity complicate interpretation. This study evaluates a prespecified adjusted association using previously validated measurements and count outcomes.",
+    "sources": [
+      "docs/stage3j_evidence/analysis_protocol.json"
+    ]
+  },
+  {
+    "output": "docs/manuscript/abstract_skeleton.md",
+    "claim_id": "A02",
+    "text": "The primary replication panel comprised 13 seasons, 4,117 player-seasons and 857 accounting players. Of these, 3,980 positive-FTA rows from 835 players contributed 469,099 attempts; 137 zero-FTA rows remained in accounting. The 2013-14 development season was excluded. A grouped-binomial logistic model adjusted for barefoot height, original combine position and season; player-cluster CR1 covariance and a predeclared 2,000-replicate player bootstrap quantified uncertainty.",
+    "sources": [
+      "docs/stage3_evidence/primary_replication_panel_summary.json",
+      "docs/stage3j_evidence/primary_result.json",
+      "docs/stage3j_evidence/analysis_protocol.json",
+      "docs/stage3j_evidence/analysis_protocol.json"
+    ]
+  },
+  {
+    "output": "docs/manuscript/abstract_skeleton.md",
+    "claim_id": "A03",
+    "text": "The primary grouped-binomial estimate was beta=-0.03045199 per residual inch (OR=0.970007); the 95% player-cluster CR1 interval was [-0.05228116, -0.00862282] and the two-sided p-value was 0.00625365. The player-bootstrap percentile interval was [-0.05433056, -0.01047528]. Both intervals describe uncertainty around the same original primary point estimate.",
+    "sources": [
+      "docs/stage3j_evidence/primary_result.json",
+      "docs/stage3j_evidence/analysis_protocol.json"
+    ]
+  },
+  {
+    "output": "docs/manuscript/abstract_skeleton.md",
+    "claim_id": "A04",
+    "text": "The negative direction persisted across beta-binomial, first-season-only, player-balanced, attempt-threshold and leave-one-season-out analyses. Beta-binomial uncertainty uses a separately documented numerical remediation; the historical execution failure remains preserved.",
+    "sources": [
+      "docs/stage3j_evidence/j2_original_fit_audit.json",
+      "docs/stage3jr_evidence/full_bootstrap_summary.json",
+      "docs/stage3jr_evidence/stage3jr_decision.json",
+      "docs/stage3j_evidence/robustness_table.csv",
+      "docs/stage3j_evidence/loso_summary.json"
+    ]
+  },
+  {
+    "output": "docs/manuscript/abstract_skeleton.md",
+    "claim_id": "A05",
+    "text": "Greater residual wingspan was associated with lower free-throw accuracy in NBA players with available combine measurements. The negative association was observed in the 2013-14 development analysis and persisted in a 13-season replication panel excluding that season, with similar estimates across player-clustered, beta-binomial, first-season-only, player-balanced, attempt-threshold and leave-one-season-out analyses.",
+    "sources": [
+      "docs/stage3j_evidence/primary_result.json",
+      "docs/stage3j_evidence/scientific_interpretation.json",
+      "docs/stage3j_evidence/j2_original_fit_audit.json",
+      "docs/stage3jr_evidence/full_bootstrap_summary.json",
+      "docs/stage3jr_evidence/stage3jr_decision.json",
+      "docs/stage3j_evidence/analysis_protocol.json"
+    ]
+  },
+  {
+    "output": "docs/manuscript/abstract_skeleton.md",
+    "claim_id": "A06",
+    "text": "The result is a between-player association in a selected measured-player sample. Informative opportunity and unmeasured player differences limit interpretation; causal and biomechanical mechanisms are not established.",
+    "sources": [
+      "docs/stage3j_evidence/analysis_protocol.json",
+      "docs/stage3j_evidence/residual_diagnostics_by_fta_bin.csv"
+    ]
+  },
+  {
+    "output": "docs/manuscript/methods_outline.md",
+    "claim_id": "M01",
+    "text": "Observational multiseason study of the adjusted association between residual wingspan and free-throw accuracy. The simplified analysis protocol was prospective to its own fitting, after earlier source audits and model-development analyses; it was not registration before all historical data inspection. Residual wingspan is time invariant, so its coefficient is identified between players. Repeated seasons provide additional outcome information and dependence-aware uncertainty, but not within-player exposure identification. Player clustering is not adjustment for player fixed effects or unmeasured player ability.",
+    "sources": [
+      "docs/stage3j_evidence/analysis_protocol.json"
+    ]
+  },
+  {
+    "output": "docs/manuscript/methods_outline.md",
+    "claim_id": "M02",
+    "text": "Pinned combine and player-game archives supplied measurements and regular-season shooting counts. Official NBA historical tables and selected official player/team records supported source validation. Source snapshots, retrieval metadata and checksums remain archived; no live-source refresh was performed for manuscript assembly.",
+    "sources": [
+      "docs/stage0c_anthropometric_validation.md",
+      "docs/stage3_evidence/shooting_archive_provenance.json",
+      "docs/stage3b_protocol_amendment.md"
+    ]
+  },
+  {
+    "output": "docs/manuscript/methods_outline.md",
+    "claim_id": "M03",
+    "text": "One fixed measurement vector per player was selected: the latest complete, plausible, officially supported, non-quarantined record on or before the start year of the first observed positive-minute NBA season in the archive. The first observed season may be left-truncated and is not necessarily the player's NBA debut. Barefoot height and wingspan use inches from the same record; no shoe-height substitution or outcome-guided measurement selection was used.",
+    "sources": [
+      "docs/stage3_multiseason_hierarchical_ft.md"
+    ]
+  },
+  {
+    "output": "docs/manuscript/methods_outline.md",
+    "claim_id": "M04",
+    "text": "Residual wingspan = wingspan - (4.574910520685837 + 1.0013410045156863 x barefoot height), in inches. The outcome-independent geometric reference fit was frozen in the development stage and reused unchanged. The reference included 960 usable positive-ID combine participants through 2013, regardless of NBA survival or FT attempts. Inference conditions on this fitted transformation and does not propagate its estimation uncertainty.",
+    "sources": [
+      "docs/stage3j_evidence/analysis_protocol.json",
+      "docs/stage0c_evidence/validation_summary.json"
+    ]
+  },
+  {
+    "output": "docs/manuscript/methods_outline.md",
+    "claim_id": "M05",
+    "text": "The grouped response was [FTM, FTA-FTM]. Makes and attempts were summed across recorded appearances; percentages were not averaged. Positive total season minutes defined eligibility. Recorded zero-minute appearances remained distinct from DNP/empty-minute records and contributed recorded counts.",
+    "sources": [
+      "docs/stage3j_evidence/analysis_protocol.json",
+      "docs/stage3_multiseason_hierarchical_ft.md"
+    ]
+  },
+  {
+    "output": "docs/manuscript/methods_outline.md",
+    "claim_id": "M06",
+    "text": "The primary replication panel comprised 13 seasons, 4,117 player-seasons and 857 accounting players. Of these, 3,980 positive-FTA rows from 835 players contributed 469,099 attempts; 137 zero-FTA rows remained in accounting. The 2013-14 development season was excluded.",
+    "sources": [
+      "docs/stage3_evidence/primary_replication_panel_summary.json",
+      "docs/stage3j_evidence/primary_result.json",
+      "docs/stage3j_evidence/analysis_protocol.json"
+    ]
+  },
+  {
+    "output": "docs/manuscript/methods_outline.md",
+    "claim_id": "M07",
+    "text": "Anthropometric records came from a pinned secondary archive and were corroborated against official NBA historical combine tables. In the predeclared validation sample, all 45/45 same-player, same-year barefoot-height and wingspan pairs agreed exactly. A broader historical census included 970 rows and 965 complete pairs with exact core agreement; the frozen geometric reference comprised 960 positive-ID participants. Later official combine validation covered 582 records, including 543 complete pairs and four versioned corrections. Analytical linkage used exact positive NBA IDs; source-table name corroboration did not authorize fuzzy analytical joins.",
+    "sources": [
+      "docs/stage0c_evidence/validation_summary.json",
+      "docs/stage3_evidence/later_combine_validation_by_year.csv",
+      "docs/stage3_multiseason_hierarchical_ft.md"
+    ]
+  },
+  {
+    "output": "docs/manuscript/methods_outline.md",
+    "claim_id": "M08",
+    "text": "The 2013-14 season supplied development evidence. Primary replication used 2010-11, 2011-12, 2012-13 and 2014-15 through 2023-24. Players may overlap development data; the appropriate description is out-of-season replication or replication across additional seasons. The secondary full panel includes the development season and is not independent replication.",
+    "sources": [
+      "docs/stage3j_evidence/analysis_protocol.json",
+      "docs/stage3j_evidence/analysis_protocol.json"
+    ]
+  },
+  {
+    "output": "docs/manuscript/methods_outline.md",
+    "claim_id": "M09",
+    "text": "logit(p_it) = intercept + beta_RW residual_wingspan_i + beta_H barefoot_height_i + original_combine_position_i + season_t. Barefoot height remains in raw inches. Original hybrid categories remain distinct; missing position is unknown. C and 2010-11 are reference levels. The primary model has no player random intercept, player fixed effects, opportunity component, FTA predictor or MIN predictor. With mean misspecification, the coefficient is a working-logit projection dependent on the observed attempt and covariate distribution.",
+    "sources": [
+      "docs/stage3j_evidence/analysis_protocol.json"
+    ]
+  },
+  {
+    "output": "docs/manuscript/methods_outline.md",
+    "claim_id": "M10",
+    "text": "Player scores are sums of grouped-row scores X_it(FTM_it-FTA_it*p_it). Sandwich covariance uses the inverse grouped-binomial information and player-summed outer products, with CR1 correction G/(G-1) x (N-1)/(N-K). Here G=835 contributing players, N=3,980 positive-FTA rows and K=28 estimable columns. Normal-Wald intervals and two-sided normal p-values were predeclared. Zero-only players supply no score clusters.",
+    "sources": [
+      "docs/stage3j_evidence/analysis_protocol.json",
+      "docs/stage3j_evidence/primary_result.json"
+    ]
+  },
+  {
+    "output": "docs/manuscript/methods_outline.md",
+    "claim_id": "M11",
+    "text": "The primary bootstrap used exactly 2,000 draws of 857 accounting players with replacement, carrying all seasons for each selected player and assigning duplicate copies distinct cluster identities. Zero-FTA rows remained in resampling accounting. No residualization was refitted. Percentile intervals used linear interpolation at the 2.5th and 97.5th percentiles. Bootstrap means are descriptive summaries; manuscript points remain the original fitted coefficients. Empirical fractions below zero are not posterior probabilities.",
+    "sources": [
+      "docs/stage3j_evidence/analysis_protocol.json",
+      "docs/stage3j_simplified_multiseason_inference.md"
+    ]
+  },
+  {
+    "output": "docs/manuscript/methods_outline.md",
+    "claim_id": "M12",
+    "text": "The predeclared package retained beta-binomial regression with the same mean formula; earliest eligible replication season per player with HC1; player-balanced 1/T_i likelihood weights; FTA >=50 and >=100 subsets; each season omitted once; and a full secondary panel including 2013-14 development. T_i includes accounting seasons with zero attempts. Equal aggregate season weights do not equalize player information because attempt counts still differ. Alternate advantage and ratio exposures remain supplementary, with residual wingspan primary.",
+    "sources": [
+      "docs/stage3j_evidence/analysis_protocol.json",
+      "docs/stage3j_evidence/analysis_protocol.json"
+    ]
+  },
+  {
+    "output": "docs/manuscript/methods_outline.md",
+    "claim_id": "M13",
+    "text": "The secondary beta-binomial player bootstrap required numerical remediation. A prospectively amended numerical ladder was applied uniformly to the exact original scheduled samples with the same likelihood, data and numerical acceptance gates. The original failed execution and the separate numerical-remediation pass are both disclosed. No failed-only percentile interval is used.",
+    "sources": [
+      "docs/stage3j_evidence/j2_original_fit_audit.json",
+      "docs/stage3jr_evidence/full_bootstrap_summary.json",
+      "docs/stage3jr_evidence/stage3jr_decision.json",
+      "docs/stage3jr_evidence/numerical_protocol.json",
+      "docs/stage3jr_beta_binomial_numerical_remediation.md"
+    ]
+  },
+  {
+    "output": "docs/manuscript/methods_outline.md",
+    "claim_id": "M14",
+    "text": "Incomplete or unsupported measurement pairs and unresolved name-only identity links were not admitted under frozen eligibility. Missing combine position is retained as unknown. No FT accuracy is imputed for zero attempts. Zero-FTA rows remain in accounting and bootstrap membership, while only positive-FTA rows inform the accuracy likelihood. In first-season sensitivity, an earliest eligible zero-attempt season is not replaced by a later positive season.",
+    "sources": [
+      "docs/stage3j_evidence/analysis_protocol.json",
+      "docs/stage3_multiseason_hierarchical_ft.md"
+    ]
+  },
+  {
+    "output": "docs/manuscript/methods_outline.md",
+    "claim_id": "M15",
+    "text": "More elaborate hierarchical joint models of free-throw opportunity and accuracy were investigated during model development. These models showed posterior predictive misspecification or weak identification among opportunity and player-level latent effects, with predictive checks withheld when sampling failed. They were therefore not used for primary scientific inference. Their adequacy failures remain part of the scientific history.",
+    "sources": [
+      "docs/stage3c_evidence/execution_status.json",
+      "docs/stage3fr_evidence/final_reparameterization_decision.json",
+      "docs/stage3h_evidence/stage3h_decision.json",
+      "docs/stage3i_evidence/stage3i_decision.json"
+    ]
+  },
+  {
+    "output": "docs/manuscript/methods_outline.md",
+    "claim_id": "M16",
+    "text": "Usable-measurement coverage ranged from 51.0% to 67.3% across the approved season series. Measured players are not a random sample of all NBA players. Combine participation, measurement availability and completeness, NBA survival, playing opportunity and shooting opportunity may select the sample; the model does not correct this selection. Unmeasured skill, training and current role remain possible sources of confounding. Free-throw attempt volume was used as the grouped-binomial denominator rather than as a predictor. Previous model-adequacy analyses indicated that attempt volume is informative about player-level shooting and opportunity structure. Consequently, the primary model should be interpreted as a working conditional association model rather than a complete generative model of shooting opportunity. Player-clustered uncertainty does not repair conditional-mean misspecification.",
+    "sources": [
+      "docs/stage3j_evidence/selection_coverage_by_season.csv",
+      "docs/stage3j_evidence/residual_diagnostics_by_fta_bin.csv"
+    ]
+  },
+  {
+    "output": "docs/manuscript/methods_outline.md",
+    "claim_id": "M17",
+    "text": "Frozen analyses used Python 3.10.8, statsmodels 0.14.5, NumPy 2.2.6, SciPy 1.15.3, pandas 2.2.3 and pyarrow 21.0.0. The isolated environment and archived source, data, code, protocols and results support reproduction. Stage 4A only reads frozen summaries, formats evidence and renders matplotlib figures; it does not rerun fitting or bootstrap procedures. Manuscript freeze and build manifests link every displayed result to its source.",
+    "sources": [
+      "docs/stage3j_evidence/primary_result.json",
+      "docs/manuscript/manuscript_freeze.json"
+    ]
+  },
+  {
+    "output": "docs/manuscript/results_outline.md",
+    "claim_id": "R01",
+    "text": "The primary replication panel comprised 13 seasons, 4,117 player-seasons and 857 accounting players. Of these, 3,980 positive-FTA rows from 835 players contributed 469,099 attempts; 137 zero-FTA rows remained in accounting. The 2013-14 development season was excluded. Table 1 distinguishes accounting and likelihood denominators; Figure 1 shows the source-to-panel flow.",
+    "sources": [
+      "docs/stage3_evidence/primary_replication_panel_summary.json",
+      "docs/stage3j_evidence/primary_result.json",
+      "docs/stage3j_evidence/analysis_protocol.json"
+    ]
+  },
+  {
+    "output": "docs/manuscript/results_outline.md",
+    "claim_id": "R02",
+    "text": "Across the 857 unique accounting players, barefoot height was 77.53 inches (SD 3.24), wingspan 82.47 (SD 3.90), and residual wingspan 0.26 (SD 2.12). FTA per accounting player-season had median 75 and quartiles 25 and 160. Position counts in Table 1 describe player-seasons, not independent players.",
+    "sources": [
+      "docs/stage3j_evidence/sample_anthropometrics_unique_players.csv",
+      "docs/stage3dr_evidence/d3_joint_PPC_metrics.csv"
+    ]
+  },
+  {
+    "output": "docs/manuscript/results_outline.md",
+    "claim_id": "R03",
+    "text": "The primary grouped-binomial estimate was beta=-0.03045199 per residual inch (OR=0.970007); the 95% player-cluster CR1 interval was [-0.05228116, -0.00862282] and the two-sided p-value was 0.00625365. The player-bootstrap percentile interval was [-0.05433056, -0.01047528]. Both intervals describe uncertainty around the same original primary point estimate. Each additional inch of wingspan beyond that expected for height was associated with approximately 3% lower adjusted odds of a made free throw. Odds are not percentage points. This is a between-player association and does not represent changing one player's anatomy.",
+    "sources": [
+      "docs/stage3j_evidence/primary_result.json",
+      "docs/stage3j_evidence/analysis_protocol.json"
+    ]
+  },
+  {
+    "output": "docs/manuscript/results_outline.md",
+    "claim_id": "R04",
+    "text": "All 2,000 predeclared primary bootstrap fits succeeded. The bootstrap mean was -0.03175031, SD 0.01147371, and fraction of coefficients below zero 0.9995. The original estimate remains the point displayed in Table 2 and Figure 2; the bootstrap mean is not a second primary estimator.",
+    "sources": [
+      "docs/stage3j_evidence/primary_result.json"
+    ]
+  },
+  {
+    "output": "docs/manuscript/results_outline.md",
+    "claim_id": "R05",
+    "text": "Secondary beta-binomial robustness retained the original full-sample estimate beta=-0.03342554 (OR=0.967127; rho=0.03028531). Its remediated player-bootstrap 95% percentile interval was [-0.05044245, -0.01701569], with 0/2000 failures. Historical Stage 3J remains EXECUTION FAIL; the separate Stage 3J-R decision is NUMERICAL REMEDIATION PASS. J2 remains secondary.",
+    "sources": [
+      "docs/stage3j_evidence/j2_original_fit_audit.json",
+      "docs/stage3jr_evidence/full_bootstrap_summary.json",
+      "docs/stage3jr_evidence/stage3jr_decision.json",
+      "docs/stage3j_evidence/analysis_protocol.json"
+    ]
+  },
+  {
+    "output": "docs/manuscript/results_outline.md",
+    "claim_id": "R06",
+    "text": "First eligible season only: beta=-0.02768679, 95% interval [-0.04911563, -0.00625796]. This is a predeclared sensitivity with a distinct sample or weighting target, not a replacement for the primary model.",
+    "sources": [
+      "docs/stage3j_evidence/j3_first_season_result.json",
+      "docs/stage3j_evidence/analysis_protocol.json"
+    ]
+  },
+  {
+    "output": "docs/manuscript/results_outline.md",
+    "claim_id": "R07",
+    "text": "Player-balanced weighting: beta=-0.02768226, 95% interval [-0.04636503, -0.00899948]. This is a predeclared sensitivity with a distinct sample or weighting target, not a replacement for the primary model.",
+    "sources": [
+      "docs/stage3j_evidence/j4_player_balanced_result.json",
+      "docs/stage3j_evidence/analysis_protocol.json"
+    ]
+  },
+  {
+    "output": "docs/manuscript/results_outline.md",
+    "claim_id": "R08",
+    "text": "At the frozen FTA >=50 threshold, beta=-0.03144334; at FTA >=100, beta=-0.03488195. Both estimates remained negative. Their full intervals and sample sizes are retained in Table 3. Thresholds change the secondary population and do not redefine primary eligibility.",
+    "sources": [
+      "docs/stage3j_evidence/j6_fta_thresholds.csv"
+    ]
+  },
+  {
+    "output": "docs/manuscript/results_outline.md",
+    "claim_id": "R09",
+    "text": "Supplementary exposure analyses retained the negative direction. Wingspan advantage is an algebraic reparameterization of residual wingspan when height and intercept are included, so its agreement is not independent evidence. The ratio result is displayed per 0.01 increase; residual wingspan remains primary.",
+    "sources": [
+      "docs/stage3j_evidence/alternate_exposures_detail.json",
+      "docs/stage3j_simplified_multiseason_inference.md"
+    ]
+  },
+  {
+    "output": "docs/manuscript/results_outline.md",
+    "claim_id": "R10",
+    "text": "Across all 13 chronological leave-one-season-out omissions, beta ranged from -0.03263770 to -0.02846941 (median -0.03019642); there were 0 sign reversals. No single omitted season reversed the direction; this is sensitivity evidence within the same panel, not independent replication.",
+    "sources": [
+      "docs/stage3j_evidence/loso_summary.json",
+      "docs/stage3j_evidence/j5_leave_one_season_out.csv",
+      "docs/stage3j_evidence/analysis_protocol.json"
+    ]
+  },
+  {
+    "output": "docs/manuscript/results_outline.md",
+    "claim_id": "R11",
+    "text": "The full panel included the 2013-14 development season: 14 seasons, 4,428 player-seasons, 866 players and 511,686 attempts. Beta=-0.03082813, with 95% player-cluster interval [-0.05262950, -0.00902675]. This is secondary and is not independent replication.",
+    "sources": [
+      "docs/stage3j_evidence/full_panel_secondary_result.json",
+      "docs/stage3j_evidence/analysis_protocol.json"
+    ]
+  },
+  {
+    "output": "docs/manuscript/results_outline.md",
+    "claim_id": "R12",
+    "text": "Usable-measurement coverage ranged from 51.0% to 67.3% across the approved season series. Measured players are not a random sample of all NBA players. Combine participation, measurement availability and completeness, NBA survival, playing opportunity and shooting opportunity may select the sample; the model does not correct this selection. Unmeasured skill, training and current role remain possible sources of confounding. Figure 4 retains the approved season series and marks the development season.",
+    "sources": [
+      "docs/stage3j_evidence/selection_coverage_by_season.csv"
+    ]
+  },
+  {
+    "output": "docs/manuscript/results_outline.md",
+    "claim_id": "R13",
+    "text": "Existing residual diagnostics show overpredicted pooled rates in low-attempt bins and underprediction in the 300+ attempt bin. The 100-299 bin is close to the fitted rate and slightly overpredicted, so it should not be described as underpredicted. Exact observed and fitted values are in the supplementary diagnostic figure and its data. Overall and season-level near-zero pooled residuals follow the fitted score equations and do not independently establish model adequacy. Free-throw attempt volume was used as the grouped-binomial denominator rather than as a predictor. Previous model-adequacy analyses indicated that attempt volume is informative about player-level shooting and opportunity structure. Consequently, the primary model should be interpreted as a working conditional association model rather than a complete generative model of shooting opportunity. Player-clustered uncertainty does not repair conditional-mean misspecification.",
+    "sources": [
+      "docs/stage3j_evidence/residual_diagnostics_by_fta_bin.csv",
+      "docs/stage3j_evidence/residual_diagnostics_overall.json",
+      "docs/stage3j_simplified_multiseason_inference.md"
+    ]
+  },
+  {
+    "output": "docs/manuscript/discussion_outline.md",
+    "claim_id": "D01",
+    "text": "Greater residual wingspan was associated with lower free-throw accuracy in NBA players with available combine measurements. The negative association was observed in the 2013-14 development analysis and persisted in a 13-season replication panel excluding that season, with similar estimates across player-clustered, beta-binomial, first-season-only, player-balanced, attempt-threshold and leave-one-season-out analyses. Each additional inch of wingspan beyond that expected for height was associated with approximately 3% lower adjusted odds of a made free throw. Odds are not percentage points. This is a between-player association and does not represent changing one player's anatomy.",
+    "sources": [
+      "docs/stage3j_evidence/primary_result.json",
+      "docs/stage3j_evidence/j2_original_fit_audit.json",
+      "docs/stage3jr_evidence/full_bootstrap_summary.json",
+      "docs/stage3jr_evidence/stage3jr_decision.json",
+      "docs/stage3j_evidence/robustness_table.csv",
+      "docs/stage3j_evidence/loso_summary.json",
+      "docs/stage3j_evidence/analysis_protocol.json"
+    ]
+  },
+  {
+    "output": "docs/manuscript/discussion_outline.md",
+    "claim_id": "D02",
+    "text": "The negative association appeared in the 2013-14 development analyses and persisted across additional seasons. Development estimates used different populations and variance assumptions. The development-stage joint high-leverage removal changed magnitude materially; its frozen scientific classification was UNCERTAIN DIRECTION, driven by magnitude sensitivity rather than observed sign reversal. Retain that qualification in the supplement. Overlapping players prevent an independent-player replication claim.",
+    "sources": [
+      "docs/stage2_robust_inference.md",
+      "docs/stage1_ft_residual_wingspan_analysis.md",
+      "docs/stage3j_evidence/analysis_protocol.json",
+      "docs/stage3j_evidence/analysis_protocol.json"
+    ]
+  },
+  {
+    "output": "docs/manuscript/discussion_outline.md",
+    "claim_id": "D03",
+    "text": "Shooting mechanics or release geometry could be hypotheses for future work, but neither was measured or established here. The observed association could also reflect role allocation, player selection, or unmeasured shooting skill. Avoid attributing the association to a particular biomechanical pathway.",
+    "sources": [
+      "docs/stage3j_evidence/analysis_protocol.json"
+    ]
+  },
+  {
+    "output": "docs/manuscript/discussion_outline.md",
+    "claim_id": "D04",
+    "text": "Usable-measurement coverage ranged from 51.0% to 67.3% across the approved season series. Measured players are not a random sample of all NBA players. Combine participation, measurement availability and completeness, NBA survival, playing opportunity and shooting opportunity may select the sample; the model does not correct this selection. Unmeasured skill, training and current role remain possible sources of confounding. Original combine position is a historical proxy and may not represent current playing role.",
+    "sources": [
+      "docs/stage3j_evidence/selection_coverage_by_season.csv",
+      "docs/stage3j_evidence/analysis_protocol.json"
+    ]
+  },
+  {
+    "output": "docs/manuscript/discussion_outline.md",
+    "claim_id": "D05",
+    "text": "Free-throw attempt volume was used as the grouped-binomial denominator rather than as a predictor. Previous model-adequacy analyses indicated that attempt volume is informative about player-level shooting and opportunity structure. Consequently, the primary model should be interpreted as a working conditional association model rather than a complete generative model of shooting opportunity. Player-clustered uncertainty does not repair conditional-mean misspecification. The supplementary attempt-volume diagnostic makes the residual pattern visible without making model misfit the main result.",
+    "sources": [
+      "docs/stage3j_evidence/residual_diagnostics_by_fta_bin.csv",
+      "docs/stage3j_simplified_multiseason_inference.md"
+    ]
+  },
+  {
+    "output": "docs/manuscript/discussion_outline.md",
+    "claim_id": "D06",
+    "text": "Residual wingspan is time invariant, so its coefficient is identified between players. Repeated seasons provide additional outcome information and dependence-aware uncertainty, but not within-player exposure identification. Player clustering is not adjustment for player fixed effects or unmeasured player ability. Neither the adjusted coefficient nor repeated-measures uncertainty establishes what would happen if a player's anatomy were changed. There is no causal identification design or selection correction.",
+    "sources": [
+      "docs/stage3j_evidence/analysis_protocol.json"
+    ]
+  },
+  {
+    "output": "docs/manuscript/discussion_outline.md",
+    "claim_id": "D07",
+    "text": "Strengths include direct source corroboration, fixed measurement and identity rules, a frozen outcome-independent geometric definition, count-based modeling, dependence-aware uncertainty, a season held out of replication because it was used for development, and transparent predeclared sensitivity results. Numerical reliability was evaluated separately from scientific adequacy.",
+    "sources": [
+      "docs/stage0c_evidence/validation_summary.json",
+      "docs/stage3_evidence/later_combine_validation_by_year.csv",
+      "docs/stage3_multiseason_hierarchical_ft.md",
+      "docs/stage3j_evidence/analysis_protocol.json",
+      "docs/stage3j_evidence/j2_original_fit_audit.json",
+      "docs/stage3jr_evidence/full_bootstrap_summary.json",
+      "docs/stage3jr_evidence/stage3jr_decision.json"
+    ]
+  },
+  {
+    "output": "docs/manuscript/discussion_outline.md",
+    "claim_id": "D08",
+    "text": "The main limitations are selected measurement coverage, informative shooting opportunity and possible conditional-mean misspecification, and between-player confounding. Further limitations include measurement error, frozen reference-fit uncertainty, small original position categories, unbalanced careers, left-truncated NBA observation and limited applicability beyond the measured NBA sample. More elaborate hierarchical joint models of free-throw opportunity and accuracy were investigated during model development. These models showed posterior predictive misspecification or weak identification among opportunity and player-level latent effects, with predictive checks withheld when sampling failed. They were therefore not used for primary scientific inference. Their adequacy failures remain part of the scientific history.",
+    "sources": [
+      "docs/stage3j_evidence/selection_coverage_by_season.csv",
+      "docs/stage3j_evidence/analysis_protocol.json",
+      "docs/stage3c_evidence/execution_status.json",
+      "docs/stage3fr_evidence/final_reparameterization_decision.json",
+      "docs/stage3h_evidence/stage3h_decision.json",
+      "docs/stage3i_evidence/stage3i_decision.json"
+    ]
+  },
+  {
+    "output": "docs/manuscript/discussion_outline.md",
+    "claim_id": "D09",
+    "text": "The results motivate targeted measurement of mechanics, training and contemporary role in future research. Such work would require a separately designed analysis. No additional exposure, threshold, subgroup, model or causal analysis is part of the current manuscript freeze.",
+    "sources": [
+      "docs/stage3j_evidence/analysis_protocol.json"
+    ]
+  },
+  {
+    "output": "docs/manuscript/supplement_plan.md",
+    "claim_id": "S01",
+    "text": "Anthropometric records came from a pinned secondary archive and were corroborated against official NBA historical combine tables. In the predeclared validation sample, all 45/45 same-player, same-year barefoot-height and wingspan pairs agreed exactly. A broader historical census included 970 rows and 965 complete pairs with exact core agreement; the frozen geometric reference comprised 960 positive-ID participants. Later official combine validation covered 582 records, including 543 complete pairs and four versioned corrections. Analytical linkage used exact positive NBA IDs; source-table name corroboration did not authorize fuzzy analytical joins.",
+    "sources": [
+      "docs/stage0c_evidence/validation_summary.json",
+      "docs/stage3_evidence/later_combine_validation_by_year.csv",
+      "docs/stage3_multiseason_hierarchical_ft.md"
+    ]
+  },
+  {
+    "output": "docs/manuscript/supplement_plan.md",
+    "claim_id": "S02",
+    "text": "Public NBA game-level minute displays and the archived game records agreed at the available whole-second resolution in the audited sample, while small discrepancies remained between summed game displays and NBA season-level decimal minute displays. Because season-level MIN was not the scientific outcome, exposure, or primary model predictor, and because shooting counts and analytical eligibility reconciled, the amended prospective validation protocol treated season-total MIN as an ancillary representation field rather than an exact numerical release gate. The internal NBA aggregation mechanism remains unknown.",
+    "sources": [
+      "docs/stage3b_protocol_amendment.md"
+    ]
+  },
+  {
+    "output": "docs/manuscript/supplement_plan.md",
+    "claim_id": "S03",
+    "text": "The game-display audit covered 53 player-seasons, not all league records; the season-minute mismatch subset contained 157 positive and 13 negative differences. The internal aggregation mechanism remains unknown. The original source gate stays blocked in its historical record, the precision audit stays unresolved, and the prospective amended release is separately labeled.",
+    "sources": [
+      "docs/stage3b_protocol_amendment.md"
+    ]
+  },
+  {
+    "output": "docs/manuscript/supplement_plan.md",
+    "claim_id": "S04",
+    "text": "Retain the original model ladder, quasi-binomial, HC0, beta-binomial and influence results as 2013-14 development evidence. Preserve the UNCERTAIN DIRECTION classification and its magnitude-sensitivity rationale. Any retained development probability contrasts must remain explicitly model-specific; they are not primary replication probability estimates.",
+    "sources": [
+      "docs/stage1_ft_residual_wingspan_analysis.md",
+      "docs/stage2_robust_inference.md",
+      "docs/stage3j_evidence/analysis_protocol.json"
+    ]
+  },
+  {
+    "output": "docs/manuscript/supplement_plan.md",
+    "claim_id": "S05",
+    "text": "Across all 13 chronological leave-one-season-out omissions, beta ranged from -0.03263770 to -0.02846941 (median -0.03019642); there were 0 sign reversals. No single omitted season reversed the direction; this is sensitivity evidence within the same panel, not independent replication.",
+    "sources": [
+      "docs/stage3j_evidence/loso_summary.json",
+      "docs/stage3j_evidence/analysis_protocol.json"
+    ]
+  },
+  {
+    "output": "docs/manuscript/supplement_plan.md",
+    "claim_id": "S06",
+    "text": "The complete leave-one-season-out table and alternate exposure table are ready. Original season-specific association models were not run and will not be invented. Advantage agreement is algebraic; ratio units are stated explicitly. No analysis replaces the primary residual-wingspan model.",
+    "sources": [
+      "docs/stage3j_evidence/analysis_protocol.json"
+    ]
+  },
+  {
+    "output": "docs/manuscript/supplement_plan.md",
+    "claim_id": "S07",
+    "text": "Secondary beta-binomial robustness retained the original full-sample estimate beta=-0.03342554 (OR=0.967127; rho=0.03028531). Its remediated player-bootstrap 95% percentile interval was [-0.05044245, -0.01701569], with 0/2000 failures. Historical Stage 3J remains EXECUTION FAIL; the separate Stage 3J-R decision is NUMERICAL REMEDIATION PASS. J2 remains secondary. The supplement documents the original failures, the preserved initial numerical ladder and its prospective numerical-only amendment, unchanged likelihood and samples, unchanged acceptance gates, uniform complete rerun, and original-success agreement. Solver iteration dumps remain audit-only.",
+    "sources": [
+      "docs/stage3j_evidence/j2_original_fit_audit.json",
+      "docs/stage3jr_evidence/full_bootstrap_summary.json",
+      "docs/stage3jr_evidence/stage3jr_decision.json",
+      "docs/stage3jr_beta_binomial_numerical_remediation.md",
+      "docs/stage3j_evidence/analysis_protocol.json"
+    ]
+  },
+  {
+    "output": "docs/manuscript/supplement_plan.md",
+    "claim_id": "S08",
+    "text": "More elaborate hierarchical joint models of free-throw opportunity and accuracy were investigated during model development. These models showed posterior predictive misspecification or weak identification among opportunity and player-level latent effects, with predictive checks withheld when sampling failed. They were therefore not used for primary scientific inference. Their adequacy failures remain part of the scientific history. Stage 3D stopped at its prior prerequisite; its posterior adequacy was unassessed. Stage 3F/3F-R sampling failures do not count as observed PPC failures. No sealed or failed-model scientific coefficient is reproduced in the manuscript package.",
+    "sources": [
+      "docs/stage3c_evidence/execution_status.json",
+      "docs/stage3fr_evidence/final_reparameterization_decision.json",
+      "docs/stage3h_evidence/stage3h_decision.json",
+      "docs/stage3i_evidence/stage3i_decision.json",
+      "docs/stage3d_attempt_volume_model_adequacy.md"
+    ]
+  },
+  {
+    "output": "docs/manuscript/supplement_plan.md",
+    "claim_id": "S09",
+    "text": "The supplemental observed-versus-fitted figure uses the already frozen FTA bins and pooled rates from the primary working model. It is descriptive, not a new adequacy gate or primary-result figure. The low-volume and 300+ patterns remain explicit in the main Discussion.",
+    "sources": [
+      "docs/stage3j_evidence/residual_diagnostics_by_fta_bin.csv"
+    ]
+  },
+  {
+    "output": "docs/manuscript/supplement_plan.md",
+    "claim_id": "S10",
+    "text": "REQUIRES FUTURE ANALYSIS. No frozen replication-only binned exposure-outcome summary was located. Existing exposure bins concern the development season and cannot stand in for replication. New binning or player-level summaries are not authorized in this stage. If separately authorized later, a supplemental display should report player counts, attempts and pooled makes/attempts, disclose attempt-volume heterogeneity, and avoid an unweighted FT-percent trend or a causal-looking fitted line.",
+    "sources": [
+      "docs/stage1_evidence/binned_descriptive.csv",
+      "docs/manuscript/manuscript_freeze.json"
+    ]
+  }
+]

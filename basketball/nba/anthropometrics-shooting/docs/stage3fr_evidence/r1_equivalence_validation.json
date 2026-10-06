@@ -1,0 +1,31 @@
+{
+  "candidate": "R1",
+  "checked_at": "2026-09-29T20:48:11.289412+00:00",
+  "passed": true,
+  "matched_parameter_points": 12,
+  "synthetic_latent_points_per_case": 7,
+  "maximum_absolute_errors": {
+    "log_density": 3.812601789832115e-09,
+    "likelihood": 0.0,
+    "linear_predictor": 1.5543122344752192e-15,
+    "inverse": 1.3877787807814457e-17,
+    "transformed_normal_prior": 2.220446049250313e-16,
+    "latent_density": 0.0
+  },
+  "prior_predictive_draws": 500,
+  "prior_predictive_coupling": "Same original prior draws mapped exactly into new coordinates; same RNG seed for replicated counts and makes",
+  "prior_predictive_deterministic_relative_errors": {
+    "mu_accuracy_all": 4.561185709993768e-16,
+    "mu_FTA": 3.742224347470425e-15,
+    "pi_hurdle": 3.557441545433297e-16,
+    "kappa": 0.0,
+    "alpha_FTA": 0.0
+  },
+  "paired_prior_predictive_counts_exact": true,
+  "original_prior_preserved": true,
+  "data_rows_unchanged": true,
+  "no_coefficient_omitted": true,
+  "original_model_sha256": "ed5b1246c89faf77de23898bff5b4641949ab00fd8b75f11f6966a0eeb59a295",
+  "new_model_sha256": "ffcb76bcc84b54a8a445f4ecf439294a3fdf6e9c00f87b107ee9221e84a20548",
+  "scientific_effect_summary_exported": false
+}

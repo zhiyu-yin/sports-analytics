@@ -1,0 +1,29 @@
+{
+  "completed_at": "2026-10-01T02:13:18.254559+00:00",
+  "freeze_sha256": "66a07aa5c826ac34f7aa8a09ee9565312e350e676d0965bb7f2040b02f7c6def",
+  "decoded_inputs": [
+    "docs/stage3j_evidence/primary_result.json",
+    "docs/stage3jr_evidence/full_bootstrap_summary.json",
+    "docs/stage3j_evidence/analysis_protocol.json",
+    "docs/stage3j_evidence/j2_original_fit_audit.json",
+    "docs/stage3j_evidence/j3_first_season_result.json",
+    "docs/stage3j_evidence/j4_player_balanced_result.json",
+    "docs/stage3j_evidence/j6_fta_thresholds.csv",
+    "docs/stage3j_evidence/full_panel_secondary_result.json",
+    "docs/stage3j_evidence/sample_anthropometrics_unique_players.csv",
+    "docs/stage3j_evidence/selection_coverage_by_season.csv",
+    "docs/stage3dr_evidence/d3_joint_PPC_metrics.csv",
+    "docs/stage3j_evidence/j5_leave_one_season_out.csv",
+    "docs/stage3j_evidence/loso_summary.json",
+    "docs/stage3j_evidence/alternate_exposures_detail.json",
+    "docs/stage3j_evidence/residual_diagnostics_by_fta_bin.csv",
+    "docs/stage3_evidence/shooting_archive_provenance.json",
+    "docs/stage0c_evidence/validation_summary.json"
+  ],
+  "statistical_fits": 0,
+  "bootstrap_runs": 0,
+  "analytical_panels_decoded": 0,
+  "new_filters": 0,
+  "new_thresholds": 0,
+  "stage4b_started": false
+}

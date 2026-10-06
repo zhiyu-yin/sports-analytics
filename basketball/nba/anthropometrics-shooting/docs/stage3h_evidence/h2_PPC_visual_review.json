@@ -1,0 +1,7 @@
+{
+  "reviewed_at": "2026-09-30T19:33:47.070451+00:00",
+  "reviewed": true,
+  "accuracy": "All five bins inside 99% intervals; systematic direction remains according to the unchanged MCSE rule, distinct from interval coverage",
+  "opportunity": "Zero frequency inside interval; positive median and upper quartile above predictive intervals",
+  "scientific_plot": false
+}

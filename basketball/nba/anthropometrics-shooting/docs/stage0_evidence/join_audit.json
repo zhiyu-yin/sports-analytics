@@ -1,0 +1,31 @@
+{
+  "evidence_type": "observed_secondary_archives_only",
+  "combine_rows": 1552,
+  "unique_record_ids": 1517,
+  "missing_id_records": 5,
+  "complete_measurement_rows": 1508,
+  "unique_measured_players": 1480,
+  "NBA_players_in_archive": 1708,
+  "join_status_counts": {
+    "exact ID": 866,
+    "exact normalized name": 0,
+    "manually reviewable": 21,
+    "ambiguous": 0,
+    "unmatched": 593
+  },
+  "matched_measured_players": 866,
+  "measured_to_observed_NBA_fraction": 0.5851351351351352,
+  "expected_NBA_denominator": null,
+  "expected_NBA_match_rate": null,
+  "reason": "No independent complete NBA-ever roster; unmatched includes non-NBA prospects and careers outside 2010-11 through 2023-24.",
+  "matched_after_measurement_players": 866,
+  "matched_player_seasons": 4428,
+  "total_fta": 511680,
+  "player_seasons_FTA_ge_50": 2738,
+  "player_seasons_FTA_ge_100": 1833,
+  "cohort_2013": {
+    "unique_measured": 62,
+    "matched": 52
+  },
+  "prototype_rule": "First 12 alphabetically sorted matched players in 2013-14, earliest complete combine on/before season; audit only."
+}

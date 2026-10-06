@@ -1,0 +1,136 @@
+{
+  "stage": "4A",
+  "frozen_at": "2026-10-01T02:00:36.957888+00:00",
+  "primary_analysis": "Stage 3J J1",
+  "secondary_analysis": "J2 beta-binomial with Stage 3J-R remediated player bootstrap",
+  "primary_estimand": "Conditional population-average association among observed measured player-seasons adjusted for barefoot height, original combine position and season; attempt-weighted through grouped denominator; time-invariant exposure identified between players.",
+  "primary_panel_hash": "1c34331385e459ac5da67105658730d31d96c8114bd25fcb3b31cea52f1a1871",
+  "full_panel_hash": "5306ffd228fb71b34b174d18cf86e351b6fa48598579e4f49935078239662978",
+  "primary_model": "1 + residual_wingspan + height_wo_shoes_inches + C(original_combine_position) + C(season)",
+  "response": [
+    "ftm",
+    "fta-ftm"
+  ],
+  "exposure_definition": {
+    "intercept": 4.574910520685837,
+    "slope": 1.0013410045156863,
+    "units": "inches",
+    "refit": false
+  },
+  "primary_result_artifact_hash": "79b8f461efcc61e0a6e3ff33728fa0d0019839aae03b9809d530f8c9b6906e02",
+  "J2_remediation_artifact_hash": "6933e3ec7bc9bef8b6ec56f141c2bfb44411ba4cfb6865fad10d387827464882",
+  "J2_remediation_decision_hash": "3151a7cc931ad1ed5f8777130e6dca39eb85b738e96f7fb6ba9ff1c95215fdb8",
+  "inputs": {
+    "docs/stage3j_evidence/primary_result.json": "79b8f461efcc61e0a6e3ff33728fa0d0019839aae03b9809d530f8c9b6906e02",
+    "docs/stage3jr_evidence/full_bootstrap_summary.json": "6933e3ec7bc9bef8b6ec56f141c2bfb44411ba4cfb6865fad10d387827464882",
+    "docs/stage3jr_evidence/stage3jr_decision.json": "3151a7cc931ad1ed5f8777130e6dca39eb85b738e96f7fb6ba9ff1c95215fdb8",
+    "docs/stage3j_evidence/analysis_protocol.json": "8c2d5908b67018573c655750414cccfa335c37e2dde006a7e8f6ca9fd74bce1d"
+  },
+  "primary_uncertainty": [
+    "player-cluster CR1",
+    "2000-replicate player percentile bootstrap"
+  ],
+  "primary_seasons": [
+    "2010-11",
+    "2011-12",
+    "2012-13",
+    "2014-15",
+    "2015-16",
+    "2016-17",
+    "2017-18",
+    "2018-19",
+    "2019-20",
+    "2020-21",
+    "2021-22",
+    "2022-23",
+    "2023-24"
+  ],
+  "main_robustness_set": [
+    "J2 beta-binomial",
+    "first eligible replication season",
+    "player-balanced",
+    "FTA >=50",
+    "FTA >=100",
+    "leave-one-season-out",
+    "full secondary panel including development"
+  ],
+  "supplementary_exposures": [
+    "wingspan advantage",
+    "wingspan ratio"
+  ],
+  "development_replication_distinction": "2013-14 is development and excluded from primary; players may overlap. Out-of-season replication, not independent-player replication.",
+  "approved_core_conclusion": "Greater residual wingspan was associated with lower free-throw accuracy in NBA players with available combine measurements. The negative association was observed in the 2013-14 development analysis and persisted in a 13-season replication panel excluding that season, with similar estimates across player-clustered, beta-binomial, first-season-only, player-balanced, attempt-threshold and leave-one-season-out analyses.",
+  "prohibited_causal_wording": [
+    "effect of wingspan",
+    "Long arms hurt shooting",
+    "causes worse free-throw shooting",
+    "mechanically reduces shooting accuracy",
+    "proves"
+  ],
+  "main_limitations": [
+    "Measurement coverage is approximately 51%-67%. Combine participation, measurement availability/completeness, NBA survival, playing and shooting opportunity select the sample; the model does not correct this selection.",
+    "Free-throw attempt volume is the grouped-binomial denominator rather than a predictor. Low-FTA rates are overpredicted and rates in the 300+ FTA bin are underpredicted. The primary model is a working conditional association model, not a complete generative model of shooting opportunity.",
+    "Residual wingspan is time invariant and identified between players. Player-clustered uncertainty accounts for dependence, not unmeasured skill, training or role. Repeated outcomes do not provide within-player exposure identification or establish a causal mechanism.",
+    "Original combine position is an imperfect historical role proxy. Inference conditions on the frozen geometric reference; measurement and reference-fit uncertainty are not propagated."
+  ],
+  "planned_tables": [
+    "main_table1_sample",
+    "main_table2_primary",
+    "main_table3_robustness",
+    "supp_leave_one_season_out",
+    "supp_alternate_exposures"
+  ],
+  "planned_figures": [
+    "figure1_study_flow",
+    "figure2_robustness_forest",
+    "figure3_leave_one_season_out",
+    "figure4_selection_coverage",
+    "supp_figure1_attempt_volume_diagnostic"
+  ],
+  "descriptive_exposure_figure": {
+    "status": "REQUIRES FUTURE ANALYSIS",
+    "placement": "SUPPLEMENT if separately authorized",
+    "reason": "Only development-season exposure bins exist; replication bins or new player summaries would be new analysis. No new bins, raw unweighted FT-percent scatter, or fitted line is generated."
+  },
+  "table1_position_policy": "Use accounting player-season counts recovered arithmetically as frozen observed position FTA total / frozen observed position mean FTA from Stage3DR joint_PPC_metrics. No fitted or predictive fields used; round only after checking near-integer, require total 4117. Unique-player position distribution is not available as a frozen summary and is not invented.",
+  "table1_fta_policy": "Use frozen observed overall FTA mean, SD and quartiles only; all accounting rows including zeros. No posterior predictions from failed models enter Table 1.",
+  "flow_policy": "Use frozen approved 14-season coverage sum, full and primary panel counts. Combine eligibility and exact-ID linkage share one observed intersection count; do not invent sequential attrition counts.",
+  "historical_decisions": {
+    "Stage3": "BLOCKED under original source gate",
+    "Stage3A": "UNRESOLVED — INSUFFICIENT PRECISION EVIDENCE",
+    "Stage3B": "PASS UNDER AMENDED PROTOCOL",
+    "Stage3C": "FAIL — PPC inadequacy despite sampler pass",
+    "Stage3D": "Prior prerequisite failed; posterior unassessed",
+    "Stage3DR": "ADEQUACY UNRESOLVED — D3 FAILS",
+    "Stage3F": "STRUCTURAL ADEQUACY UNRESOLVED",
+    "Stage3FR": "IDENTIFICATION UNRESOLVED — NO EQUIVALENT F2 PARAMETERIZATION PASSES SAMPLER",
+    "Stage3H": "SHARED-FACTOR ADEQUACY UNRESOLVED",
+    "Stage3I": "RESIDUAL ADEQUACY UNRESOLVED",
+    "Stage3J": "EXECUTION FAIL",
+    "Stage3JR": "NUMERICAL REMEDIATION PASS"
+  },
+  "allowed_operations": [
+    "read frozen JSON/CSV/report evidence",
+    "hash historical files without decoding traces or panels",
+    "copy published values",
+    "format and label",
+    "exp coefficient interval endpoints for OR display if needed",
+    "arithmetic recovery of existing denominators",
+    "sum approved coverage counts for flow",
+    "matplotlib rendering",
+    "verification"
+  ],
+  "forbidden_operations": [
+    "statistical fitting",
+    "bootstrap or RNG",
+    "panel decoding or filtering",
+    "new threshold/exposure/outcome/subgroup/interaction",
+    "decoding failed scientific traces",
+    "Stage4B",
+    "commit",
+    "push",
+    "submission"
+  ],
+  "preserved_artifacts": 19939,
+  "preservation_manifest_hash": "490ff7431ae0117bf9b93490b4678032d4458874cc540c38e59937a7018ea076"
+}

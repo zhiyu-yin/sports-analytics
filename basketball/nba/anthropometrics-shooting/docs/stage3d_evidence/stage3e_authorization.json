@@ -1,0 +1,8 @@
+{
+  "stage3e_authorized": false,
+  "selected_future_model": "NONE",
+  "scientific_parameter_status": "NOT_AUTHORIZED",
+  "decision_sha256": "52f20a7b35d903177805821649070016b8ee9bc445ed5e79d2eb2102f46dfdbd",
+  "reason": "D3 prior gate failed; no posterior adequacy assessment",
+  "stage3e_executed": false
+}

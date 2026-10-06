@@ -1,0 +1,6 @@
+{
+  "chains_mix": true,
+  "energy_acceptable": true,
+  "reviewed_at": "2026-09-29T01:49:44.722470+00:00",
+  "notes": "Four-chain mechanism, accuracy-adjustment and opportunity-adjustment traces overlap without sustained drift or separated modes. Sealed-parameter rank distributions are broadly balanced across chains. Energy distributions overlap and all BFMI values exceed 0.3. No recovery required."
+}

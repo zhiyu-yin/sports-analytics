@@ -1,0 +1,141 @@
+{
+  "frozen_at": "2026-09-29T18:16:24.016437+00:00",
+  "positive": {
+    "a_0": [
+      "Normal",
+      0.6931471805599453,
+      1
+    ],
+    "a_RW": [
+      "Normal",
+      0,
+      0.15
+    ],
+    "a_H": [
+      "Normal",
+      0,
+      0.15
+    ],
+    "a_position": [
+      "Normal",
+      0,
+      0.35
+    ],
+    "a_season": [
+      "Normal",
+      0,
+      0.25
+    ],
+    "log_alpha_FTA": [
+      "Normal",
+      0.6931471805599453,
+      1
+    ]
+  },
+  "hurdle": {
+    "c_0": [
+      "Normal",
+      2.9444389791664403,
+      1
+    ],
+    "c_RW": [
+      "Normal",
+      0,
+      0.25
+    ],
+    "c_H": [
+      "Normal",
+      0,
+      0.25
+    ],
+    "c_position": [
+      "Normal",
+      0,
+      0.5
+    ],
+    "c_season": [
+      "Normal",
+      0,
+      0.35
+    ]
+  },
+  "accuracy": {
+    "intercept": [
+      "Normal",
+      0,
+      2.5
+    ],
+    "sealed_exposure": [
+      "Normal",
+      0,
+      0.5
+    ],
+    "height": [
+      "Normal",
+      0,
+      0.5
+    ],
+    "position": [
+      "Normal",
+      0,
+      1
+    ],
+    "season": [
+      "Normal",
+      0,
+      1
+    ],
+    "log_kappa": [
+      "Normal",
+      3,
+      2
+    ]
+  },
+  "F2": {
+    "theta_B": [
+      "Normal",
+      0,
+      0.5
+    ],
+    "theta_W": [
+      "Normal",
+      0,
+      0.5
+    ]
+  },
+  "random_effects": {
+    "order": [
+      "accuracy",
+      "positive_opportunity",
+      "hurdle"
+    ],
+    "SD_priors": [
+      [
+        "HalfNormal",
+        1
+      ],
+      [
+        "HalfNormal",
+        0.5
+      ],
+      [
+        "HalfNormal",
+        1
+      ]
+    ],
+    "LKJ_eta": 2,
+    "noncentered": true
+  },
+  "rationale": "Exactly one user-specified domain-scale 0.95 hurdle center chosen before simulation. The previously seen observed zero fraction motivates a hurdle family but does not determine prior constants. No outcome-quantile calibration.",
+  "draws_per_candidate": 5000,
+  "seed": 20260928,
+  "gates": {
+    "max_fraction_positive_rate_over_100": 0.01,
+    "max_fraction_total_FTA_over_1000000": 0.001,
+    "max_prior_mass_zero_fraction_extremes": 0.9,
+    "extremes": "zero fraction <0.001 or >0.5; combined mass",
+    "wide_range": "Report 95% interval and prospectively review broad plausibility without matching the observed zero fraction; no additional data-derived numerical cutoff"
+  },
+  "rate_definition": "Positive conditional mean rate = mu_NB / (1-P_NB(0)) / GP; also report underlying mu_NB/GP to preserve Stage 3D-R scale interpretation",
+  "no_amendment_after_simulation": true
+}

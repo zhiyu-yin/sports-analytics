@@ -1,0 +1,45 @@
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l1dcachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l2cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l3cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.optional.neon'. Detail: [errno 1] Operation not permitted
+j1 bootstrap 50 / 2000; failures 0
+j1 bootstrap 100 / 2000; failures 0
+j1 bootstrap 150 / 2000; failures 0
+j1 bootstrap 200 / 2000; failures 0
+j1 bootstrap 250 / 2000; failures 0
+j1 bootstrap 300 / 2000; failures 0
+j1 bootstrap 350 / 2000; failures 0
+j1 bootstrap 400 / 2000; failures 0
+j1 bootstrap 450 / 2000; failures 0
+j1 bootstrap 500 / 2000; failures 0
+j1 bootstrap 550 / 2000; failures 0
+j1 bootstrap 600 / 2000; failures 0
+j1 bootstrap 650 / 2000; failures 0
+j1 bootstrap 700 / 2000; failures 0
+j1 bootstrap 750 / 2000; failures 0
+j1 bootstrap 800 / 2000; failures 0
+j1 bootstrap 850 / 2000; failures 0
+j1 bootstrap 900 / 2000; failures 0
+j1 bootstrap 950 / 2000; failures 0
+j1 bootstrap 1000 / 2000; failures 0
+j1 bootstrap 1050 / 2000; failures 0
+j1 bootstrap 1100 / 2000; failures 0
+j1 bootstrap 1150 / 2000; failures 0
+j1 bootstrap 1200 / 2000; failures 0
+j1 bootstrap 1250 / 2000; failures 0
+j1 bootstrap 1300 / 2000; failures 0
+j1 bootstrap 1350 / 2000; failures 0
+j1 bootstrap 1400 / 2000; failures 0
+j1 bootstrap 1450 / 2000; failures 0
+j1 bootstrap 1500 / 2000; failures 0
+j1 bootstrap 1550 / 2000; failures 0
+j1 bootstrap 1600 / 2000; failures 0
+j1 bootstrap 1650 / 2000; failures 0
+j1 bootstrap 1700 / 2000; failures 0
+j1 bootstrap 1750 / 2000; failures 0
+j1 bootstrap 1800 / 2000; failures 0
+j1 bootstrap 1850 / 2000; failures 0
+j1 bootstrap 1900 / 2000; failures 0
+j1 bootstrap 1950 / 2000; failures 0
+j1 bootstrap 2000 / 2000; failures 0
+PRIMARY FROZEN {"player_seasons": 4117, "players": 857, "seasons": 13, "positive_FTA_rows": 3980, "zero_FTA_rows": 137, "contributing_players": 835, "FTA": 469099, "FTM": 360001, "beta": -0.030451990605906667, "se": 0.011137535531033377, "ci_low": -0.05228115912326727, "ci_high": -0.008622822088546062, "odds_ratio": 0.9700070003976983, "or_low": 0.9490619918899177, "or_high": 0.9914142478162559, "p": 0.006253646672438628, "ci_includes_zero": false, "method": "grouped-binomial GLM", "uncertainty": "player-cluster CR1", "dropped_nonidentifiable_columns": [], "converged": true, "started_or_finished_at": "2026-10-01T00:50:38.274174+00:00", "exposure": "residual_wingspan", "exposure_unit": "inch", "covariance_validation": {"passed": true, "max_absolute_error": 2.163158541179655e-12, "relative_frobenius_error": 1.264152579601679e-12, "cluster_order_invariant": true, "finite_sample_correction_verified": true, "N": 3980, "K": 28, "G": 835, "correction": 1.0080392164001593}, "panel_sha256": "1c34331385e459ac5da67105658730d31d96c8114bd25fcb3b31cea52f1a1871", "protocol_sha256": "8c2d5908b67018573c655750414cccfa335c37e2dde006a7e8f6ca9fd74bce1d", "bootstrap": {"replicates": 2000, "successful": 2000, "failed": 0, "seed": 20260930, "RNG": "numpy.default_rng PCG64", "mean": -0.0317503122488305, "SD": 0.01147371278956374, "percentile_CI": [-0.054330558012167116, -0.010475281001090258], "fraction_beta_negative": 0.9995, "percentile_method": "linear", "no_failed_replicate_replacement": true, "valid_for_interpretation": true}, "frozen_at": "2026-10-01T00:51:17.125493+00:00", "software": {"python": "3.10.8", "executable": "/Users/zhiyuyin/Documents/last time job hunting material/proj/sports-analytics/basketball/nba/anthropometrics-shooting/.venv/bin/python", "packages": {"statsmodels": "0.14.5", "numpy": "2.2.6", "scipy": "1.15.3", "pandas": "2.2.3", "pyarrow": "21.0.0", "matplotlib": "3.10.3"}, "policy": "Reuse existing .venv; no installation"}, "code_hashes": {"scripts/stage3j_core.py": "12d54a1d310847f2ebb8d57d0f96a427797b560a702576a9a25f25bb04426125", "scripts/stage3j_freeze.py": "c0e5acbae376fff8697e64c3a25203e5197029643837c3e56c289a10c8891aaf", "scripts/stage3j_run.py": "7e734b831fd362bc083836b8c82593c3979dc657e209cfe7b3b6216b36e4b63e", "scripts/stage2_models.py": "bcf2e8b243e6f49a30c30d28603e10b4aec4b33d1faf8d51ec862ed0aa4639b7", "tests/test_stage3j.py": "cc3d7935cefa44e339bc367c7e5d8d5b119719e612ef431ebfa838886d99e237"}, "primary": true}

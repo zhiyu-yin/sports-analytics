@@ -1,0 +1,32 @@
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l1dcachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l2cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l3cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.optional.neon'. Detail: [errno 1] Operation not permitted
+test_A_history (test_stage3fr.Stage3FR) ... ok
+test_B_panel (test_stage3fr.Stage3FR) ... ok
+test_C_data (test_stage3fr.Stage3FR) ... ok
+test_D_likelihood (test_stage3fr.Stage3FR) ... ok
+test_E_priors (test_stage3fr.Stage3FR) ... ok
+test_F_R1_inverse (test_stage3fr.Stage3FR) ... ok
+test_G_predictors (test_stage3fr.Stage3FR) ... ok
+test_H_R2_density (test_stage3fr.Stage3FR) ... ok
+test_I_R3_derivation (test_stage3fr.Stage3FR) ... ok
+test_J_diagnostic_ineligible (test_stage3fr.Stage3FR) ... ok
+test_K_covariance_preserved (test_stage3fr.Stage3FR) ... ok
+test_L_firewall (test_stage3fr.Stage3FR) ... ok
+test_M_no_summary (test_stage3fr.Stage3FR) ... ok
+test_N_selection (test_stage3fr.Stage3FR) ... ok
+test_O_threshold (test_stage3fr.Stage3FR) ... ok
+test_P_players (test_stage3fr.Stage3FR) ... ok
+test_Q_categories (test_stage3fr.Stage3FR) ... ok
+test_R_confounders (test_stage3fr.Stage3FR) ... ok
+test_S_excluded_season (test_stage3fr.Stage3FR) ... ok
+test_T_no_MIN (test_stage3fr.Stage3FR) ... ok
+test_U_PPC_gates (test_stage3fr.Stage3FR) ... ok
+test_V_authorization (test_stage3fr.Stage3FR) ... ok
+test_W_no_causal_claim (test_stage3fr.Stage3FR) ... ok
+
+----------------------------------------------------------------------
+Ran 23 tests in 5.723s
+
+OK

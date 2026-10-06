@@ -1,0 +1,63 @@
+{
+  "status": "RELEASED UNDER AMENDED PROTOCOL",
+  "released_at": "2026-09-28T22:48:00.666138+00:00",
+  "panels": {
+    "full": {
+      "path": "data/processed/stage3_multiseason_ft_panel.parquet",
+      "sha256": "5306ffd228fb71b34b174d18cf86e351b6fa48598579e4f49935078239662978",
+      "original_sha256": "5306ffd228fb71b34b174d18cf86e351b6fa48598579e4f49935078239662978",
+      "unchanged": true,
+      "seasons": 14,
+      "season_labels": [
+        "2010-11",
+        "2011-12",
+        "2012-13",
+        "2013-14",
+        "2014-15",
+        "2015-16",
+        "2016-17",
+        "2017-18",
+        "2018-19",
+        "2019-20",
+        "2020-21",
+        "2021-22",
+        "2022-23",
+        "2023-24"
+      ],
+      "player_seasons": 4428,
+      "unique_players": 866,
+      "FTA": 511686,
+      "expected_accounting_match": true
+    },
+    "replication": {
+      "path": "data/processed/stage3_primary_replication_panel.parquet",
+      "sha256": "1c34331385e459ac5da67105658730d31d96c8114bd25fcb3b31cea52f1a1871",
+      "original_sha256": "1c34331385e459ac5da67105658730d31d96c8114bd25fcb3b31cea52f1a1871",
+      "unchanged": true,
+      "seasons": 13,
+      "season_labels": [
+        "2010-11",
+        "2011-12",
+        "2012-13",
+        "2014-15",
+        "2015-16",
+        "2016-17",
+        "2017-18",
+        "2018-19",
+        "2019-20",
+        "2020-21",
+        "2021-22",
+        "2022-23",
+        "2023-24"
+      ],
+      "player_seasons": 4117,
+      "unique_players": 857,
+      "FTA": 469099,
+      "expected_accounting_match": true
+    }
+  },
+  "rebuild_performed": false,
+  "historical_candidate_metadata_unchanged": true,
+  "interpretation": "Old in-file source_flags and candidate receipts remain historical; this external receipt carries the new release decision.",
+  "amended_gate_sha256": "2b26cd3661724a83dbf3fb7157cff888702d192bafc10ae4f9528cdadd3a1731"
+}

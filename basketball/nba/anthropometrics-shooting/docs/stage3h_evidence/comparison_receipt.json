@@ -1,0 +1,5 @@
+{
+  "created_at": "2026-09-30T19:34:16.598846+00:00",
+  "decision_sha256": "ccdf656077aaf06733795269377bb86aa1e6544f836e313c7732caedbeabfa25",
+  "scope": "Sampler/PPC/latent dimensionality only; no scientific parameter comparison"
+}

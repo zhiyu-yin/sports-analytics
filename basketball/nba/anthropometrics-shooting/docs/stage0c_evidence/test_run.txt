@@ -1,0 +1,42 @@
+test_candidate_coverage_only_identity_and_source_fields (test_stage0c.Stage0CEvidenceTests.test_candidate_coverage_only_identity_and_source_fields) ... ok
+test_cross_era_and_body_coverage (test_stage0c.Stage0CEvidenceTests.test_cross_era_and_body_coverage) ... ok
+test_every_primary_pair_exact (test_stage0c.Stage0CEvidenceTests.test_every_primary_pair_exact) ... ok
+test_four_display_values_confirmed (test_stage0c.Stage0CEvidenceTests.test_four_display_values_confirmed) ... ok
+test_no_model_or_association_calls (test_stage0c.Stage0CEvidenceTests.test_no_model_or_association_calls) ... ok
+test_no_residual_output (test_stage0c.Stage0CEvidenceTests.test_no_residual_output) ... ok
+test_normalized_output_hashes (test_stage0c.Stage0CEvidenceTests.test_normalized_output_hashes) ... ok
+test_original_sample_45_no_replacements (test_stage0c.Stage0CEvidenceTests.test_original_sample_45_no_replacements) ... ok
+test_predeclaration_precedes_successful_retrieval (test_stage0c.Stage0CEvidenceTests.test_predeclaration_precedes_successful_retrieval) ... ok
+test_prior_evidence_and_candidate_unchanged (test_stage0c.Stage0CEvidenceTests.test_prior_evidence_and_candidate_unchanged) ... ok
+test_reference_membership_hash_unchanged (test_stage0c.Stage0CEvidenceTests.test_reference_membership_hash_unchanged) ... ok
+test_reference_population_clean (test_stage0c.Stage0CEvidenceTests.test_reference_population_clean) ... ok
+test_source_captures_checksums (test_stage0c.Stage0CEvidenceTests.test_source_captures_checksums) ... ok
+test_stale_capture_excluded (test_stage0c.Stage0CEvidenceTests.test_stale_capture_excluded) ... ok
+test_available_missing_not_disagreement (test_stage0c.Stage0CUnitTests.test_available_missing_not_disagreement) ... ok
+test_coarse_precision_not_rounded_into_agreement (test_stage0c.Stage0CUnitTests.test_coarse_precision_not_rounded_into_agreement) ... ok
+test_combine_import_materializes_only_measurement_columns (test_stage0c.Stage0CUnitTests.test_combine_import_materializes_only_measurement_columns) ... ok
+test_conflict_preserved_without_correction (test_stage0c.Stage0CUnitTests.test_conflict_preserved_without_correction) ... ok
+test_duplicate_latest_rejected (test_stage0c.Stage0CUnitTests.test_duplicate_latest_rejected) ... ok
+test_exact_pair (test_stage0c.Stage0CUnitTests.test_exact_pair) ... ok
+test_fractional_inches_without_leading_zero (test_stage0c.Stage0CUnitTests.test_fractional_inches_without_leading_zero) ... ok
+test_later_year_cannot_validate_earlier (test_stage0c.Stage0CUnitTests.test_later_year_cannot_validate_earlier) ... ok
+test_latest_complete_pre2014 (test_stage0c.Stage0CUnitTests.test_latest_complete_pre2014) ... ok
+test_no_missing_id_placeholders (test_stage0c.Stage0CUnitTests.test_no_missing_id_placeholders) ... ok
+test_no_post2013 (test_stage0c.Stage0CUnitTests.test_no_post2013) ... ok
+test_no_shooting_column_requested_from_candidate (test_stage0c.Stage0CUnitTests.test_no_shooting_column_requested_from_candidate) ... ok
+test_quarantined_discrepancy_excluded (test_stage0c.Stage0CUnitTests.test_quarantined_discrepancy_excluded) ... ok
+test_replacement_does_not_reuse_player (test_stage0c.Stage0CUnitTests.test_replacement_does_not_reuse_player) ... ok
+test_replacement_stays_in_full_stratum (test_stage0c.Stage0CUnitTests.test_replacement_stays_in_full_stratum) ... ok
+test_rounding_boundary_inclusive (test_stage0c.Stage0CUnitTests.test_rounding_boundary_inclusive) ... ok
+test_rounding_over_boundary_rejected (test_stage0c.Stage0CUnitTests.test_rounding_over_boundary_rejected) ... ok
+test_same_player_required (test_stage0c.Stage0CUnitTests.test_same_player_required) ... ok
+test_same_year_required (test_stage0c.Stage0CUnitTests.test_same_year_required) ... ok
+test_sampling_reads_anthropometrics_only (test_stage0c.Stage0CUnitTests.test_sampling_reads_anthropometrics_only) ... ok
+test_shoe_height_is_not_barefoot (test_stage0c.Stage0CUnitTests.test_shoe_height_is_not_barefoot) ... ok
+test_systematic_offset_rule (test_stage0c.Stage0CUnitTests.test_systematic_offset_rule) ... ok
+test_unavailable_not_disagreement (test_stage0c.Stage0CUnitTests.test_unavailable_not_disagreement) ... ok
+
+----------------------------------------------------------------------
+Ran 37 tests in 0.179s
+
+OK

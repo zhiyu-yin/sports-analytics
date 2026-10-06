@@ -1,0 +1,74 @@
+{
+  "protocol_id": "stage3b-variable-role-v1",
+  "frozen_at": "2026-09-28T22:47:51.096680+00:00",
+  "decision_type": "prospective for unexecuted Stage 3 inference; informed by already observed validation evidence, not pre-data registration",
+  "supersedes_for_future_release_only": "original Stage 3 MIN numerical gate and Stage 3A mechanism-demonstration prerequisite",
+  "historical_decisions_immutable": true,
+  "scientific_response": "FTM out of FTA",
+  "scientific_inputs": [
+    "FTM",
+    "FTA",
+    "residual_wingspan",
+    "height_wo_shoes_inches",
+    "combine_position",
+    "season",
+    "player_id"
+  ],
+  "MIN_role": [
+    "positive player-season eligibility",
+    "descriptive selection coverage"
+  ],
+  "primary_counts": {
+    "fields": [
+      "FTM",
+      "FTA",
+      "3PM",
+      "3PA",
+      "GP"
+    ],
+    "comparison": "exact",
+    "mandatory": true,
+    "unexplained_FTM_FTA_disagreement": "blocks release"
+  },
+  "game_records": {
+    "scope": "same preserved Stage 3A 53-player-season audit; no claim of league-wide game validation",
+    "identity": "exact player, season, game ID and date",
+    "appearance_sets": "exact recorded appearance sets and GP",
+    "minutes": "exact displayed MM:SS at finest successfully retrieved public whole-second precision",
+    "unexplained_disagreement": "blocks release",
+    "zero": "recorded 0:00 is a recorded appearance",
+    "missing_DNP": "retain separately; never convert to recorded zero",
+    "unobserved_DNP": "absence from appearance-only logs remains missing official evidence; no independent DNP claim"
+  },
+  "eligibility": {
+    "mandatory": true,
+    "rule": "positive total time at player-season level; aggregate all recorded appearances including 0:00 for an eligible season",
+    "scope": "all 1510 preserved official/archive season comparisons, plus all 53 audited game reconstructions",
+    "eligibility_change": "blocks release"
+  },
+  "season_decimal_MIN": {
+    "role": "ancillary representation",
+    "retain": true,
+    "descriptive_audit": true,
+    "numerical_equality_release_gate": false,
+    "numeric_tolerance": null,
+    "conditional_on": [
+      "exact primary counts",
+      "reconciled audited recorded appearance sets",
+      "reconciled available game displays",
+      "preserved positive/zero/missing-DNP distinctions",
+      "unchanged analytical eligibility"
+    ],
+    "mechanism_required": false,
+    "mechanism_claim": "unknown; no claim of true unrounded time, simple rounding, truncation, or hidden raw-minute equality"
+  },
+  "other_mandatory_gates": [
+    "later anthropometric validation",
+    "unresolved measurements quarantined",
+    "unchanged candidate hashes and expected panel accounting",
+    "no Stage 3 scientific association examined before adoption"
+  ],
+  "no_new_observations_or_replacements": true,
+  "limitation_required_in_all_future_stage3_reports": "Public NBA game-level minute displays and the archived game records agreed at the available whole-second resolution in the audited sample, while small discrepancies remained between summed game displays and NBA season-level decimal minute displays. Because season-level MIN was not the scientific outcome, exposure, or primary model predictor, and because shooting counts and analytical eligibility reconciled, the amended prospective validation protocol treated season-total MIN as an ancillary representation field rather than an exact numerical release gate. The internal NBA aggregation mechanism remains unknown.",
+  "part_B_execution_in_this_stage": false
+}

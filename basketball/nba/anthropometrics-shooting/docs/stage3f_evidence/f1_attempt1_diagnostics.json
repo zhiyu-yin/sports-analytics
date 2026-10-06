@@ -1,0 +1,19 @@
+{
+  "candidate": "F1",
+  "attempt": 1,
+  "max_rhat": 1.0045233608348685,
+  "min_bulk_ESS": 1026.5097086803107,
+  "min_tail_ESS": 2183.316116418772,
+  "BFMI": [
+    0.6537230749248746,
+    0.6972178272850749,
+    0.7536480563721916,
+    0.6849937033587924
+  ],
+  "divergences": 0,
+  "max_depth_hits": 0,
+  "finite_covariance": true,
+  "numeric_gate_pass": true,
+  "visual_review": "PENDING",
+  "checked_at": "2026-09-29T18:41:22.834829+00:00"
+}

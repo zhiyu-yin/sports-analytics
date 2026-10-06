@@ -1,0 +1,16 @@
+{
+  "candidate": "I3",
+  "attempt": 1,
+  "started_at": "2026-09-30T22:34:00.900108+00:00",
+  "settings": {
+    "chains": 4,
+    "tune": 2000,
+    "draws": 2000,
+    "target_accept": 0.95,
+    "random_seed": 20260930
+  },
+  "status": "COMPLETE",
+  "protocol_sha256": "7d449a74b7414cd21160c81bd1fb133fcc104676a4cfbd8777ffd8938c8f9e08",
+  "completed_at": "2026-09-30T22:51:03.382004+00:00",
+  "trace_sha256": "711b1aec3ebd75ad7695216760c612e3c1e7c2bf74fc09362049e86de483a369"
+}

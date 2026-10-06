@@ -1,0 +1,37 @@
+{
+  "built_at": "2026-09-28T22:50:45.038791+00:00",
+  "environment": {
+    "python": "3.10.8",
+    "executable": "/Users/zhiyuyin/Documents/last time job hunting material/proj/sports-analytics/basketball/nba/anthropometrics-shooting/.venv/bin/python",
+    "requirements_sha256": "06a63256595603dd3402cdcfd8e57bb536760673a4b865852bc15742494edb64"
+  },
+  "test_summary": {
+    "tests_run": 12,
+    "tests_passed": 12,
+    "passed": true,
+    "historical_files_preserved": 603,
+    "classification": "PASS UNDER AMENDED PROTOCOL",
+    "part_b_authorized": true,
+    "part_b_executed": false,
+    "scientific_association_calculated": false
+  },
+  "artifacts": {
+    "docs/stage3b_evidence/amended_gate_decision.json": "2b26cd3661724a83dbf3fb7157cff888702d192bafc10ae4f9528cdadd3a1731",
+    "docs/stage3b_evidence/amended_source_validation_protocol.json": "6c6c1af1beabe68e68b6d6ed8bf973244867dbc403647a40033eeced0d848230",
+    "docs/stage3b_evidence/amendment_timeline.json": "adc6cddd8b7454a3d4e9aaaa7db5f3bd81c88beb81e4bf5b0979c65fdb5a60ed",
+    "docs/stage3b_evidence/evidence_reassessment.json": "006887bbf744a7fba9424f09394e31199785704ebfe47135215f80ef2ae7bcaa",
+    "docs/stage3b_evidence/historical_preservation_manifest.json": "25cdb2f44a1262b80bdc041c3e33d54736f2f0ea4ba4d91c908a399a8b3ca73b",
+    "docs/stage3b_evidence/panel_release_receipt.json": "efcf109db0ef94f6a4c673504147e2cf4c5974d47645c68dadcc0cc070155e4d",
+    "docs/stage3b_evidence/part_b_authorization.json": "917c8f4bfef4fa8ffb7f389795d5e4448e4541b464e16e005f787b3e105fdfe8",
+    "docs/stage3b_evidence/preauthorization_inventory.json": "2e0a0cb08c0d82c175029c02f63b07b64c2d1ad0780a4a4e75943f0934039516",
+    "docs/stage3b_evidence/test_run.txt": "6c940fd654c8c7c88bd6d2b4c11620dc16fa3360bc4087de7b006cc0c00565b4",
+    "docs/stage3b_evidence/test_summary.json": "1acb315ed0b56e8c29621da4878643bee269c9288f79dff3512886fe5dc6c167",
+    "docs/stage3b_protocol_amendment.md": "cb1e351a085eec4995d32889adf15e21222af25868e32a813ee004ccb5af836c",
+    "scripts/stage3b_release.py": "660d700add77571a484c375459fe2bbf98623e2c54ed0f5b2a9a85bfa818d669",
+    "scripts/stage3b_report.py": "c82410e7231bbc0fa70e6787ea19365424f61c3104a8ec57501cf338c31f4193",
+    "scripts/verify_stage3b.py": "a4ad624db9d730a2605a2a486078fbb8c72d57098cfa323d89a532aff29d83cc",
+    "tests/test_stage3b.py": "d5eb18f8e05e52763bf537d9a8c2f99ee9ad60e2255de36128452c1ca5e95be5"
+  },
+  "historical_decisions_modified": false,
+  "part_b_executed": false
+}

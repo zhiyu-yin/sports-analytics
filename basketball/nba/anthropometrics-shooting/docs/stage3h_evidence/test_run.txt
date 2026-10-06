@@ -1,0 +1,35 @@
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l1dcachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l2cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l3cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.optional.neon'. Detail: [errno 1] Operation not permitted
+test_A_preservation (test_stage3h.Stage3H) ... ok
+test_B_panel (test_stage3h.Stage3H) ... ok
+test_C_season (test_stage3h.Stage3H) ... ok
+test_D_residualization (test_stage3h.Stage3H) ... ok
+test_E_no_between (test_stage3h.Stage3H) ... ok
+test_F_one_factor (test_stage3h.Stage3H) ... ok
+test_G_anchor (test_stage3h.Stage3H) ... ok
+test_H_shared (test_stage3h.Stage3H) ... ok
+test_I_correlation (test_stage3h.Stage3H) ... ok
+test_J_covariance (test_stage3h.Stage3H) ... ok
+test_K_hurdle_rows (test_stage3h.Stage3H) ... ok
+test_L_positive_rows (test_stage3h.Stage3H) ... ok
+test_M_offset (test_stage3h.Stage3H) ... ok
+test_N_no_minutes (test_stage3h.Stage3H) ... ok
+test_O_exact_ZTNB (test_stage3h.Stage3H) ... ok
+test_P_order (test_stage3h.Stage3H) ... ok
+test_Q_H1_pass_stops (test_stage3h.Stage3H) ... ok
+test_R_no_H3 (test_stage3h.Stage3H) ... ok
+test_S_firewall (test_stage3h.Stage3H) ... ok
+test_T_no_exports (test_stage3h.Stage3H) ... ok
+test_U_boolean_selection (test_stage3h.Stage3H) ... ok
+test_V_no_threshold (test_stage3h.Stage3H) ... ok
+test_W_no_player_removal (test_stage3h.Stage3H) ... ok
+test_X_no_confounder (test_stage3h.Stage3H) ... ok
+test_Y_PPC_gates (test_stage3h.Stage3H) ... ok
+test_Z_authorization (test_stage3h.Stage3H) ... ok
+
+----------------------------------------------------------------------
+Ran 26 tests in 5.443s
+
+OK

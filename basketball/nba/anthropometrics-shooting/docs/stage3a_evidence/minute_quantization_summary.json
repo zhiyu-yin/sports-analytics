@@ -1,0 +1,19 @@
+{
+  "n": 170,
+  "sign": "archive exact game-second sum minus official displayed season MIN converted to seconds",
+  "mean": 4.017647058823529,
+  "median": 4.0,
+  "sample_SD": 2.5914596408128205,
+  "population_SD": 2.58382645886874,
+  "min": -5.0,
+  "max": 8.0,
+  "absolute_median": 4.0,
+  "absolute_max": 8.0,
+  "all_on_integer_second_grid": true,
+  "negative": 13,
+  "positive": 157,
+  "zero": 0,
+  "symmetric": false,
+  "interpretation": "Discrete but strongly positive-skewed; not a symmetric error distribution. Conditioned on failed original gate, not an unbiased rounding-error sample.",
+  "new_acceptance_threshold": null
+}

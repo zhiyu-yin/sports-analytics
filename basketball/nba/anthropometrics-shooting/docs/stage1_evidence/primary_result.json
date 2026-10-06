@@ -1,0 +1,59 @@
+{
+  "primary_exposure": "residual_wingspan",
+  "primary_outcome": "FTM out of FTA",
+  "models": {
+    "M0": {
+      "exposure": "residual_wingspan",
+      "scale": 1.0,
+      "beta": -0.051244344688877334,
+      "se": 0.005240409269731823,
+      "ci_low": -0.061515358121801554,
+      "ci_high": -0.040973331255953115,
+      "p": 1.3899607145434562e-22,
+      "odds_ratio": 0.9500465033518928,
+      "or_low": 0.9403385037952524,
+      "or_high": 0.959854727726523
+    },
+    "M1": {
+      "exposure": "residual_wingspan",
+      "scale": 1.0,
+      "beta": -0.04004793709977013,
+      "se": 0.005215656983339915,
+      "ci_low": -0.05027043694283119,
+      "ci_high": -0.02982543725670907,
+      "p": 1.6107902938306684e-14,
+      "odds_ratio": 0.9607433827970333,
+      "or_low": 0.9509722117047097,
+      "or_high": 0.9706149519697008
+    },
+    "M2": {
+      "exposure": "residual_wingspan",
+      "scale": 1.0,
+      "beta": -0.0353098522199435,
+      "se": 0.006047804904443353,
+      "ci_low": -0.04716333201817717,
+      "ci_high": -0.023456372421709823,
+      "p": 5.2686301708326036e-09,
+      "odds_ratio": 0.9653062676240771,
+      "or_low": 0.9539315772957733,
+      "or_high": 0.976816589881488
+    }
+  },
+  "marginal_contrast": {
+    "q25": -1.4330290097630396,
+    "q75": 1.5699882503972518,
+    "p25": 0.766906288709036,
+    "p75": 0.7477821332091131,
+    "difference": -0.019124155499922857,
+    "ci_low": -0.025528502197115572,
+    "ci_high": -0.012719808802730142,
+    "averaging_players": 299
+  },
+  "n_players": 299,
+  "total_fta": 42587,
+  "reference_hash": "14537d9c1cec20b388fc2cf5c86d7ea9ec2e435117c62da499f2b2fa2820d85a",
+  "candidate_hash": "4656da551e99fc7a8fc26d6f7847f956134a9da15ed47ccd13bbf0f982fbf735",
+  "analysis_dataset_hash": "47ce0a925e0251f4714b6666cef5b46eaa508dc7e03a7fb5e8e6bcb5dda8d652",
+  "code_hash": "21f85586bc6347a562b3ff2a3a43e3e1c9d1be0e5e231a406a252e3df45f4bf1",
+  "plan_hash": "d90a76729bfcbb032f08a44b54c93a752cd75922db5a6046e84c46659eaecf45"
+}

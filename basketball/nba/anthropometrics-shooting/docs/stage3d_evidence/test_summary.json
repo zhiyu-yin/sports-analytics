@@ -1,0 +1,8 @@
+{
+  "tests_run": 24,
+  "tests_passed": 24,
+  "passed": true,
+  "prior_artifacts_unchanged": 702,
+  "scope": "Provenance, model graphs/prior validity, firewall, gate logic and mandatory-stop enforcement; no posterior diagnostics claimed",
+  "posterior_candidates_fitted": 0
+}

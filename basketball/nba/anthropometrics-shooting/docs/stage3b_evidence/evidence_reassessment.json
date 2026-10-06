@@ -1,0 +1,855 @@
+{
+  "evaluated_at": "2026-09-28T22:48:00.666138+00:00",
+  "protocol_sha256": "6c6c1af1beabe68e68b6d6ed8bf973244867dbc403647a40033eeced0d848230",
+  "conditions": {
+    "exact_FTM_FTA": true,
+    "exact_required_counts": true,
+    "audited_game_MIN": true,
+    "appearance_GP": true,
+    "positive_season_eligibility": true,
+    "recorded_zero_and_DNP": true,
+    "later_anthropometrics": true,
+    "quarantine_preserved": true,
+    "candidate_hashes_and_accounting": true,
+    "no_Stage3_association_examined": true,
+    "historical_chain_unchanged": true
+  },
+  "facts": {
+    "player_integer_comparisons": 7550,
+    "FTM_FTA_comparisons": 3020,
+    "team_comparisons": 450,
+    "audited_player_seasons": 53,
+    "audited_appearances": 2861,
+    "raw_game_strings_dates_sets_exact": true,
+    "eligibility_comparisons": 1510,
+    "season_MIN_mismatches": 170,
+    "zero_appearances": 15,
+    "Christmas": {
+      "game_id": "0021601203",
+      "date": "2017-04-10",
+      "MIN": "0:00",
+      "FTM": 1,
+      "FTA": 2,
+      "confirmed": true
+    },
+    "missing_official_DNP_log_rows": 698,
+    "explicit_box_classification_rows": 26,
+    "later_measurement_rows": 582,
+    "later_valid_pairs": 543,
+    "quarantined_pairs": 39,
+    "quarantined_selected": 0,
+    "official_corrections": 4,
+    "preserved_files": 603,
+    "source_hash_checks": 195,
+    "official_internal_MIN_mechanism": "unknown",
+    "true_subsecond_time_recovered": false,
+    "asymmetric_MIN_distribution": {
+      "n": 170,
+      "sign": "archive exact game-second sum minus official displayed season MIN converted to seconds",
+      "mean": 4.017647058823529,
+      "median": 4.0,
+      "sample_SD": 2.5914596408128205,
+      "population_SD": 2.58382645886874,
+      "min": -5.0,
+      "max": 8.0,
+      "absolute_median": 4.0,
+      "absolute_max": 8.0,
+      "all_on_integer_second_grid": true,
+      "negative": 13,
+      "positive": 157,
+      "zero": 0,
+      "symmetric": false,
+      "interpretation": "Discrete but strongly positive-skewed; not a symmetric error distribution. Conditioned on failed original gate, not an unbiased rounding-error sample.",
+      "new_acceptance_threshold": null
+    },
+    "limitations": [
+      "53 player-season game audit, not league-wide game census",
+      "15 archive-directed zeros, not independent official zero census",
+      "698 archive DNP/empty rows absent from official logs remain missing official evidence; explicit independent classifications cover 26 box-score rows"
+    ]
+  },
+  "source_manifest_checks": [
+    {
+      "path": "docs/stage3_evidence/pip_check.txt",
+      "match": true
+    },
+    {
+      "path": "docs/stage3_evidence/later_combine_validation_by_year.csv",
+      "match": true
+    },
+    {
+      "path": "docs/stage3_evidence/zero_minute_scoring_review.json",
+      "match": true
+    },
+    {
+      "path": "docs/stage3_evidence/source_validation_run.txt",
+      "match": true
+    },
+    {
+      "path": "docs/stage3_evidence/panel_freeze.json",
+      "match": true
+    },
+    {
+      "path": "docs/stage3_evidence/prior_evidence_inventory.json",
+      "match": true
+    },
+    {
+      "path": "docs/stage3_evidence/shooting_census_crosscheck.csv",
+      "match": true
+    },
+    {
+      "path": "docs/stage3_evidence/selection_coverage_by_season.csv",
+      "match": true
+    },
+    {
+      "path": "docs/stage3_evidence/aggregation_run.txt",
+      "match": true
+    },
+    {
+      "path": "docs/stage3_evidence/stage3_panel.py.run.txt",
+      "match": true
+    },
+    {
+      "path": "docs/stage3_evidence/shooting_validation_sample_predeclared.csv",
+      "match": true
+    },
+    {
+      "path": "docs/stage3_evidence/panel_quality_by_season.csv",
+      "match": true
+    },
+    {
+      "path": "docs/stage3_evidence/primary_replication_panel_summary.json",
+      "match": true
+    },
+    {
+      "path": "docs/stage3_evidence/multi_season_source_validation.json",
+      "match": true
+    },
+    {
+      "path": "docs/stage3_evidence/stage3_validate_sources.py.run.txt",
+      "match": true
+    },
+    {
+      "path": "docs/stage3_evidence/test_summary.json",
+      "match": true
+    },
+    {
+      "path": "docs/stage3_evidence/aggregation_correction.md",
+      "match": true
+    },
+    {
+      "path": "docs/stage3_evidence/full_panel_summary.json",
+      "match": true
+    },
+    {
+      "path": "docs/stage3_evidence/measurement_corrections.csv",
+      "match": true
+    },
+    {
+      "path": "docs/stage3_evidence/official_capture_manifest.json",
+      "match": true
+    },
+    {
+      "path": "docs/stage3_evidence/shooting_team_reconciliation.csv",
+      "match": true
+    },
+    {
+      "path": "docs/stage3_evidence/source_validation_protocol.json",
+      "match": true
+    },
+    {
+      "path": "docs/stage3_evidence/prior_preservation_manifest.json",
+      "match": true
+    },
+    {
+      "path": "docs/stage3_evidence/shooting_player_crosscheck.csv",
+      "match": true
+    },
+    {
+      "path": "docs/stage3_evidence/environment.json",
+      "match": true
+    },
+    {
+      "path": "docs/stage3_evidence/execution_status.json",
+      "match": true
+    },
+    {
+      "path": "docs/stage3_evidence/stage3_sources.py.run.txt",
+      "match": true
+    },
+    {
+      "path": "docs/stage3_evidence/shooting_archive_provenance.json",
+      "match": true
+    },
+    {
+      "path": "docs/stage3_evidence/test_run.txt",
+      "match": true
+    },
+    {
+      "path": "docs/stage3_evidence/later_combine_comparison.csv",
+      "match": true
+    },
+    {
+      "path": "docs/stage3_evidence/initial_validation/shooting_census_crosscheck.csv",
+      "match": true
+    },
+    {
+      "path": "docs/stage3_evidence/initial_validation/multi_season_source_validation.json",
+      "match": true
+    },
+    {
+      "path": "docs/stage3_evidence/initial_validation/shooting_team_reconciliation.csv",
+      "match": true
+    },
+    {
+      "path": "docs/stage3_evidence/initial_validation/shooting_player_crosscheck.csv",
+      "match": true
+    },
+    {
+      "path": "docs/stage3_evidence/initial_validation/shooting_archive_provenance.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/box_0021601203.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2010-11_101128.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2010-11_200745.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2010-11_200779.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2010-11_201175.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2010-11_201189.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2010-11_201600.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2010-11_201632.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2010-11_201942.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2010-11_202083.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2010-11_202323.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2010-11_202341.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2010-11_202361.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2010-11_2215.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2010-11_2427.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2010-11_2443.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2010-11_2733.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2010-11_2754.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2010-11_2772.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2016-17_101109.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2016-17_101123.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2016-17_1626175.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2016-17_1626176.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2016-17_1626246.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2016-17_1627746.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2016-17_1627848.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2016-17_1717.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2016-17_200771.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2016-17_201589.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2016-17_201609.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2016-17_203086.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2016-17_203510.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2016-17_203552.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2016-17_203944.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2016-17_2225.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2016-17_2730.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2023-24_1629014.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2023-24_1629057.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2023-24_1629626.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2023-24_1630537.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2023-24_1630543.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2023-24_1630548.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2023-24_1630556.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2023-24_1630557.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2023-24_1630567.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2023-24_1631218.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2023-24_1641722.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2023-24_1641733.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2023-24_201145.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2023-24_202687.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2023-24_203200.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2023-24_203469.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2023-24_203552.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2023-24_203994.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/unavailable_historical_live_boxscore.txt",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/unavailable_http_boxscore_page.html",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/unavailable_recent_live_boxscore.txt",
+      "match": true
+    },
+    {
+      "path": "docs/stage3a_evidence/archive_minute_projection.csv",
+      "match": true
+    },
+    {
+      "path": "docs/stage3a_evidence/candidate_rounding_explanations.csv",
+      "match": true
+    },
+    {
+      "path": "docs/stage3a_evidence/environment.json",
+      "match": true
+    },
+    {
+      "path": "docs/stage3a_evidence/game_level_reconciliation_summary.json",
+      "match": true
+    },
+    {
+      "path": "docs/stage3a_evidence/minute_audit_sample_predeclared.csv",
+      "match": true
+    },
+    {
+      "path": "docs/stage3a_evidence/minute_difference_distribution.csv",
+      "match": true
+    },
+    {
+      "path": "docs/stage3a_evidence/minute_parser_sample.csv",
+      "match": true
+    },
+    {
+      "path": "docs/stage3a_evidence/minute_parser_validation.json",
+      "match": true
+    },
+    {
+      "path": "docs/stage3a_evidence/minute_quantization_summary.json",
+      "match": true
+    },
+    {
+      "path": "docs/stage3a_evidence/minute_reconstruction_by_player_season.csv",
+      "match": true
+    },
+    {
+      "path": "docs/stage3a_evidence/official_boxscore_classification_crosscheck.csv",
+      "match": true
+    },
+    {
+      "path": "docs/stage3a_evidence/official_capture_manifest.json",
+      "match": true
+    },
+    {
+      "path": "docs/stage3a_evidence/official_dom_capture_workflow.js",
+      "match": true
+    },
+    {
+      "path": "docs/stage3a_evidence/official_game_count_sum_crosscheck.csv",
+      "match": true
+    },
+    {
+      "path": "docs/stage3a_evidence/official_game_minute_crosscheck.csv",
+      "match": true
+    },
+    {
+      "path": "docs/stage3a_evidence/precision_retrieval_attempts.json",
+      "match": true
+    },
+    {
+      "path": "docs/stage3a_evidence/prior_artifact_hashes.json",
+      "match": true
+    },
+    {
+      "path": "docs/stage3a_evidence/protocol_amendment_proposal.md",
+      "match": true
+    },
+    {
+      "path": "docs/stage3a_evidence/rebuild_run.txt",
+      "match": true
+    },
+    {
+      "path": "docs/stage3a_evidence/retrieval_targets.json",
+      "match": true
+    },
+    {
+      "path": "docs/stage3a_evidence/sample_freeze.json",
+      "match": true
+    },
+    {
+      "path": "docs/stage3a_evidence/season_eligibility_crosscheck.csv",
+      "match": true
+    },
+    {
+      "path": "docs/stage3a_evidence/stage3a_decision.json",
+      "match": true
+    },
+    {
+      "path": "docs/stage3a_evidence/test_run.txt",
+      "match": true
+    },
+    {
+      "path": "docs/stage3a_evidence/test_summary.json",
+      "match": true
+    },
+    {
+      "path": "docs/stage3a_evidence/zero_minute_appearance_audit.csv",
+      "match": true
+    },
+    {
+      "path": "docs/stage3a_evidence/zero_minute_archive_predeclared.csv",
+      "match": true
+    },
+    {
+      "path": "docs/stage3a_minute_precision_resolution.md",
+      "match": true
+    },
+    {
+      "path": "scripts/stage3a_archive_projection.py",
+      "match": true
+    },
+    {
+      "path": "scripts/stage3a_audit.py",
+      "match": true
+    },
+    {
+      "path": "scripts/stage3a_prepare.py",
+      "match": true
+    },
+    {
+      "path": "scripts/stage3a_report.py",
+      "match": true
+    },
+    {
+      "path": "scripts/verify_stage3a.py",
+      "match": true
+    },
+    {
+      "path": "tests/test_stage3a.py",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2010-11_101128.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2010-11_200745.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2010-11_200779.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2010-11_201175.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2010-11_201189.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2010-11_201600.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2010-11_201632.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2010-11_201942.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2010-11_202083.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2010-11_202323.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2010-11_202341.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2010-11_202361.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2010-11_2215.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2010-11_2427.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2010-11_2443.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2010-11_2733.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2010-11_2754.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2010-11_2772.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2016-17_101109.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2016-17_101123.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2016-17_1626175.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2016-17_1626176.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2016-17_1626246.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2016-17_1627746.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2016-17_1627848.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2016-17_1717.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2016-17_200771.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2016-17_201589.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2016-17_201609.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2016-17_203086.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2016-17_203510.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2016-17_203552.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2016-17_203944.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2016-17_2225.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2016-17_2730.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2023-24_1629014.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2023-24_1629057.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2023-24_1629626.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2023-24_1630537.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2023-24_1630543.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2023-24_1630548.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2023-24_1630556.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2023-24_1630557.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2023-24_1630567.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2023-24_1631218.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2023-24_1641722.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2023-24_1641733.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2023-24_201145.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2023-24_202687.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2023-24_203200.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2023-24_203469.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2023-24_203552.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3a/games_2023-24_203994.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3/combine_2014.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3/combine_2015.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3/combine_2016.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3/combine_2017.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3/combine_2018.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3/combine_2019.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3/combine_2020.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3/combine_2021.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3/combine_2022.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3/players_2010-11.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3/players_2016-17.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3/players_2016-17_complete.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3/players_2023-24.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3/teams_2010-11.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3/teams_2016-17.json",
+      "match": true
+    },
+    {
+      "path": "data/raw/stage3/teams_2023-24.json",
+      "match": true
+    }
+  ],
+  "no_recollection": true,
+  "no_observation_replacement": true
+}

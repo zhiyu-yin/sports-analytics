@@ -1,0 +1,6 @@
+{
+  "chains_mix": true,
+  "energy_acceptable": true,
+  "reviewed_at": "2026-09-29T01:37:40.321933+00:00",
+  "notes": "Four chains overlap without sustained drift in permitted mechanism and adjustment traces; sealed parameter rank histograms are broadly uniform by chain. Energy distributions overlap, with all BFMI above threshold."
+}

@@ -1,0 +1,20 @@
+{
+  "model": "HC0_M2_sensitivity",
+  "beta": -0.0353098522199435,
+  "se": 0.016010830631744574,
+  "ci_low": -0.06669050362073353,
+  "ci_high": -0.003929200819153454,
+  "odds_ratio": 0.9653062676240771,
+  "or_low": 0.9354846856603619,
+  "or_high": 0.9960785083900695,
+  "p": 0.027427937052542158,
+  "ci_includes_zero": false,
+  "dispersion_or_overdispersion": null,
+  "n": 299,
+  "FTA": 42587,
+  "converged": true,
+  "independent_score_rows": 299,
+  "not_clustered": true,
+  "statsmodels_covariance_max_error": 6.730882518013459e-11,
+  "caution": "singleton group has no replication; HC0 can underestimate variance with high leverage; no HC2/3 forced"
+}

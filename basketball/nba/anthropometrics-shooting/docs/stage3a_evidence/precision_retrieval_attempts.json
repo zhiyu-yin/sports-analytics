@@ -1,0 +1,27 @@
+{
+  "recorded_at": "2026-09-28T22:33:42.020699+00:00",
+  "attempts": [
+    {
+      "url": "https://cdn.nba.com/static/json/liveData/boxscore/boxscore_0021601203.json",
+      "result": "HTTP 403; not evidence of source values",
+      "artifact": "data/raw/stage3a/unavailable_historical_live_boxscore.txt"
+    },
+    {
+      "url": "https://stats.nba.com/stats/boxscoretraditionalv3?GameID=0021601203&StartPeriod=0&EndPeriod=0&StartRange=0&EndRange=0&RangeType=0",
+      "result": "curl exit 28: timeout after 20 seconds, zero bytes, HTTP 000",
+      "artifact": null
+    },
+    {
+      "url": "https://www.nba.com/game/ind-vs-phi-0021601203/box-score",
+      "result": "direct HTTP request 403; official rendered browser page retrieved successfully separately",
+      "artifact": "data/raw/stage3a/unavailable_http_boxscore_page.html"
+    },
+    {
+      "url": "https://cdn.nba.com/static/json/liveData/boxscore/boxscore_0022301200.json",
+      "result": "HTTP 403; no recent-season fractional-second data obtained",
+      "artifact": "data/raw/stage3a/unavailable_recent_live_boxscore.txt"
+    }
+  ],
+  "official_glossary": "https://www.nba.com/stats/help/glossary",
+  "glossary_finding": "Defines MIN as minutes played, but retrieved definition supplies no rounding algorithm. No third-party explanation used."
+}

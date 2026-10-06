@@ -1,0 +1,56 @@
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l1dcachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l2cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l3cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.optional.neon'. Detail: [errno 1] Operation not permitted
+Initializing NUTS using jitter+adapt_diag...
+Multiprocess sampling (4 chains in 4 jobs)
+NUTS: [beta_0, beta_RW, beta_H, beta_position, beta_season, sigma_accuracy, z_accuracy, theta_B, theta_W, log_kappa]
+chain=3 iteration=500 tuning=True
+chain=0 iteration=500 tuning=True
+chain=2 iteration=500 tuning=True
+chain=3 iteration=1000 tuning=True
+chain=0 iteration=1000 tuning=True
+chain=2 iteration=1000 tuning=True
+chain=1 iteration=500 tuning=True
+chain=3 iteration=1500 tuning=True
+chain=0 iteration=1500 tuning=True
+chain=2 iteration=1500 tuning=True
+chain=1 iteration=1000 tuning=True
+chain=2 iteration=2000 tuning=True
+chain=0 iteration=2000 tuning=True
+chain=3 iteration=2000 tuning=True
+chain=1 iteration=1500 tuning=True
+chain=0 iteration=2500 tuning=True
+chain=2 iteration=2500 tuning=True
+chain=3 iteration=2500 tuning=True
+chain=1 iteration=2000 tuning=True
+chain=0 iteration=3000 tuning=True
+chain=2 iteration=3000 tuning=True
+chain=3 iteration=3000 tuning=True
+chain=0 iteration=3500 tuning=False
+chain=1 iteration=2500 tuning=True
+chain=0 iteration=4000 tuning=False
+chain=2 iteration=3500 tuning=False
+chain=3 iteration=3500 tuning=False
+chain=0 iteration=4500 tuning=False
+chain=1 iteration=3000 tuning=True
+chain=2 iteration=4000 tuning=False
+chain=0 iteration=5000 tuning=False
+chain=3 iteration=4000 tuning=False
+chain=1 iteration=3500 tuning=False
+chain=0 iteration=5500 tuning=False
+chain=2 iteration=4500 tuning=False
+chain=3 iteration=4500 tuning=False
+chain=0 iteration=6000 tuning=False
+chain=1 iteration=4000 tuning=False
+chain=2 iteration=5000 tuning=False
+chain=3 iteration=5000 tuning=False
+chain=1 iteration=4500 tuning=False
+chain=2 iteration=5500 tuning=False
+chain=3 iteration=5500 tuning=False
+chain=1 iteration=5000 tuning=False
+chain=2 iteration=6000 tuning=False
+chain=3 iteration=6000 tuning=False
+chain=1 iteration=5500 tuning=False
+chain=1 iteration=6000 tuning=False
+Sampling 4 chains for 3_000 tune and 3_000 draw iterations (12_000 + 12_000 draws total) took 1364 seconds.

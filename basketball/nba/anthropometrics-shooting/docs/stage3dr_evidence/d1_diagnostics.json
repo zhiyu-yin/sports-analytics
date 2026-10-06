@@ -1,0 +1,21 @@
+{
+  "candidate": "D1",
+  "attempt": 1,
+  "max_rhat": 1.0099494247178187,
+  "min_bulk_ESS": 373.69018153108476,
+  "min_tail_ESS": 789.2508738247672,
+  "BFMI": [
+    0.6906542917686632,
+    0.7354721668734722,
+    0.6843454833181443,
+    0.738669940044909
+  ],
+  "divergences": 0,
+  "max_depth_hits": 0,
+  "finite_covariance": true,
+  "numeric_gate_pass": false,
+  "visual_review": "NOT_RELEASED_NUMERIC_GATE_FAILED",
+  "checked_at": "2026-09-29T01:29:05.099516+00:00",
+  "sampler_pass": false,
+  "recovery": "Not authorized for D1 under frozen protocol"
+}

@@ -1,0 +1,29 @@
+{
+  "candidate": "DIAG-A",
+  "attempt": 2,
+  "max_rhat": 1.0028696039446248,
+  "min_bulk_ESS": 1764.3076710673686,
+  "min_tail_ESS": 2925.0626676281863,
+  "BFMI": [
+    0.6834627193786165,
+    0.634475866432928,
+    0.7060833133986908,
+    0.7105242317268889
+  ],
+  "divergences": 0,
+  "max_depth_hits": 0,
+  "finite_covariance": true,
+  "sealed_parameter_sampler_pass": true,
+  "numeric_gate_pass": true,
+  "visual_review": {
+    "reviewed_at": "2026-09-29T21:15:16.366381+00:00",
+    "chains_mix": true,
+    "energy_acceptable": true,
+    "scope": "Permitted standardized chains and energy; all non-sealed scalar convergence checks also passed; no scientific-effect plot"
+  },
+  "checked_at": "2026-09-29T21:14:46.100730+00:00",
+  "all_latent_elements_in_gate": true,
+  "sampler_pass": true,
+  "diagnostic_only": true,
+  "scientifically_eligible": false
+}

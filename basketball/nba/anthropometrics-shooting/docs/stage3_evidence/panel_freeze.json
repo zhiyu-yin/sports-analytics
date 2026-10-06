@@ -1,0 +1,22 @@
+{
+  "status": "CANDIDATE_HASHED_NOT_RELEASED",
+  "part_A_pass": false,
+  "part_B_authorized": false,
+  "reason": "shooting source validation has unresolved minute discrepancies; do not fit",
+  "candidate_paths": {
+    "full": "data/processed/stage3_multiseason_ft_panel.parquet",
+    "replication": "data/processed/stage3_primary_replication_panel.parquet"
+  },
+  "candidate_hashes": {
+    "full": "5306ffd228fb71b34b174d18cf86e351b6fa48598579e4f49935078239662978",
+    "replication": "1c34331385e459ac5da67105658730d31d96c8114bd25fcb3b31cea52f1a1871"
+  },
+  "reference_hash": "14537d9c1cec20b388fc2cf5c86d7ea9ec2e435117c62da499f2b2fa2820d85a",
+  "geometric_intercept": 4.574910520685837,
+  "geometric_slope": 1.0013410045156863,
+  "residualization_refitted": false,
+  "source_protocol_hash": "06378257134bb0d3bc93fad5acf352896b008b9536d3b2a0cedaefb1d82aa724",
+  "stage1_result_hash": "68720ac970734ce2bf9f7fbc5ff0b8be9c0e9d39d839be77049b5ae625cc41c8",
+  "stage2_result_hash": "040cf691bf510dd18e571d3894c52e1edc66411a00066a4c72780e01e5024d6e",
+  "model_executed": false
+}

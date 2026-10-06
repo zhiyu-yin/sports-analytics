@@ -1,0 +1,38 @@
+{
+  "reviewed_at": "2026-10-01T02:14:43.113763+00:00",
+  "method": "Poppler pdftoppm, rendered PNG inspection of every final PDF",
+  "files": {
+    "figure1_study_flow.pdf": {
+      "sha256": "8743f6807ca03f964413e2c3e50a0a2a30c0126344e1022027a920874e43b81f",
+      "passed": true,
+      "review": "Rendered with Poppler and visually inspected: readable scientific labels, complete counts/interval rows, no clipping or overlapping captions. Forest scale and reference lines verified; development explicitly labeled.",
+      "png_sha256": "d5a93f9ac5f356463d93a98be06525e75d3f60f5f859e3308764d30a08f01efc"
+    },
+    "figure2_robustness_forest.pdf": {
+      "sha256": "7fba67b8008c6ceb5309758b7fc54807610d5b217c4e7afc17075d2e02c3c2c8",
+      "passed": true,
+      "review": "Rendered with Poppler and visually inspected: readable scientific labels, complete counts/interval rows, no clipping or overlapping captions. Forest scale and reference lines verified; development explicitly labeled.",
+      "png_sha256": "071e87dea08dfbba1985f04315c252dfcae12a46b31a3f2ca95ec9bfc1117380"
+    },
+    "figure3_leave_one_season_out.pdf": {
+      "sha256": "1a99dbea1e48e8b4ec2d6372c1896d92335cc3824f7e636ea4857fa4aa476642",
+      "passed": true,
+      "review": "Rendered with Poppler and visually inspected: readable scientific labels, complete counts/interval rows, no clipping or overlapping captions. Forest scale and reference lines verified; development explicitly labeled.",
+      "png_sha256": "da446b62bfabd884833dbcb874a1b494ae67c53e60ddd52830f75be59889c98a"
+    },
+    "figure4_selection_coverage.pdf": {
+      "sha256": "a35d8190cdeb2613232223206b7eed91d3f8c0c9365c959c59121e0f23827aeb",
+      "passed": true,
+      "review": "Rendered with Poppler and visually inspected: readable scientific labels, complete counts/interval rows, no clipping or overlapping captions. Forest scale and reference lines verified; development explicitly labeled.",
+      "png_sha256": "b2b3b871b98853632cb2fc1a04d646f1b595afa3e9cc73375d7e64dbe4af6aca"
+    },
+    "supp_figure1_attempt_volume_diagnostic.pdf": {
+      "sha256": "af32d9d73010e713602086400c4aedc709834bf564a2d5f213d7ea4092ac859e",
+      "passed": true,
+      "review": "Rendered with Poppler and visually inspected: readable scientific labels, complete counts/interval rows, no clipping or overlapping captions. Forest scale and reference lines verified; development explicitly labeled.",
+      "png_sha256": "d0f205095e44ac35140d013c9115ccf3a1dfbff98594410c60eb4881b9759690"
+    }
+  },
+  "presentation_changes": "Reserved caption margins; moved primary-reference description out of plotted rows; uniform black forest marks; visible development hatching.",
+  "scientific_values_changed": false
+}

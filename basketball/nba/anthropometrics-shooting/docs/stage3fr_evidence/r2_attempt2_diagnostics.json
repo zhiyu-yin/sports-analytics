@@ -1,0 +1,21 @@
+{
+  "candidate": "R2",
+  "attempt": 2,
+  "max_rhat": 1.0483660157767576,
+  "min_bulk_ESS": 90.25608512968428,
+  "min_tail_ESS": 135.23416873244733,
+  "BFMI": [
+    0.03492835748885907,
+    0.053831186123994276,
+    0.048599340924935765,
+    0.04592520820960633
+  ],
+  "divergences": 0,
+  "max_depth_hits": 0,
+  "finite_covariance": true,
+  "sealed_parameter_sampler_pass": true,
+  "numeric_gate_pass": false,
+  "visual_review": "PENDING",
+  "checked_at": "2026-09-30T00:53:15.358208+00:00",
+  "all_latent_elements_in_gate": true
+}

@@ -1,0 +1,12 @@
+{
+  "execution": "FAIL",
+  "tests": 25,
+  "tests_passed": 24,
+  "reason": "J2 player-bootstrap exceeds frozen numerical failure cap; its interval is withheld. J1 and every other required sensitivity completed.",
+  "primary_J1_execution": "PASS",
+  "J1_bootstrap_failures": 0,
+  "J2_bootstrap_failures": 299,
+  "scientific_direction_not_a_gate": true,
+  "post_result_model_tuning": false,
+  "decision_at": "2026-10-01T01:02:33.198394+00:00"
+}

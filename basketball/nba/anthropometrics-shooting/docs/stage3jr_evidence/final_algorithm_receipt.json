@@ -1,0 +1,19 @@
+{
+  "frozen_at": "2026-10-01T01:26:34.685150+00:00",
+  "protocol_sha256": "bdbd3a4cdd1041ac76d4d2f17cf90e613412a23d2ef01484ab47254b0c0a48da",
+  "algorithm": "Entire unchanged deterministic R0/R1/R2/R3/R4 procedure; same for every sample",
+  "code_hashes": {
+    "scripts/stage3jr_common.py": "cf885e3adf59f272c471a34663dac39c8723308b2e692619e30495ee4233dff5",
+    "scripts/stage3jr_diagnose.py": "80d9580da2faa770d4fcab30be083717754cb2156510535cf51ec54b2c2a6857",
+    "scripts/stage3jr_validation.py": "697b2b13a442d229283dc06b96c4ba598af4f40078739c4233635446391feb4a",
+    "scripts/stage3jr_solver.py": "b87b31013a8c73e64724d15f7db0343d3a81b58c94732680fbc9ad896b212c42",
+    "scripts/stage3jr_run.py": "4dd4015f9ee4c4aae55dec8fe15dac59a845a2ca676ce66408757f9ead23e94c",
+    "scripts/stage3jr_freeze.py": "0d1a84ac4367361ed9ad47289c3e04b067803cb8e73e7fa15e4844fca5051584",
+    "scripts/stage2_models.py": "bcf2e8b243e6f49a30c30d28603e10b4aec4b33d1faf8d51ec862ed0aa4639b7",
+    "scripts/stage3j_core.py": "12d54a1d310847f2ebb8d57d0f96a427797b560a702576a9a25f25bb04426125",
+    "tests/test_stage3jr.py": "64b845eb3c6b59220f835c198a8bae6941f6bbdb79964d33e4ce33d827989532",
+    "scripts/stage3jr_worker.py": "376d9459c95f1bcb6659dad5ba46a8a4fe69fb05ff00ed43bf8ac6f5e0c21591",
+    "scripts/stage3jr_amend.py": "39b3f4208ae736e273a2b746d9ac5e9c5ae3c27ec2695a46d9ec7e92cd192d98"
+  },
+  "selection_basis": "Frozen before retry; full rerun authorized by numeric failure count only"
+}

@@ -1,0 +1,7 @@
+{
+  "candidate": "F2",
+  "status": "NOT_RUN_FAILED_SAMPLER_GATE",
+  "reason": "No PPC release or mechanism inference from failed convergence",
+  "replicates": 0,
+  "gate_pass": false
+}

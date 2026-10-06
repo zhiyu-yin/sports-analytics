@@ -1,0 +1,16 @@
+{
+  "python": "3.10.8",
+  "executable": "/Users/zhiyuyin/Documents/last time job hunting material/proj/sports-analytics/basketball/nba/anthropometrics-shooting/models/stage3c/environment/bin/python",
+  "platform": "macOS-14.7.4-arm64-arm-64bit",
+  "packages": {
+    "pymc": "5.25.1",
+    "arviz": "0.22.0",
+    "numpy": "2.2.6",
+    "scipy": "1.15.3",
+    "pandas": "2.2.3",
+    "pyarrow": "21.0.0",
+    "matplotlib": "3.10.3",
+    "pytensor": "2.31.7"
+  },
+  "requirements_sha256": "3517c60a925741bc48408738b0b008a7241e75e2dfecf859cbf715ec4850079a"
+}

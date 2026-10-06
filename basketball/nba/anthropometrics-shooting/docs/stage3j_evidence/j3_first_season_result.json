@@ -1,0 +1,30 @@
+{
+  "player_seasons": 857,
+  "players": 857,
+  "seasons": 13,
+  "positive_FTA_rows": 803,
+  "zero_FTA_rows": 54,
+  "contributing_players": 803,
+  "FTA": 68480,
+  "FTM": 50975,
+  "beta": -0.027686793730878064,
+  "se": 0.010933280132315691,
+  "ci_low": -0.04911562902310414,
+  "ci_high": -0.006257958438651991,
+  "odds_ratio": 0.9726929726334883,
+  "or_low": 0.952071036289779,
+  "or_high": 0.9937615818013403,
+  "p": 0.011330373769816908,
+  "ci_includes_zero": false,
+  "method": "grouped-binomial GLM",
+  "uncertainty": "HC1",
+  "dropped_nonidentifiable_columns": [],
+  "converged": true,
+  "started_or_finished_at": "2026-10-01T00:55:39.240700+00:00",
+  "exposure": "residual_wingspan",
+  "exposure_unit": "inch",
+  "covariance_validation": {
+    "passed": true,
+    "method": "independent HC1"
+  }
+}

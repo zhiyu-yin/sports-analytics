@@ -1,0 +1,50 @@
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l1dcachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l2cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l3cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.optional.neon'. Detail: [errno 1] Operation not permitted
+test_A_historical_unchanged (test_stage3j.TestStage3J) ... ok
+test_B_primary_hash (test_stage3j.TestStage3J) ... ok
+test_C_full_hash (test_stage3j.TestStage3J) ... ok
+test_D_development_excluded (test_stage3j.TestStage3J) ... ok
+test_E_residual_exact (test_stage3j.TestStage3J) ... ok
+test_F_formula (test_stage3j.TestStage3J) ... ok
+test_G_no_random_effect (test_stage3j.TestStage3J) ... ok
+test_H_no_opportunity_model (test_stage3j.TestStage3J) ... ok
+test_I_no_FTA_predictor (test_stage3j.TestStage3J) ... ok
+test_J_no_MIN_predictor (test_stage3j.TestStage3J) ... ok
+test_K_no_new_confounders (test_stage3j.TestStage3J) ... ok
+test_L_player_clustering (test_stage3j.TestStage3J) ... ok
+test_M_grouped_counts (test_stage3j.TestStage3J) ... ok
+test_N_makes_no_more_than_attempts (test_stage3j.TestStage3J) ... ok
+test_O_zero_accounting (test_stage3j.TestStage3J) ... ok
+test_P_independent_sandwich (test_stage3j.TestStage3J) ... ERROR
+test_Q_player_sampling (test_stage3j.TestStage3J) ... ok
+test_R_full_clusters_seed_and_failure_policy (test_stage3j.TestStage3J) ... ok
+test_S_primary_before_sensitivities (test_stage3j.TestStage3J) ... ok
+test_T_J2_secondary_and_likelihood (test_stage3j.TestStage3J) ... ok
+test_U_first_season_selection (test_stage3j.TestStage3J) ... ok
+test_V_thresholds (test_stage3j.TestStage3J) ... ok
+test_W_no_post_result_tuning (test_stage3j.TestStage3J) ... ok
+test_X_full_after_primary (test_stage3j.TestStage3J) ... ok
+test_Y_associational_interpretation (test_stage3j.TestStage3J) ... ok
+
+======================================================================
+ERROR: test_P_independent_sandwich (test_stage3j.TestStage3J)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/zhiyuyin/Documents/last time job hunting material/proj/sports-analytics/basketball/nba/anthropometrics-shooting/tests/test_stage3j.py", line 47, in test_P_independent_sandwich
+    np.testing.assert_allclose(mw.model.score_obs(mw.params),np.asarray(self.x)*(w*(self.y-self.n*mw.fittedvalues))[:,None],atol=1e-10)
+  File "/Users/zhiyuyin/Documents/last time job hunting material/proj/sports-analytics/basketball/nba/anthropometrics-shooting/.venv/lib/python3.10/site-packages/pandas/core/series.py", line 1153, in __getitem__
+    return self._get_with(key)
+  File "/Users/zhiyuyin/Documents/last time job hunting material/proj/sports-analytics/basketball/nba/anthropometrics-shooting/.venv/lib/python3.10/site-packages/pandas/core/series.py", line 1163, in _get_with
+    return self._get_values_tuple(key)
+  File "/Users/zhiyuyin/Documents/last time job hunting material/proj/sports-analytics/basketball/nba/anthropometrics-shooting/.venv/lib/python3.10/site-packages/pandas/core/series.py", line 1203, in _get_values_tuple
+    disallow_ndim_indexing(result)
+  File "/Users/zhiyuyin/Documents/last time job hunting material/proj/sports-analytics/basketball/nba/anthropometrics-shooting/.venv/lib/python3.10/site-packages/pandas/core/indexers/utils.py", line 341, in disallow_ndim_indexing
+    raise ValueError(
+ValueError: Multi-dimensional indexing (e.g. `obj[:, None]`) is no longer supported. Convert to a numpy array before indexing instead.
+
+----------------------------------------------------------------------
+Ran 25 tests in 6.386s
+
+FAILED (errors=1)

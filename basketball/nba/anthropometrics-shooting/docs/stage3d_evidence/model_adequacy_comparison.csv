@@ -1,0 +1,5 @@
+model,sampler_pass,pooled_rate_99_pass,global_metrics_99_fail_count,season_rate_99_fail_count,FTA_bin_99_fail_count,systematic_volume_pattern,joint_FTA_PPC_pass,overall_adequacy,eligible_for_Stage3E,assessment_status
+D0 Stage3C baseline,True,False,2.0,0.0,4.0,True,,False,False,SAVED_FAILED_PPC
+D1 mean-volume diagnostic,,,,,,,,False,False,NOT_FITTED_GLOBAL_PRIOR_STOP
+D2 dispersion-volume diagnostic,,,,,,,,False,False,NOT_FITTED_GLOBAL_PRIOR_STOP
+D3 joint opportunity-accuracy,,,,,,,,False,False,PRIOR_OPPORTUNITY_GATE_FAILED

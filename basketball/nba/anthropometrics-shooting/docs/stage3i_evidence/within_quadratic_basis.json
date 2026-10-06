@@ -1,0 +1,12 @@
+{
+  "s_W": 0.2650297801192153,
+  "ddof": 1,
+  "row_weighting": "Equal weight for every frozen panel row, including zero FTA",
+  "rows": 4117,
+  "quadratic_center": 0.9997571046878795,
+  "centered_quadratic_mean": 3.45174999154773e-17,
+  "source_sha256": "2412df80bf520b5dd90b2dc71365651647c59d44bd676de5115a056385bdb1ac",
+  "outcome_independent": true,
+  "definition": "zW=w/s_W; qW=zW**2-quadratic_center",
+  "joint_prediction": "Recompute within from generated FTA by frozen decomposition, then apply the fixed observed-panel s_W and quadratic_center; never rescale or recenter on generated data"
+}

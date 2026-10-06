@@ -1,0 +1,21 @@
+test_A_historical_failure_unchanged (test_stage3b.Stage3BRelease) ... ok
+test_B_stage3a_unresolved_unchanged (test_stage3b.Stage3BRelease) ... ok
+test_C_no_numeric_MIN_tolerance (test_stage3b.Stage3BRelease) ... ok
+test_D_exact_count_gate_mandatory (test_stage3b.Stage3BRelease) ... ok
+test_E_zero_DNP_distinction (test_stage3b.Stage3BRelease) ... ok
+test_F_eligibility_mandatory (test_stage3b.Stage3BRelease) ... ok
+test_G_candidate_hashes (test_stage3b.Stage3BRelease) ... ok
+test_H_primary_exclusion_and_accounting (test_stage3b.Stage3BRelease) ... /Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l1dcachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l2cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l3cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.optional.neon'. Detail: [errno 1] Operation not permitted
+ok
+test_I_authorization_requires_every_condition (test_stage3b.Stage3BRelease) ... ok
+test_J_no_Stage3_model_before_authorization (test_stage3b.Stage3BRelease) ... ok
+test_K_frozen_protocol_and_limitation (test_stage3b.Stage3BRelease) ... ok
+test_L_raw_evidence_and_quarantine (test_stage3b.Stage3BRelease) ... ok
+
+----------------------------------------------------------------------
+Ran 12 tests in 1.259s
+
+OK

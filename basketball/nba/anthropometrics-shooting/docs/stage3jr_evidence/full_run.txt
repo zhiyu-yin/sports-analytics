@@ -1,0 +1,57 @@
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:::239239239: : : 239: IOError: sysctlbyname failed for 'hw.l1dcachesize'. Detail: [errno 1] Operation not permittedIOError: sysctlbyname failed for 'hw.l1dcachesize'. Detail: [errno 1] Operation not permittedIOError: sysctlbyname failed for 'hw.l1dcachesize'. Detail: [errno 1] Operation not permitted
+IOError: sysctlbyname failed for 'hw.l1dcachesize'. Detail: [errno 1] Operation not permitted
+
+
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239239: /Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc: /Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc::239: IOError: sysctlbyname failed for 'hw.l2cachesize'. Detail: [errno 1] Operation not permitted239: IOError: sysctlbyname failed for 'hw.l2cachesize'. Detail: [errno 1] Operation not permitted
+IOError: sysctlbyname failed for 'hw.l2cachesize'. Detail: [errno 1] Operation not permitted/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l2cachesize'. Detail: [errno 1] Operation not permitted
+IOError: sysctlbyname failed for 'hw.l3cachesize'. Detail: [errno 1] Operation not permitted/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: 
+
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: /Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.ccIOError: sysctlbyname failed for 'hw.l3cachesize'. Detail: [errno 1] Operation not permitted:239: 
+
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: :239IOError: sysctlbyname failed for 'hw.optional.neon'. Detail: [errno 1] Operation not permitted: IOError: sysctlbyname failed for 'hw.optional.neon'. Detail: [errno 1] Operation not permitted
+IOError: sysctlbyname failed for 'hw.l3cachesize'. Detail: [errno 1] Operation not permitted
+
+IOError: sysctlbyname failed for 'hw.l3cachesize'. Detail: [errno 1] Operation not permitted/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: 
+IOError: sysctlbyname failed for 'hw.optional.neon'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.optional.neon'. Detail: [errno 1] Operation not permitted
+Uniform full rerun 50 /2000; failures 0
+Uniform full rerun 100 /2000; failures 0
+Uniform full rerun 150 /2000; failures 0
+Uniform full rerun 200 /2000; failures 0
+Uniform full rerun 250 /2000; failures 0
+Uniform full rerun 300 /2000; failures 0
+Uniform full rerun 350 /2000; failures 0
+Uniform full rerun 400 /2000; failures 0
+Uniform full rerun 450 /2000; failures 0
+Uniform full rerun 500 /2000; failures 0
+Uniform full rerun 550 /2000; failures 0
+Uniform full rerun 600 /2000; failures 0
+Uniform full rerun 650 /2000; failures 0
+Uniform full rerun 700 /2000; failures 0
+Uniform full rerun 750 /2000; failures 0
+Uniform full rerun 800 /2000; failures 0
+Uniform full rerun 850 /2000; failures 0
+Uniform full rerun 900 /2000; failures 0
+Uniform full rerun 950 /2000; failures 0
+Uniform full rerun 1000 /2000; failures 0
+Uniform full rerun 1050 /2000; failures 0
+Uniform full rerun 1100 /2000; failures 0
+Uniform full rerun 1150 /2000; failures 0
+Uniform full rerun 1200 /2000; failures 0
+Uniform full rerun 1250 /2000; failures 0
+Uniform full rerun 1300 /2000; failures 0
+Uniform full rerun 1350 /2000; failures 0
+Uniform full rerun 1400 /2000; failures 0
+Uniform full rerun 1450 /2000; failures 0
+Uniform full rerun 1500 /2000; failures 0
+Uniform full rerun 1550 /2000; failures 0
+Uniform full rerun 1600 /2000; failures 0
+Uniform full rerun 1650 /2000; failures 0
+Uniform full rerun 1700 /2000; failures 0
+Uniform full rerun 1750 /2000; failures 0
+Uniform full rerun 1800 /2000; failures 0
+Uniform full rerun 1850 /2000; failures 0
+Uniform full rerun 1900 /2000; failures 0
+Uniform full rerun 1950 /2000; failures 0
+Uniform full rerun 2000 /2000; failures 0
+Full uniform rerun complete

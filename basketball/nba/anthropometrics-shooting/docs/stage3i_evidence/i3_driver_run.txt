@@ -1,0 +1,4 @@
+I3 1 fit complete
+I3 1 diagnostics complete
+I3 2 fit complete
+I3 2 diagnostics complete

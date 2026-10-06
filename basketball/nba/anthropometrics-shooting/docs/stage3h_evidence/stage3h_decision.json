@@ -1,0 +1,22 @@
+{
+  "classification_code": "D",
+  "classification": "SHARED-FACTOR ADEQUACY UNRESOLVED",
+  "selected_candidate": null,
+  "reason": "H2 predictive inadequacy",
+  "stage3g_authorized": false,
+  "stage3g_purpose": "ESTIMAND REVIEW ONLY",
+  "scientific_effect_release_authorized": false,
+  "scientific_parameter_status": "SEALED",
+  "stage3g_executed": false,
+  "stage3e_authorized": false,
+  "frozen_at": "2026-09-30T19:34:16.593733+00:00",
+  "protocol_sha256": "82d16b186fae8f9038c9ae91b03053de42bc91b3d2b0abb244dff7ad7255b2cd",
+  "H1_sampler": true,
+  "H1_accuracy": false,
+  "H1_opportunity": false,
+  "H2_run": true,
+  "H2_sampler": true,
+  "H2_accuracy": false,
+  "H2_opportunity": false,
+  "historical_decisions_unchanged": true
+}

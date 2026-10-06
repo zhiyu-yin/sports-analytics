@@ -1,0 +1,26 @@
+{
+  "noncanonical_MM_60_archive_rows": 186,
+  "noncanonical_MM_60_official_audit_rows": 8,
+  "MM_60_policy": "Preserve raw string; normalize M:60 to (M+1)*60 seconds; no loss or silent exclusion. Both sources display these values.",
+  "rows_checked": 100,
+  "selection": "100 lowest SHA256 stage3a-parser-v1|season|game_id|player_id among nonempty game rows in validation seasons",
+  "all_exact_seconds_preserved": true,
+  "examples": [
+    {
+      "raw": "12:04",
+      "seconds": 724,
+      "decimal_minutes": "12.06666666666666666666666667",
+      "incorrect_MM_dot_SS": "12.04"
+    },
+    {
+      "raw": "12:28",
+      "seconds": 748,
+      "decimal_minutes": "12.46666666666666666666666667",
+      "incorrect_MM_dot_SS": "12.28"
+    }
+  ],
+  "existing_stage3_parser_matches": true,
+  "archive_MM_dot_SS_bug": false,
+  "decimal_minutes_unit_test": "12.4 minutes = 744 seconds, distinct from 12:04 = 724 seconds",
+  "missing_is_not_zero": true
+}

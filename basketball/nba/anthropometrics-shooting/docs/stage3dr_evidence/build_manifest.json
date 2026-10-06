@@ -1,0 +1,303 @@
+{
+  "built_at": "2026-09-29T01:53:04.539468+00:00",
+  "decision": {
+    "selected_future_model": "NONE",
+    "stage3e_authorized": false,
+    "scientific_parameter_status": "NOT_AUTHORIZED",
+    "classification": "ADEQUACY UNRESOLVED \u2014 D3 FAILS",
+    "frozen_at": "2026-09-29T01:51:05.263761+00:00",
+    "amendment_sha256": "8e273a702e0a811f53f97e0d42cf64133f57e0fc210bc97f578b4cbf4a7635b8",
+    "original_protocol_sha256": "8be5e5b796396ae0edc5d01ba5c1a6b62ceb0928aae6f47d7f0180595b3ea703",
+    "prior_gate": {
+      "classification": "PRIOR CALIBRATION PASSED",
+      "passed": true,
+      "frozen_at": "2026-09-29T01:22:09.686399+00:00",
+      "prior_result_sha256": "63e76670829101bdb999d0f41b61b458e099446caa1f3b0b6965ba43d96bc092",
+      "amendment_sha256": "8e273a702e0a811f53f97e0d42cf64133f57e0fc210bc97f578b4cbf4a7635b8",
+      "thresholds_unchanged": true
+    },
+    "candidate_adequacy": [
+      {
+        "model": "D0",
+        "sampler_pass": true,
+        "pooled_rate_99_pass": false,
+        "global_metrics_99_fail_count": 2,
+        "season_rate_99_fail_count": 0,
+        "FTA_bin_99_fail_count": 4,
+        "systematic_volume_pattern": true,
+        "joint_FTA_PPC_pass": null,
+        "overall_adequacy": false,
+        "eligible_for_Stage3E": false
+      },
+      {
+        "model": "D1",
+        "sampler_pass": false,
+        "pooled_rate_99_pass": null,
+        "global_metrics_99_fail_count": null,
+        "season_rate_99_fail_count": null,
+        "FTA_bin_99_fail_count": null,
+        "systematic_volume_pattern": null,
+        "joint_FTA_PPC_pass": null,
+        "overall_adequacy": false,
+        "eligible_for_Stage3E": false
+      },
+      {
+        "model": "D2",
+        "sampler_pass": true,
+        "pooled_rate_99_pass": false,
+        "global_metrics_99_fail_count": 3,
+        "season_rate_99_fail_count": 0,
+        "FTA_bin_99_fail_count": 4,
+        "systematic_volume_pattern": true,
+        "joint_FTA_PPC_pass": null,
+        "overall_adequacy": false,
+        "eligible_for_Stage3E": false
+      },
+      {
+        "model": "D3",
+        "sampler_pass": true,
+        "pooled_rate_99_pass": true,
+        "global_metrics_99_fail_count": 2,
+        "season_rate_99_fail_count": 0,
+        "FTA_bin_99_fail_count": 3,
+        "systematic_volume_pattern": true,
+        "joint_FTA_PPC_pass": false,
+        "overall_adequacy": false,
+        "eligible_for_Stage3E": false
+      }
+    ],
+    "permitted_mechanism_summaries": {
+      "d1_attempt_volume_parameter.json": {
+        "parameter": "gamma_FTA",
+        "status": "WITHHELD_FAILED_SAMPLER_GATE",
+        "reason": "Minimum bulk ESS below 400; posterior exists but no reportable mechanism summary"
+      },
+      "d2_dispersion_parameter.json": {
+        "parameter": "gamma_k",
+        "mean": -0.13785533120480628,
+        "median": -0.1374427920323568,
+        "SD": 0.1078835211791669,
+        "CI95": [
+          -0.3603537281703197,
+          0.06467940979591497
+        ],
+        "rho_at_FTA": {
+          "5": {
+            "mean": 0.003930241834519647,
+            "median": 0.0036816969880808757,
+            "SD": 0.0015266258791045413,
+            "CI95": [
+              0.0016539291868813092,
+              0.007573974012583537
+            ]
+          },
+          "25": {
+            "mean": 0.004589258721221952,
+            "median": 0.004498919687766724,
+            "SD": 0.0010604708080451837,
+            "CI95": [
+              0.0027890280412048466,
+              0.0069379038080274276
+            ]
+          },
+          "75": {
+            "mean": 0.005218313249289807,
+            "median": 0.005203091208627461,
+            "SD": 0.0006535526502871505,
+            "CI95": [
+              0.004012583948345689,
+              0.006567146491467381
+            ]
+          },
+          "200": {
+            "mean": 0.005928532586780077,
+            "median": 0.005920131791836706,
+            "SD": 0.00038740359935333083,
+            "CI95": [
+              0.005190362129979237,
+              0.0067107762493880995
+            ]
+          },
+          "400": {
+            "mean": 0.006532986955026845,
+            "median": 0.006506811067791777,
+            "SD": 0.0006298966176144418,
+            "CI95": [
+              0.005366012522869717,
+              0.00786544278644852
+            ]
+          }
+        }
+      },
+      "d3_random_effect_correlation.json": {
+        "parameter": "corr_uv",
+        "mean": 0.3926778293226017,
+        "median": 0.3937357883270519,
+        "SD": 0.04153767813065651,
+        "CI95": [
+          0.30805771305453716,
+          0.4714360786091917
+        ],
+        "P_positive": 1.0
+      }
+    },
+    "scientific_coefficient_unsealed": false,
+    "firewall_intact": true,
+    "no_posthoc_structural_change": true,
+    "selection_input_schema": [
+      "prior_pass",
+      "sampler_pass",
+      "conditional_accuracy_pass",
+      "joint_opportunity_pass",
+      "no_posthoc_change",
+      "firewall_intact"
+    ],
+    "selection_function_sha256": "8768edc64079ac70ed396dc53c447a19292484d677f0abe79e1c917e891da918"
+  },
+  "environment": {
+    "python": "3.10.8",
+    "executable": "/Users/zhiyuyin/Documents/last time job hunting material/proj/sports-analytics/basketball/nba/anthropometrics-shooting/models/stage3c/environment/bin/python",
+    "packages": {
+      "pymc": "5.25.1",
+      "arviz": "0.22.0",
+      "numpy": "2.2.6",
+      "scipy": "1.15.3",
+      "pandas": "2.2.3",
+      "pyarrow": "21.0.0",
+      "matplotlib": "3.10.3",
+      "pytensor": "2.31.7",
+      "numba": "0.61.2",
+      "llvmlite": "0.44.0",
+      "h5py": "3.14.0"
+    },
+    "environment_policy": "Reuse the pinned Stage 3C environment without installations or modifications; Stage 3D caches and outputs are separate",
+    "requirements_sha256": "b2268bee516e8a08a663dbe69b44fc44e373b5e1f0119efc01d5b0820b2a51b1"
+  },
+  "traces": {
+    "models/stage3dr/d2_attempt1_trace.nc": {
+      "bytes": 81044979,
+      "sha256": "9b4bb57eada29cb20d07939687b501da36b9ebf8d2ed4623c2c1faaaa5f5da84",
+      "git_ignored": true,
+      "scientific_parameter_sealed": true
+    },
+    "models/stage3dr/d3_attempt1_trace.nc": {
+      "bytes": 215834763,
+      "sha256": "c857c971c57b1fef2717c78ce8456b20dc1879cffc4ebafac1ad6a19c75f1564",
+      "git_ignored": true,
+      "scientific_parameter_sealed": true
+    },
+    "models/stage3dr/d1_attempt1_trace.nc": {
+      "bytes": 81090603,
+      "sha256": "5a6669af822a3a1d3c47fe4e469c8fe1a380b90a492f5bce73a3a9690bfcc89e",
+      "git_ignored": true,
+      "scientific_parameter_sealed": true
+    }
+  },
+  "artifacts": {
+    "docs/stage3dr_evidence/d3_opportunity_dispersion.json": "b6b9e2a72843530edcd1de34c92cb44b72de577a71e4641048566f4c12e9d76e",
+    "docs/stage3dr_evidence/opportunity_prior_amendment.json": "8e273a702e0a811f53f97e0d42cf64133f57e0fc210bc97f578b4cbf4a7635b8",
+    "docs/stage3dr_evidence/model_adequacy_decision.json": "3d0baf6ab7925c13990e4d0a6d4ee266505559e8f26c0b4b609451f548ad6976",
+    "docs/stage3dr_evidence/d2_attempt1_convergence.csv": "66ddb729e9df8475dc000a9b0ef828bdd6057ea3050e09bf9e32fb72019feb5b",
+    "docs/stage3dr_evidence/d3_random_effect_correlation.json": "b300ab2b3128ef6d02e9407c1ab8255be9f25cd3644c86dbee03abfa55aa9d25",
+    "docs/stage3dr_evidence/d1_attempt1_fit_run.txt": "81e4e068085829dcdac5df313204a8956e504bf4e0cca4b1c3b22e62b05e82ce",
+    "docs/stage3dr_evidence/prior_gate_decision.json": "a90b1080eb9169cd346b087c3454d92b7f6a9e676aad717133ca8e4e611004f3",
+    "docs/stage3dr_evidence/d2_ppc_summary.json": "2d90a15e7f866730310d4f7c7636cb59808052b8f6acdbd096d49265699e16fd",
+    "docs/stage3dr_evidence/d2_attempt1_visual_review.json": "a86276cd07a0cabfb68d6f1fe99efda22860f3c7331deca0b412446385dc7a02",
+    "docs/stage3dr_evidence/d1_attempt1_diagnostics.json": "7d8c8d27aa0d955272a49db3015407b38e1269c7dff1d9f0c969a0b059a90201",
+    "docs/stage3dr_evidence/d3_joint_opportunity_ppc.json": "cf235dc618fe5536b4ea31c151bb5ab3c8b41aafecf8f86ffa2c92fb5ebab672",
+    "docs/stage3dr_evidence/d2_ppc_run.txt": "f9b7af32f5c4308d79c751b0cb1ba9f4ca6cc832b6f2b09d56535359675be1be",
+    "docs/stage3dr_evidence/replay_run.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "docs/stage3dr_evidence/gp_offset_validation.json": "58e806f4eb9f4bbe1bde0beeaf2179a4f788f91c0a955c9b2e6464df06783703",
+    "docs/stage3dr_evidence/d3_conditional_accuracy_ppc.json": "b64d6d4aed36afc3326913cbda561579b7a8ae43614732fa99c01a8891610885",
+    "docs/stage3dr_evidence/d3_joint_PPC_metrics.csv": "d7a8ab1aaa99767f13d297d9e64489a68069d2f5199e13a3a0144ae5af2fcfc7",
+    "docs/stage3dr_evidence/reproduction_check.json": "38fcc4e9c85392e0488c7d646ec10d5e51cea7d7aaeaa7214755e6ccd14fd38c",
+    "docs/stage3dr_evidence/preflight_tests.txt": "986c12d91ee6a41d64cef301942a3a2e83dfc017b04e6e47ace4970f74b30617",
+    "docs/stage3dr_evidence/d2_replay_run.txt": "a61c4a85953b816c5c1c31b1970a77df50d422cbc683361c69937e0235eb85c4",
+    "docs/stage3dr_evidence/d1_diagnostics.json": "93a7c635ef6f82cfe6cf4ccd2483a1b1ef33855cfe4d4638ebc984ed9bd0fab8",
+    "docs/stage3dr_evidence/d1_attempt1_diagnostics_run.txt": "4a6fe9ccc8fa297eac759135e1d3ad57cf10da74a145117e5f1db165d693518e",
+    "docs/stage3dr_evidence/d3_replay_run.txt": "d1fc153432870de636c4b2bc2491ea63dd0032cad1049d6a55381380a28f1edf",
+    "docs/stage3dr_evidence/d2_attempt1_diagnostics_run.txt": "a888d0e055abf2df76b62b27919ae02a86687b6d4c5b56fc4fa8a3c9b533ec86",
+    "docs/stage3dr_evidence/amendment_freeze_receipt.json": "634d4c98ac0d3848aa66f02b7faf882e02220661cd05926590cf4d3c238c64ef",
+    "docs/stage3dr_evidence/d3_attempt1_convergence.csv": "550000893172df83c43c19ca5036166bb5e68dd0d2b407b14f0eec7835b7e210",
+    "docs/stage3dr_evidence/d3_attempt1_diagnostics.json": "24477fb8bfdf98da8e6fcd9340845b218ff85311fa0b0ad8a742ee8f4afda1b8",
+    "docs/stage3dr_evidence/d3_attempt1_visual_review.json": "9cac710ab195583ab9026c1f9b16472687ad1b92881ca81d40dec8ed12613586",
+    "docs/stage3dr_evidence/d3_attempt1_diagnostics_run.txt": "983c8bf5230da566ab1feac45e1d150f021b063cce8660c54f12bfba260333a5",
+    "docs/stage3dr_evidence/d2_diagnostics.json": "b60b6e937763aa3f37b0ad69d9ec1bcee7934b83db1e31067ee5505668997d6b",
+    "docs/stage3dr_evidence/d2_PPC_visual_review.json": "cda182f2c7d1f52030c0d1ea1c4f2a8331f8642a8a6d999432c85aca64909dde",
+    "docs/stage3dr_evidence/d3_ppc_run.txt": "3a18a93b6b2f1ffb3c6109a99ad779ea7882caa7c84dc698d62be75e23c5e85c",
+    "docs/stage3dr_evidence/d2_attempt1_diagnostics.json": "3e4e172fc078bbe193570019168a598bffe4708fc26e69f7bcdf6537f67be4d5",
+    "docs/stage3dr_evidence/d3_attempt1_fit_run.txt": "b2cc4c8441feb0c6d5f410b11dd059da6881bd2a2c0a8e347a83f44ba2f887db",
+    "docs/stage3dr_evidence/d2_conditional_PPC_metrics.csv": "0dc5cc5ce932877a3761ce091c50fdb5e98e7a37cc4fe70225edb54e06405be2",
+    "docs/stage3dr_evidence/d2_attempt1_sampling.json": "e717ad42a3ec67311962a3a89367b5faee4f0d84b47df2be9455232f2268c8b2",
+    "docs/stage3dr_evidence/stage3e_authorization.json": "8b90f3569006defdcd3eb8e2e59d989f22180fbb18a1f1de3d66288ab52f9210",
+    "docs/stage3dr_evidence/d1_attempt1_sampling.json": "558d93896bb480f92d36748aecd110ff41edfe0534334abe1caae763937bc93f",
+    "docs/stage3dr_evidence/d3_backend_validation.json": "ec5879f0405fb3b3a56683835c94fa065eb9f5cda4991ccceb1d2b3072a37f98",
+    "docs/stage3dr_evidence/d1_attempt1_convergence.csv": "be3868110837e045783cf38c436b50c9ca03253d7d62043f706f0e56c7111e34",
+    "docs/stage3dr_evidence/player_index.csv": "403d366664c5b6f663ff7cba6fbbc5d2959f5f495bfb22377e222d05b22eac2b",
+    "docs/stage3dr_evidence/test_summary.json": "0f5e49dda9fd68890c40eabb6e7a6a42a477149adab8e03fc82c9320618f66c6",
+    "docs/stage3dr_evidence/d3_conditional_PPC_metrics.csv": "c7d6941dab7367a881521bd5990e5b1d8e0e54c94e0f4ef6d7572bc22950e50c",
+    "docs/stage3dr_evidence/d3_diagnostics.json": "7e4a7ba83cabece40c825539dbd981ae1488b1e0b39e30189ee52c8786deb5c6",
+    "docs/stage3dr_evidence/d2_dispersion_parameter.json": "27b22b6dec353c7b76b7d8668d99c42c2e8949ca43ab6346e20af018e50672b3",
+    "docs/stage3dr_evidence/d2_attempt1_fit_run.txt": "8588997bdd4d6d7c90256806f2c6427dc451763a7807e9cb1771eaced2824d69",
+    "docs/stage3dr_evidence/model_adequacy_comparison.csv": "7fd0b391f0d285c893127d874db45db3b9b144bb1644783f334b856c87a5c559",
+    "docs/stage3dr_evidence/prior_preservation_manifest.json": "895f222776fd045bf151bf07dcb3dbec240df48af5480df8b78e21f65a465240",
+    "docs/stage3dr_evidence/environment.json": "11f28b2fc43a850359c2603b48feed9a339adc33aac4430052e031452e3d8bd0",
+    "docs/stage3dr_evidence/amended_prior_predictive.json": "63e76670829101bdb999d0f41b61b458e099446caa1f3b0b6965ba43d96bc092",
+    "docs/stage3dr_evidence/d3_attempt1_sampling.json": "eb65a547279f58d3ee9a2f58bd545226a154823db1102368df1de6327f5c596e",
+    "docs/stage3dr_evidence/d1_attempt_volume_parameter.json": "3f7c0aa2f7f00524ca901f3f57a0e673f47f32e494c46fbcf8fcf41f5136b042",
+    "docs/stage3dr_evidence/d3_PPC_visual_review.json": "76ba976df12d6950472ffc9b0c08a4c992437a97f2c3828e30e62c6f649db79a",
+    "docs/stage3dr_evidence/test_run.txt": "146c68ddb31e792622951f4b8a49ffe1d33d08731c2017d003cd665c17ca5c2f",
+    "docs/stage3dr_evidence/prior_run.txt": "3564394290ac6c5a3215650c0b808c0765dfdd9ea1387cd8f128caa0c974a7ec",
+    "docs/stage3dr_evidence/d1_ppc_summary.json": "9ddde615d89247608487500ee08b9810c044a6fe940e5efc01b03a2d6658af0f",
+    "docs/stage3dr_figures/d1_attempt1_accuracy_adjustment_traces.png": "225fc3abee7601b52007a6fb12a5e8a9d48ffcc0311c523845515d287184f56b",
+    "docs/stage3dr_figures/d1_attempt1_energy.png": "2f80c18d7f376ea931306327f350e4d95a8853654e19cfbfe7d44dee68d22df3",
+    "docs/stage3dr_figures/d2_attempt1_energy.png": "3b3ad6be62d5b82289a9ea225646905fe0b4d71fa5ae05964268d29708b70c66",
+    "docs/stage3dr_figures/d3_attempt1_mechanism_trace.png": "1908ec3b04766bb2413c5cab916c9587e1d4bb8129239cc9586318bd9e45bad2",
+    "docs/stage3dr_figures/d3_attempt1_energy.png": "1d1f8a6a2ba6c2f49720335adea243d396828078af303a314d4716f2c6c8ef08",
+    "docs/stage3dr_figures/d2_attempt1_accuracy_adjustment_traces.png": "e29a63fa87610bdadbe3985ac3235ee2cd0070ad0aac7488d9701589af001d4c",
+    "docs/stage3dr_figures/d3_attempt1_opportunity_adjustment_traces.png": "a3b0e07942d802d259e1643b36f682c8ee32914ac99315e9b9a073572af7911f",
+    "docs/stage3dr_figures/d3_attempt1_accuracy_adjustment_traces.png": "99772461e87f8af690dfd3587c2bf1998e85f80c8f6a2cc57a16e0f7b5fd4ea0",
+    "docs/stage3dr_figures/03_D3_conditional_accuracy.png": "6b9363dcf35505e0c8d96203d1aa1443a7a03d93acb93503cac39f5e6fb2317e",
+    "docs/stage3dr_figures/d3_attempt1_sealed_rank_mixing.png": "b0b9f25f8c29ba75c4ae533f58340664051599af5fd0008d21d8c29dfb06c5dd",
+    "docs/stage3dr_figures/d2_attempt1_sealed_rank_mixing.png": "f8b848a8a966e92b6723e23ef17773fa27c00b08be6cb6a892bd76fb26a93743",
+    "docs/stage3dr_figures/04_D3_corr_uv.png": "5514f93f39381ef4e43b70fae0e7a6ed45f0d4f4d7bf31ab46a6c10c4103b5eb",
+    "docs/stage3dr_figures/02_D3_joint_FTA_PPC.png": "36aafcbf85a64b8ddd97648568ab28c8b3cf71a79b727f9ddad6a6418591159b",
+    "docs/stage3dr_figures/d1_attempt1_mechanism_trace.png": "9759ffd8a621a319c10899fbf184f19d0f1c8d1bc3847120fa554c2d579597e7",
+    "docs/stage3dr_figures/d1_attempt1_sealed_rank_mixing.png": "917485215da3227f781f7a8242e041f20a1fbd1c9b639559f4b9f19df2665d7c",
+    "docs/stage3dr_figures/d2_attempt1_mechanism_trace.png": "8f8f830928642dac38fafdf8181107d751a331e659b4142a6ba4fa81f1002253",
+    "docs/stage3dr_figures/01_FTA_bin_accuracy.png": "9a5565b02ce6c10a8a50fe009bbe0a37c3d39972b7bc2e238a76de627048d79a",
+    "scripts/stage3dr_model.py": "f992b9460aaf7d54ced17ebd77a17991bafdb947535ee19826a071153247a7fe",
+    "scripts/stage3dr_ppc.py": "554688672c3c05ab2b0b4d0b98fd086e9a0baba1f1401d78e801d27d48ed3907",
+    "scripts/stage3dr_figures.py": "6a2e45958040b0b8cb936cbca9272f4915158db1ef7477bb9baa4c0f1bf0ea5a",
+    "scripts/stage3dr_setup.py": "c3e3cc14f91625db1067bf96a63bec2984bd6c4f0137653d52a7e6a2df206e0b",
+    "scripts/stage3dr_replay.py": "38499013992395f2026e3c6e356fe2fb7d93563fff57642d7d29d601229b1e59",
+    "scripts/stage3dr_common.py": "b6c4fa3765326b6ec1bd6de951b1cad775a01d63859ac7fc77fa3079151f12b3",
+    "scripts/stage3dr_sampling.py": "6d9d54beb0b3da82c9fe8b88978820ba3a9bec0f6836b5e51164bba9ea1997ea",
+    "scripts/stage3dr_report.py": "f63335d562b73acd73288978b67706865efb0ab0fcad1f08ec4ce005adf8e8c3",
+    "scripts/stage3dr_decision.py": "2b3f9bc4e927c2748f9f8ae977d592be04f04ccb3451e1ca14ae8283df6bb23d",
+    "scripts/verify_stage3dr.py": "eb3a3e90d52cacc0f08bf821aef9a3a485d9d9e5357626851462f3d1bf2dea21",
+    "scripts/stage3dr_prior.py": "6f656f8d75887358f6faa2d9360716fd497fae360c1e9c8bfa6127ec2140384f",
+    "tests/test_stage3dr.py": "cc056023cdc26f620690c5f72ffdc5d65ea84a34b236dd16a61a6b503d18a24f",
+    "docs/stage3dr_opportunity_prior_and_adequacy.md": "7f4711ffcfa29dbf40c3c39082ec9860ff9c54df3d939639568605ebfb71e8a7"
+  },
+  "test_summary": {
+    "tests_run": 23,
+    "tests_passed": 23,
+    "passed": true,
+    "historical_artifacts_unchanged": 751,
+    "scope": "Amendment/provenance/model invariants/firewall/frozen gate checks; adequacy remains a separate decision"
+  },
+  "reproduction": {
+    "checked_at": "2026-09-29T01:51:48.616525+00:00",
+    "candidates": {
+      "d1": "SKIPPED_FAILED_SAMPLER",
+      "d2": "EXACT_REPLAY_PASS",
+      "d3": "EXACT_REPLAY_PASS"
+    },
+    "decision_unchanged": true,
+    "method": "Exact saved-trace permitted summaries and seeded predictive simulations; no additional posterior fit"
+  },
+  "committed": false,
+  "pushed": false,
+  "stage3e_executed": false
+}

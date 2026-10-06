@@ -1,0 +1,17 @@
+test_all_seasons_conflicted (__main__.BlockedAudit) ... ok
+test_ft_primary (__main__.BlockedAudit) ... ok
+test_hashes (__main__.BlockedAudit) ... ok
+test_heterogeneity_not_run (__main__.BlockedAudit) ... ok
+test_history_unchanged (__main__.BlockedAudit) ... ok
+test_linkage (__main__.BlockedAudit) ... ok
+test_manuscript_freeze (__main__.BlockedAudit) ... ok
+test_mapping_unapproved (__main__.BlockedAudit) ... ok
+test_report_all_outcomes_and_limits (__main__.BlockedAudit) ... ok
+test_source_gate_not_false_pass (__main__.BlockedAudit) ... ok
+test_stop_before_freeze_fit (__main__.BlockedAudit) ... ok
+test_transform (__main__.BlockedAudit) ... ok
+
+----------------------------------------------------------------------
+Ran 12 tests in 9.025s
+
+OK

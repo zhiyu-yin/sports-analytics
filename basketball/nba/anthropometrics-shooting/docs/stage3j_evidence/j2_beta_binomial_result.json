@@ -1,0 +1,70 @@
+{
+  "beta": -0.03342553935118659,
+  "odds_ratio": 0.9671269214484619,
+  "kappa": 32.01931413399689,
+  "rho": 0.030285305016992878,
+  "attempts": [
+    {
+      "start_kappa": 10.0,
+      "success": true,
+      "accepted": true,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "negative_log_likelihood": 12915.903905172256,
+      "score_max": 0.0008870611202098644,
+      "iterations": 28
+    },
+    {
+      "start_kappa": 50.0,
+      "success": true,
+      "accepted": true,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "negative_log_likelihood": 12915.903905172272,
+      "score_max": 5.851034789827736e-05,
+      "iterations": 32
+    },
+    {
+      "start_kappa": 200.0,
+      "success": true,
+      "accepted": true,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "negative_log_likelihood": 12915.903905172363,
+      "score_max": 0.0003456216999602191,
+      "iterations": 31
+    }
+  ],
+  "converged": true,
+  "player_seasons": 4117,
+  "players": 857,
+  "seasons": 13,
+  "positive_FTA_rows": 3980,
+  "zero_FTA_rows": 137,
+  "contributing_players": 835,
+  "FTA": 469099,
+  "FTM": 360001,
+  "status": "POINT_FIT_VALID_BOOTSTRAP_INTERVAL_WITHHELD",
+  "same_frozen_estimator": true,
+  "recorded_at": "2026-10-01T00:55:38.359009+00:00",
+  "primary": false,
+  "ci_low": null,
+  "ci_high": null,
+  "bootstrap": {
+    "replicates": 2000,
+    "successful": 1701,
+    "failed": 299,
+    "seed": 20260931,
+    "RNG": "numpy.default_rng PCG64",
+    "mean": -0.033908033272766896,
+    "SD": 0.008770276161821654,
+    "percentile_CI": [
+      -0.05035999407755203,
+      -0.016896506232173432
+    ],
+    "fraction_beta_negative": 1.0,
+    "percentile_method": "linear",
+    "no_failed_replicate_replacement": true,
+    "valid_for_interpretation": false
+  },
+  "bootstrap_interval_reportable": false,
+  "reason": "More than 20/2000 bootstrap fits failed frozen unchanged Stage 2 numerical checks; no replacement or tuning",
+  "finished_at": "2026-10-01T01:02:07.778848+00:00"
+}

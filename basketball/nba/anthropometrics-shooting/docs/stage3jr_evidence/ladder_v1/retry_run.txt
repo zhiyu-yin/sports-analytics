@@ -1,0 +1,16 @@
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l1dcachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l2cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l3cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.optional.neon'. Detail: [errno 1] Operation not permitted
+Failed-only retry 25 /299; unresolved 0
+Failed-only retry 50 /299; unresolved 1
+Failed-only retry 75 /299; unresolved 1
+Failed-only retry 100 /299; unresolved 1
+Failed-only retry 125 /299; unresolved 1
+Failed-only retry 150 /299; unresolved 1
+Failed-only retry 175 /299; unresolved 3
+Failed-only retry 200 /299; unresolved 3
+Failed-only retry 225 /299; unresolved 4
+Failed-only retry 250 /299; unresolved 4
+Failed-only retry 275 /299; unresolved 4
+Failed-only retry: 295 repaired; 4 remaining

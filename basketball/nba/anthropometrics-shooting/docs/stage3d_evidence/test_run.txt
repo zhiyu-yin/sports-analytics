@@ -1,0 +1,34 @@
+WARNING (pytensor.configdefaults): g++ not detected!  PyTensor will be unable to compile C-implementations and will default to Python. Performance may be severely degraded. To remove this warning, set PyTensor flags cxx to an empty string.
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l1dcachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l2cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l3cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.optional.neon'. Detail: [errno 1] Operation not permitted
+test_A_stage3c_failure_and_all_history_preserved (test_stage3d.Stage3D) ... ok
+test_B_primary_hash (test_stage3d.Stage3D) ... ok
+test_C_development_season_absent (test_stage3d.Stage3D) ... ok
+test_D_frozen_bins (test_stage3d.Stage3D) ... ok
+test_E_definitions_frozen_before_simulation_no_fits (test_stage3d.Stage3D) ... ok
+test_F_selection_firewall (test_stage3d.Stage3D) ... ok
+test_G_no_sealed_summaries_in_outputs (test_stage3d.Stage3D) ... ok
+test_H_D1_cannot_authorize (test_stage3d.Stage3D) ... ok
+test_I_D2_cannot_authorize (test_stage3d.Stage3D) ... ok
+test_J_only_D3_all_gates (test_stage3d.Stage3D) ... ok
+test_K_fixed_GP_offset (test_stage3d.Stage3D) ... ok
+test_L_no_minutes (test_stage3d.Stage3D) ... ok
+test_M_zero_rows_opportunity (test_stage3d.Stage3D) ... ok
+test_N_accuracy_positive_only (test_stage3d.Stage3D) ... ok
+test_O_counts_valid (test_stage3d.Stage3D) ... ok
+test_P_bivariate_index (test_stage3d.Stage3D) ... ok
+test_Q_prior_correlation_valid (test_stage3d.Stage3D) ... ok
+test_R_beta_binomial_shapes_valid_initial_point (test_stage3d.Stage3D) ... ok
+test_S_negative_binomial_valid (test_stage3d.Stage3D) ... ok
+test_T_gate_rules_and_prior_stop (test_stage3d.Stage3D) ... ok
+test_U_no_threshold_filter (test_stage3d.Stage3D) ... ok
+test_V_frozen_exposure (test_stage3d.Stage3D) ... ok
+test_W_no_full_panel (test_stage3d.Stage3D) ... ok
+test_X_no_scientific_interpretation (test_stage3d.Stage3D) ... ok
+
+----------------------------------------------------------------------
+Ran 24 tests in 1.584s
+
+OK

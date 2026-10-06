@@ -1,0 +1,11 @@
+{
+  "tests_run": 19,
+  "tests_passed": 19,
+  "execution_success": true,
+  "prior_files_preserved": 511,
+  "deterministic_rebuild_files": 12,
+  "stage3a_classification": "UNRESOLVED \u2014 INSUFFICIENT PRECISION EVIDENCE",
+  "source_gate_pass": false,
+  "part_B_started": false,
+  "scope": "provenance and software checks only; passing tests do not resolve the precision mechanism"
+}

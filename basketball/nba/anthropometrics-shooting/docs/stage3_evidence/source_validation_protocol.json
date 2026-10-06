@@ -1,0 +1,13 @@
+{
+ "shooting_seasons_rule":"earliest available regular season, 2016-17 if present else median ordered season, latest available regular season; unique three seasons",
+ "sample_rule":"12 positive-minute player IDs per selected season with smallest SHA256('stage3-validation|'+season+'|'+ID); no exposure or shooting outcome selection; no replacements",
+ "shooting_pass_rule":"all 12 sampled players in each of 3 seasons have official FTM/FTA/3PM/3PA/GP exact; MIN within 0.5 minute for integer display or 0.05 for decimal display; at least one team or league count reconciliation per season exact. All retrievals factual, no timeouts counted; any unresolved count conflict blocks Part B",
+ "aggregate_rule":"prefer entire league totals from official team table (30 teams); if unavailable first alphabetically ordered available team with a directly official total; no outcome-based choice",
+ "anthropometrics":"retrieve official NBA rendered tables for every later year used (potentially all 2014-2022); unique normalized exact name in same year, never fuzzy; compare source-wide core numeric pairs. Official finite values supersede conflicting numeric via explicit correction layer; missing official or unmatched or ambiguous rows quarantined. All included pairs must be officially corroborated; no unresolved systematic conflict allowed",
+ "rounding":"exact preferred; <=0.125 inch only where official quarter-inch display supports rounding, retained original numeric if rounding-only",
+ "measurement_selection":"latest complete validated nonquarantined record on/before first observed positive-minute NBA season start year; one fixed vector per person across all seasons; all alternatives logged; exact positive ID only; prior unresolved cross-ID links never applied",
+ "residualization":"full precision intercept and slope read from Stage 1 residualization_model.json, no refit",
+ "primary_replication":"all eligible available regular seasons except 2013-14; no other outcome-based season exclusion",
+ "gate":"Part B prohibited until explicit Part A PASS and panel hashes persisted",
+ "failure_policy":"record unresolved evidence; do not claim source validation from failed transport or silently relax rules"
+}

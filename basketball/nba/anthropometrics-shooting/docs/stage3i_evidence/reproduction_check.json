@@ -1,0 +1,19 @@
+{
+  "checked_at": "2026-10-01T00:09:56.300437+00:00",
+  "decision_unchanged": true,
+  "no_additional_MCMC": true,
+  "candidates": {
+    "i1": {
+      "exact_match": true,
+      "artifacts": {
+        "conditional_PPC_metrics.csv": "35b960b1b3fee62db29f214f9206149af1c683db674d6ea050eef65a5686ec9d",
+        "joint_PPC_metrics.csv": "932d56fae3eec92d7e76dcbdeb44e1aa438d4ec7ddf4cc0ec0f5e853a5bfb41c",
+        "conditional_accuracy_ppc.json": "b7ff5f3ecfc4a3fe3fa0f99d0fc0e2f1e54f40b4cff2f6dbe737d2a950cb1f25",
+        "joint_opportunity_ppc.json": "f07958a384e12c1f254fa60df9b92d61bea37ff369bc2b321f4f72a7524cf3de",
+        "latent_factor_parameters.json": "176bf77fb12f192972d7d672e34561054a5fac1b6b24cf1617cad8447d1ef2f4",
+        "within_parameters.json": "84690a536ce07d4e9af89e0647f3e387cc166302f32a04f05d7444614b15d432"
+      }
+    }
+  },
+  "status": "EXACT_SAVED_TRACE_PPC_REPLAY"
+}

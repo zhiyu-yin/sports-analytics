@@ -1,0 +1,21 @@
+{
+  "classification_code": "C",
+  "classification": "IDENTIFICATION UNRESOLVED \u2014 NO EQUIVALENT F2 PARAMETERIZATION PASSES SAMPLER",
+  "selected_parameterization": null,
+  "stage3g_authorized": false,
+  "stage3g_purpose": "ESTIMAND REVIEW ONLY",
+  "stage3g_executed": false,
+  "scientific_parameter_status": "SEALED",
+  "scientific_inference_authorized": false,
+  "stage3e_authorized": false,
+  "frozen_at": "2026-09-30T02:39:18.696639+00:00",
+  "protocol_sha256": "fbf28d1887e76c0691e2d802fe6234470e26a0112caad402ff5682dbcf0d51f7",
+  "conditional_accuracy_pass": null,
+  "joint_opportunity_pass": null,
+  "eligible_order": [
+    "R1",
+    "R2",
+    "R3"
+  ],
+  "historical_decisions_unchanged": true
+}

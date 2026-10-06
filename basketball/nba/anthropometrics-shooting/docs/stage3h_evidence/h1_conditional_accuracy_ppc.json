@@ -1,0 +1,82 @@
+{
+  "candidate": "H1",
+  "replicates": 2000,
+  "seed": 20260930,
+  "pooled_rate_99_pass": true,
+  "global_metrics_99_fail_count": 2,
+  "season_rate_99_fail_count": 0,
+  "season_count": 13,
+  "FTA_bin_99_fail_count": 3,
+  "systematic_volume_pattern": true,
+  "gate_pass": false,
+  "pooled_rate": {
+    "metric": "pooled_rate",
+    "observed": 0.7674307555547976,
+    "replicated_mean": 0.7648897269019972,
+    "predictive_99_low": 0.7612994485172639,
+    "predictive_99_high": 0.768138623190414,
+    "outside_99": false,
+    "MCSE_mean": 2.9672343520532336e-05
+  },
+  "bin_checks": [
+    {
+      "metric": "FTA_1-9_pooled",
+      "observed": 0.6840474961280331,
+      "replicated_mean": 0.7187054723799691,
+      "predictive_99_low": 0.6917888487351574,
+      "predictive_99_high": 0.7480640165203923,
+      "outside_99": true,
+      "MCSE_mean": 0.0002689931509870951
+    },
+    {
+      "metric": "FTA_10-49_pooled",
+      "observed": 0.7152835987706063,
+      "replicated_mean": 0.7321846011455714,
+      "predictive_99_low": 0.7236653045543447,
+      "predictive_99_high": 0.740884674490081,
+      "outside_99": true,
+      "MCSE_mean": 7.351781732498598e-05
+    },
+    {
+      "metric": "FTA_50-99_pooled",
+      "observed": 0.7443223443223443,
+      "replicated_mean": 0.7481079446479448,
+      "predictive_99_low": 0.7417009361009361,
+      "predictive_99_high": 0.7542045584045585,
+      "outside_99": false,
+      "MCSE_mean": 5.211205699942484e-05
+    },
+    {
+      "metric": "FTA_100-299_pooled",
+      "observed": 0.7663528501418623,
+      "replicated_mean": 0.7626065364113147,
+      "predictive_99_low": 0.7581806594445877,
+      "predictive_99_high": 0.7668171696328776,
+      "outside_99": false,
+      "MCSE_mean": 3.756893004264242e-05
+    },
+    {
+      "metric": "FTA_300+_pooled",
+      "observed": 0.7904419143855763,
+      "replicated_mean": 0.7828002976087484,
+      "predictive_99_low": 0.7758657646122434,
+      "predictive_99_high": 0.7893761982212687,
+      "outside_99": true,
+      "MCSE_mean": 5.506842817215256e-05
+    }
+  ],
+  "metrics_outside_99": [
+    "rate_q95",
+    "FTA_1-9_pooled",
+    "FTA_10-49_pooled",
+    "FTA_300+_pooled",
+    "rate_mean"
+  ],
+  "visual_review": {
+    "reviewed_at": "2026-09-30T19:13:39.894891+00:00",
+    "reviewed": true,
+    "accuracy": "Low-volume overprediction and high-volume underprediction visible; frozen Boolean gate unchanged",
+    "opportunity": "Observed zero fraction lies inside predictive interval; positive median and upper quartile above predictive intervals",
+    "scientific_plot": false
+  }
+}

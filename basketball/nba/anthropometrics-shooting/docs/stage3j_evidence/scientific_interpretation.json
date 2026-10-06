@@ -1,0 +1,10 @@
+{
+  "main_text": "The primary adjusted association is negative: beta=-0.030452, OR=0.970007 per additional residual-wingspan inch. The player-bootstrap 95% interval excludes zero. The estimate describes between-player association in the observed measured-player sample. All predeclared point estimates are negative; J2 bootstrap uncertainty is withheld because its frozen numerical gate failed. Their different magnitudes and available uncertainty remain visible.",
+  "causal": false,
+  "direction": "negative",
+  "bootstrap_CI_includes_zero": false,
+  "all_predeclared_estimates_negative": true,
+  "loso_sign_reversals": 0,
+  "primary": "J1",
+  "generated_at": "2026-10-01T01:02:34.474000+00:00"
+}

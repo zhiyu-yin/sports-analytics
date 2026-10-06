@@ -1,0 +1,14 @@
+{
+  "participants": 960,
+  "year_min": 2000,
+  "year_max": 2013,
+  "unique_positive_ids": 960,
+  "missing_id_placeholders": 0,
+  "quarantined_records": 0,
+  "post2013_records": 0,
+  "repeated_eligible_ids": 0,
+  "membership_matches_stage0b": true,
+  "direct_official_pairs": 960,
+  "reference_rule": "latest complete plausible non-quarantined record <=2013 per positive archive ID",
+  "residual_fit_performed": false
+}

@@ -1,0 +1,11 @@
+quantity,value
+"Observed NBA players, 14-season window",1708
+"Positive-minute player-seasons, 14 seasons",7190
+Measurement-eligible exact-ID player-seasons,4428
+"Measured players, 14-season panel",866
+Primary replication player-seasons,4117
+Primary accounting players,857
+Primary positive-FTA likelihood rows,3980
+Primary contributing players,835
+Primary zero-FTA accounting rows,137
+Primary attempts,469099

@@ -1,0 +1,5166 @@
+{
+  "values": {
+    "robust_0_beta": {
+      "value": -0.030451990605906667,
+      "source_artifact": "docs/stage3j_evidence/primary_result.json",
+      "source_field": [
+        "beta"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "79b8f461efcc61e0a6e3ff33728fa0d0019839aae03b9809d530f8c9b6906e02"
+    },
+    "robust_0_odds_ratio": {
+      "value": 0.9700070003976983,
+      "source_artifact": "docs/stage3j_evidence/primary_result.json",
+      "source_field": [
+        "odds_ratio"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "79b8f461efcc61e0a6e3ff33728fa0d0019839aae03b9809d530f8c9b6906e02"
+    },
+    "robust_0_ci_low": {
+      "value": -0.05228115912326727,
+      "source_artifact": "docs/stage3j_evidence/primary_result.json",
+      "source_field": [
+        "ci_low"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "79b8f461efcc61e0a6e3ff33728fa0d0019839aae03b9809d530f8c9b6906e02"
+    },
+    "robust_0_ci_high": {
+      "value": -0.008622822088546062,
+      "source_artifact": "docs/stage3j_evidence/primary_result.json",
+      "source_field": [
+        "ci_high"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "79b8f461efcc61e0a6e3ff33728fa0d0019839aae03b9809d530f8c9b6906e02"
+    },
+    "robust_0_player_seasons": {
+      "value": 4117,
+      "source_artifact": "docs/stage3j_evidence/primary_result.json",
+      "source_field": [
+        "player_seasons"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "79b8f461efcc61e0a6e3ff33728fa0d0019839aae03b9809d530f8c9b6906e02"
+    },
+    "robust_0_players": {
+      "value": 857,
+      "source_artifact": "docs/stage3j_evidence/primary_result.json",
+      "source_field": [
+        "players"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "79b8f461efcc61e0a6e3ff33728fa0d0019839aae03b9809d530f8c9b6906e02"
+    },
+    "robust_0_contributing_players": {
+      "value": 835,
+      "source_artifact": "docs/stage3j_evidence/primary_result.json",
+      "source_field": [
+        "contributing_players"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "79b8f461efcc61e0a6e3ff33728fa0d0019839aae03b9809d530f8c9b6906e02"
+    },
+    "robust_0_FTA": {
+      "value": 469099,
+      "source_artifact": "docs/stage3j_evidence/primary_result.json",
+      "source_field": [
+        "FTA"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "79b8f461efcc61e0a6e3ff33728fa0d0019839aae03b9809d530f8c9b6906e02"
+    },
+    "robust_1_beta": {
+      "value": -0.030451990605906667,
+      "source_artifact": "docs/stage3j_evidence/primary_result.json",
+      "source_field": [
+        "beta"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "79b8f461efcc61e0a6e3ff33728fa0d0019839aae03b9809d530f8c9b6906e02"
+    },
+    "robust_1_odds_ratio": {
+      "value": 0.9700070003976983,
+      "source_artifact": "docs/stage3j_evidence/primary_result.json",
+      "source_field": [
+        "odds_ratio"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "79b8f461efcc61e0a6e3ff33728fa0d0019839aae03b9809d530f8c9b6906e02"
+    },
+    "robust_1_ci_low": {
+      "value": -0.054330558012167116,
+      "source_artifact": "docs/stage3j_evidence/primary_result.json",
+      "source_field": [
+        "bootstrap",
+        "percentile_CI",
+        0
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "79b8f461efcc61e0a6e3ff33728fa0d0019839aae03b9809d530f8c9b6906e02"
+    },
+    "robust_1_ci_high": {
+      "value": -0.010475281001090258,
+      "source_artifact": "docs/stage3j_evidence/primary_result.json",
+      "source_field": [
+        "bootstrap",
+        "percentile_CI",
+        1
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "79b8f461efcc61e0a6e3ff33728fa0d0019839aae03b9809d530f8c9b6906e02"
+    },
+    "robust_1_player_seasons": {
+      "value": 4117,
+      "source_artifact": "docs/stage3j_evidence/primary_result.json",
+      "source_field": [
+        "player_seasons"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "79b8f461efcc61e0a6e3ff33728fa0d0019839aae03b9809d530f8c9b6906e02"
+    },
+    "robust_1_players": {
+      "value": 857,
+      "source_artifact": "docs/stage3j_evidence/primary_result.json",
+      "source_field": [
+        "players"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "79b8f461efcc61e0a6e3ff33728fa0d0019839aae03b9809d530f8c9b6906e02"
+    },
+    "robust_1_contributing_players": {
+      "value": 835,
+      "source_artifact": "docs/stage3j_evidence/primary_result.json",
+      "source_field": [
+        "contributing_players"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "79b8f461efcc61e0a6e3ff33728fa0d0019839aae03b9809d530f8c9b6906e02"
+    },
+    "robust_1_FTA": {
+      "value": 469099,
+      "source_artifact": "docs/stage3j_evidence/primary_result.json",
+      "source_field": [
+        "FTA"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "79b8f461efcc61e0a6e3ff33728fa0d0019839aae03b9809d530f8c9b6906e02"
+    },
+    "robust_2_beta": {
+      "value": -0.03342553935118659,
+      "source_artifact": "docs/stage3j_evidence/j2_original_fit_audit.json",
+      "source_field": [
+        "beta"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "ce6c8eb6df68fc1585a35662f0d6585527c472cdc018f5e3ad7ea8e0724a0c39"
+    },
+    "robust_2_odds_ratio": {
+      "value": 0.9671269214484619,
+      "source_artifact": "docs/stage3j_evidence/j2_original_fit_audit.json",
+      "source_field": [
+        "odds_ratio"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "ce6c8eb6df68fc1585a35662f0d6585527c472cdc018f5e3ad7ea8e0724a0c39"
+    },
+    "robust_2_ci_low": {
+      "value": -0.0504424509753622,
+      "source_artifact": "docs/stage3jr_evidence/full_bootstrap_summary.json",
+      "source_field": [
+        "percentile_CI",
+        0
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "6933e3ec7bc9bef8b6ec56f141c2bfb44411ba4cfb6865fad10d387827464882"
+    },
+    "robust_2_ci_high": {
+      "value": -0.017015686051392698,
+      "source_artifact": "docs/stage3jr_evidence/full_bootstrap_summary.json",
+      "source_field": [
+        "percentile_CI",
+        1
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "6933e3ec7bc9bef8b6ec56f141c2bfb44411ba4cfb6865fad10d387827464882"
+    },
+    "robust_2_player_seasons": {
+      "value": 4117,
+      "source_artifact": "docs/stage3j_evidence/j2_original_fit_audit.json",
+      "source_field": [
+        "player_seasons"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "ce6c8eb6df68fc1585a35662f0d6585527c472cdc018f5e3ad7ea8e0724a0c39"
+    },
+    "robust_2_players": {
+      "value": 857,
+      "source_artifact": "docs/stage3j_evidence/j2_original_fit_audit.json",
+      "source_field": [
+        "players"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "ce6c8eb6df68fc1585a35662f0d6585527c472cdc018f5e3ad7ea8e0724a0c39"
+    },
+    "robust_2_contributing_players": {
+      "value": 835,
+      "source_artifact": "docs/stage3j_evidence/j2_original_fit_audit.json",
+      "source_field": [
+        "contributing_players"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "ce6c8eb6df68fc1585a35662f0d6585527c472cdc018f5e3ad7ea8e0724a0c39"
+    },
+    "robust_2_FTA": {
+      "value": 469099,
+      "source_artifact": "docs/stage3j_evidence/j2_original_fit_audit.json",
+      "source_field": [
+        "FTA"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "ce6c8eb6df68fc1585a35662f0d6585527c472cdc018f5e3ad7ea8e0724a0c39"
+    },
+    "robust_3_beta": {
+      "value": -0.027686793730878064,
+      "source_artifact": "docs/stage3j_evidence/j3_first_season_result.json",
+      "source_field": [
+        "beta"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "a6705bbea8f9cb45927e4ac169f1ba5275e79b47348e31f38754a747ac403d12"
+    },
+    "robust_3_odds_ratio": {
+      "value": 0.9726929726334883,
+      "source_artifact": "docs/stage3j_evidence/j3_first_season_result.json",
+      "source_field": [
+        "odds_ratio"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "a6705bbea8f9cb45927e4ac169f1ba5275e79b47348e31f38754a747ac403d12"
+    },
+    "robust_3_ci_low": {
+      "value": -0.04911562902310414,
+      "source_artifact": "docs/stage3j_evidence/j3_first_season_result.json",
+      "source_field": [
+        "ci_low"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "a6705bbea8f9cb45927e4ac169f1ba5275e79b47348e31f38754a747ac403d12"
+    },
+    "robust_3_ci_high": {
+      "value": -0.006257958438651991,
+      "source_artifact": "docs/stage3j_evidence/j3_first_season_result.json",
+      "source_field": [
+        "ci_high"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "a6705bbea8f9cb45927e4ac169f1ba5275e79b47348e31f38754a747ac403d12"
+    },
+    "robust_3_player_seasons": {
+      "value": 857,
+      "source_artifact": "docs/stage3j_evidence/j3_first_season_result.json",
+      "source_field": [
+        "player_seasons"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "a6705bbea8f9cb45927e4ac169f1ba5275e79b47348e31f38754a747ac403d12"
+    },
+    "robust_3_players": {
+      "value": 857,
+      "source_artifact": "docs/stage3j_evidence/j3_first_season_result.json",
+      "source_field": [
+        "players"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "a6705bbea8f9cb45927e4ac169f1ba5275e79b47348e31f38754a747ac403d12"
+    },
+    "robust_3_contributing_players": {
+      "value": 803,
+      "source_artifact": "docs/stage3j_evidence/j3_first_season_result.json",
+      "source_field": [
+        "contributing_players"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "a6705bbea8f9cb45927e4ac169f1ba5275e79b47348e31f38754a747ac403d12"
+    },
+    "robust_3_FTA": {
+      "value": 68480,
+      "source_artifact": "docs/stage3j_evidence/j3_first_season_result.json",
+      "source_field": [
+        "FTA"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "a6705bbea8f9cb45927e4ac169f1ba5275e79b47348e31f38754a747ac403d12"
+    },
+    "robust_4_beta": {
+      "value": -0.02768225943126821,
+      "source_artifact": "docs/stage3j_evidence/j4_player_balanced_result.json",
+      "source_field": [
+        "beta"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "acd32ebfcdd998adc2a753fbcc61a4f1caf6e0e5113be9a7933b57649bea25b4"
+    },
+    "robust_4_odds_ratio": {
+      "value": 0.9726973831248539,
+      "source_artifact": "docs/stage3j_evidence/j4_player_balanced_result.json",
+      "source_field": [
+        "odds_ratio"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "acd32ebfcdd998adc2a753fbcc61a4f1caf6e0e5113be9a7933b57649bea25b4"
+    },
+    "robust_4_ci_low": {
+      "value": -0.046365034274872666,
+      "source_artifact": "docs/stage3j_evidence/j4_player_balanced_result.json",
+      "source_field": [
+        "ci_low"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "acd32ebfcdd998adc2a753fbcc61a4f1caf6e0e5113be9a7933b57649bea25b4"
+    },
+    "robust_4_ci_high": {
+      "value": -0.008999484587663757,
+      "source_artifact": "docs/stage3j_evidence/j4_player_balanced_result.json",
+      "source_field": [
+        "ci_high"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "acd32ebfcdd998adc2a753fbcc61a4f1caf6e0e5113be9a7933b57649bea25b4"
+    },
+    "robust_4_player_seasons": {
+      "value": 4117,
+      "source_artifact": "docs/stage3j_evidence/j4_player_balanced_result.json",
+      "source_field": [
+        "player_seasons"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "acd32ebfcdd998adc2a753fbcc61a4f1caf6e0e5113be9a7933b57649bea25b4"
+    },
+    "robust_4_players": {
+      "value": 857,
+      "source_artifact": "docs/stage3j_evidence/j4_player_balanced_result.json",
+      "source_field": [
+        "players"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "acd32ebfcdd998adc2a753fbcc61a4f1caf6e0e5113be9a7933b57649bea25b4"
+    },
+    "robust_4_contributing_players": {
+      "value": 835,
+      "source_artifact": "docs/stage3j_evidence/j4_player_balanced_result.json",
+      "source_field": [
+        "contributing_players"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "acd32ebfcdd998adc2a753fbcc61a4f1caf6e0e5113be9a7933b57649bea25b4"
+    },
+    "robust_4_FTA": {
+      "value": 469099,
+      "source_artifact": "docs/stage3j_evidence/j4_player_balanced_result.json",
+      "source_field": [
+        "FTA"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "acd32ebfcdd998adc2a753fbcc61a4f1caf6e0e5113be9a7933b57649bea25b4"
+    },
+    "robust_5_beta": {
+      "value": "-0.03144334277491623",
+      "source_artifact": "docs/stage3j_evidence/j6_fta_thresholds.csv",
+      "source_field": [
+        0,
+        "beta"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "5f5af5fb60d8e3fc914a47c28d83266247fe5a6d567b5c7c4e4484259305acde"
+    },
+    "robust_5_odds_ratio": {
+      "value": "0.9690458583477434",
+      "source_artifact": "docs/stage3j_evidence/j6_fta_thresholds.csv",
+      "source_field": [
+        0,
+        "odds_ratio"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "5f5af5fb60d8e3fc914a47c28d83266247fe5a6d567b5c7c4e4484259305acde"
+    },
+    "robust_5_ci_low": {
+      "value": "-0.0539003572287497",
+      "source_artifact": "docs/stage3j_evidence/j6_fta_thresholds.csv",
+      "source_field": [
+        0,
+        "ci_low"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "5f5af5fb60d8e3fc914a47c28d83266247fe5a6d567b5c7c4e4484259305acde"
+    },
+    "robust_5_ci_high": {
+      "value": "-0.008986328321082752",
+      "source_artifact": "docs/stage3j_evidence/j6_fta_thresholds.csv",
+      "source_field": [
+        0,
+        "ci_high"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "5f5af5fb60d8e3fc914a47c28d83266247fe5a6d567b5c7c4e4484259305acde"
+    },
+    "robust_5_player_seasons": {
+      "value": "2535",
+      "source_artifact": "docs/stage3j_evidence/j6_fta_thresholds.csv",
+      "source_field": [
+        0,
+        "player_seasons"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "5f5af5fb60d8e3fc914a47c28d83266247fe5a6d567b5c7c4e4484259305acde"
+    },
+    "robust_5_players": {
+      "value": "545",
+      "source_artifact": "docs/stage3j_evidence/j6_fta_thresholds.csv",
+      "source_field": [
+        0,
+        "players"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "5f5af5fb60d8e3fc914a47c28d83266247fe5a6d567b5c7c4e4484259305acde"
+    },
+    "robust_5_contributing_players": {
+      "value": "545",
+      "source_artifact": "docs/stage3j_evidence/j6_fta_thresholds.csv",
+      "source_field": [
+        0,
+        "contributing_players"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "5f5af5fb60d8e3fc914a47c28d83266247fe5a6d567b5c7c4e4484259305acde"
+    },
+    "robust_5_FTA": {
+      "value": "438530",
+      "source_artifact": "docs/stage3j_evidence/j6_fta_thresholds.csv",
+      "source_field": [
+        0,
+        "FTA"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "5f5af5fb60d8e3fc914a47c28d83266247fe5a6d567b5c7c4e4484259305acde"
+    },
+    "robust_6_beta": {
+      "value": "-0.03488194532831701",
+      "source_artifact": "docs/stage3j_evidence/j6_fta_thresholds.csv",
+      "source_field": [
+        1,
+        "beta"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "5f5af5fb60d8e3fc914a47c28d83266247fe5a6d567b5c7c4e4484259305acde"
+    },
+    "robust_6_odds_ratio": {
+      "value": "0.9657194172169986",
+      "source_artifact": "docs/stage3j_evidence/j6_fta_thresholds.csv",
+      "source_field": [
+        1,
+        "odds_ratio"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "5f5af5fb60d8e3fc914a47c28d83266247fe5a6d567b5c7c4e4484259305acde"
+    },
+    "robust_6_ci_low": {
+      "value": "-0.05896628757968418",
+      "source_artifact": "docs/stage3j_evidence/j6_fta_thresholds.csv",
+      "source_field": [
+        1,
+        "ci_low"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "5f5af5fb60d8e3fc914a47c28d83266247fe5a6d567b5c7c4e4484259305acde"
+    },
+    "robust_6_ci_high": {
+      "value": "-0.010797603076949835",
+      "source_artifact": "docs/stage3j_evidence/j6_fta_thresholds.csv",
+      "source_field": [
+        1,
+        "ci_high"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "5f5af5fb60d8e3fc914a47c28d83266247fe5a6d567b5c7c4e4484259305acde"
+    },
+    "robust_6_player_seasons": {
+      "value": "1688",
+      "source_artifact": "docs/stage3j_evidence/j6_fta_thresholds.csv",
+      "source_field": [
+        1,
+        "player_seasons"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "5f5af5fb60d8e3fc914a47c28d83266247fe5a6d567b5c7c4e4484259305acde"
+    },
+    "robust_6_players": {
+      "value": "398",
+      "source_artifact": "docs/stage3j_evidence/j6_fta_thresholds.csv",
+      "source_field": [
+        1,
+        "players"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "5f5af5fb60d8e3fc914a47c28d83266247fe5a6d567b5c7c4e4484259305acde"
+    },
+    "robust_6_contributing_players": {
+      "value": "398",
+      "source_artifact": "docs/stage3j_evidence/j6_fta_thresholds.csv",
+      "source_field": [
+        1,
+        "contributing_players"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "5f5af5fb60d8e3fc914a47c28d83266247fe5a6d567b5c7c4e4484259305acde"
+    },
+    "robust_6_FTA": {
+      "value": "377105",
+      "source_artifact": "docs/stage3j_evidence/j6_fta_thresholds.csv",
+      "source_field": [
+        1,
+        "FTA"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "5f5af5fb60d8e3fc914a47c28d83266247fe5a6d567b5c7c4e4484259305acde"
+    },
+    "robust_7_beta": {
+      "value": -0.030828126568849378,
+      "source_artifact": "docs/stage3j_evidence/full_panel_secondary_result.json",
+      "source_field": [
+        "beta"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "78f1095a9f992a35308b140c66f8ea544725a64398c37175e9c2671c191ef44a"
+    },
+    "robust_7_odds_ratio": {
+      "value": 0.9696422144893928,
+      "source_artifact": "docs/stage3j_evidence/full_panel_secondary_result.json",
+      "source_field": [
+        "odds_ratio"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "78f1095a9f992a35308b140c66f8ea544725a64398c37175e9c2671c191ef44a"
+    },
+    "robust_7_ci_low": {
+      "value": -0.052629500892011835,
+      "source_artifact": "docs/stage3j_evidence/full_panel_secondary_result.json",
+      "source_field": [
+        "ci_low"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "78f1095a9f992a35308b140c66f8ea544725a64398c37175e9c2671c191ef44a"
+    },
+    "robust_7_ci_high": {
+      "value": -0.009026752245686925,
+      "source_artifact": "docs/stage3j_evidence/full_panel_secondary_result.json",
+      "source_field": [
+        "ci_high"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "78f1095a9f992a35308b140c66f8ea544725a64398c37175e9c2671c191ef44a"
+    },
+    "robust_7_player_seasons": {
+      "value": 4428,
+      "source_artifact": "docs/stage3j_evidence/full_panel_secondary_result.json",
+      "source_field": [
+        "player_seasons"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "78f1095a9f992a35308b140c66f8ea544725a64398c37175e9c2671c191ef44a"
+    },
+    "robust_7_players": {
+      "value": 866,
+      "source_artifact": "docs/stage3j_evidence/full_panel_secondary_result.json",
+      "source_field": [
+        "players"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "78f1095a9f992a35308b140c66f8ea544725a64398c37175e9c2671c191ef44a"
+    },
+    "robust_7_contributing_players": {
+      "value": 843,
+      "source_artifact": "docs/stage3j_evidence/full_panel_secondary_result.json",
+      "source_field": [
+        "contributing_players"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "78f1095a9f992a35308b140c66f8ea544725a64398c37175e9c2671c191ef44a"
+    },
+    "robust_7_FTA": {
+      "value": 511686,
+      "source_artifact": "docs/stage3j_evidence/full_panel_secondary_result.json",
+      "source_field": [
+        "FTA"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "78f1095a9f992a35308b140c66f8ea544725a64398c37175e9c2671c191ef44a"
+    },
+    "sample_seasons": {
+      "value": 13,
+      "source_artifact": "docs/stage3j_evidence/primary_result.json",
+      "source_field": [
+        "seasons"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "79b8f461efcc61e0a6e3ff33728fa0d0019839aae03b9809d530f8c9b6906e02"
+    },
+    "sample_player_seasons": {
+      "value": 4117,
+      "source_artifact": "docs/stage3j_evidence/primary_result.json",
+      "source_field": [
+        "player_seasons"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "79b8f461efcc61e0a6e3ff33728fa0d0019839aae03b9809d530f8c9b6906e02"
+    },
+    "sample_players": {
+      "value": 857,
+      "source_artifact": "docs/stage3j_evidence/primary_result.json",
+      "source_field": [
+        "players"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "79b8f461efcc61e0a6e3ff33728fa0d0019839aae03b9809d530f8c9b6906e02"
+    },
+    "sample_contributing_players": {
+      "value": 835,
+      "source_artifact": "docs/stage3j_evidence/primary_result.json",
+      "source_field": [
+        "contributing_players"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "79b8f461efcc61e0a6e3ff33728fa0d0019839aae03b9809d530f8c9b6906e02"
+    },
+    "sample_positive_FTA_rows": {
+      "value": 3980,
+      "source_artifact": "docs/stage3j_evidence/primary_result.json",
+      "source_field": [
+        "positive_FTA_rows"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "79b8f461efcc61e0a6e3ff33728fa0d0019839aae03b9809d530f8c9b6906e02"
+    },
+    "sample_zero_FTA_rows": {
+      "value": 137,
+      "source_artifact": "docs/stage3j_evidence/primary_result.json",
+      "source_field": [
+        "zero_FTA_rows"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "79b8f461efcc61e0a6e3ff33728fa0d0019839aae03b9809d530f8c9b6906e02"
+    },
+    "sample_FTA": {
+      "value": 469099,
+      "source_artifact": "docs/stage3j_evidence/primary_result.json",
+      "source_field": [
+        "FTA"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "79b8f461efcc61e0a6e3ff33728fa0d0019839aae03b9809d530f8c9b6906e02"
+    },
+    "anth_0_mean": {
+      "value": "77.53028004667445",
+      "source_artifact": "docs/stage3j_evidence/sample_anthropometrics_unique_players.csv",
+      "source_field": [
+        0,
+        "mean"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "ad75ee3be09e82df71318070c4480907b96612b106a4a47d36d60b0bfa95b949"
+    },
+    "anth_0_std": {
+      "value": "3.2445662218871743",
+      "source_artifact": "docs/stage3j_evidence/sample_anthropometrics_unique_players.csv",
+      "source_field": [
+        0,
+        "std"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "ad75ee3be09e82df71318070c4480907b96612b106a4a47d36d60b0bfa95b949"
+    },
+    "anth_1_mean": {
+      "value": "82.47211201866979",
+      "source_artifact": "docs/stage3j_evidence/sample_anthropometrics_unique_players.csv",
+      "source_field": [
+        1,
+        "mean"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "ad75ee3be09e82df71318070c4480907b96612b106a4a47d36d60b0bfa95b949"
+    },
+    "anth_1_std": {
+      "value": "3.902374438526523",
+      "source_artifact": "docs/stage3j_evidence/sample_anthropometrics_unique_players.csv",
+      "source_field": [
+        1,
+        "std"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "ad75ee3be09e82df71318070c4480907b96612b106a4a47d36d60b0bfa95b949"
+    },
+    "anth_2_mean": {
+      "value": "0.2629529956644848",
+      "source_artifact": "docs/stage3j_evidence/sample_anthropometrics_unique_players.csv",
+      "source_field": [
+        2,
+        "mean"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "ad75ee3be09e82df71318070c4480907b96612b106a4a47d36d60b0bfa95b949"
+    },
+    "anth_2_std": {
+      "value": "2.122959768840821",
+      "source_artifact": "docs/stage3j_evidence/sample_anthropometrics_unique_players.csv",
+      "source_field": [
+        2,
+        "std"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "ad75ee3be09e82df71318070c4480907b96612b106a4a47d36d60b0bfa95b949"
+    },
+    "coverage_min": {
+      "value": 51.048951048951054,
+      "source_artifact": "docs/stage3j_evidence/selection_coverage_by_season.csv",
+      "source_field": [
+        "coverage_rate"
+      ],
+      "operation": "min_percent",
+      "input_locators": null,
+      "sha256": "7aef2bd2ddbe84162e18d9f45f29f44cfaac314b0d5e1d206c88c9a6f27df8d2"
+    },
+    "coverage_max": {
+      "value": 67.28395061728395,
+      "source_artifact": "docs/stage3j_evidence/selection_coverage_by_season.csv",
+      "source_field": [
+        "coverage_rate"
+      ],
+      "operation": "max_percent",
+      "input_locators": null,
+      "sha256": "7aef2bd2ddbe84162e18d9f45f29f44cfaac314b0d5e1d206c88c9a6f27df8d2"
+    },
+    "FTA_mean": {
+      "value": "113.9419480204032",
+      "source_artifact": "docs/stage3dr_evidence/d3_joint_PPC_metrics.csv",
+      "source_field": [
+        0,
+        "observed"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "d7a8ab1aaa99767f13d297d9e64489a68069d2f5199e13a3a0144ae5af2fcfc7"
+    },
+    "FTA_SD": {
+      "value": "123.41677744024871",
+      "source_artifact": "docs/stage3dr_evidence/d3_joint_PPC_metrics.csv",
+      "source_field": [
+        1,
+        "observed"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "d7a8ab1aaa99767f13d297d9e64489a68069d2f5199e13a3a0144ae5af2fcfc7"
+    },
+    "FTA_q25": {
+      "value": "25.0",
+      "source_artifact": "docs/stage3dr_evidence/d3_joint_PPC_metrics.csv",
+      "source_field": [
+        3,
+        "observed"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "d7a8ab1aaa99767f13d297d9e64489a68069d2f5199e13a3a0144ae5af2fcfc7"
+    },
+    "FTA_q50": {
+      "value": "75.0",
+      "source_artifact": "docs/stage3dr_evidence/d3_joint_PPC_metrics.csv",
+      "source_field": [
+        4,
+        "observed"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "d7a8ab1aaa99767f13d297d9e64489a68069d2f5199e13a3a0144ae5af2fcfc7"
+    },
+    "FTA_q75": {
+      "value": "160.0",
+      "source_artifact": "docs/stage3dr_evidence/d3_joint_PPC_metrics.csv",
+      "source_field": [
+        5,
+        "observed"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "d7a8ab1aaa99767f13d297d9e64489a68069d2f5199e13a3a0144ae5af2fcfc7"
+    },
+    "position_C": {
+      "value": 253,
+      "source_artifact": "docs/stage3dr_evidence/d3_joint_PPC_metrics.csv",
+      "source_field": [
+        125,
+        "observed"
+      ],
+      "operation": "integer_ratio",
+      "input_locators": [
+        [
+          125,
+          "observed"
+        ],
+        [
+          127,
+          "observed"
+        ]
+      ],
+      "sha256": "d7a8ab1aaa99767f13d297d9e64489a68069d2f5199e13a3a0144ae5af2fcfc7"
+    },
+    "position_C-PF": {
+      "value": 108,
+      "source_artifact": "docs/stage3dr_evidence/d3_joint_PPC_metrics.csv",
+      "source_field": [
+        134,
+        "observed"
+      ],
+      "operation": "integer_ratio",
+      "input_locators": [
+        [
+          134,
+          "observed"
+        ],
+        [
+          136,
+          "observed"
+        ]
+      ],
+      "sha256": "d7a8ab1aaa99767f13d297d9e64489a68069d2f5199e13a3a0144ae5af2fcfc7"
+    },
+    "position_PF": {
+      "value": 729,
+      "source_artifact": "docs/stage3dr_evidence/d3_joint_PPC_metrics.csv",
+      "source_field": [
+        143,
+        "observed"
+      ],
+      "operation": "integer_ratio",
+      "input_locators": [
+        [
+          143,
+          "observed"
+        ],
+        [
+          145,
+          "observed"
+        ]
+      ],
+      "sha256": "d7a8ab1aaa99767f13d297d9e64489a68069d2f5199e13a3a0144ae5af2fcfc7"
+    },
+    "position_PF-C": {
+      "value": 201,
+      "source_artifact": "docs/stage3dr_evidence/d3_joint_PPC_metrics.csv",
+      "source_field": [
+        152,
+        "observed"
+      ],
+      "operation": "integer_ratio",
+      "input_locators": [
+        [
+          152,
+          "observed"
+        ],
+        [
+          154,
+          "observed"
+        ]
+      ],
+      "sha256": "d7a8ab1aaa99767f13d297d9e64489a68069d2f5199e13a3a0144ae5af2fcfc7"
+    },
+    "position_PF-SF": {
+      "value": 114,
+      "source_artifact": "docs/stage3dr_evidence/d3_joint_PPC_metrics.csv",
+      "source_field": [
+        161,
+        "observed"
+      ],
+      "operation": "integer_ratio",
+      "input_locators": [
+        [
+          161,
+          "observed"
+        ],
+        [
+          163,
+          "observed"
+        ]
+      ],
+      "sha256": "d7a8ab1aaa99767f13d297d9e64489a68069d2f5199e13a3a0144ae5af2fcfc7"
+    },
+    "position_PG": {
+      "value": 720,
+      "source_artifact": "docs/stage3dr_evidence/d3_joint_PPC_metrics.csv",
+      "source_field": [
+        170,
+        "observed"
+      ],
+      "operation": "integer_ratio",
+      "input_locators": [
+        [
+          170,
+          "observed"
+        ],
+        [
+          172,
+          "observed"
+        ]
+      ],
+      "sha256": "d7a8ab1aaa99767f13d297d9e64489a68069d2f5199e13a3a0144ae5af2fcfc7"
+    },
+    "position_PG-SG": {
+      "value": 156,
+      "source_artifact": "docs/stage3dr_evidence/d3_joint_PPC_metrics.csv",
+      "source_field": [
+        179,
+        "observed"
+      ],
+      "operation": "integer_ratio",
+      "input_locators": [
+        [
+          179,
+          "observed"
+        ],
+        [
+          181,
+          "observed"
+        ]
+      ],
+      "sha256": "d7a8ab1aaa99767f13d297d9e64489a68069d2f5199e13a3a0144ae5af2fcfc7"
+    },
+    "position_SF": {
+      "value": 575,
+      "source_artifact": "docs/stage3dr_evidence/d3_joint_PPC_metrics.csv",
+      "source_field": [
+        188,
+        "observed"
+      ],
+      "operation": "integer_ratio",
+      "input_locators": [
+        [
+          188,
+          "observed"
+        ],
+        [
+          190,
+          "observed"
+        ]
+      ],
+      "sha256": "d7a8ab1aaa99767f13d297d9e64489a68069d2f5199e13a3a0144ae5af2fcfc7"
+    },
+    "position_SF-PF": {
+      "value": 134,
+      "source_artifact": "docs/stage3dr_evidence/d3_joint_PPC_metrics.csv",
+      "source_field": [
+        197,
+        "observed"
+      ],
+      "operation": "integer_ratio",
+      "input_locators": [
+        [
+          197,
+          "observed"
+        ],
+        [
+          199,
+          "observed"
+        ]
+      ],
+      "sha256": "d7a8ab1aaa99767f13d297d9e64489a68069d2f5199e13a3a0144ae5af2fcfc7"
+    },
+    "position_SF-SG": {
+      "value": 139,
+      "source_artifact": "docs/stage3dr_evidence/d3_joint_PPC_metrics.csv",
+      "source_field": [
+        206,
+        "observed"
+      ],
+      "operation": "integer_ratio",
+      "input_locators": [
+        [
+          206,
+          "observed"
+        ],
+        [
+          208,
+          "observed"
+        ]
+      ],
+      "sha256": "d7a8ab1aaa99767f13d297d9e64489a68069d2f5199e13a3a0144ae5af2fcfc7"
+    },
+    "position_SG": {
+      "value": 625,
+      "source_artifact": "docs/stage3dr_evidence/d3_joint_PPC_metrics.csv",
+      "source_field": [
+        215,
+        "observed"
+      ],
+      "operation": "integer_ratio",
+      "input_locators": [
+        [
+          215,
+          "observed"
+        ],
+        [
+          217,
+          "observed"
+        ]
+      ],
+      "sha256": "d7a8ab1aaa99767f13d297d9e64489a68069d2f5199e13a3a0144ae5af2fcfc7"
+    },
+    "position_SG-PG": {
+      "value": 87,
+      "source_artifact": "docs/stage3dr_evidence/d3_joint_PPC_metrics.csv",
+      "source_field": [
+        224,
+        "observed"
+      ],
+      "operation": "integer_ratio",
+      "input_locators": [
+        [
+          224,
+          "observed"
+        ],
+        [
+          226,
+          "observed"
+        ]
+      ],
+      "sha256": "d7a8ab1aaa99767f13d297d9e64489a68069d2f5199e13a3a0144ae5af2fcfc7"
+    },
+    "position_SG-SF": {
+      "value": 272,
+      "source_artifact": "docs/stage3dr_evidence/d3_joint_PPC_metrics.csv",
+      "source_field": [
+        233,
+        "observed"
+      ],
+      "operation": "integer_ratio",
+      "input_locators": [
+        [
+          233,
+          "observed"
+        ],
+        [
+          235,
+          "observed"
+        ]
+      ],
+      "sha256": "d7a8ab1aaa99767f13d297d9e64489a68069d2f5199e13a3a0144ae5af2fcfc7"
+    },
+    "position_unknown": {
+      "value": 4,
+      "source_artifact": "docs/stage3dr_evidence/d3_joint_PPC_metrics.csv",
+      "source_field": [
+        242,
+        "observed"
+      ],
+      "operation": "integer_ratio",
+      "input_locators": [
+        [
+          242,
+          "observed"
+        ],
+        [
+          244,
+          "observed"
+        ]
+      ],
+      "sha256": "d7a8ab1aaa99767f13d297d9e64489a68069d2f5199e13a3a0144ae5af2fcfc7"
+    },
+    "loso_0_beta": {
+      "value": "-0.031099928200283677",
+      "source_artifact": "docs/stage3j_evidence/j5_leave_one_season_out.csv",
+      "source_field": [
+        0,
+        "beta"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "1e58b20d846357c6a48020609c21e5aa940a5c668bb55a24a8819771008acc20"
+    },
+    "loso_0_odds_ratio": {
+      "value": "0.9693786999670478",
+      "source_artifact": "docs/stage3j_evidence/j5_leave_one_season_out.csv",
+      "source_field": [
+        0,
+        "odds_ratio"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "1e58b20d846357c6a48020609c21e5aa940a5c668bb55a24a8819771008acc20"
+    },
+    "loso_0_ci_low": {
+      "value": "-0.05331164066418586",
+      "source_artifact": "docs/stage3j_evidence/j5_leave_one_season_out.csv",
+      "source_field": [
+        0,
+        "ci_low"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "1e58b20d846357c6a48020609c21e5aa940a5c668bb55a24a8819771008acc20"
+    },
+    "loso_0_ci_high": {
+      "value": "-0.008888215736381495",
+      "source_artifact": "docs/stage3j_evidence/j5_leave_one_season_out.csv",
+      "source_field": [
+        0,
+        "ci_high"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "1e58b20d846357c6a48020609c21e5aa940a5c668bb55a24a8819771008acc20"
+    },
+    "loso_min_beta": {
+      "value": -0.0326377029074136,
+      "source_artifact": "docs/stage3j_evidence/loso_summary.json",
+      "source_field": [
+        "min_beta"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "6dbfdbe72c7f82b1e2887a7be136d53fca556bf2ec3cac2463dea4e3e3a9fb52"
+    },
+    "loso_max_beta": {
+      "value": -0.0284694088992385,
+      "source_artifact": "docs/stage3j_evidence/loso_summary.json",
+      "source_field": [
+        "max_beta"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "6dbfdbe72c7f82b1e2887a7be136d53fca556bf2ec3cac2463dea4e3e3a9fb52"
+    },
+    "loso_median_beta": {
+      "value": -0.0301964198916108,
+      "source_artifact": "docs/stage3j_evidence/loso_summary.json",
+      "source_field": [
+        "median_beta"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "6dbfdbe72c7f82b1e2887a7be136d53fca556bf2ec3cac2463dea4e3e3a9fb52"
+    },
+    "loso_sign_reversals": {
+      "value": 0,
+      "source_artifact": "docs/stage3j_evidence/loso_summary.json",
+      "source_field": [
+        "sign_reversals"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "6dbfdbe72c7f82b1e2887a7be136d53fca556bf2ec3cac2463dea4e3e3a9fb52"
+    },
+    "loso_1_beta": {
+      "value": "-0.029606776465015798",
+      "source_artifact": "docs/stage3j_evidence/j5_leave_one_season_out.csv",
+      "source_field": [
+        1,
+        "beta"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "1e58b20d846357c6a48020609c21e5aa940a5c668bb55a24a8819771008acc20"
+    },
+    "loso_1_odds_ratio": {
+      "value": "0.9708272106090031",
+      "source_artifact": "docs/stage3j_evidence/j5_leave_one_season_out.csv",
+      "source_field": [
+        1,
+        "odds_ratio"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "1e58b20d846357c6a48020609c21e5aa940a5c668bb55a24a8819771008acc20"
+    },
+    "loso_1_ci_low": {
+      "value": "-0.05161129015286324",
+      "source_artifact": "docs/stage3j_evidence/j5_leave_one_season_out.csv",
+      "source_field": [
+        1,
+        "ci_low"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "1e58b20d846357c6a48020609c21e5aa940a5c668bb55a24a8819771008acc20"
+    },
+    "loso_1_ci_high": {
+      "value": "-0.0076022627771683594",
+      "source_artifact": "docs/stage3j_evidence/j5_leave_one_season_out.csv",
+      "source_field": [
+        1,
+        "ci_high"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "1e58b20d846357c6a48020609c21e5aa940a5c668bb55a24a8819771008acc20"
+    },
+    "loso_2_beta": {
+      "value": "-0.030105301317997903",
+      "source_artifact": "docs/stage3j_evidence/j5_leave_one_season_out.csv",
+      "source_field": [
+        2,
+        "beta"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "1e58b20d846357c6a48020609c21e5aa940a5c668bb55a24a8819771008acc20"
+    },
+    "loso_2_odds_ratio": {
+      "value": "0.9703433497349199",
+      "source_artifact": "docs/stage3j_evidence/j5_leave_one_season_out.csv",
+      "source_field": [
+        2,
+        "odds_ratio"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "1e58b20d846357c6a48020609c21e5aa940a5c668bb55a24a8819771008acc20"
+    },
+    "loso_2_ci_low": {
+      "value": "-0.051918654113610636",
+      "source_artifact": "docs/stage3j_evidence/j5_leave_one_season_out.csv",
+      "source_field": [
+        2,
+        "ci_low"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "1e58b20d846357c6a48020609c21e5aa940a5c668bb55a24a8819771008acc20"
+    },
+    "loso_2_ci_high": {
+      "value": "-0.00829194852238517",
+      "source_artifact": "docs/stage3j_evidence/j5_leave_one_season_out.csv",
+      "source_field": [
+        2,
+        "ci_high"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "1e58b20d846357c6a48020609c21e5aa940a5c668bb55a24a8819771008acc20"
+    },
+    "loso_3_beta": {
+      "value": "-0.030262198425688117",
+      "source_artifact": "docs/stage3j_evidence/j5_leave_one_season_out.csv",
+      "source_field": [
+        3,
+        "beta"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "1e58b20d846357c6a48020609c21e5aa940a5c668bb55a24a8819771008acc20"
+    },
+    "loso_3_odds_ratio": {
+      "value": "0.9701911176125821",
+      "source_artifact": "docs/stage3j_evidence/j5_leave_one_season_out.csv",
+      "source_field": [
+        3,
+        "odds_ratio"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "1e58b20d846357c6a48020609c21e5aa940a5c668bb55a24a8819771008acc20"
+    },
+    "loso_3_ci_low": {
+      "value": "-0.051846473570221985",
+      "source_artifact": "docs/stage3j_evidence/j5_leave_one_season_out.csv",
+      "source_field": [
+        3,
+        "ci_low"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "1e58b20d846357c6a48020609c21e5aa940a5c668bb55a24a8819771008acc20"
+    },
+    "loso_3_ci_high": {
+      "value": "-0.00867792328115425",
+      "source_artifact": "docs/stage3j_evidence/j5_leave_one_season_out.csv",
+      "source_field": [
+        3,
+        "ci_high"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "1e58b20d846357c6a48020609c21e5aa940a5c668bb55a24a8819771008acc20"
+    },
+    "loso_4_beta": {
+      "value": "-0.02846940889923851",
+      "source_artifact": "docs/stage3j_evidence/j5_leave_one_season_out.csv",
+      "source_field": [
+        4,
+        "beta"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "1e58b20d846357c6a48020609c21e5aa940a5c668bb55a24a8819771008acc20"
+    },
+    "loso_4_odds_ratio": {
+      "value": "0.9719320261619123",
+      "source_artifact": "docs/stage3j_evidence/j5_leave_one_season_out.csv",
+      "source_field": [
+        4,
+        "odds_ratio"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "1e58b20d846357c6a48020609c21e5aa940a5c668bb55a24a8819771008acc20"
+    },
+    "loso_4_ci_low": {
+      "value": "-0.05006941344118753",
+      "source_artifact": "docs/stage3j_evidence/j5_leave_one_season_out.csv",
+      "source_field": [
+        4,
+        "ci_low"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "1e58b20d846357c6a48020609c21e5aa940a5c668bb55a24a8819771008acc20"
+    },
+    "loso_4_ci_high": {
+      "value": "-0.006869404357289492",
+      "source_artifact": "docs/stage3j_evidence/j5_leave_one_season_out.csv",
+      "source_field": [
+        4,
+        "ci_high"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "1e58b20d846357c6a48020609c21e5aa940a5c668bb55a24a8819771008acc20"
+    },
+    "loso_5_beta": {
+      "value": "-0.03013559915777809",
+      "source_artifact": "docs/stage3j_evidence/j5_leave_one_season_out.csv",
+      "source_field": [
+        5,
+        "beta"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "1e58b20d846357c6a48020609c21e5aa940a5c668bb55a24a8819771008acc20"
+    },
+    "loso_5_odds_ratio": {
+      "value": "0.9703139508729411",
+      "source_artifact": "docs/stage3j_evidence/j5_leave_one_season_out.csv",
+      "source_field": [
+        5,
+        "odds_ratio"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "1e58b20d846357c6a48020609c21e5aa940a5c668bb55a24a8819771008acc20"
+    },
+    "loso_5_ci_low": {
+      "value": "-0.05166765526342261",
+      "source_artifact": "docs/stage3j_evidence/j5_leave_one_season_out.csv",
+      "source_field": [
+        5,
+        "ci_low"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "1e58b20d846357c6a48020609c21e5aa940a5c668bb55a24a8819771008acc20"
+    },
+    "loso_5_ci_high": {
+      "value": "-0.008603543052133573",
+      "source_artifact": "docs/stage3j_evidence/j5_leave_one_season_out.csv",
+      "source_field": [
+        5,
+        "ci_high"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "1e58b20d846357c6a48020609c21e5aa940a5c668bb55a24a8819771008acc20"
+    },
+    "loso_6_beta": {
+      "value": "-0.029551814442686883",
+      "source_artifact": "docs/stage3j_evidence/j5_leave_one_season_out.csv",
+      "source_field": [
+        6,
+        "beta"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "1e58b20d846357c6a48020609c21e5aa940a5c668bb55a24a8819771008acc20"
+    },
+    "loso_6_odds_ratio": {
+      "value": "0.970880570702206",
+      "source_artifact": "docs/stage3j_evidence/j5_leave_one_season_out.csv",
+      "source_field": [
+        6,
+        "odds_ratio"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "1e58b20d846357c6a48020609c21e5aa940a5c668bb55a24a8819771008acc20"
+    },
+    "loso_6_ci_low": {
+      "value": "-0.05129953076053487",
+      "source_artifact": "docs/stage3j_evidence/j5_leave_one_season_out.csv",
+      "source_field": [
+        6,
+        "ci_low"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "1e58b20d846357c6a48020609c21e5aa940a5c668bb55a24a8819771008acc20"
+    },
+    "loso_6_ci_high": {
+      "value": "-0.0078040981248388985",
+      "source_artifact": "docs/stage3j_evidence/j5_leave_one_season_out.csv",
+      "source_field": [
+        6,
+        "ci_high"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "1e58b20d846357c6a48020609c21e5aa940a5c668bb55a24a8819771008acc20"
+    },
+    "loso_7_beta": {
+      "value": "-0.0296724523463219",
+      "source_artifact": "docs/stage3j_evidence/j5_leave_one_season_out.csv",
+      "source_field": [
+        7,
+        "beta"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "1e58b20d846357c6a48020609c21e5aa940a5c668bb55a24a8819771008acc20"
+    },
+    "loso_7_odds_ratio": {
+      "value": "0.9707634527700495",
+      "source_artifact": "docs/stage3j_evidence/j5_leave_one_season_out.csv",
+      "source_field": [
+        7,
+        "odds_ratio"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "1e58b20d846357c6a48020609c21e5aa940a5c668bb55a24a8819771008acc20"
+    },
+    "loso_7_ci_low": {
+      "value": "-0.05171956980030081",
+      "source_artifact": "docs/stage3j_evidence/j5_leave_one_season_out.csv",
+      "source_field": [
+        7,
+        "ci_low"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "1e58b20d846357c6a48020609c21e5aa940a5c668bb55a24a8819771008acc20"
+    },
+    "loso_7_ci_high": {
+      "value": "-0.007625334892342989",
+      "source_artifact": "docs/stage3j_evidence/j5_leave_one_season_out.csv",
+      "source_field": [
+        7,
+        "ci_high"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "1e58b20d846357c6a48020609c21e5aa940a5c668bb55a24a8819771008acc20"
+    },
+    "loso_8_beta": {
+      "value": "-0.031047716731667972",
+      "source_artifact": "docs/stage3j_evidence/j5_leave_one_season_out.csv",
+      "source_field": [
+        8,
+        "beta"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "1e58b20d846357c6a48020609c21e5aa940a5c668bb55a24a8819771008acc20"
+    },
+    "loso_8_odds_ratio": {
+      "value": "0.9694293139739222",
+      "source_artifact": "docs/stage3j_evidence/j5_leave_one_season_out.csv",
+      "source_field": [
+        8,
+        "odds_ratio"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "1e58b20d846357c6a48020609c21e5aa940a5c668bb55a24a8819771008acc20"
+    },
+    "loso_8_ci_low": {
+      "value": "-0.053085920368849376",
+      "source_artifact": "docs/stage3j_evidence/j5_leave_one_season_out.csv",
+      "source_field": [
+        8,
+        "ci_low"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "1e58b20d846357c6a48020609c21e5aa940a5c668bb55a24a8819771008acc20"
+    },
+    "loso_8_ci_high": {
+      "value": "-0.009009513094486565",
+      "source_artifact": "docs/stage3j_evidence/j5_leave_one_season_out.csv",
+      "source_field": [
+        8,
+        "ci_high"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "1e58b20d846357c6a48020609c21e5aa940a5c668bb55a24a8819771008acc20"
+    },
+    "loso_9_beta": {
+      "value": "-0.030196419891610878",
+      "source_artifact": "docs/stage3j_evidence/j5_leave_one_season_out.csv",
+      "source_field": [
+        9,
+        "beta"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "1e58b20d846357c6a48020609c21e5aa940a5c668bb55a24a8819771008acc20"
+    },
+    "loso_9_odds_ratio": {
+      "value": "0.9702549374610385",
+      "source_artifact": "docs/stage3j_evidence/j5_leave_one_season_out.csv",
+      "source_field": [
+        9,
+        "odds_ratio"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "1e58b20d846357c6a48020609c21e5aa940a5c668bb55a24a8819771008acc20"
+    },
+    "loso_9_ci_low": {
+      "value": "-0.052310505078574585",
+      "source_artifact": "docs/stage3j_evidence/j5_leave_one_season_out.csv",
+      "source_field": [
+        9,
+        "ci_low"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "1e58b20d846357c6a48020609c21e5aa940a5c668bb55a24a8819771008acc20"
+    },
+    "loso_9_ci_high": {
+      "value": "-0.008082334704647174",
+      "source_artifact": "docs/stage3j_evidence/j5_leave_one_season_out.csv",
+      "source_field": [
+        9,
+        "ci_high"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "1e58b20d846357c6a48020609c21e5aa940a5c668bb55a24a8819771008acc20"
+    },
+    "loso_10_beta": {
+      "value": "-0.03089953469146672",
+      "source_artifact": "docs/stage3j_evidence/j5_leave_one_season_out.csv",
+      "source_field": [
+        10,
+        "beta"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "1e58b20d846357c6a48020609c21e5aa940a5c668bb55a24a8819771008acc20"
+    },
+    "loso_10_odds_ratio": {
+      "value": "0.9695729766313477",
+      "source_artifact": "docs/stage3j_evidence/j5_leave_one_season_out.csv",
+      "source_field": [
+        10,
+        "odds_ratio"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "1e58b20d846357c6a48020609c21e5aa940a5c668bb55a24a8819771008acc20"
+    },
+    "loso_10_ci_low": {
+      "value": "-0.05285077542395901",
+      "source_artifact": "docs/stage3j_evidence/j5_leave_one_season_out.csv",
+      "source_field": [
+        10,
+        "ci_low"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "1e58b20d846357c6a48020609c21e5aa940a5c668bb55a24a8819771008acc20"
+    },
+    "loso_10_ci_high": {
+      "value": "-0.008948293958974434",
+      "source_artifact": "docs/stage3j_evidence/j5_leave_one_season_out.csv",
+      "source_field": [
+        10,
+        "ci_high"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "1e58b20d846357c6a48020609c21e5aa940a5c668bb55a24a8819771008acc20"
+    },
+    "loso_11_beta": {
+      "value": "-0.03263770290741368",
+      "source_artifact": "docs/stage3j_evidence/j5_leave_one_season_out.csv",
+      "source_field": [
+        11,
+        "beta"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "1e58b20d846357c6a48020609c21e5aa940a5c668bb55a24a8819771008acc20"
+    },
+    "loso_11_odds_ratio": {
+      "value": "0.9678891595029661",
+      "source_artifact": "docs/stage3j_evidence/j5_leave_one_season_out.csv",
+      "source_field": [
+        11,
+        "odds_ratio"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "1e58b20d846357c6a48020609c21e5aa940a5c668bb55a24a8819771008acc20"
+    },
+    "loso_11_ci_low": {
+      "value": "-0.054652466642751786",
+      "source_artifact": "docs/stage3j_evidence/j5_leave_one_season_out.csv",
+      "source_field": [
+        11,
+        "ci_low"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "1e58b20d846357c6a48020609c21e5aa940a5c668bb55a24a8819771008acc20"
+    },
+    "loso_11_ci_high": {
+      "value": "-0.01062293917207558",
+      "source_artifact": "docs/stage3j_evidence/j5_leave_one_season_out.csv",
+      "source_field": [
+        11,
+        "ci_high"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "1e58b20d846357c6a48020609c21e5aa940a5c668bb55a24a8819771008acc20"
+    },
+    "loso_12_beta": {
+      "value": "-0.032139453055979185",
+      "source_artifact": "docs/stage3j_evidence/j5_leave_one_season_out.csv",
+      "source_field": [
+        12,
+        "beta"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "1e58b20d846357c6a48020609c21e5aa940a5c668bb55a24a8819771008acc20"
+    },
+    "loso_12_odds_ratio": {
+      "value": "0.9683715302935016",
+      "source_artifact": "docs/stage3j_evidence/j5_leave_one_season_out.csv",
+      "source_field": [
+        12,
+        "odds_ratio"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "1e58b20d846357c6a48020609c21e5aa940a5c668bb55a24a8819771008acc20"
+    },
+    "loso_12_ci_low": {
+      "value": "-0.05435734656967154",
+      "source_artifact": "docs/stage3j_evidence/j5_leave_one_season_out.csv",
+      "source_field": [
+        12,
+        "ci_low"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "1e58b20d846357c6a48020609c21e5aa940a5c668bb55a24a8819771008acc20"
+    },
+    "loso_12_ci_high": {
+      "value": "-0.00992155954228683",
+      "source_artifact": "docs/stage3j_evidence/j5_leave_one_season_out.csv",
+      "source_field": [
+        12,
+        "ci_high"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "1e58b20d846357c6a48020609c21e5aa940a5c668bb55a24a8819771008acc20"
+    },
+    "alt_0_beta": {
+      "value": -0.030451990605903773,
+      "source_artifact": "docs/stage3j_evidence/alternate_exposures_detail.json",
+      "source_field": [
+        0,
+        "beta"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "cbfcf488f013d0a84c7462181b3168ef7ffdcf493c9e1bc980a3dcc9d27c9038"
+    },
+    "alt_0_odds_ratio": {
+      "value": 0.9700070003977012,
+      "source_artifact": "docs/stage3j_evidence/alternate_exposures_detail.json",
+      "source_field": [
+        0,
+        "odds_ratio"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "cbfcf488f013d0a84c7462181b3168ef7ffdcf493c9e1bc980a3dcc9d27c9038"
+    },
+    "alt_0_ci_low": {
+      "value": -0.05228115912325654,
+      "source_artifact": "docs/stage3j_evidence/alternate_exposures_detail.json",
+      "source_field": [
+        0,
+        "ci_low"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "cbfcf488f013d0a84c7462181b3168ef7ffdcf493c9e1bc980a3dcc9d27c9038"
+    },
+    "alt_0_ci_high": {
+      "value": -0.008622822088551012,
+      "source_artifact": "docs/stage3j_evidence/alternate_exposures_detail.json",
+      "source_field": [
+        0,
+        "ci_high"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "cbfcf488f013d0a84c7462181b3168ef7ffdcf493c9e1bc980a3dcc9d27c9038"
+    },
+    "alt_1_beta": {
+      "value": -0.024052915671693337,
+      "source_artifact": "docs/stage3j_evidence/alternate_exposures_detail.json",
+      "source_field": [
+        1,
+        "per_001",
+        "beta"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "cbfcf488f013d0a84c7462181b3168ef7ffdcf493c9e1bc980a3dcc9d27c9038"
+    },
+    "alt_1_odds_ratio": {
+      "value": 0.976234050310622,
+      "source_artifact": "docs/stage3j_evidence/alternate_exposures_detail.json",
+      "source_field": [
+        1,
+        "per_001",
+        "odds_ratio"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "cbfcf488f013d0a84c7462181b3168ef7ffdcf493c9e1bc980a3dcc9d27c9038"
+    },
+    "alt_1_ci_low": {
+      "value": -0.04096340678643915,
+      "source_artifact": "docs/stage3j_evidence/alternate_exposures_detail.json",
+      "source_field": [
+        1,
+        "per_001",
+        "ci_low"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "cbfcf488f013d0a84c7462181b3168ef7ffdcf493c9e1bc980a3dcc9d27c9038"
+    },
+    "alt_1_ci_high": {
+      "value": -0.007142424556947524,
+      "source_artifact": "docs/stage3j_evidence/alternate_exposures_detail.json",
+      "source_field": [
+        1,
+        "per_001",
+        "ci_high"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "cbfcf488f013d0a84c7462181b3168ef7ffdcf493c9e1bc980a3dcc9d27c9038"
+    },
+    "figure4_data.csv_0_total_positive_minute_players": {
+      "value": "452",
+      "source_artifact": "docs/stage3j_evidence/selection_coverage_by_season.csv",
+      "source_field": [
+        0,
+        "total_positive_minute_players"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "7aef2bd2ddbe84162e18d9f45f29f44cfaac314b0d5e1d206c88c9a6f27df8d2"
+    },
+    "figure4_data.csv_0_measured_eligible_players": {
+      "value": "265",
+      "source_artifact": "docs/stage3j_evidence/selection_coverage_by_season.csv",
+      "source_field": [
+        0,
+        "measured_eligible_players"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "7aef2bd2ddbe84162e18d9f45f29f44cfaac314b0d5e1d206c88c9a6f27df8d2"
+    },
+    "figure4_data.csv_0_coverage_rate": {
+      "value": "0.5862831858407079",
+      "source_artifact": "docs/stage3j_evidence/selection_coverage_by_season.csv",
+      "source_field": [
+        0,
+        "coverage_rate"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "7aef2bd2ddbe84162e18d9f45f29f44cfaac314b0d5e1d206c88c9a6f27df8d2"
+    },
+    "figure4_data.csv_1_total_positive_minute_players": {
+      "value": "478",
+      "source_artifact": "docs/stage3j_evidence/selection_coverage_by_season.csv",
+      "source_field": [
+        1,
+        "total_positive_minute_players"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "7aef2bd2ddbe84162e18d9f45f29f44cfaac314b0d5e1d206c88c9a6f27df8d2"
+    },
+    "figure4_data.csv_1_measured_eligible_players": {
+      "value": "281",
+      "source_artifact": "docs/stage3j_evidence/selection_coverage_by_season.csv",
+      "source_field": [
+        1,
+        "measured_eligible_players"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "7aef2bd2ddbe84162e18d9f45f29f44cfaac314b0d5e1d206c88c9a6f27df8d2"
+    },
+    "figure4_data.csv_1_coverage_rate": {
+      "value": "0.5878661087866108",
+      "source_artifact": "docs/stage3j_evidence/selection_coverage_by_season.csv",
+      "source_field": [
+        1,
+        "coverage_rate"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "7aef2bd2ddbe84162e18d9f45f29f44cfaac314b0d5e1d206c88c9a6f27df8d2"
+    },
+    "figure4_data.csv_2_total_positive_minute_players": {
+      "value": "469",
+      "source_artifact": "docs/stage3j_evidence/selection_coverage_by_season.csv",
+      "source_field": [
+        2,
+        "total_positive_minute_players"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "7aef2bd2ddbe84162e18d9f45f29f44cfaac314b0d5e1d206c88c9a6f27df8d2"
+    },
+    "figure4_data.csv_2_measured_eligible_players": {
+      "value": "293",
+      "source_artifact": "docs/stage3j_evidence/selection_coverage_by_season.csv",
+      "source_field": [
+        2,
+        "measured_eligible_players"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "7aef2bd2ddbe84162e18d9f45f29f44cfaac314b0d5e1d206c88c9a6f27df8d2"
+    },
+    "figure4_data.csv_2_coverage_rate": {
+      "value": "0.6247334754797441",
+      "source_artifact": "docs/stage3j_evidence/selection_coverage_by_season.csv",
+      "source_field": [
+        2,
+        "coverage_rate"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "7aef2bd2ddbe84162e18d9f45f29f44cfaac314b0d5e1d206c88c9a6f27df8d2"
+    },
+    "figure4_data.csv_3_total_positive_minute_players": {
+      "value": "482",
+      "source_artifact": "docs/stage3j_evidence/selection_coverage_by_season.csv",
+      "source_field": [
+        3,
+        "total_positive_minute_players"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "7aef2bd2ddbe84162e18d9f45f29f44cfaac314b0d5e1d206c88c9a6f27df8d2"
+    },
+    "figure4_data.csv_3_measured_eligible_players": {
+      "value": "311",
+      "source_artifact": "docs/stage3j_evidence/selection_coverage_by_season.csv",
+      "source_field": [
+        3,
+        "measured_eligible_players"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "7aef2bd2ddbe84162e18d9f45f29f44cfaac314b0d5e1d206c88c9a6f27df8d2"
+    },
+    "figure4_data.csv_3_coverage_rate": {
+      "value": "0.6452282157676349",
+      "source_artifact": "docs/stage3j_evidence/selection_coverage_by_season.csv",
+      "source_field": [
+        3,
+        "coverage_rate"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "7aef2bd2ddbe84162e18d9f45f29f44cfaac314b0d5e1d206c88c9a6f27df8d2"
+    },
+    "figure4_data.csv_4_total_positive_minute_players": {
+      "value": "492",
+      "source_artifact": "docs/stage3j_evidence/selection_coverage_by_season.csv",
+      "source_field": [
+        4,
+        "total_positive_minute_players"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "7aef2bd2ddbe84162e18d9f45f29f44cfaac314b0d5e1d206c88c9a6f27df8d2"
+    },
+    "figure4_data.csv_4_measured_eligible_players": {
+      "value": "320",
+      "source_artifact": "docs/stage3j_evidence/selection_coverage_by_season.csv",
+      "source_field": [
+        4,
+        "measured_eligible_players"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "7aef2bd2ddbe84162e18d9f45f29f44cfaac314b0d5e1d206c88c9a6f27df8d2"
+    },
+    "figure4_data.csv_4_coverage_rate": {
+      "value": "0.6504065040650406",
+      "source_artifact": "docs/stage3j_evidence/selection_coverage_by_season.csv",
+      "source_field": [
+        4,
+        "coverage_rate"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "7aef2bd2ddbe84162e18d9f45f29f44cfaac314b0d5e1d206c88c9a6f27df8d2"
+    },
+    "figure4_data.csv_5_total_positive_minute_players": {
+      "value": "476",
+      "source_artifact": "docs/stage3j_evidence/selection_coverage_by_season.csv",
+      "source_field": [
+        5,
+        "total_positive_minute_players"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "7aef2bd2ddbe84162e18d9f45f29f44cfaac314b0d5e1d206c88c9a6f27df8d2"
+    },
+    "figure4_data.csv_5_measured_eligible_players": {
+      "value": "318",
+      "source_artifact": "docs/stage3j_evidence/selection_coverage_by_season.csv",
+      "source_field": [
+        5,
+        "measured_eligible_players"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "7aef2bd2ddbe84162e18d9f45f29f44cfaac314b0d5e1d206c88c9a6f27df8d2"
+    },
+    "figure4_data.csv_5_coverage_rate": {
+      "value": "0.6680672268907563",
+      "source_artifact": "docs/stage3j_evidence/selection_coverage_by_season.csv",
+      "source_field": [
+        5,
+        "coverage_rate"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "7aef2bd2ddbe84162e18d9f45f29f44cfaac314b0d5e1d206c88c9a6f27df8d2"
+    },
+    "figure4_data.csv_6_total_positive_minute_players": {
+      "value": "486",
+      "source_artifact": "docs/stage3j_evidence/selection_coverage_by_season.csv",
+      "source_field": [
+        6,
+        "total_positive_minute_players"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "7aef2bd2ddbe84162e18d9f45f29f44cfaac314b0d5e1d206c88c9a6f27df8d2"
+    },
+    "figure4_data.csv_6_measured_eligible_players": {
+      "value": "327",
+      "source_artifact": "docs/stage3j_evidence/selection_coverage_by_season.csv",
+      "source_field": [
+        6,
+        "measured_eligible_players"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "7aef2bd2ddbe84162e18d9f45f29f44cfaac314b0d5e1d206c88c9a6f27df8d2"
+    },
+    "figure4_data.csv_6_coverage_rate": {
+      "value": "0.6728395061728395",
+      "source_artifact": "docs/stage3j_evidence/selection_coverage_by_season.csv",
+      "source_field": [
+        6,
+        "coverage_rate"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "7aef2bd2ddbe84162e18d9f45f29f44cfaac314b0d5e1d206c88c9a6f27df8d2"
+    },
+    "figure4_data.csv_7_total_positive_minute_players": {
+      "value": "540",
+      "source_artifact": "docs/stage3j_evidence/selection_coverage_by_season.csv",
+      "source_field": [
+        7,
+        "total_positive_minute_players"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "7aef2bd2ddbe84162e18d9f45f29f44cfaac314b0d5e1d206c88c9a6f27df8d2"
+    },
+    "figure4_data.csv_7_measured_eligible_players": {
+      "value": "335",
+      "source_artifact": "docs/stage3j_evidence/selection_coverage_by_season.csv",
+      "source_field": [
+        7,
+        "measured_eligible_players"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "7aef2bd2ddbe84162e18d9f45f29f44cfaac314b0d5e1d206c88c9a6f27df8d2"
+    },
+    "figure4_data.csv_7_coverage_rate": {
+      "value": "0.6203703703703703",
+      "source_artifact": "docs/stage3j_evidence/selection_coverage_by_season.csv",
+      "source_field": [
+        7,
+        "coverage_rate"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "7aef2bd2ddbe84162e18d9f45f29f44cfaac314b0d5e1d206c88c9a6f27df8d2"
+    },
+    "figure4_data.csv_8_total_positive_minute_players": {
+      "value": "530",
+      "source_artifact": "docs/stage3j_evidence/selection_coverage_by_season.csv",
+      "source_field": [
+        8,
+        "total_positive_minute_players"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "7aef2bd2ddbe84162e18d9f45f29f44cfaac314b0d5e1d206c88c9a6f27df8d2"
+    },
+    "figure4_data.csv_8_measured_eligible_players": {
+      "value": "336",
+      "source_artifact": "docs/stage3j_evidence/selection_coverage_by_season.csv",
+      "source_field": [
+        8,
+        "measured_eligible_players"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "7aef2bd2ddbe84162e18d9f45f29f44cfaac314b0d5e1d206c88c9a6f27df8d2"
+    },
+    "figure4_data.csv_8_coverage_rate": {
+      "value": "0.6339622641509434",
+      "source_artifact": "docs/stage3j_evidence/selection_coverage_by_season.csv",
+      "source_field": [
+        8,
+        "coverage_rate"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "7aef2bd2ddbe84162e18d9f45f29f44cfaac314b0d5e1d206c88c9a6f27df8d2"
+    },
+    "figure4_data.csv_9_total_positive_minute_players": {
+      "value": "529",
+      "source_artifact": "docs/stage3j_evidence/selection_coverage_by_season.csv",
+      "source_field": [
+        9,
+        "total_positive_minute_players"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "7aef2bd2ddbe84162e18d9f45f29f44cfaac314b0d5e1d206c88c9a6f27df8d2"
+    },
+    "figure4_data.csv_9_measured_eligible_players": {
+      "value": "334",
+      "source_artifact": "docs/stage3j_evidence/selection_coverage_by_season.csv",
+      "source_field": [
+        9,
+        "measured_eligible_players"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "7aef2bd2ddbe84162e18d9f45f29f44cfaac314b0d5e1d206c88c9a6f27df8d2"
+    },
+    "figure4_data.csv_9_coverage_rate": {
+      "value": "0.6313799621928167",
+      "source_artifact": "docs/stage3j_evidence/selection_coverage_by_season.csv",
+      "source_field": [
+        9,
+        "coverage_rate"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "7aef2bd2ddbe84162e18d9f45f29f44cfaac314b0d5e1d206c88c9a6f27df8d2"
+    },
+    "figure4_data.csv_10_total_positive_minute_players": {
+      "value": "540",
+      "source_artifact": "docs/stage3j_evidence/selection_coverage_by_season.csv",
+      "source_field": [
+        10,
+        "total_positive_minute_players"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "7aef2bd2ddbe84162e18d9f45f29f44cfaac314b0d5e1d206c88c9a6f27df8d2"
+    },
+    "figure4_data.csv_10_measured_eligible_players": {
+      "value": "335",
+      "source_artifact": "docs/stage3j_evidence/selection_coverage_by_season.csv",
+      "source_field": [
+        10,
+        "measured_eligible_players"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "7aef2bd2ddbe84162e18d9f45f29f44cfaac314b0d5e1d206c88c9a6f27df8d2"
+    },
+    "figure4_data.csv_10_coverage_rate": {
+      "value": "0.6203703703703703",
+      "source_artifact": "docs/stage3j_evidence/selection_coverage_by_season.csv",
+      "source_field": [
+        10,
+        "coverage_rate"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "7aef2bd2ddbe84162e18d9f45f29f44cfaac314b0d5e1d206c88c9a6f27df8d2"
+    },
+    "figure4_data.csv_11_total_positive_minute_players": {
+      "value": "605",
+      "source_artifact": "docs/stage3j_evidence/selection_coverage_by_season.csv",
+      "source_field": [
+        11,
+        "total_positive_minute_players"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "7aef2bd2ddbe84162e18d9f45f29f44cfaac314b0d5e1d206c88c9a6f27df8d2"
+    },
+    "figure4_data.csv_11_measured_eligible_players": {
+      "value": "353",
+      "source_artifact": "docs/stage3j_evidence/selection_coverage_by_season.csv",
+      "source_field": [
+        11,
+        "measured_eligible_players"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "7aef2bd2ddbe84162e18d9f45f29f44cfaac314b0d5e1d206c88c9a6f27df8d2"
+    },
+    "figure4_data.csv_11_coverage_rate": {
+      "value": "0.5834710743801653",
+      "source_artifact": "docs/stage3j_evidence/selection_coverage_by_season.csv",
+      "source_field": [
+        11,
+        "coverage_rate"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "7aef2bd2ddbe84162e18d9f45f29f44cfaac314b0d5e1d206c88c9a6f27df8d2"
+    },
+    "figure4_data.csv_12_total_positive_minute_players": {
+      "value": "539",
+      "source_artifact": "docs/stage3j_evidence/selection_coverage_by_season.csv",
+      "source_field": [
+        12,
+        "total_positive_minute_players"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "7aef2bd2ddbe84162e18d9f45f29f44cfaac314b0d5e1d206c88c9a6f27df8d2"
+    },
+    "figure4_data.csv_12_measured_eligible_players": {
+      "value": "328",
+      "source_artifact": "docs/stage3j_evidence/selection_coverage_by_season.csv",
+      "source_field": [
+        12,
+        "measured_eligible_players"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "7aef2bd2ddbe84162e18d9f45f29f44cfaac314b0d5e1d206c88c9a6f27df8d2"
+    },
+    "figure4_data.csv_12_coverage_rate": {
+      "value": "0.608534322820037",
+      "source_artifact": "docs/stage3j_evidence/selection_coverage_by_season.csv",
+      "source_field": [
+        12,
+        "coverage_rate"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "7aef2bd2ddbe84162e18d9f45f29f44cfaac314b0d5e1d206c88c9a6f27df8d2"
+    },
+    "figure4_data.csv_13_total_positive_minute_players": {
+      "value": "572",
+      "source_artifact": "docs/stage3j_evidence/selection_coverage_by_season.csv",
+      "source_field": [
+        13,
+        "total_positive_minute_players"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "7aef2bd2ddbe84162e18d9f45f29f44cfaac314b0d5e1d206c88c9a6f27df8d2"
+    },
+    "figure4_data.csv_13_measured_eligible_players": {
+      "value": "292",
+      "source_artifact": "docs/stage3j_evidence/selection_coverage_by_season.csv",
+      "source_field": [
+        13,
+        "measured_eligible_players"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "7aef2bd2ddbe84162e18d9f45f29f44cfaac314b0d5e1d206c88c9a6f27df8d2"
+    },
+    "figure4_data.csv_13_coverage_rate": {
+      "value": "0.5104895104895105",
+      "source_artifact": "docs/stage3j_evidence/selection_coverage_by_season.csv",
+      "source_field": [
+        13,
+        "coverage_rate"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "7aef2bd2ddbe84162e18d9f45f29f44cfaac314b0d5e1d206c88c9a6f27df8d2"
+    },
+    "supp_figure1_data.csv_0_player_seasons": {
+      "value": "417",
+      "source_artifact": "docs/stage3j_evidence/residual_diagnostics_by_fta_bin.csv",
+      "source_field": [
+        0,
+        "player_seasons"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "039710875294ac0b5947c13e83c90b1964511096645beabe64e658c6b586e8f0"
+    },
+    "supp_figure1_data.csv_0_FTA": {
+      "value": "1937",
+      "source_artifact": "docs/stage3j_evidence/residual_diagnostics_by_fta_bin.csv",
+      "source_field": [
+        0,
+        "FTA"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "039710875294ac0b5947c13e83c90b1964511096645beabe64e658c6b586e8f0"
+    },
+    "supp_figure1_data.csv_0_FTM": {
+      "value": "1325",
+      "source_artifact": "docs/stage3j_evidence/residual_diagnostics_by_fta_bin.csv",
+      "source_field": [
+        0,
+        "FTM"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "039710875294ac0b5947c13e83c90b1964511096645beabe64e658c6b586e8f0"
+    },
+    "supp_figure1_data.csv_0_observed_rate": {
+      "value": "0.6840474961280331",
+      "source_artifact": "docs/stage3j_evidence/residual_diagnostics_by_fta_bin.csv",
+      "source_field": [
+        0,
+        "observed_rate"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "039710875294ac0b5947c13e83c90b1964511096645beabe64e658c6b586e8f0"
+    },
+    "supp_figure1_data.csv_0_fitted_rate": {
+      "value": "0.7719844052277312",
+      "source_artifact": "docs/stage3j_evidence/residual_diagnostics_by_fta_bin.csv",
+      "source_field": [
+        0,
+        "fitted_rate"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "039710875294ac0b5947c13e83c90b1964511096645beabe64e658c6b586e8f0"
+    },
+    "supp_figure1_data.csv_0_observed_minus_fitted": {
+      "value": "-0.08793690909969808",
+      "source_artifact": "docs/stage3j_evidence/residual_diagnostics_by_fta_bin.csv",
+      "source_field": [
+        0,
+        "observed_minus_fitted"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "039710875294ac0b5947c13e83c90b1964511096645beabe64e658c6b586e8f0"
+    },
+    "supp_figure1_data.csv_1_player_seasons": {
+      "value": "1028",
+      "source_artifact": "docs/stage3j_evidence/residual_diagnostics_by_fta_bin.csv",
+      "source_field": [
+        1,
+        "player_seasons"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "039710875294ac0b5947c13e83c90b1964511096645beabe64e658c6b586e8f0"
+    },
+    "supp_figure1_data.csv_1_FTA": {
+      "value": "28632",
+      "source_artifact": "docs/stage3j_evidence/residual_diagnostics_by_fta_bin.csv",
+      "source_field": [
+        1,
+        "FTA"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "039710875294ac0b5947c13e83c90b1964511096645beabe64e658c6b586e8f0"
+    },
+    "supp_figure1_data.csv_1_FTM": {
+      "value": "20480",
+      "source_artifact": "docs/stage3j_evidence/residual_diagnostics_by_fta_bin.csv",
+      "source_field": [
+        1,
+        "FTM"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "039710875294ac0b5947c13e83c90b1964511096645beabe64e658c6b586e8f0"
+    },
+    "supp_figure1_data.csv_1_observed_rate": {
+      "value": "0.7152835987706063",
+      "source_artifact": "docs/stage3j_evidence/residual_diagnostics_by_fta_bin.csv",
+      "source_field": [
+        1,
+        "observed_rate"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "039710875294ac0b5947c13e83c90b1964511096645beabe64e658c6b586e8f0"
+    },
+    "supp_figure1_data.csv_1_fitted_rate": {
+      "value": "0.7699463704425175",
+      "source_artifact": "docs/stage3j_evidence/residual_diagnostics_by_fta_bin.csv",
+      "source_field": [
+        1,
+        "fitted_rate"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "039710875294ac0b5947c13e83c90b1964511096645beabe64e658c6b586e8f0"
+    },
+    "supp_figure1_data.csv_1_observed_minus_fitted": {
+      "value": "-0.054662771671911095",
+      "source_artifact": "docs/stage3j_evidence/residual_diagnostics_by_fta_bin.csv",
+      "source_field": [
+        1,
+        "observed_minus_fitted"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "039710875294ac0b5947c13e83c90b1964511096645beabe64e658c6b586e8f0"
+    },
+    "supp_figure1_data.csv_2_player_seasons": {
+      "value": "847",
+      "source_artifact": "docs/stage3j_evidence/residual_diagnostics_by_fta_bin.csv",
+      "source_field": [
+        2,
+        "player_seasons"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "039710875294ac0b5947c13e83c90b1964511096645beabe64e658c6b586e8f0"
+    },
+    "supp_figure1_data.csv_2_FTA": {
+      "value": "61425",
+      "source_artifact": "docs/stage3j_evidence/residual_diagnostics_by_fta_bin.csv",
+      "source_field": [
+        2,
+        "FTA"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "039710875294ac0b5947c13e83c90b1964511096645beabe64e658c6b586e8f0"
+    },
+    "supp_figure1_data.csv_2_FTM": {
+      "value": "45720",
+      "source_artifact": "docs/stage3j_evidence/residual_diagnostics_by_fta_bin.csv",
+      "source_field": [
+        2,
+        "FTM"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "039710875294ac0b5947c13e83c90b1964511096645beabe64e658c6b586e8f0"
+    },
+    "supp_figure1_data.csv_2_observed_rate": {
+      "value": "0.7443223443223443",
+      "source_artifact": "docs/stage3j_evidence/residual_diagnostics_by_fta_bin.csv",
+      "source_field": [
+        2,
+        "observed_rate"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "039710875294ac0b5947c13e83c90b1964511096645beabe64e658c6b586e8f0"
+    },
+    "supp_figure1_data.csv_2_fitted_rate": {
+      "value": "0.7698624485075531",
+      "source_artifact": "docs/stage3j_evidence/residual_diagnostics_by_fta_bin.csv",
+      "source_field": [
+        2,
+        "fitted_rate"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "039710875294ac0b5947c13e83c90b1964511096645beabe64e658c6b586e8f0"
+    },
+    "supp_figure1_data.csv_2_observed_minus_fitted": {
+      "value": "-0.025540104185208856",
+      "source_artifact": "docs/stage3j_evidence/residual_diagnostics_by_fta_bin.csv",
+      "source_field": [
+        2,
+        "observed_minus_fitted"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "039710875294ac0b5947c13e83c90b1964511096645beabe64e658c6b586e8f0"
+    },
+    "supp_figure1_data.csv_3_player_seasons": {
+      "value": "1352",
+      "source_artifact": "docs/stage3j_evidence/residual_diagnostics_by_fta_bin.csv",
+      "source_field": [
+        3,
+        "player_seasons"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "039710875294ac0b5947c13e83c90b1964511096645beabe64e658c6b586e8f0"
+    },
+    "supp_figure1_data.csv_3_FTA": {
+      "value": "232620",
+      "source_artifact": "docs/stage3j_evidence/residual_diagnostics_by_fta_bin.csv",
+      "source_field": [
+        3,
+        "FTA"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "039710875294ac0b5947c13e83c90b1964511096645beabe64e658c6b586e8f0"
+    },
+    "supp_figure1_data.csv_3_FTM": {
+      "value": "178269",
+      "source_artifact": "docs/stage3j_evidence/residual_diagnostics_by_fta_bin.csv",
+      "source_field": [
+        3,
+        "FTM"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "039710875294ac0b5947c13e83c90b1964511096645beabe64e658c6b586e8f0"
+    },
+    "supp_figure1_data.csv_3_observed_rate": {
+      "value": "0.7663528501418623",
+      "source_artifact": "docs/stage3j_evidence/residual_diagnostics_by_fta_bin.csv",
+      "source_field": [
+        3,
+        "observed_rate"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "039710875294ac0b5947c13e83c90b1964511096645beabe64e658c6b586e8f0"
+    },
+    "supp_figure1_data.csv_3_fitted_rate": {
+      "value": "0.7675853342092369",
+      "source_artifact": "docs/stage3j_evidence/residual_diagnostics_by_fta_bin.csv",
+      "source_field": [
+        3,
+        "fitted_rate"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "039710875294ac0b5947c13e83c90b1964511096645beabe64e658c6b586e8f0"
+    },
+    "supp_figure1_data.csv_3_observed_minus_fitted": {
+      "value": "-0.0012324840673746543",
+      "source_artifact": "docs/stage3j_evidence/residual_diagnostics_by_fta_bin.csv",
+      "source_field": [
+        3,
+        "observed_minus_fitted"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "039710875294ac0b5947c13e83c90b1964511096645beabe64e658c6b586e8f0"
+    },
+    "supp_figure1_data.csv_4_player_seasons": {
+      "value": "336",
+      "source_artifact": "docs/stage3j_evidence/residual_diagnostics_by_fta_bin.csv",
+      "source_field": [
+        4,
+        "player_seasons"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "039710875294ac0b5947c13e83c90b1964511096645beabe64e658c6b586e8f0"
+    },
+    "supp_figure1_data.csv_4_FTA": {
+      "value": "144485",
+      "source_artifact": "docs/stage3j_evidence/residual_diagnostics_by_fta_bin.csv",
+      "source_field": [
+        4,
+        "FTA"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "039710875294ac0b5947c13e83c90b1964511096645beabe64e658c6b586e8f0"
+    },
+    "supp_figure1_data.csv_4_FTM": {
+      "value": "114207",
+      "source_artifact": "docs/stage3j_evidence/residual_diagnostics_by_fta_bin.csv",
+      "source_field": [
+        4,
+        "FTM"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "039710875294ac0b5947c13e83c90b1964511096645beabe64e658c6b586e8f0"
+    },
+    "supp_figure1_data.csv_4_observed_rate": {
+      "value": "0.7904419143855763",
+      "source_artifact": "docs/stage3j_evidence/residual_diagnostics_by_fta_bin.csv",
+      "source_field": [
+        4,
+        "observed_rate"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "039710875294ac0b5947c13e83c90b1964511096645beabe64e658c6b586e8f0"
+    },
+    "supp_figure1_data.csv_4_fitted_rate": {
+      "value": "0.7655885412688814",
+      "source_artifact": "docs/stage3j_evidence/residual_diagnostics_by_fta_bin.csv",
+      "source_field": [
+        4,
+        "fitted_rate"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "039710875294ac0b5947c13e83c90b1964511096645beabe64e658c6b586e8f0"
+    },
+    "supp_figure1_data.csv_4_observed_minus_fitted": {
+      "value": "0.024853373116694926",
+      "source_artifact": "docs/stage3j_evidence/residual_diagnostics_by_fta_bin.csv",
+      "source_field": [
+        4,
+        "observed_minus_fitted"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "039710875294ac0b5947c13e83c90b1964511096645beabe64e658c6b586e8f0"
+    },
+    "flow_0": {
+      "value": 1708,
+      "source_artifact": "docs/stage3_evidence/shooting_archive_provenance.json",
+      "source_field": [
+        "unique_players"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "511ccb9dbc27ce413b3fd2900ac902bf6e606afdc87e01c90aac76cb2926cd28"
+    },
+    "flow_1": {
+      "value": 7190,
+      "source_artifact": "docs/stage3_evidence/shooting_archive_provenance.json",
+      "source_field": [
+        "player_seasons"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "511ccb9dbc27ce413b3fd2900ac902bf6e606afdc87e01c90aac76cb2926cd28"
+    },
+    "flow_2": {
+      "value": 4428,
+      "source_artifact": "docs/stage3j_evidence/full_panel_secondary_result.json",
+      "source_field": [
+        "player_seasons"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "78f1095a9f992a35308b140c66f8ea544725a64398c37175e9c2671c191ef44a"
+    },
+    "flow_3": {
+      "value": 866,
+      "source_artifact": "docs/stage3j_evidence/full_panel_secondary_result.json",
+      "source_field": [
+        "players"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "78f1095a9f992a35308b140c66f8ea544725a64398c37175e9c2671c191ef44a"
+    },
+    "flow_4": {
+      "value": 4117,
+      "source_artifact": "docs/stage3j_evidence/primary_result.json",
+      "source_field": [
+        "player_seasons"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "79b8f461efcc61e0a6e3ff33728fa0d0019839aae03b9809d530f8c9b6906e02"
+    },
+    "flow_5": {
+      "value": 857,
+      "source_artifact": "docs/stage3j_evidence/primary_result.json",
+      "source_field": [
+        "players"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "79b8f461efcc61e0a6e3ff33728fa0d0019839aae03b9809d530f8c9b6906e02"
+    },
+    "flow_6": {
+      "value": 3980,
+      "source_artifact": "docs/stage3j_evidence/primary_result.json",
+      "source_field": [
+        "positive_FTA_rows"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "79b8f461efcc61e0a6e3ff33728fa0d0019839aae03b9809d530f8c9b6906e02"
+    },
+    "flow_7": {
+      "value": 835,
+      "source_artifact": "docs/stage3j_evidence/primary_result.json",
+      "source_field": [
+        "contributing_players"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "79b8f461efcc61e0a6e3ff33728fa0d0019839aae03b9809d530f8c9b6906e02"
+    },
+    "flow_8": {
+      "value": 137,
+      "source_artifact": "docs/stage3j_evidence/primary_result.json",
+      "source_field": [
+        "zero_FTA_rows"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "79b8f461efcc61e0a6e3ff33728fa0d0019839aae03b9809d530f8c9b6906e02"
+    },
+    "flow_9": {
+      "value": 469099,
+      "source_artifact": "docs/stage3j_evidence/primary_result.json",
+      "source_field": [
+        "FTA"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "79b8f461efcc61e0a6e3ff33728fa0d0019839aae03b9809d530f8c9b6906e02"
+    },
+    "primary_boot_mean": {
+      "value": -0.0317503122488305,
+      "source_artifact": "docs/stage3j_evidence/primary_result.json",
+      "source_field": [
+        "bootstrap",
+        "mean"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "79b8f461efcc61e0a6e3ff33728fa0d0019839aae03b9809d530f8c9b6906e02"
+    },
+    "j2_boot_mean": {
+      "value": -0.03395475357971164,
+      "source_artifact": "docs/stage3jr_evidence/full_bootstrap_summary.json",
+      "source_field": [
+        "mean"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "6933e3ec7bc9bef8b6ec56f141c2bfb44411ba4cfb6865fad10d387827464882"
+    },
+    "primary_boot_SD": {
+      "value": 0.01147371278956374,
+      "source_artifact": "docs/stage3j_evidence/primary_result.json",
+      "source_field": [
+        "bootstrap",
+        "SD"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "79b8f461efcc61e0a6e3ff33728fa0d0019839aae03b9809d530f8c9b6906e02"
+    },
+    "j2_boot_SD": {
+      "value": 0.008682941139347759,
+      "source_artifact": "docs/stage3jr_evidence/full_bootstrap_summary.json",
+      "source_field": [
+        "SD"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "6933e3ec7bc9bef8b6ec56f141c2bfb44411ba4cfb6865fad10d387827464882"
+    },
+    "primary_boot_fraction_beta_negative": {
+      "value": 0.9995,
+      "source_artifact": "docs/stage3j_evidence/primary_result.json",
+      "source_field": [
+        "bootstrap",
+        "fraction_beta_negative"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "79b8f461efcc61e0a6e3ff33728fa0d0019839aae03b9809d530f8c9b6906e02"
+    },
+    "j2_boot_fraction_beta_negative": {
+      "value": 1.0,
+      "source_artifact": "docs/stage3jr_evidence/full_bootstrap_summary.json",
+      "source_field": [
+        "fraction_beta_negative"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "6933e3ec7bc9bef8b6ec56f141c2bfb44411ba4cfb6865fad10d387827464882"
+    },
+    "primary_boot_replicates": {
+      "value": 2000,
+      "source_artifact": "docs/stage3j_evidence/primary_result.json",
+      "source_field": [
+        "bootstrap",
+        "replicates"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "79b8f461efcc61e0a6e3ff33728fa0d0019839aae03b9809d530f8c9b6906e02"
+    },
+    "j2_boot_replicates": {
+      "value": 2000,
+      "source_artifact": "docs/stage3jr_evidence/full_bootstrap_summary.json",
+      "source_field": [
+        "replicates"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "6933e3ec7bc9bef8b6ec56f141c2bfb44411ba4cfb6865fad10d387827464882"
+    },
+    "primary_boot_failed": {
+      "value": 0,
+      "source_artifact": "docs/stage3j_evidence/primary_result.json",
+      "source_field": [
+        "bootstrap",
+        "failed"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "79b8f461efcc61e0a6e3ff33728fa0d0019839aae03b9809d530f8c9b6906e02"
+    },
+    "j2_boot_failed": {
+      "value": 0,
+      "source_artifact": "docs/stage3jr_evidence/full_bootstrap_summary.json",
+      "source_field": [
+        "failed"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "6933e3ec7bc9bef8b6ec56f141c2bfb44411ba4cfb6865fad10d387827464882"
+    },
+    "primary_p": {
+      "value": 0.006253646672438628,
+      "source_artifact": "docs/stage3j_evidence/primary_result.json",
+      "source_field": [
+        "p"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "79b8f461efcc61e0a6e3ff33728fa0d0019839aae03b9809d530f8c9b6906e02"
+    },
+    "primary_or_low": {
+      "value": 0.9490619918899177,
+      "source_artifact": "docs/stage3j_evidence/primary_result.json",
+      "source_field": [
+        "or_low"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "79b8f461efcc61e0a6e3ff33728fa0d0019839aae03b9809d530f8c9b6906e02"
+    },
+    "primary_or_high": {
+      "value": 0.9914142478162559,
+      "source_artifact": "docs/stage3j_evidence/primary_result.json",
+      "source_field": [
+        "or_high"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "79b8f461efcc61e0a6e3ff33728fa0d0019839aae03b9809d530f8c9b6906e02"
+    },
+    "j2_kappa": {
+      "value": 32.01931413399689,
+      "source_artifact": "docs/stage3j_evidence/j2_original_fit_audit.json",
+      "source_field": [
+        "kappa"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "ce6c8eb6df68fc1585a35662f0d6585527c472cdc018f5e3ad7ea8e0724a0c39"
+    },
+    "j2_rho": {
+      "value": 0.030285305016992878,
+      "source_artifact": "docs/stage3j_evidence/j2_original_fit_audit.json",
+      "source_field": [
+        "rho"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "ce6c8eb6df68fc1585a35662f0d6585527c472cdc018f5e3ad7ea8e0724a0c39"
+    },
+    "geometry_intercept": {
+      "value": 4.574910520685837,
+      "source_artifact": "docs/stage3j_evidence/analysis_protocol.json",
+      "source_field": [
+        "residualization",
+        "intercept"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "8c2d5908b67018573c655750414cccfa335c37e2dde006a7e8f6ca9fd74bce1d"
+    },
+    "geometry_slope": {
+      "value": 1.0013410045156863,
+      "source_artifact": "docs/stage3j_evidence/analysis_protocol.json",
+      "source_field": [
+        "residualization",
+        "slope"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "8c2d5908b67018573c655750414cccfa335c37e2dde006a7e8f6ca9fd74bce1d"
+    },
+    "validation_preselected_players": {
+      "value": 45,
+      "source_artifact": "docs/stage0c_evidence/validation_summary.json",
+      "source_field": [
+        "preselected_players"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "95bd7a8cbc8869cb3d25499a27476c46ea9b7d038689c76e67d8faf4be62f4a9"
+    },
+    "validation_exact_pairs": {
+      "value": 45,
+      "source_artifact": "docs/stage0c_evidence/validation_summary.json",
+      "source_field": [
+        "exact_pairs"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "95bd7a8cbc8869cb3d25499a27476c46ea9b7d038689c76e67d8faf4be62f4a9"
+    },
+    "validation_sourcewide_rows": {
+      "value": 970,
+      "source_artifact": "docs/stage0c_evidence/validation_summary.json",
+      "source_field": [
+        "sourcewide_rows"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "95bd7a8cbc8869cb3d25499a27476c46ea9b7d038689c76e67d8faf4be62f4a9"
+    },
+    "validation_sourcewide_complete_pairs": {
+      "value": 965,
+      "source_artifact": "docs/stage0c_evidence/validation_summary.json",
+      "source_field": [
+        "sourcewide_complete_pairs"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "95bd7a8cbc8869cb3d25499a27476c46ea9b7d038689c76e67d8faf4be62f4a9"
+    },
+    "validation_reference_population": {
+      "value": 960,
+      "source_artifact": "docs/stage0c_evidence/validation_summary.json",
+      "source_field": [
+        "reference_population"
+      ],
+      "operation": "identity",
+      "input_locators": null,
+      "sha256": "95bd7a8cbc8869cb3d25499a27476c46ea9b7d038689c76e67d8faf4be62f4a9"
+    }
+  },
+  "bindings": [
+    {
+      "output": "docs/manuscript/main_table2_primary.csv",
+      "row": 0,
+      "column": "beta",
+      "value_id": "robust_0_beta"
+    },
+    {
+      "output": "docs/manuscript/main_table2_primary.csv",
+      "row": 0,
+      "column": "odds_ratio",
+      "value_id": "robust_0_odds_ratio"
+    },
+    {
+      "output": "docs/manuscript/main_table2_primary.csv",
+      "row": 0,
+      "column": "ci_low",
+      "value_id": "robust_0_ci_low"
+    },
+    {
+      "output": "docs/manuscript/main_table2_primary.csv",
+      "row": 0,
+      "column": "ci_high",
+      "value_id": "robust_0_ci_high"
+    },
+    {
+      "output": "docs/manuscript/main_table2_primary.csv",
+      "row": 0,
+      "column": "player_seasons",
+      "value_id": "robust_0_player_seasons"
+    },
+    {
+      "output": "docs/manuscript/main_table2_primary.csv",
+      "row": 0,
+      "column": "players",
+      "value_id": "robust_0_players"
+    },
+    {
+      "output": "docs/manuscript/main_table2_primary.csv",
+      "row": 0,
+      "column": "contributing_players",
+      "value_id": "robust_0_contributing_players"
+    },
+    {
+      "output": "docs/manuscript/main_table2_primary.csv",
+      "row": 0,
+      "column": "FTA",
+      "value_id": "robust_0_FTA"
+    },
+    {
+      "output": "docs/manuscript/main_table2_primary.csv",
+      "row": 1,
+      "column": "beta",
+      "value_id": "robust_1_beta"
+    },
+    {
+      "output": "docs/manuscript/main_table2_primary.csv",
+      "row": 1,
+      "column": "odds_ratio",
+      "value_id": "robust_1_odds_ratio"
+    },
+    {
+      "output": "docs/manuscript/main_table2_primary.csv",
+      "row": 1,
+      "column": "ci_low",
+      "value_id": "robust_1_ci_low"
+    },
+    {
+      "output": "docs/manuscript/main_table2_primary.csv",
+      "row": 1,
+      "column": "ci_high",
+      "value_id": "robust_1_ci_high"
+    },
+    {
+      "output": "docs/manuscript/main_table2_primary.csv",
+      "row": 1,
+      "column": "player_seasons",
+      "value_id": "robust_1_player_seasons"
+    },
+    {
+      "output": "docs/manuscript/main_table2_primary.csv",
+      "row": 1,
+      "column": "players",
+      "value_id": "robust_1_players"
+    },
+    {
+      "output": "docs/manuscript/main_table2_primary.csv",
+      "row": 1,
+      "column": "contributing_players",
+      "value_id": "robust_1_contributing_players"
+    },
+    {
+      "output": "docs/manuscript/main_table2_primary.csv",
+      "row": 1,
+      "column": "FTA",
+      "value_id": "robust_1_FTA"
+    },
+    {
+      "output": "docs/manuscript/main_table3_robustness.csv",
+      "row": 0,
+      "column": "beta",
+      "value_id": "robust_0_beta"
+    },
+    {
+      "output": "docs/manuscript/main_table3_robustness.csv",
+      "row": 0,
+      "column": "odds_ratio",
+      "value_id": "robust_0_odds_ratio"
+    },
+    {
+      "output": "docs/manuscript/main_table3_robustness.csv",
+      "row": 0,
+      "column": "ci_low",
+      "value_id": "robust_0_ci_low"
+    },
+    {
+      "output": "docs/manuscript/main_table3_robustness.csv",
+      "row": 0,
+      "column": "ci_high",
+      "value_id": "robust_0_ci_high"
+    },
+    {
+      "output": "docs/manuscript/main_table3_robustness.csv",
+      "row": 0,
+      "column": "player_seasons",
+      "value_id": "robust_0_player_seasons"
+    },
+    {
+      "output": "docs/manuscript/main_table3_robustness.csv",
+      "row": 0,
+      "column": "players",
+      "value_id": "robust_0_players"
+    },
+    {
+      "output": "docs/manuscript/main_table3_robustness.csv",
+      "row": 0,
+      "column": "contributing_players",
+      "value_id": "robust_0_contributing_players"
+    },
+    {
+      "output": "docs/manuscript/main_table3_robustness.csv",
+      "row": 0,
+      "column": "FTA",
+      "value_id": "robust_0_FTA"
+    },
+    {
+      "output": "docs/manuscript/main_table3_robustness.csv",
+      "row": 1,
+      "column": "beta",
+      "value_id": "robust_2_beta"
+    },
+    {
+      "output": "docs/manuscript/main_table3_robustness.csv",
+      "row": 1,
+      "column": "odds_ratio",
+      "value_id": "robust_2_odds_ratio"
+    },
+    {
+      "output": "docs/manuscript/main_table3_robustness.csv",
+      "row": 1,
+      "column": "ci_low",
+      "value_id": "robust_2_ci_low"
+    },
+    {
+      "output": "docs/manuscript/main_table3_robustness.csv",
+      "row": 1,
+      "column": "ci_high",
+      "value_id": "robust_2_ci_high"
+    },
+    {
+      "output": "docs/manuscript/main_table3_robustness.csv",
+      "row": 1,
+      "column": "player_seasons",
+      "value_id": "robust_2_player_seasons"
+    },
+    {
+      "output": "docs/manuscript/main_table3_robustness.csv",
+      "row": 1,
+      "column": "players",
+      "value_id": "robust_2_players"
+    },
+    {
+      "output": "docs/manuscript/main_table3_robustness.csv",
+      "row": 1,
+      "column": "contributing_players",
+      "value_id": "robust_2_contributing_players"
+    },
+    {
+      "output": "docs/manuscript/main_table3_robustness.csv",
+      "row": 1,
+      "column": "FTA",
+      "value_id": "robust_2_FTA"
+    },
+    {
+      "output": "docs/manuscript/main_table3_robustness.csv",
+      "row": 2,
+      "column": "beta",
+      "value_id": "robust_3_beta"
+    },
+    {
+      "output": "docs/manuscript/main_table3_robustness.csv",
+      "row": 2,
+      "column": "odds_ratio",
+      "value_id": "robust_3_odds_ratio"
+    },
+    {
+      "output": "docs/manuscript/main_table3_robustness.csv",
+      "row": 2,
+      "column": "ci_low",
+      "value_id": "robust_3_ci_low"
+    },
+    {
+      "output": "docs/manuscript/main_table3_robustness.csv",
+      "row": 2,
+      "column": "ci_high",
+      "value_id": "robust_3_ci_high"
+    },
+    {
+      "output": "docs/manuscript/main_table3_robustness.csv",
+      "row": 2,
+      "column": "player_seasons",
+      "value_id": "robust_3_player_seasons"
+    },
+    {
+      "output": "docs/manuscript/main_table3_robustness.csv",
+      "row": 2,
+      "column": "players",
+      "value_id": "robust_3_players"
+    },
+    {
+      "output": "docs/manuscript/main_table3_robustness.csv",
+      "row": 2,
+      "column": "contributing_players",
+      "value_id": "robust_3_contributing_players"
+    },
+    {
+      "output": "docs/manuscript/main_table3_robustness.csv",
+      "row": 2,
+      "column": "FTA",
+      "value_id": "robust_3_FTA"
+    },
+    {
+      "output": "docs/manuscript/main_table3_robustness.csv",
+      "row": 3,
+      "column": "beta",
+      "value_id": "robust_4_beta"
+    },
+    {
+      "output": "docs/manuscript/main_table3_robustness.csv",
+      "row": 3,
+      "column": "odds_ratio",
+      "value_id": "robust_4_odds_ratio"
+    },
+    {
+      "output": "docs/manuscript/main_table3_robustness.csv",
+      "row": 3,
+      "column": "ci_low",
+      "value_id": "robust_4_ci_low"
+    },
+    {
+      "output": "docs/manuscript/main_table3_robustness.csv",
+      "row": 3,
+      "column": "ci_high",
+      "value_id": "robust_4_ci_high"
+    },
+    {
+      "output": "docs/manuscript/main_table3_robustness.csv",
+      "row": 3,
+      "column": "player_seasons",
+      "value_id": "robust_4_player_seasons"
+    },
+    {
+      "output": "docs/manuscript/main_table3_robustness.csv",
+      "row": 3,
+      "column": "players",
+      "value_id": "robust_4_players"
+    },
+    {
+      "output": "docs/manuscript/main_table3_robustness.csv",
+      "row": 3,
+      "column": "contributing_players",
+      "value_id": "robust_4_contributing_players"
+    },
+    {
+      "output": "docs/manuscript/main_table3_robustness.csv",
+      "row": 3,
+      "column": "FTA",
+      "value_id": "robust_4_FTA"
+    },
+    {
+      "output": "docs/manuscript/main_table3_robustness.csv",
+      "row": 4,
+      "column": "beta",
+      "value_id": "robust_5_beta"
+    },
+    {
+      "output": "docs/manuscript/main_table3_robustness.csv",
+      "row": 4,
+      "column": "odds_ratio",
+      "value_id": "robust_5_odds_ratio"
+    },
+    {
+      "output": "docs/manuscript/main_table3_robustness.csv",
+      "row": 4,
+      "column": "ci_low",
+      "value_id": "robust_5_ci_low"
+    },
+    {
+      "output": "docs/manuscript/main_table3_robustness.csv",
+      "row": 4,
+      "column": "ci_high",
+      "value_id": "robust_5_ci_high"
+    },
+    {
+      "output": "docs/manuscript/main_table3_robustness.csv",
+      "row": 4,
+      "column": "player_seasons",
+      "value_id": "robust_5_player_seasons"
+    },
+    {
+      "output": "docs/manuscript/main_table3_robustness.csv",
+      "row": 4,
+      "column": "players",
+      "value_id": "robust_5_players"
+    },
+    {
+      "output": "docs/manuscript/main_table3_robustness.csv",
+      "row": 4,
+      "column": "contributing_players",
+      "value_id": "robust_5_contributing_players"
+    },
+    {
+      "output": "docs/manuscript/main_table3_robustness.csv",
+      "row": 4,
+      "column": "FTA",
+      "value_id": "robust_5_FTA"
+    },
+    {
+      "output": "docs/manuscript/main_table3_robustness.csv",
+      "row": 5,
+      "column": "beta",
+      "value_id": "robust_6_beta"
+    },
+    {
+      "output": "docs/manuscript/main_table3_robustness.csv",
+      "row": 5,
+      "column": "odds_ratio",
+      "value_id": "robust_6_odds_ratio"
+    },
+    {
+      "output": "docs/manuscript/main_table3_robustness.csv",
+      "row": 5,
+      "column": "ci_low",
+      "value_id": "robust_6_ci_low"
+    },
+    {
+      "output": "docs/manuscript/main_table3_robustness.csv",
+      "row": 5,
+      "column": "ci_high",
+      "value_id": "robust_6_ci_high"
+    },
+    {
+      "output": "docs/manuscript/main_table3_robustness.csv",
+      "row": 5,
+      "column": "player_seasons",
+      "value_id": "robust_6_player_seasons"
+    },
+    {
+      "output": "docs/manuscript/main_table3_robustness.csv",
+      "row": 5,
+      "column": "players",
+      "value_id": "robust_6_players"
+    },
+    {
+      "output": "docs/manuscript/main_table3_robustness.csv",
+      "row": 5,
+      "column": "contributing_players",
+      "value_id": "robust_6_contributing_players"
+    },
+    {
+      "output": "docs/manuscript/main_table3_robustness.csv",
+      "row": 5,
+      "column": "FTA",
+      "value_id": "robust_6_FTA"
+    },
+    {
+      "output": "docs/manuscript/main_table3_robustness.csv",
+      "row": 6,
+      "column": "beta",
+      "value_id": "robust_7_beta"
+    },
+    {
+      "output": "docs/manuscript/main_table3_robustness.csv",
+      "row": 6,
+      "column": "odds_ratio",
+      "value_id": "robust_7_odds_ratio"
+    },
+    {
+      "output": "docs/manuscript/main_table3_robustness.csv",
+      "row": 6,
+      "column": "ci_low",
+      "value_id": "robust_7_ci_low"
+    },
+    {
+      "output": "docs/manuscript/main_table3_robustness.csv",
+      "row": 6,
+      "column": "ci_high",
+      "value_id": "robust_7_ci_high"
+    },
+    {
+      "output": "docs/manuscript/main_table3_robustness.csv",
+      "row": 6,
+      "column": "player_seasons",
+      "value_id": "robust_7_player_seasons"
+    },
+    {
+      "output": "docs/manuscript/main_table3_robustness.csv",
+      "row": 6,
+      "column": "players",
+      "value_id": "robust_7_players"
+    },
+    {
+      "output": "docs/manuscript/main_table3_robustness.csv",
+      "row": 6,
+      "column": "contributing_players",
+      "value_id": "robust_7_contributing_players"
+    },
+    {
+      "output": "docs/manuscript/main_table3_robustness.csv",
+      "row": 6,
+      "column": "FTA",
+      "value_id": "robust_7_FTA"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 0,
+      "column": "beta",
+      "value_id": "robust_0_beta"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 0,
+      "column": "odds_ratio",
+      "value_id": "robust_0_odds_ratio"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 0,
+      "column": "ci_low",
+      "value_id": "robust_0_ci_low"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 0,
+      "column": "ci_high",
+      "value_id": "robust_0_ci_high"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 0,
+      "column": "player_seasons",
+      "value_id": "robust_0_player_seasons"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 0,
+      "column": "players",
+      "value_id": "robust_0_players"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 0,
+      "column": "contributing_players",
+      "value_id": "robust_0_contributing_players"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 0,
+      "column": "FTA",
+      "value_id": "robust_0_FTA"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 1,
+      "column": "beta",
+      "value_id": "robust_1_beta"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 1,
+      "column": "odds_ratio",
+      "value_id": "robust_1_odds_ratio"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 1,
+      "column": "ci_low",
+      "value_id": "robust_1_ci_low"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 1,
+      "column": "ci_high",
+      "value_id": "robust_1_ci_high"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 1,
+      "column": "player_seasons",
+      "value_id": "robust_1_player_seasons"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 1,
+      "column": "players",
+      "value_id": "robust_1_players"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 1,
+      "column": "contributing_players",
+      "value_id": "robust_1_contributing_players"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 1,
+      "column": "FTA",
+      "value_id": "robust_1_FTA"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 2,
+      "column": "beta",
+      "value_id": "robust_2_beta"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 2,
+      "column": "odds_ratio",
+      "value_id": "robust_2_odds_ratio"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 2,
+      "column": "ci_low",
+      "value_id": "robust_2_ci_low"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 2,
+      "column": "ci_high",
+      "value_id": "robust_2_ci_high"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 2,
+      "column": "player_seasons",
+      "value_id": "robust_2_player_seasons"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 2,
+      "column": "players",
+      "value_id": "robust_2_players"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 2,
+      "column": "contributing_players",
+      "value_id": "robust_2_contributing_players"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 2,
+      "column": "FTA",
+      "value_id": "robust_2_FTA"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 3,
+      "column": "beta",
+      "value_id": "robust_3_beta"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 3,
+      "column": "odds_ratio",
+      "value_id": "robust_3_odds_ratio"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 3,
+      "column": "ci_low",
+      "value_id": "robust_3_ci_low"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 3,
+      "column": "ci_high",
+      "value_id": "robust_3_ci_high"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 3,
+      "column": "player_seasons",
+      "value_id": "robust_3_player_seasons"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 3,
+      "column": "players",
+      "value_id": "robust_3_players"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 3,
+      "column": "contributing_players",
+      "value_id": "robust_3_contributing_players"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 3,
+      "column": "FTA",
+      "value_id": "robust_3_FTA"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 4,
+      "column": "beta",
+      "value_id": "robust_4_beta"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 4,
+      "column": "odds_ratio",
+      "value_id": "robust_4_odds_ratio"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 4,
+      "column": "ci_low",
+      "value_id": "robust_4_ci_low"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 4,
+      "column": "ci_high",
+      "value_id": "robust_4_ci_high"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 4,
+      "column": "player_seasons",
+      "value_id": "robust_4_player_seasons"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 4,
+      "column": "players",
+      "value_id": "robust_4_players"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 4,
+      "column": "contributing_players",
+      "value_id": "robust_4_contributing_players"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 4,
+      "column": "FTA",
+      "value_id": "robust_4_FTA"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 5,
+      "column": "beta",
+      "value_id": "robust_5_beta"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 5,
+      "column": "odds_ratio",
+      "value_id": "robust_5_odds_ratio"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 5,
+      "column": "ci_low",
+      "value_id": "robust_5_ci_low"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 5,
+      "column": "ci_high",
+      "value_id": "robust_5_ci_high"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 5,
+      "column": "player_seasons",
+      "value_id": "robust_5_player_seasons"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 5,
+      "column": "players",
+      "value_id": "robust_5_players"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 5,
+      "column": "contributing_players",
+      "value_id": "robust_5_contributing_players"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 5,
+      "column": "FTA",
+      "value_id": "robust_5_FTA"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 6,
+      "column": "beta",
+      "value_id": "robust_6_beta"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 6,
+      "column": "odds_ratio",
+      "value_id": "robust_6_odds_ratio"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 6,
+      "column": "ci_low",
+      "value_id": "robust_6_ci_low"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 6,
+      "column": "ci_high",
+      "value_id": "robust_6_ci_high"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 6,
+      "column": "player_seasons",
+      "value_id": "robust_6_player_seasons"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 6,
+      "column": "players",
+      "value_id": "robust_6_players"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 6,
+      "column": "contributing_players",
+      "value_id": "robust_6_contributing_players"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 6,
+      "column": "FTA",
+      "value_id": "robust_6_FTA"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 7,
+      "column": "beta",
+      "value_id": "robust_7_beta"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 7,
+      "column": "odds_ratio",
+      "value_id": "robust_7_odds_ratio"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 7,
+      "column": "ci_low",
+      "value_id": "robust_7_ci_low"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 7,
+      "column": "ci_high",
+      "value_id": "robust_7_ci_high"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 7,
+      "column": "player_seasons",
+      "value_id": "robust_7_player_seasons"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 7,
+      "column": "players",
+      "value_id": "robust_7_players"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 7,
+      "column": "contributing_players",
+      "value_id": "robust_7_contributing_players"
+    },
+    {
+      "output": "docs/manuscript/figure2_data.csv",
+      "row": 7,
+      "column": "FTA",
+      "value_id": "robust_7_FTA"
+    },
+    {
+      "output": "docs/manuscript/main_table1_sample.csv",
+      "row": 0,
+      "column": "value",
+      "value_id": "sample_seasons"
+    },
+    {
+      "output": "docs/manuscript/main_table1_sample.csv",
+      "row": 1,
+      "column": "value",
+      "value_id": "sample_player_seasons"
+    },
+    {
+      "output": "docs/manuscript/main_table1_sample.csv",
+      "row": 2,
+      "column": "value",
+      "value_id": "sample_players"
+    },
+    {
+      "output": "docs/manuscript/main_table1_sample.csv",
+      "row": 3,
+      "column": "value",
+      "value_id": "sample_contributing_players"
+    },
+    {
+      "output": "docs/manuscript/main_table1_sample.csv",
+      "row": 4,
+      "column": "value",
+      "value_id": "sample_positive_FTA_rows"
+    },
+    {
+      "output": "docs/manuscript/main_table1_sample.csv",
+      "row": 5,
+      "column": "value",
+      "value_id": "sample_zero_FTA_rows"
+    },
+    {
+      "output": "docs/manuscript/main_table1_sample.csv",
+      "row": 6,
+      "column": "value",
+      "value_id": "sample_FTA"
+    },
+    {
+      "output": "docs/manuscript/main_table1_sample.csv",
+      "row": 7,
+      "column": "value",
+      "value_id": "anth_0_mean"
+    },
+    {
+      "output": "docs/manuscript/main_table1_sample.csv",
+      "row": 8,
+      "column": "value",
+      "value_id": "anth_0_std"
+    },
+    {
+      "output": "docs/manuscript/main_table1_sample.csv",
+      "row": 9,
+      "column": "value",
+      "value_id": "anth_1_mean"
+    },
+    {
+      "output": "docs/manuscript/main_table1_sample.csv",
+      "row": 10,
+      "column": "value",
+      "value_id": "anth_1_std"
+    },
+    {
+      "output": "docs/manuscript/main_table1_sample.csv",
+      "row": 11,
+      "column": "value",
+      "value_id": "anth_2_mean"
+    },
+    {
+      "output": "docs/manuscript/main_table1_sample.csv",
+      "row": 12,
+      "column": "value",
+      "value_id": "anth_2_std"
+    },
+    {
+      "output": "docs/manuscript/main_table1_sample.csv",
+      "row": 13,
+      "column": "value",
+      "value_id": "coverage_min"
+    },
+    {
+      "output": "docs/manuscript/main_table1_sample.csv",
+      "row": 14,
+      "column": "value",
+      "value_id": "coverage_max"
+    },
+    {
+      "output": "docs/manuscript/main_table1_sample.csv",
+      "row": 15,
+      "column": "value",
+      "value_id": "FTA_mean"
+    },
+    {
+      "output": "docs/manuscript/main_table1_sample.csv",
+      "row": 16,
+      "column": "value",
+      "value_id": "FTA_SD"
+    },
+    {
+      "output": "docs/manuscript/main_table1_sample.csv",
+      "row": 17,
+      "column": "value",
+      "value_id": "FTA_q25"
+    },
+    {
+      "output": "docs/manuscript/main_table1_sample.csv",
+      "row": 18,
+      "column": "value",
+      "value_id": "FTA_q50"
+    },
+    {
+      "output": "docs/manuscript/main_table1_sample.csv",
+      "row": 19,
+      "column": "value",
+      "value_id": "FTA_q75"
+    },
+    {
+      "output": "docs/manuscript/main_table1_sample.csv",
+      "row": 20,
+      "column": "value",
+      "value_id": "position_C"
+    },
+    {
+      "output": "docs/manuscript/main_table1_sample.csv",
+      "row": 21,
+      "column": "value",
+      "value_id": "position_C-PF"
+    },
+    {
+      "output": "docs/manuscript/main_table1_sample.csv",
+      "row": 22,
+      "column": "value",
+      "value_id": "position_PF"
+    },
+    {
+      "output": "docs/manuscript/main_table1_sample.csv",
+      "row": 23,
+      "column": "value",
+      "value_id": "position_PF-C"
+    },
+    {
+      "output": "docs/manuscript/main_table1_sample.csv",
+      "row": 24,
+      "column": "value",
+      "value_id": "position_PF-SF"
+    },
+    {
+      "output": "docs/manuscript/main_table1_sample.csv",
+      "row": 25,
+      "column": "value",
+      "value_id": "position_PG"
+    },
+    {
+      "output": "docs/manuscript/main_table1_sample.csv",
+      "row": 26,
+      "column": "value",
+      "value_id": "position_PG-SG"
+    },
+    {
+      "output": "docs/manuscript/main_table1_sample.csv",
+      "row": 27,
+      "column": "value",
+      "value_id": "position_SF"
+    },
+    {
+      "output": "docs/manuscript/main_table1_sample.csv",
+      "row": 28,
+      "column": "value",
+      "value_id": "position_SF-PF"
+    },
+    {
+      "output": "docs/manuscript/main_table1_sample.csv",
+      "row": 29,
+      "column": "value",
+      "value_id": "position_SF-SG"
+    },
+    {
+      "output": "docs/manuscript/main_table1_sample.csv",
+      "row": 30,
+      "column": "value",
+      "value_id": "position_SG"
+    },
+    {
+      "output": "docs/manuscript/main_table1_sample.csv",
+      "row": 31,
+      "column": "value",
+      "value_id": "position_SG-PG"
+    },
+    {
+      "output": "docs/manuscript/main_table1_sample.csv",
+      "row": 32,
+      "column": "value",
+      "value_id": "position_SG-SF"
+    },
+    {
+      "output": "docs/manuscript/main_table1_sample.csv",
+      "row": 33,
+      "column": "value",
+      "value_id": "position_unknown"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 0,
+      "column": "beta",
+      "value_id": "loso_0_beta"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 0,
+      "column": "odds_ratio",
+      "value_id": "loso_0_odds_ratio"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 0,
+      "column": "ci_low",
+      "value_id": "loso_0_ci_low"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 0,
+      "column": "ci_high",
+      "value_id": "loso_0_ci_high"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 0,
+      "column": "range_min_beta",
+      "value_id": "loso_min_beta"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 0,
+      "column": "range_max_beta",
+      "value_id": "loso_max_beta"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 0,
+      "column": "median_beta",
+      "value_id": "loso_median_beta"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 0,
+      "column": "sign_reversals",
+      "value_id": "loso_sign_reversals"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 1,
+      "column": "beta",
+      "value_id": "loso_1_beta"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 1,
+      "column": "odds_ratio",
+      "value_id": "loso_1_odds_ratio"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 1,
+      "column": "ci_low",
+      "value_id": "loso_1_ci_low"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 1,
+      "column": "ci_high",
+      "value_id": "loso_1_ci_high"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 1,
+      "column": "range_min_beta",
+      "value_id": "loso_min_beta"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 1,
+      "column": "range_max_beta",
+      "value_id": "loso_max_beta"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 1,
+      "column": "median_beta",
+      "value_id": "loso_median_beta"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 1,
+      "column": "sign_reversals",
+      "value_id": "loso_sign_reversals"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 2,
+      "column": "beta",
+      "value_id": "loso_2_beta"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 2,
+      "column": "odds_ratio",
+      "value_id": "loso_2_odds_ratio"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 2,
+      "column": "ci_low",
+      "value_id": "loso_2_ci_low"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 2,
+      "column": "ci_high",
+      "value_id": "loso_2_ci_high"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 2,
+      "column": "range_min_beta",
+      "value_id": "loso_min_beta"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 2,
+      "column": "range_max_beta",
+      "value_id": "loso_max_beta"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 2,
+      "column": "median_beta",
+      "value_id": "loso_median_beta"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 2,
+      "column": "sign_reversals",
+      "value_id": "loso_sign_reversals"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 3,
+      "column": "beta",
+      "value_id": "loso_3_beta"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 3,
+      "column": "odds_ratio",
+      "value_id": "loso_3_odds_ratio"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 3,
+      "column": "ci_low",
+      "value_id": "loso_3_ci_low"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 3,
+      "column": "ci_high",
+      "value_id": "loso_3_ci_high"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 3,
+      "column": "range_min_beta",
+      "value_id": "loso_min_beta"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 3,
+      "column": "range_max_beta",
+      "value_id": "loso_max_beta"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 3,
+      "column": "median_beta",
+      "value_id": "loso_median_beta"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 3,
+      "column": "sign_reversals",
+      "value_id": "loso_sign_reversals"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 4,
+      "column": "beta",
+      "value_id": "loso_4_beta"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 4,
+      "column": "odds_ratio",
+      "value_id": "loso_4_odds_ratio"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 4,
+      "column": "ci_low",
+      "value_id": "loso_4_ci_low"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 4,
+      "column": "ci_high",
+      "value_id": "loso_4_ci_high"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 4,
+      "column": "range_min_beta",
+      "value_id": "loso_min_beta"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 4,
+      "column": "range_max_beta",
+      "value_id": "loso_max_beta"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 4,
+      "column": "median_beta",
+      "value_id": "loso_median_beta"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 4,
+      "column": "sign_reversals",
+      "value_id": "loso_sign_reversals"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 5,
+      "column": "beta",
+      "value_id": "loso_5_beta"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 5,
+      "column": "odds_ratio",
+      "value_id": "loso_5_odds_ratio"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 5,
+      "column": "ci_low",
+      "value_id": "loso_5_ci_low"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 5,
+      "column": "ci_high",
+      "value_id": "loso_5_ci_high"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 5,
+      "column": "range_min_beta",
+      "value_id": "loso_min_beta"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 5,
+      "column": "range_max_beta",
+      "value_id": "loso_max_beta"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 5,
+      "column": "median_beta",
+      "value_id": "loso_median_beta"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 5,
+      "column": "sign_reversals",
+      "value_id": "loso_sign_reversals"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 6,
+      "column": "beta",
+      "value_id": "loso_6_beta"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 6,
+      "column": "odds_ratio",
+      "value_id": "loso_6_odds_ratio"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 6,
+      "column": "ci_low",
+      "value_id": "loso_6_ci_low"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 6,
+      "column": "ci_high",
+      "value_id": "loso_6_ci_high"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 6,
+      "column": "range_min_beta",
+      "value_id": "loso_min_beta"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 6,
+      "column": "range_max_beta",
+      "value_id": "loso_max_beta"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 6,
+      "column": "median_beta",
+      "value_id": "loso_median_beta"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 6,
+      "column": "sign_reversals",
+      "value_id": "loso_sign_reversals"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 7,
+      "column": "beta",
+      "value_id": "loso_7_beta"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 7,
+      "column": "odds_ratio",
+      "value_id": "loso_7_odds_ratio"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 7,
+      "column": "ci_low",
+      "value_id": "loso_7_ci_low"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 7,
+      "column": "ci_high",
+      "value_id": "loso_7_ci_high"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 7,
+      "column": "range_min_beta",
+      "value_id": "loso_min_beta"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 7,
+      "column": "range_max_beta",
+      "value_id": "loso_max_beta"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 7,
+      "column": "median_beta",
+      "value_id": "loso_median_beta"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 7,
+      "column": "sign_reversals",
+      "value_id": "loso_sign_reversals"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 8,
+      "column": "beta",
+      "value_id": "loso_8_beta"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 8,
+      "column": "odds_ratio",
+      "value_id": "loso_8_odds_ratio"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 8,
+      "column": "ci_low",
+      "value_id": "loso_8_ci_low"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 8,
+      "column": "ci_high",
+      "value_id": "loso_8_ci_high"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 8,
+      "column": "range_min_beta",
+      "value_id": "loso_min_beta"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 8,
+      "column": "range_max_beta",
+      "value_id": "loso_max_beta"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 8,
+      "column": "median_beta",
+      "value_id": "loso_median_beta"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 8,
+      "column": "sign_reversals",
+      "value_id": "loso_sign_reversals"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 9,
+      "column": "beta",
+      "value_id": "loso_9_beta"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 9,
+      "column": "odds_ratio",
+      "value_id": "loso_9_odds_ratio"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 9,
+      "column": "ci_low",
+      "value_id": "loso_9_ci_low"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 9,
+      "column": "ci_high",
+      "value_id": "loso_9_ci_high"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 9,
+      "column": "range_min_beta",
+      "value_id": "loso_min_beta"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 9,
+      "column": "range_max_beta",
+      "value_id": "loso_max_beta"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 9,
+      "column": "median_beta",
+      "value_id": "loso_median_beta"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 9,
+      "column": "sign_reversals",
+      "value_id": "loso_sign_reversals"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 10,
+      "column": "beta",
+      "value_id": "loso_10_beta"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 10,
+      "column": "odds_ratio",
+      "value_id": "loso_10_odds_ratio"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 10,
+      "column": "ci_low",
+      "value_id": "loso_10_ci_low"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 10,
+      "column": "ci_high",
+      "value_id": "loso_10_ci_high"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 10,
+      "column": "range_min_beta",
+      "value_id": "loso_min_beta"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 10,
+      "column": "range_max_beta",
+      "value_id": "loso_max_beta"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 10,
+      "column": "median_beta",
+      "value_id": "loso_median_beta"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 10,
+      "column": "sign_reversals",
+      "value_id": "loso_sign_reversals"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 11,
+      "column": "beta",
+      "value_id": "loso_11_beta"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 11,
+      "column": "odds_ratio",
+      "value_id": "loso_11_odds_ratio"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 11,
+      "column": "ci_low",
+      "value_id": "loso_11_ci_low"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 11,
+      "column": "ci_high",
+      "value_id": "loso_11_ci_high"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 11,
+      "column": "range_min_beta",
+      "value_id": "loso_min_beta"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 11,
+      "column": "range_max_beta",
+      "value_id": "loso_max_beta"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 11,
+      "column": "median_beta",
+      "value_id": "loso_median_beta"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 11,
+      "column": "sign_reversals",
+      "value_id": "loso_sign_reversals"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 12,
+      "column": "beta",
+      "value_id": "loso_12_beta"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 12,
+      "column": "odds_ratio",
+      "value_id": "loso_12_odds_ratio"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 12,
+      "column": "ci_low",
+      "value_id": "loso_12_ci_low"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 12,
+      "column": "ci_high",
+      "value_id": "loso_12_ci_high"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 12,
+      "column": "range_min_beta",
+      "value_id": "loso_min_beta"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 12,
+      "column": "range_max_beta",
+      "value_id": "loso_max_beta"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 12,
+      "column": "median_beta",
+      "value_id": "loso_median_beta"
+    },
+    {
+      "output": "docs/manuscript/supp_leave_one_season_out.csv",
+      "row": 12,
+      "column": "sign_reversals",
+      "value_id": "loso_sign_reversals"
+    },
+    {
+      "output": "docs/manuscript/supp_alternate_exposures.csv",
+      "row": 0,
+      "column": "beta",
+      "value_id": "alt_0_beta"
+    },
+    {
+      "output": "docs/manuscript/supp_alternate_exposures.csv",
+      "row": 0,
+      "column": "odds_ratio",
+      "value_id": "alt_0_odds_ratio"
+    },
+    {
+      "output": "docs/manuscript/supp_alternate_exposures.csv",
+      "row": 0,
+      "column": "ci_low",
+      "value_id": "alt_0_ci_low"
+    },
+    {
+      "output": "docs/manuscript/supp_alternate_exposures.csv",
+      "row": 0,
+      "column": "ci_high",
+      "value_id": "alt_0_ci_high"
+    },
+    {
+      "output": "docs/manuscript/supp_alternate_exposures.csv",
+      "row": 1,
+      "column": "beta",
+      "value_id": "alt_1_beta"
+    },
+    {
+      "output": "docs/manuscript/supp_alternate_exposures.csv",
+      "row": 1,
+      "column": "odds_ratio",
+      "value_id": "alt_1_odds_ratio"
+    },
+    {
+      "output": "docs/manuscript/supp_alternate_exposures.csv",
+      "row": 1,
+      "column": "ci_low",
+      "value_id": "alt_1_ci_low"
+    },
+    {
+      "output": "docs/manuscript/supp_alternate_exposures.csv",
+      "row": 1,
+      "column": "ci_high",
+      "value_id": "alt_1_ci_high"
+    },
+    {
+      "output": "docs/manuscript/figure4_data.csv",
+      "row": 0,
+      "column": "total_positive_minute_players",
+      "value_id": "figure4_data.csv_0_total_positive_minute_players"
+    },
+    {
+      "output": "docs/manuscript/figure4_data.csv",
+      "row": 0,
+      "column": "measured_eligible_players",
+      "value_id": "figure4_data.csv_0_measured_eligible_players"
+    },
+    {
+      "output": "docs/manuscript/figure4_data.csv",
+      "row": 0,
+      "column": "coverage_rate",
+      "value_id": "figure4_data.csv_0_coverage_rate"
+    },
+    {
+      "output": "docs/manuscript/figure4_data.csv",
+      "row": 1,
+      "column": "total_positive_minute_players",
+      "value_id": "figure4_data.csv_1_total_positive_minute_players"
+    },
+    {
+      "output": "docs/manuscript/figure4_data.csv",
+      "row": 1,
+      "column": "measured_eligible_players",
+      "value_id": "figure4_data.csv_1_measured_eligible_players"
+    },
+    {
+      "output": "docs/manuscript/figure4_data.csv",
+      "row": 1,
+      "column": "coverage_rate",
+      "value_id": "figure4_data.csv_1_coverage_rate"
+    },
+    {
+      "output": "docs/manuscript/figure4_data.csv",
+      "row": 2,
+      "column": "total_positive_minute_players",
+      "value_id": "figure4_data.csv_2_total_positive_minute_players"
+    },
+    {
+      "output": "docs/manuscript/figure4_data.csv",
+      "row": 2,
+      "column": "measured_eligible_players",
+      "value_id": "figure4_data.csv_2_measured_eligible_players"
+    },
+    {
+      "output": "docs/manuscript/figure4_data.csv",
+      "row": 2,
+      "column": "coverage_rate",
+      "value_id": "figure4_data.csv_2_coverage_rate"
+    },
+    {
+      "output": "docs/manuscript/figure4_data.csv",
+      "row": 3,
+      "column": "total_positive_minute_players",
+      "value_id": "figure4_data.csv_3_total_positive_minute_players"
+    },
+    {
+      "output": "docs/manuscript/figure4_data.csv",
+      "row": 3,
+      "column": "measured_eligible_players",
+      "value_id": "figure4_data.csv_3_measured_eligible_players"
+    },
+    {
+      "output": "docs/manuscript/figure4_data.csv",
+      "row": 3,
+      "column": "coverage_rate",
+      "value_id": "figure4_data.csv_3_coverage_rate"
+    },
+    {
+      "output": "docs/manuscript/figure4_data.csv",
+      "row": 4,
+      "column": "total_positive_minute_players",
+      "value_id": "figure4_data.csv_4_total_positive_minute_players"
+    },
+    {
+      "output": "docs/manuscript/figure4_data.csv",
+      "row": 4,
+      "column": "measured_eligible_players",
+      "value_id": "figure4_data.csv_4_measured_eligible_players"
+    },
+    {
+      "output": "docs/manuscript/figure4_data.csv",
+      "row": 4,
+      "column": "coverage_rate",
+      "value_id": "figure4_data.csv_4_coverage_rate"
+    },
+    {
+      "output": "docs/manuscript/figure4_data.csv",
+      "row": 5,
+      "column": "total_positive_minute_players",
+      "value_id": "figure4_data.csv_5_total_positive_minute_players"
+    },
+    {
+      "output": "docs/manuscript/figure4_data.csv",
+      "row": 5,
+      "column": "measured_eligible_players",
+      "value_id": "figure4_data.csv_5_measured_eligible_players"
+    },
+    {
+      "output": "docs/manuscript/figure4_data.csv",
+      "row": 5,
+      "column": "coverage_rate",
+      "value_id": "figure4_data.csv_5_coverage_rate"
+    },
+    {
+      "output": "docs/manuscript/figure4_data.csv",
+      "row": 6,
+      "column": "total_positive_minute_players",
+      "value_id": "figure4_data.csv_6_total_positive_minute_players"
+    },
+    {
+      "output": "docs/manuscript/figure4_data.csv",
+      "row": 6,
+      "column": "measured_eligible_players",
+      "value_id": "figure4_data.csv_6_measured_eligible_players"
+    },
+    {
+      "output": "docs/manuscript/figure4_data.csv",
+      "row": 6,
+      "column": "coverage_rate",
+      "value_id": "figure4_data.csv_6_coverage_rate"
+    },
+    {
+      "output": "docs/manuscript/figure4_data.csv",
+      "row": 7,
+      "column": "total_positive_minute_players",
+      "value_id": "figure4_data.csv_7_total_positive_minute_players"
+    },
+    {
+      "output": "docs/manuscript/figure4_data.csv",
+      "row": 7,
+      "column": "measured_eligible_players",
+      "value_id": "figure4_data.csv_7_measured_eligible_players"
+    },
+    {
+      "output": "docs/manuscript/figure4_data.csv",
+      "row": 7,
+      "column": "coverage_rate",
+      "value_id": "figure4_data.csv_7_coverage_rate"
+    },
+    {
+      "output": "docs/manuscript/figure4_data.csv",
+      "row": 8,
+      "column": "total_positive_minute_players",
+      "value_id": "figure4_data.csv_8_total_positive_minute_players"
+    },
+    {
+      "output": "docs/manuscript/figure4_data.csv",
+      "row": 8,
+      "column": "measured_eligible_players",
+      "value_id": "figure4_data.csv_8_measured_eligible_players"
+    },
+    {
+      "output": "docs/manuscript/figure4_data.csv",
+      "row": 8,
+      "column": "coverage_rate",
+      "value_id": "figure4_data.csv_8_coverage_rate"
+    },
+    {
+      "output": "docs/manuscript/figure4_data.csv",
+      "row": 9,
+      "column": "total_positive_minute_players",
+      "value_id": "figure4_data.csv_9_total_positive_minute_players"
+    },
+    {
+      "output": "docs/manuscript/figure4_data.csv",
+      "row": 9,
+      "column": "measured_eligible_players",
+      "value_id": "figure4_data.csv_9_measured_eligible_players"
+    },
+    {
+      "output": "docs/manuscript/figure4_data.csv",
+      "row": 9,
+      "column": "coverage_rate",
+      "value_id": "figure4_data.csv_9_coverage_rate"
+    },
+    {
+      "output": "docs/manuscript/figure4_data.csv",
+      "row": 10,
+      "column": "total_positive_minute_players",
+      "value_id": "figure4_data.csv_10_total_positive_minute_players"
+    },
+    {
+      "output": "docs/manuscript/figure4_data.csv",
+      "row": 10,
+      "column": "measured_eligible_players",
+      "value_id": "figure4_data.csv_10_measured_eligible_players"
+    },
+    {
+      "output": "docs/manuscript/figure4_data.csv",
+      "row": 10,
+      "column": "coverage_rate",
+      "value_id": "figure4_data.csv_10_coverage_rate"
+    },
+    {
+      "output": "docs/manuscript/figure4_data.csv",
+      "row": 11,
+      "column": "total_positive_minute_players",
+      "value_id": "figure4_data.csv_11_total_positive_minute_players"
+    },
+    {
+      "output": "docs/manuscript/figure4_data.csv",
+      "row": 11,
+      "column": "measured_eligible_players",
+      "value_id": "figure4_data.csv_11_measured_eligible_players"
+    },
+    {
+      "output": "docs/manuscript/figure4_data.csv",
+      "row": 11,
+      "column": "coverage_rate",
+      "value_id": "figure4_data.csv_11_coverage_rate"
+    },
+    {
+      "output": "docs/manuscript/figure4_data.csv",
+      "row": 12,
+      "column": "total_positive_minute_players",
+      "value_id": "figure4_data.csv_12_total_positive_minute_players"
+    },
+    {
+      "output": "docs/manuscript/figure4_data.csv",
+      "row": 12,
+      "column": "measured_eligible_players",
+      "value_id": "figure4_data.csv_12_measured_eligible_players"
+    },
+    {
+      "output": "docs/manuscript/figure4_data.csv",
+      "row": 12,
+      "column": "coverage_rate",
+      "value_id": "figure4_data.csv_12_coverage_rate"
+    },
+    {
+      "output": "docs/manuscript/figure4_data.csv",
+      "row": 13,
+      "column": "total_positive_minute_players",
+      "value_id": "figure4_data.csv_13_total_positive_minute_players"
+    },
+    {
+      "output": "docs/manuscript/figure4_data.csv",
+      "row": 13,
+      "column": "measured_eligible_players",
+      "value_id": "figure4_data.csv_13_measured_eligible_players"
+    },
+    {
+      "output": "docs/manuscript/figure4_data.csv",
+      "row": 13,
+      "column": "coverage_rate",
+      "value_id": "figure4_data.csv_13_coverage_rate"
+    },
+    {
+      "output": "docs/manuscript/supp_figure1_data.csv",
+      "row": 0,
+      "column": "player_seasons",
+      "value_id": "supp_figure1_data.csv_0_player_seasons"
+    },
+    {
+      "output": "docs/manuscript/supp_figure1_data.csv",
+      "row": 0,
+      "column": "FTA",
+      "value_id": "supp_figure1_data.csv_0_FTA"
+    },
+    {
+      "output": "docs/manuscript/supp_figure1_data.csv",
+      "row": 0,
+      "column": "FTM",
+      "value_id": "supp_figure1_data.csv_0_FTM"
+    },
+    {
+      "output": "docs/manuscript/supp_figure1_data.csv",
+      "row": 0,
+      "column": "observed_rate",
+      "value_id": "supp_figure1_data.csv_0_observed_rate"
+    },
+    {
+      "output": "docs/manuscript/supp_figure1_data.csv",
+      "row": 0,
+      "column": "fitted_rate",
+      "value_id": "supp_figure1_data.csv_0_fitted_rate"
+    },
+    {
+      "output": "docs/manuscript/supp_figure1_data.csv",
+      "row": 0,
+      "column": "observed_minus_fitted",
+      "value_id": "supp_figure1_data.csv_0_observed_minus_fitted"
+    },
+    {
+      "output": "docs/manuscript/supp_figure1_data.csv",
+      "row": 1,
+      "column": "player_seasons",
+      "value_id": "supp_figure1_data.csv_1_player_seasons"
+    },
+    {
+      "output": "docs/manuscript/supp_figure1_data.csv",
+      "row": 1,
+      "column": "FTA",
+      "value_id": "supp_figure1_data.csv_1_FTA"
+    },
+    {
+      "output": "docs/manuscript/supp_figure1_data.csv",
+      "row": 1,
+      "column": "FTM",
+      "value_id": "supp_figure1_data.csv_1_FTM"
+    },
+    {
+      "output": "docs/manuscript/supp_figure1_data.csv",
+      "row": 1,
+      "column": "observed_rate",
+      "value_id": "supp_figure1_data.csv_1_observed_rate"
+    },
+    {
+      "output": "docs/manuscript/supp_figure1_data.csv",
+      "row": 1,
+      "column": "fitted_rate",
+      "value_id": "supp_figure1_data.csv_1_fitted_rate"
+    },
+    {
+      "output": "docs/manuscript/supp_figure1_data.csv",
+      "row": 1,
+      "column": "observed_minus_fitted",
+      "value_id": "supp_figure1_data.csv_1_observed_minus_fitted"
+    },
+    {
+      "output": "docs/manuscript/supp_figure1_data.csv",
+      "row": 2,
+      "column": "player_seasons",
+      "value_id": "supp_figure1_data.csv_2_player_seasons"
+    },
+    {
+      "output": "docs/manuscript/supp_figure1_data.csv",
+      "row": 2,
+      "column": "FTA",
+      "value_id": "supp_figure1_data.csv_2_FTA"
+    },
+    {
+      "output": "docs/manuscript/supp_figure1_data.csv",
+      "row": 2,
+      "column": "FTM",
+      "value_id": "supp_figure1_data.csv_2_FTM"
+    },
+    {
+      "output": "docs/manuscript/supp_figure1_data.csv",
+      "row": 2,
+      "column": "observed_rate",
+      "value_id": "supp_figure1_data.csv_2_observed_rate"
+    },
+    {
+      "output": "docs/manuscript/supp_figure1_data.csv",
+      "row": 2,
+      "column": "fitted_rate",
+      "value_id": "supp_figure1_data.csv_2_fitted_rate"
+    },
+    {
+      "output": "docs/manuscript/supp_figure1_data.csv",
+      "row": 2,
+      "column": "observed_minus_fitted",
+      "value_id": "supp_figure1_data.csv_2_observed_minus_fitted"
+    },
+    {
+      "output": "docs/manuscript/supp_figure1_data.csv",
+      "row": 3,
+      "column": "player_seasons",
+      "value_id": "supp_figure1_data.csv_3_player_seasons"
+    },
+    {
+      "output": "docs/manuscript/supp_figure1_data.csv",
+      "row": 3,
+      "column": "FTA",
+      "value_id": "supp_figure1_data.csv_3_FTA"
+    },
+    {
+      "output": "docs/manuscript/supp_figure1_data.csv",
+      "row": 3,
+      "column": "FTM",
+      "value_id": "supp_figure1_data.csv_3_FTM"
+    },
+    {
+      "output": "docs/manuscript/supp_figure1_data.csv",
+      "row": 3,
+      "column": "observed_rate",
+      "value_id": "supp_figure1_data.csv_3_observed_rate"
+    },
+    {
+      "output": "docs/manuscript/supp_figure1_data.csv",
+      "row": 3,
+      "column": "fitted_rate",
+      "value_id": "supp_figure1_data.csv_3_fitted_rate"
+    },
+    {
+      "output": "docs/manuscript/supp_figure1_data.csv",
+      "row": 3,
+      "column": "observed_minus_fitted",
+      "value_id": "supp_figure1_data.csv_3_observed_minus_fitted"
+    },
+    {
+      "output": "docs/manuscript/supp_figure1_data.csv",
+      "row": 4,
+      "column": "player_seasons",
+      "value_id": "supp_figure1_data.csv_4_player_seasons"
+    },
+    {
+      "output": "docs/manuscript/supp_figure1_data.csv",
+      "row": 4,
+      "column": "FTA",
+      "value_id": "supp_figure1_data.csv_4_FTA"
+    },
+    {
+      "output": "docs/manuscript/supp_figure1_data.csv",
+      "row": 4,
+      "column": "FTM",
+      "value_id": "supp_figure1_data.csv_4_FTM"
+    },
+    {
+      "output": "docs/manuscript/supp_figure1_data.csv",
+      "row": 4,
+      "column": "observed_rate",
+      "value_id": "supp_figure1_data.csv_4_observed_rate"
+    },
+    {
+      "output": "docs/manuscript/supp_figure1_data.csv",
+      "row": 4,
+      "column": "fitted_rate",
+      "value_id": "supp_figure1_data.csv_4_fitted_rate"
+    },
+    {
+      "output": "docs/manuscript/supp_figure1_data.csv",
+      "row": 4,
+      "column": "observed_minus_fitted",
+      "value_id": "supp_figure1_data.csv_4_observed_minus_fitted"
+    },
+    {
+      "output": "docs/manuscript/figure1_data.csv",
+      "row": 0,
+      "column": "value",
+      "value_id": "flow_0"
+    },
+    {
+      "output": "docs/manuscript/figure1_data.csv",
+      "row": 1,
+      "column": "value",
+      "value_id": "flow_1"
+    },
+    {
+      "output": "docs/manuscript/figure1_data.csv",
+      "row": 2,
+      "column": "value",
+      "value_id": "flow_2"
+    },
+    {
+      "output": "docs/manuscript/figure1_data.csv",
+      "row": 3,
+      "column": "value",
+      "value_id": "flow_3"
+    },
+    {
+      "output": "docs/manuscript/figure1_data.csv",
+      "row": 4,
+      "column": "value",
+      "value_id": "flow_4"
+    },
+    {
+      "output": "docs/manuscript/figure1_data.csv",
+      "row": 5,
+      "column": "value",
+      "value_id": "flow_5"
+    },
+    {
+      "output": "docs/manuscript/figure1_data.csv",
+      "row": 6,
+      "column": "value",
+      "value_id": "flow_6"
+    },
+    {
+      "output": "docs/manuscript/figure1_data.csv",
+      "row": 7,
+      "column": "value",
+      "value_id": "flow_7"
+    },
+    {
+      "output": "docs/manuscript/figure1_data.csv",
+      "row": 8,
+      "column": "value",
+      "value_id": "flow_8"
+    },
+    {
+      "output": "docs/manuscript/figure1_data.csv",
+      "row": 9,
+      "column": "value",
+      "value_id": "flow_9"
+    }
+  ]
+}

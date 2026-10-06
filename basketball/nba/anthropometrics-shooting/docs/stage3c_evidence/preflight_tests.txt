@@ -1,0 +1,28 @@
+WARNING (pytensor.configdefaults): g++ not detected!  PyTensor will be unable to compile C-implementations and will default to Python. Performance may be severely degraded. To remove this warning, set PyTensor flags cxx to an empty string.
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l1dcachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l2cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l3cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.optional.neon'. Detail: [errno 1] Operation not permitted
+test_A_authorization (test_stage3c.Stage3C) ... ok
+test_B_historical_failure (test_stage3c.Stage3C) ... ok
+test_C_unresolved_precision_preserved (test_stage3c.Stage3C) ... ok
+test_D_primary_hash (test_stage3c.Stage3C) ... ok
+test_E_full_hash (test_stage3c.Stage3C) ... ok
+test_F_primary_exclusion (test_stage3c.Stage3C) ... ok
+test_G_full_development (test_stage3c.Stage3C) ... ok
+test_H_frozen_residualization (test_stage3c.Stage3C) ... ok
+test_I_fixed_vectors (test_stage3c.Stage3C) ... ok
+test_J_no_future_measurement (test_stage3c.Stage3C) ... ok
+test_K_count_bounds (test_stage3c.Stage3C) ... ok
+test_L_zero_attempts (test_stage3c.Stage3C) ... ok
+test_M_exact_model_terms (test_stage3c.Stage3C) ... ok
+test_N_no_FTA_predictor (test_stage3c.Stage3C) ... ok
+test_O_no_minutes_predictor (test_stage3c.Stage3C) ... ok
+test_P_no_new_confounder (test_stage3c.Stage3C) ... ok
+test_Q_priors_before_fitting (test_stage3c.Stage3C) ... ok
+test_R_noncentered_indexing (test_stage3c.Stage3C) ... ok
+
+----------------------------------------------------------------------
+Ran 18 tests in 0.596s
+
+OK

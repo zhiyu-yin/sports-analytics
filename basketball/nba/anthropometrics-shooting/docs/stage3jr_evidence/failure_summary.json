@@ -1,0 +1,60 @@
+{
+  "completed_at": "2026-10-01T01:14:33.438062+00:00",
+  "original_failures": 299,
+  "reference_status_and_recorded_diagnostics_reproduced": true,
+  "groups": {
+    "FAIL": {
+      "n": 299,
+      "optimizer_termination_failures": 5,
+      "score_failures": 296,
+      "score_only": 294,
+      "Hessian_failures": 0,
+      "boundary": 0,
+      "nonfinite": 0,
+      "separation_like": 0,
+      "absent_category": 129,
+      "raw_condition_range": [
+        4763.8476947655745,
+        5918.7587781990305
+      ],
+      "scaled_condition_range": [
+        7.43141240154617,
+        9.513727507259453
+      ],
+      "max_score": 0.003927788440951652,
+      "max_likelihood_spread": 1.1987140169367194e-09,
+      "median_iterations": 32.0,
+      "kappa_range": [
+        27.412738654890717,
+        40.63980594443835
+      ]
+    },
+    "PASS": {
+      "n": 100,
+      "optimizer_termination_failures": 0,
+      "score_failures": 0,
+      "score_only": 0,
+      "Hessian_failures": 0,
+      "boundary": 0,
+      "nonfinite": 0,
+      "separation_like": 0,
+      "absent_category": 37,
+      "raw_condition_range": [
+        4769.475874224481,
+        5630.419968965229
+      ],
+      "scaled_condition_range": [
+        7.574372486502838,
+        9.482291808951254
+      ],
+      "max_score": 0.0009838150644227994,
+      "max_likelihood_spread": 8.039933163672686e-10,
+      "median_iterations": 32.0,
+      "kappa_range": [
+        29.058830235122805,
+        38.866709866160605
+      ]
+    }
+  },
+  "interpretation": "Diagnose numerical termination/score criteria only. No exposure-coefficient distribution or sign used. Raw conditioning is reduced by the already-existing Stage 2 scaling; no separation or boundary inference from scientific coefficient direction."
+}

@@ -1,0 +1,27 @@
+{
+  "original_protocol": {
+    "date": "2026-09-28",
+    "timestamp": "2026-09-28T21:42:42.988446+00:00",
+    "basis": "filesystem birth time (mtime fallback); original JSON lacks embedded adoption timestamp",
+    "sha256": "06378257134bb0d3bc93fad5acf352896b008b9536d3b2a0cedaefb1d82aa724",
+    "independent_upper_bound": "2026-09-28T21:55:03.704230+00:00"
+  },
+  "stage3_failure": {
+    "date": "2026-09-28",
+    "verified_build_at": "2026-09-28T21:55:03.704230+00:00",
+    "basis": "dated preserved blocked build receipt; not asserted to be first failure instant"
+  },
+  "stage3a_audit": {
+    "date": "2026-09-28",
+    "decision_at": "2026-09-28T22:36:24.089254+00:00",
+    "sample_frozen_at": "2026-09-28T22:19:00.054708+00:00"
+  },
+  "stage3b_amendment": {
+    "date": "2026-09-28",
+    "frozen_at": "2026-09-28T22:47:51.096680+00:00",
+    "protocol_sha256": "6c6c1af1beabe68e68b6d6ed8bf973244867dbc403647a40033eeced0d848230"
+  },
+  "before_any_Stage3_association_model": true,
+  "Stage3_scientific_estimate_exists": false,
+  "qualification": "Prospective to scientific inference, explicitly after source-validation discrepancies were observed. Prior Stage 1/2 development results are not represented as absent."
+}

@@ -1,0 +1,12 @@
+{
+  "recorded_at": "2026-09-28T23:05:41.212518+00:00",
+  "cause": "Both default parallel launches segfaulted on the child side of fork. macOS crash report shows CoreFoundation multi-threaded process forked and cblas_matrixproduct.",
+  "change": "Set PyMC mp_ctx='spawn' and VECLIB_MAXIMUM_THREADS=1; preserve four chains, seed, draws, tuning, target_accept, all priors and formula.",
+  "posterior_obtained": false,
+  "scientific_parameter_inspected": false,
+  "statistical_protocol_changed": false,
+  "failed_attempts": [
+    "primary_attempt1_infrastructure_failure.json",
+    "primary_attempt1_infrastructure_failure2.json"
+  ]
+}

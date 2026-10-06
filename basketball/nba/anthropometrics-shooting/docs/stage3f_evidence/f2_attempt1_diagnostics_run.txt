@@ -1,0 +1,20 @@
+WARNING (pytensor.configdefaults): g++ not detected!  PyTensor will be unable to compile C-implementations and will default to Python. Performance may be severely degraded. To remove this warning, set PyTensor flags cxx to an empty string.
+{
+  "candidate": "F2",
+  "attempt": 1,
+  "max_rhat": 1.1666303889021672,
+  "min_bulk_ESS": 17.195646939667306,
+  "min_tail_ESS": 51.557732282145,
+  "BFMI": [
+    0.673661669051852,
+    0.7541003914258052,
+    0.6637832858400657,
+    0.7636477179347586
+  ],
+  "divergences": 0,
+  "max_depth_hits": 0,
+  "finite_covariance": true,
+  "numeric_gate_pass": false,
+  "visual_review": "PENDING",
+  "checked_at": "2026-09-29T19:02:23.034994+00:00"
+}

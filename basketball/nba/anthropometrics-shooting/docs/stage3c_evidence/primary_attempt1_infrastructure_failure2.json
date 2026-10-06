@@ -1,0 +1,22 @@
+{
+  "kind": "primary",
+  "attempt": 1,
+  "started_at": "2026-09-28T23:03:47.796047+00:00",
+  "settings": {
+    "chains": 4,
+    "tune": 2000,
+    "draws": 2000,
+    "target_accept": 0.95,
+    "seed": 20260928,
+    "sampler": "PyMC NUTS",
+    "cores": 4,
+    "blas_cores": 1
+  },
+  "protocol_sha256": "0fc49add517178355ce8b4572de8696864531952500a284eee4eda4c006a64b3",
+  "code_sha256": "846ee829e4baf80bfe6c5fa1eb0dafc4945809b8d03c20c2cc83eaeba44ecaba",
+  "panel_sha256": "1c34331385e459ac5da67105658730d31d96c8114bd25fcb3b31cea52f1a1871",
+  "status": "FAILED",
+  "primary_freeze_sha256": null,
+  "completed_at": "2026-09-28T23:03:50.357244+00:00",
+  "error": "EOFError()"
+}

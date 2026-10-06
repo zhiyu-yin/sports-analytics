@@ -1,0 +1,5 @@
+{
+  "corrected_at": "2026-09-30T18:51:09.857828+00:00",
+  "reason": "Sampler provenance field referred to prior-stage protocol filename; corrected to model_protocol.json before any prior simulation or posterior fitting",
+  "no_model_prior_gate_change": true
+}

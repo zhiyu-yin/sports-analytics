@@ -1,0 +1,154 @@
+{
+  "selected_future_model": "NONE",
+  "stage3e_authorized": false,
+  "scientific_parameter_status": "NOT_AUTHORIZED",
+  "classification": "ADEQUACY UNRESOLVED \u2014 D3 FAILS",
+  "frozen_at": "2026-09-29T01:51:05.263761+00:00",
+  "amendment_sha256": "8e273a702e0a811f53f97e0d42cf64133f57e0fc210bc97f578b4cbf4a7635b8",
+  "original_protocol_sha256": "8be5e5b796396ae0edc5d01ba5c1a6b62ceb0928aae6f47d7f0180595b3ea703",
+  "prior_gate": {
+    "classification": "PRIOR CALIBRATION PASSED",
+    "passed": true,
+    "frozen_at": "2026-09-29T01:22:09.686399+00:00",
+    "prior_result_sha256": "63e76670829101bdb999d0f41b61b458e099446caa1f3b0b6965ba43d96bc092",
+    "amendment_sha256": "8e273a702e0a811f53f97e0d42cf64133f57e0fc210bc97f578b4cbf4a7635b8",
+    "thresholds_unchanged": true
+  },
+  "candidate_adequacy": [
+    {
+      "model": "D0",
+      "sampler_pass": true,
+      "pooled_rate_99_pass": false,
+      "global_metrics_99_fail_count": 2,
+      "season_rate_99_fail_count": 0,
+      "FTA_bin_99_fail_count": 4,
+      "systematic_volume_pattern": true,
+      "joint_FTA_PPC_pass": null,
+      "overall_adequacy": false,
+      "eligible_for_Stage3E": false
+    },
+    {
+      "model": "D1",
+      "sampler_pass": false,
+      "pooled_rate_99_pass": null,
+      "global_metrics_99_fail_count": null,
+      "season_rate_99_fail_count": null,
+      "FTA_bin_99_fail_count": null,
+      "systematic_volume_pattern": null,
+      "joint_FTA_PPC_pass": null,
+      "overall_adequacy": false,
+      "eligible_for_Stage3E": false
+    },
+    {
+      "model": "D2",
+      "sampler_pass": true,
+      "pooled_rate_99_pass": false,
+      "global_metrics_99_fail_count": 3,
+      "season_rate_99_fail_count": 0,
+      "FTA_bin_99_fail_count": 4,
+      "systematic_volume_pattern": true,
+      "joint_FTA_PPC_pass": null,
+      "overall_adequacy": false,
+      "eligible_for_Stage3E": false
+    },
+    {
+      "model": "D3",
+      "sampler_pass": true,
+      "pooled_rate_99_pass": true,
+      "global_metrics_99_fail_count": 2,
+      "season_rate_99_fail_count": 0,
+      "FTA_bin_99_fail_count": 3,
+      "systematic_volume_pattern": true,
+      "joint_FTA_PPC_pass": false,
+      "overall_adequacy": false,
+      "eligible_for_Stage3E": false
+    }
+  ],
+  "permitted_mechanism_summaries": {
+    "d1_attempt_volume_parameter.json": {
+      "parameter": "gamma_FTA",
+      "status": "WITHHELD_FAILED_SAMPLER_GATE",
+      "reason": "Minimum bulk ESS below 400; posterior exists but no reportable mechanism summary"
+    },
+    "d2_dispersion_parameter.json": {
+      "parameter": "gamma_k",
+      "mean": -0.13785533120480628,
+      "median": -0.1374427920323568,
+      "SD": 0.1078835211791669,
+      "CI95": [
+        -0.3603537281703197,
+        0.06467940979591497
+      ],
+      "rho_at_FTA": {
+        "5": {
+          "mean": 0.003930241834519647,
+          "median": 0.0036816969880808757,
+          "SD": 0.0015266258791045413,
+          "CI95": [
+            0.0016539291868813092,
+            0.007573974012583537
+          ]
+        },
+        "25": {
+          "mean": 0.004589258721221952,
+          "median": 0.004498919687766724,
+          "SD": 0.0010604708080451837,
+          "CI95": [
+            0.0027890280412048466,
+            0.0069379038080274276
+          ]
+        },
+        "75": {
+          "mean": 0.005218313249289807,
+          "median": 0.005203091208627461,
+          "SD": 0.0006535526502871505,
+          "CI95": [
+            0.004012583948345689,
+            0.006567146491467381
+          ]
+        },
+        "200": {
+          "mean": 0.005928532586780077,
+          "median": 0.005920131791836706,
+          "SD": 0.00038740359935333083,
+          "CI95": [
+            0.005190362129979237,
+            0.0067107762493880995
+          ]
+        },
+        "400": {
+          "mean": 0.006532986955026845,
+          "median": 0.006506811067791777,
+          "SD": 0.0006298966176144418,
+          "CI95": [
+            0.005366012522869717,
+            0.00786544278644852
+          ]
+        }
+      }
+    },
+    "d3_random_effect_correlation.json": {
+      "parameter": "corr_uv",
+      "mean": 0.3926778293226017,
+      "median": 0.3937357883270519,
+      "SD": 0.04153767813065651,
+      "CI95": [
+        0.30805771305453716,
+        0.4714360786091917
+      ],
+      "P_positive": 1.0
+    }
+  },
+  "scientific_coefficient_unsealed": false,
+  "firewall_intact": true,
+  "no_posthoc_structural_change": true,
+  "selection_input_schema": [
+    "prior_pass",
+    "sampler_pass",
+    "conditional_accuracy_pass",
+    "joint_opportunity_pass",
+    "no_posthoc_change",
+    "firewall_intact"
+  ],
+  "selection_function_sha256": "8768edc64079ac70ed396dc53c447a19292484d677f0abe79e1c917e891da918"
+}

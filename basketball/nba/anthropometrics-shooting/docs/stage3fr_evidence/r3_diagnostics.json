@@ -1,0 +1,24 @@
+{
+  "candidate": "R3",
+  "attempt": 2,
+  "max_rhat": 1.0176711219755852,
+  "min_bulk_ESS": 209.1053400585964,
+  "min_tail_ESS": 448.23839759021786,
+  "BFMI": [
+    0.8692040120029071,
+    0.8564134030790476,
+    0.8110668148339445,
+    0.8308950790500098
+  ],
+  "divergences": 0,
+  "max_depth_hits": 0,
+  "finite_covariance": true,
+  "sealed_parameter_sampler_pass": true,
+  "numeric_gate_pass": false,
+  "visual_review": "NOT_RELEASED_FAILED_NUMERIC_GATE",
+  "checked_at": "2026-09-30T02:38:10.171447+00:00",
+  "all_latent_elements_in_gate": true,
+  "sealed_parameter_in_model": true,
+  "sampler_pass": false,
+  "recovery_exhausted": true
+}

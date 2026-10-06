@@ -1,0 +1,30 @@
+{
+  "time_invariant_exposure_height_position": true,
+  "J3_HC1_vs_statsmodels_HC0_scaled_max_error": 3.2526065174565133e-19,
+  "all_4000_sample_schedules": {
+    "j1": {
+      "replicates": 2000,
+      "successful_draw_hashes_and_sizes_checked": 2000,
+      "failed_draws_retained": 0,
+      "all_draws": 857,
+      "unique_instance_per_draw": true
+    },
+    "j2": {
+      "replicates": 2000,
+      "successful_draw_hashes_and_sizes_checked": 1701,
+      "failed_draws_retained": 299,
+      "all_draws": 857,
+      "unique_instance_per_draw": true
+    }
+  },
+  "J2_failure_types": {
+    "BB convergence failure": 299
+  },
+  "J2_failed_start_max_likelihood_spread": 1.1987140169367194e-09,
+  "J2_failed_start_max_score": 0.003927788440951652,
+  "J2_all_failed_start_optimizers_reported_success": false,
+  "passed": true,
+  "completed_at": "2026-10-01T01:02:13.159260+00:00",
+  "model_changed": false,
+  "failed_fits_replaced": false
+}

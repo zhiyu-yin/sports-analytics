@@ -1,0 +1,16 @@
+{
+  "decision": "PASS",
+  "tests_passed": true,
+  "criteria": {
+    "minimum_30_pairs": true,
+    "agreement_at_least_95_percent": true,
+    "all_era_height_relative_strata": true,
+    "no_unresolved_systematic_discrepancy": true,
+    "substantive_conflicts_reconciled_or_quarantined": true,
+    "reference_population_clean": true
+  },
+  "stage1_may_begin": true,
+  "stage1_executed": false,
+  "no_residual_fit": true,
+  "no_effect_estimate": true
+}

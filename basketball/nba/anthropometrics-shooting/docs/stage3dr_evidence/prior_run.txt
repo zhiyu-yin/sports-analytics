@@ -1,0 +1,46 @@
+WARNING (pytensor.configdefaults): g++ not detected!  PyTensor will be unable to compile C-implementations and will default to Python. Performance may be severely degraded. To remove this warning, set PyTensor flags cxx to an empty string.
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l1dcachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l2cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l3cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.optional.neon'. Detail: [errno 1] Operation not permitted
+Sampling: [FTA_count, a_0, a_H, a_RW, a_position, a_season, beta_0, beta_H, beta_RW, beta_position, beta_season, chol_cov, log_alpha_FTA, z_player]
+{
+  "started_at": "2026-09-29T01:21:54.062412+00:00",
+  "completed_at": "2026-09-29T01:22:06.817273+00:00",
+  "draws": 5000,
+  "seed": 20260928,
+  "amendment_sha256": "8e273a702e0a811f53f97e0d42cf64133f57e0fc210bc97f578b4cbf4a7635b8",
+  "implied_rate_quantiles": {
+    "0.01": 0.08815650821247341,
+    "0.05": 0.23017329348738508,
+    "0.25": 0.8323043464859503,
+    "0.5": 1.9803786370584557,
+    "0.75": 4.70281436398163,
+    "0.95": 17.20137077857186,
+    "0.99": 45.7533613334645,
+    "0.999": 150.66151345865734
+  },
+  "simulated_FTA_quantiles": {
+    "0.01": 0.0,
+    "0.05": 1.0,
+    "0.25": 16.0,
+    "0.5": 61.0,
+    "0.75": 196.0,
+    "0.95": 944.0,
+    "0.99": 2896.0,
+    "0.999": 10956.0
+  },
+  "maximum_simulated_FTA": 1468920,
+  "maximum_implied_rate": 8404.373411029754,
+  "fraction_rate_above_20": 0.03987656060238037,
+  "fraction_rate_above_50": 0.008516444012630556,
+  "fraction_rate_above_100": 0.002247898955550158,
+  "fraction_simulated_above_1000000": 1.4573718727228564e-07,
+  "all_finite": true,
+  "accuracy_prior_check": {
+    "finite": true,
+    "fraction_below_001": 0.09708125628140704,
+    "fraction_above_099": 0.10028221105527638
+  },
+  "prior_gate_pass": true
+}

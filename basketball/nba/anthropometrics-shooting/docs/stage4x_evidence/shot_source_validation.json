@@ -1,0 +1,113 @@
+{
+  "classification": "SHOT DATA FEASIBILITY BLOCKED",
+  "created_at": "2026-10-01T02:54:54.661042+00:00",
+  "checks": {
+    "player_identity": {
+      "status": "DETERMINISTIC_CANDIDATE_LINKAGE",
+      "unique_shot_players": 1696,
+      "unique_matched_players": 863,
+      "unique_unmatched_players": 833,
+      "ambiguous_ids": 0,
+      "match_rate": 0.5088443396226415,
+      "fuzzy_links_used": 0
+    },
+    "season_identity": {
+      "status": "LABELS_MATCH",
+      "season_label_conflicts": 0,
+      "candidate_seasons": [
+        "2010-11",
+        "2011-12",
+        "2012-13",
+        "2013-14",
+        "2014-15",
+        "2015-16",
+        "2016-17",
+        "2017-18",
+        "2018-19",
+        "2019-20",
+        "2020-21",
+        "2021-22",
+        "2022-23",
+        "2023-24"
+      ]
+    },
+    "made_attempt_counts": {
+      "status": "UNRESOLVED_DISAGREEMENTS",
+      "fgm_player_game_disagreements": 354,
+      "fga_player_game_disagreements": 685,
+      "invalid_made_flags": 0,
+      "event_outcome_conflicts": 0
+    },
+    "zone_labels": {
+      "status": "BLOCKED",
+      "unknown_labels": 0,
+      "zone_shot_type_conflicts": 905,
+      "seasons_with_conflicts": 14
+    },
+    "3pt_reconciliation": {
+      "status": "BLOCKED",
+      "shot_type_based_player_season_3pm_disagreements": 133,
+      "shot_type_based_player_season_3pa_disagreements": 336,
+      "zone_based_including_backcourt_3pm_disagreements": 404,
+      "zone_based_including_backcourt_3pa_disagreements": 988,
+      "evidence": "zone_3pt_reconciliation.csv"
+    },
+    "internal_reconstruction": {
+      "status": "PARTIAL",
+      "zone_sums_equal_record_counts": true,
+      "interpretation": "Record partition check only; zone sums do not certify correctness against shot-type totals."
+    },
+    "duplicate_shots": {
+      "status": "AMBIGUOUS_WITHOUT_EVENT_IDS",
+      "identical_record_excess": 89,
+      "rows_in_duplicate_groups": 175,
+      "interpretation": "Repeated tip attempts can share the exported fields; identical rows are not proven duplicate events. No rows dropped."
+    },
+    "missing_shots": {
+      "status": "UNRESOLVED",
+      "missing_required_fields": 0,
+      "missing_event_count": null,
+      "interpretation": "Some player-game totals disagree; exact missing-event identities cannot be inferred from aggregate differences. Exact agreement elsewhere does not prove event completeness."
+    },
+    "impossible_locations_zones": {
+      "status": "PARTIAL",
+      "gross_location_outside_court": 0,
+      "zone_type_conflicts": 905,
+      "coordinate_caveat": "Archive coordinates are transformed: negative X and Y up to 89.45 contradict README 0-50 claim. Broad physical bounds only; no inferred zone reassignment."
+    },
+    "season_coverage": {
+      "status": "BLOCKED",
+      "candidate_seasons": [
+        "2010-11",
+        "2011-12",
+        "2012-13",
+        "2013-14",
+        "2014-15",
+        "2015-16",
+        "2016-17",
+        "2017-18",
+        "2018-19",
+        "2019-20",
+        "2020-21",
+        "2021-22",
+        "2022-23",
+        "2023-24"
+      ],
+      "eligible_seasons": [],
+      "reason": "No candidate season clears unresolved zone/shot-type inconsistency."
+    }
+  },
+  "data_repairs": 0,
+  "scientific_fits": 0,
+  "phase_4x_b": "NOT_RUN",
+  "phase_4x_c": "NOT_RUN",
+  "phase_4x_d": "NOT_RUN",
+  "official_probe": {
+    "endpoint": "https://stats.nba.com/stats/shotchartdetail",
+    "season": "2023-24",
+    "exit_code": 28,
+    "error": "curl: (28) Operation timed out after 20003 milliseconds with 0 bytes received\n",
+    "web_page": "https://www.nba.com/stats/players/shooting?Season=2023-24&SeasonType=Regular%20Season&DistanceRange=By%20Zone&PerMode=Totals",
+    "web_observation": "Filters and page navigation available; no data table returned in inspected page."
+  }
+}

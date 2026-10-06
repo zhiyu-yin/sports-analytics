@@ -1,0 +1,38 @@
+test_counts (test_audit.AuditTests.test_counts) ... ok
+test_duplicate_id_ambiguous (test_audit.AuditTests.test_duplicate_id_ambiguous) ... ok
+test_empty_is_not_failure (test_audit.AuditTests.test_empty_is_not_failure) ... ok
+test_no_false_name_links (test_audit.AuditTests.test_no_false_name_links) ... ok
+test_placeholder_and_nba_display (test_audit.AuditTests.test_placeholder_and_nba_display) ... ok
+test_short_wingspan_retained (test_audit.AuditTests.test_short_wingspan_retained) ... ok
+test_units (test_audit.AuditTests.test_units) ... ok
+test_all_four_discrepancies_quarantined (test_stage0b.EligibilityTests.test_all_four_discrepancies_quarantined) ... ok
+test_counts_makes_cannot_exceed_attempts (test_stage0b.EligibilityTests.test_counts_makes_cannot_exceed_attempts) ... ok
+test_counts_nonnegative_integer_finite (test_stage0b.EligibilityTests.test_counts_nonnegative_integer_finite) ... ok
+test_duplicate_same_year_rejected (test_stage0b.EligibilityTests.test_duplicate_same_year_rejected) ... ok
+test_exact_id_priority_over_name_conflict (test_stage0b.EligibilityTests.test_exact_id_priority_over_name_conflict) ... ok
+test_invalid_id_not_joined (test_stage0b.EligibilityTests.test_invalid_id_not_joined) ... ok
+test_latest_complete_prior (test_stage0b.EligibilityTests.test_latest_complete_prior) ... ok
+test_latest_incomplete_uses_earlier_complete (test_stage0b.EligibilityTests.test_latest_incomplete_uses_earlier_complete) ... ok
+test_no_name_or_fuzzy_auto_match (test_stage0b.EligibilityTests.test_no_name_or_fuzzy_auto_match) ... ok
+test_only_future_measurement_excluded (test_stage0b.EligibilityTests.test_only_future_measurement_excluded) ... ok
+test_reason_logging_multiple_failures (test_stage0b.EligibilityTests.test_reason_logging_multiple_failures) ... ok
+test_shorter_wingspan_allowed (test_stage0b.EligibilityTests.test_shorter_wingspan_allowed) ... ok
+test_units (test_stage0b.EligibilityTests.test_units) ... ok
+test_unresolved_identity_excluded (test_stage0b.EligibilityTests.test_unresolved_identity_excluded) ... ok
+test_zero_attempts_retained_for_accounting (test_stage0b.EligibilityTests.test_zero_attempts_retained_for_accounting) ... ok
+test_every_roster_candidate_accounted_once (test_stage0b.FrozenEvidenceTests.test_every_roster_candidate_accounted_once) ... ok
+test_frozen_hash_and_source_checksums (test_stage0b.FrozenEvidenceTests.test_frozen_hash_and_source_checksums) ... ok
+test_no_future_measurement (test_stage0b.FrozenEvidenceTests.test_no_future_measurement) ... ok
+test_no_scientific_association_calls_in_pipeline (test_stage0b.FrozenEvidenceTests.test_no_scientific_association_calls_in_pipeline) ... ok
+test_original_names_and_no_residual (test_stage0b.FrozenEvidenceTests.test_original_names_and_no_residual) ... ok
+test_reference_temporally_frozen_unique (test_stage0b.FrozenEvidenceTests.test_reference_temporally_frozen_unique) ... ok
+test_shooting_official_and_internal_checks (test_stage0b.FrozenEvidenceTests.test_shooting_official_and_internal_checks) ... ok
+test_stage0_preserved (test_stage0b.FrozenEvidenceTests.test_stage0_preserved) ... ok
+test_unique_one_row_per_player (test_stage0b.FrozenEvidenceTests.test_unique_one_row_per_player) ... ok
+test_unresolved_crosswalk_links_not_used (test_stage0b.FrozenEvidenceTests.test_unresolved_crosswalk_links_not_used) ... ok
+test_zero_attempt_likelihood_flag (test_stage0b.FrozenEvidenceTests.test_zero_attempt_likelihood_flag) ... ok
+
+----------------------------------------------------------------------
+Ran 33 tests in 0.335s
+
+OK

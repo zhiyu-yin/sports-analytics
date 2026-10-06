@@ -1,0 +1,29 @@
+{
+  "checked_at": "2026-09-30T19:35:52.036962+00:00",
+  "decision_unchanged": true,
+  "no_additional_MCMC": true,
+  "candidates": {
+    "h1": {
+      "exact_match": true,
+      "artifacts": {
+        "conditional_PPC_metrics.csv": "04d9119685755a1e8f4c14acd001249386f24da66d52389a71e0a1e1cc4eae31",
+        "joint_PPC_metrics.csv": "52bb107afbee07a5f53d42c5037449925447575ecdbfa0edf02a4f38de6fea2c",
+        "conditional_accuracy_ppc.json": "b5d86d8a89feecdce64003ea2376479f6bb331a452304f625579edaa6682904a",
+        "joint_opportunity_ppc.json": "30ac58ef9ca2443cc2b90d2f35834463b0db8e6558301c6f2edf368128b1d92a",
+        "latent_factor_parameters.json": "f288ac098d32a8f01de47295ba2e179e2ae5692c5c5cc39ca903972d1e306be2"
+      }
+    },
+    "h2": {
+      "exact_match": true,
+      "artifacts": {
+        "conditional_PPC_metrics.csv": "222de1e9c814b03aca5232e784ef95fb7cc7cf7f027cb09e961c74d7cbef872f",
+        "joint_PPC_metrics.csv": "36b1e4fdd5fe6f0d7acd37ac5c515669bd81f86c3a551e248010fec5e0b9c701",
+        "conditional_accuracy_ppc.json": "70fb157e8ced77e831f622c8abe146b5a3a8787b9f7ca32542365492f3a0f0ab",
+        "joint_opportunity_ppc.json": "d759e8b1b3a61a7708a652f3a837a634562b0913c45d86a0f4f774c7d724690f",
+        "latent_factor_parameters.json": "751e1c16327cc11c7afb6622f1701b045a2066985e5b38e1ea6842e13c37fcec",
+        "within_parameter.json": "8bc91565c39ae085f16d4f29937c3b1dbfcd4f3913a673aacd5ecf94f4ee5f83"
+      }
+    }
+  },
+  "status": "EXACT_SAVED_TRACE_PPC_REPLAY"
+}

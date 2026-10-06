@@ -1,0 +1,153 @@
+{
+  "frozen_at": "2026-09-29T18:16:24.018168+00:00",
+  "candidates": {
+    "F0": "Exact saved failed Stage 3D-R D3; no refit",
+    "F1": "Bernoulli any-FTA on all rows; zero-truncated NB2 on positive rows with coefficient-1 log(GP) offset; unchanged accuracy; noncentered 3D LKJ effects",
+    "F2": "F1 plus Normal(0,.5) theta_B and theta_W in accuracy for frozen realized log1p(FTA/GP) between/within decomposition; independently predeclared regardless of F1 results"
+  },
+  "panel_sha256": "1c34331385e459ac5da67105658730d31d96c8114bd25fcb3b31cea52f1a1871",
+  "rows": 4117,
+  "players": 857,
+  "seasons": 13,
+  "FTA": 469099,
+  "positive_rows": 3980,
+  "excluded_season": "2013-14",
+  "height_center": 77.53028004667445,
+  "positions": [
+    "C",
+    "C-PF",
+    "PF",
+    "PF-C",
+    "PF-SF",
+    "PG",
+    "PG-SG",
+    "SF",
+    "SF-PF",
+    "SF-SG",
+    "SG",
+    "SG-PG",
+    "SG-SF",
+    "unknown"
+  ],
+  "seasons_list": [
+    "2010-11",
+    "2011-12",
+    "2012-13",
+    "2014-15",
+    "2015-16",
+    "2016-17",
+    "2017-18",
+    "2018-19",
+    "2019-20",
+    "2020-21",
+    "2021-22",
+    "2022-23",
+    "2023-24"
+  ],
+  "sampling": {
+    "chains": 4,
+    "tune": 2000,
+    "draws": 2000,
+    "target_accept": 0.95,
+    "seed": 20260928
+  },
+  "recovery": {
+    "max_attempts": 1,
+    "tune": 4000,
+    "draws": 4000,
+    "target_accept": 0.99,
+    "trigger": "Only failed generic sampler diagnostics; no structural simplification"
+  },
+  "diagnostics": {
+    "max_rhat": 1.01,
+    "min_bulk_ESS": 400,
+    "min_tail_ESS": 400,
+    "max_divergences": 0,
+    "max_treedepth_hits": 0,
+    "min_BFMI": 0.3,
+    "finite_covariance": true,
+    "visual_review": true,
+    "sealed_parameter_handling": "Include anonymous convergence diagnostics for the sealed slope; never export its location, scale, interval, sign or posterior probability; no raw trace plot of that parameter"
+  },
+  "PPC": {
+    "draws": 2000,
+    "seed": 20260929,
+    "global_metrics": [
+      "rate_mean",
+      "rate_SD",
+      "rate_q05",
+      "rate_q50",
+      "rate_q95",
+      "rate_zero_fraction",
+      "rate_one_fraction"
+    ],
+    "accuracy_failure_rules": {
+      "pooled_outside_99": true,
+      "global_outside_99_at_least": 3,
+      "season_outside_99_fraction": 0.3333333333333333,
+      "FTA_bin_outside_99_at_least": 2,
+      "systematic_directional_pattern": true
+    },
+    "pattern_definition": "For each bin, bias=replicate mean minus observed. Evidence of direction requires abs(bias)>2.576*MCSE(replica mean), MCSE estimated by 40 consecutive batch means of 50 replicates in chain-major draw order. Both low bins same sign and both high bins opposite sign triggers failure. This is Monte Carlo uncertainty, not posterior predictive interval width.",
+    "joint_failure_rules": {
+      "zero_fraction_outside_99": true,
+      "quantiles": [
+        0.25,
+        0.5,
+        0.75,
+        0.9,
+        0.95
+      ],
+      "quantiles_outside_99_at_least": 3,
+      "season_total_gross_rule": "At least ceil(n_seasons/3) season totals outside 99% predictive intervals in the same direction"
+    },
+    "conditional_accuracy": "Hold observed FTA fixed, using joint posterior",
+    "joint_generation": "Simulate all FTA then FTM conditional on simulated FTA and the same correlated player draw",
+    "opportunity_checks": [
+      "overall distribution",
+      "season distributions/totals",
+      "original-position distributions",
+      "zero fraction",
+      "Q25",
+      "Q50",
+      "Q75",
+      "Q90",
+      "Q95"
+    ],
+    "baseline_policy": "Reuse original 1000 saved D0 replications; no re-evaluation to seek a different baseline outcome"
+  },
+  "positive_count_gate": {
+    "quantiles": [
+      0.25,
+      0.5,
+      0.75
+    ],
+    "fail_at_least": 2,
+    "interval": 0.99
+  },
+  "F2_joint_generation": "Generate all hurdle states and truncated positive FTA, recompute between/within decomposition from that generated panel (including generated zeros), center across unique players, then simulate FTM using the same posterior player effects. Conditional accuracy instead holds observed FTA and decomposition fixed.",
+  "selection": "Typed adequacy Boolean inputs only. F2 all gates plus protocol/firewall pass => RESOLVED; F2 sampler failure => UNRESOLVED; otherwise F1 valid opportunity pass with remaining accuracy failure, or valid F2 accuracy pass but opportunity fail => PARTIALLY RESOLVED; else UNRESOLVED. All other combinations conservatively UNRESOLVED.",
+  "candidate_scientific_model_status": "REQUIRES_ESTIMAND_REVIEW",
+  "scientific_parameter_status": "SEALED",
+  "stage3e_authorized": false,
+  "stage3g_executed": false,
+  "prior_protocol_sha256": "59a342a61a962733a29cce1dedc34cac862d6aa6fba32527fb63e951f8abe6a2",
+  "decomposition_sha256": "c6bda0cabbc2acad6a5b11774998ffbf466720d4019aa53636d36668ed6f7c53",
+  "frozen_code": {
+    "scripts/stage3f_model.py": "ed5b1246c89faf77de23898bff5b4641949ab00fd8b75f11f6966a0eeb59a295",
+    "scripts/stage3f_common.py": "a2f7a34c8f0d2ad7aa06d4ce49af4a369b08c56591b99cd84fd50b1c22f334b5"
+  },
+  "minute_limitation": "Public NBA game-level minute displays and the archived game records agreed at the available whole-second resolution in the audited sample, while small discrepancies remained between summed game displays and NBA season-level decimal minute displays. Because season-level MIN was not the scientific outcome, exposure, or primary model predictor, and because shooting counts and analytical eligibility reconciled, the amended prospective validation protocol treated season-total MIN as an ancillary representation field rather than an exact numerical release gate. The internal NBA aggregation mechanism remains unknown.",
+  "prohibitions": [
+    "scientific coefficient summaries or plots",
+    "new candidates",
+    "new confounders",
+    "MIN predictor",
+    "FTA threshold filtering",
+    "full panel",
+    "measurement refit",
+    "commit",
+    "push",
+    "Stage3G execution"
+  ]
+}

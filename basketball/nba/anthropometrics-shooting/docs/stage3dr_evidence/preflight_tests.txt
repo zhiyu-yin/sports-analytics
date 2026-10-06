@@ -1,0 +1,26 @@
+test_A_historical_failure (test_stage3dr.Stage3DR) ... ok
+test_B_all_history_preserved (test_stage3dr.Stage3DR) ... ok
+test_C_prospective_freeze (test_stage3dr.Stage3DR) ... ok
+test_D_no_previous_D3_posterior (test_stage3dr.Stage3DR) ... ok
+test_E_opportunity_priors (test_stage3dr.Stage3DR) ... ok
+test_F_accuracy_priors_unchanged (test_stage3dr.Stage3DR) ... ok
+test_G_likelihood_structure (test_stage3dr.Stage3DR) ... ok
+test_H_GP_offset (test_stage3dr.Stage3DR) ... ok
+test_I_no_minutes (test_stage3dr.Stage3DR) ... ok
+test_J_not_empirical_prior_calibration (test_stage3dr.Stage3DR) ... ok
+test_K_prior_gates_unchanged (test_stage3dr.Stage3DR) ... ok
+test_L_prior_failure_blocks_fitting (test_stage3dr.Stage3DR) ... ok
+test_M_typed_selection_firewall (test_stage3dr.Stage3DR) ... ok
+test_O_diagnostic_models_cannot_authorize (test_stage3dr.Stage3DR) ... ok
+test_P_only_D3_all_gates (test_stage3dr.Stage3DR) ... ok
+test_Q_conditional_rules_unchanged (test_stage3dr.Stage3DR) ... ok
+test_R_joint_rules_unchanged (test_stage3dr.Stage3DR) ... ok
+test_S_2013_excluded (test_stage3dr.Stage3DR) ... ok
+test_T_panel_hash (test_stage3dr.Stage3DR) ... ok
+test_U_no_threshold (test_stage3dr.Stage3DR) ... ok
+test_V_no_new_confounders (test_stage3dr.Stage3DR) ... ok
+
+----------------------------------------------------------------------
+Ran 21 tests in 1.737s
+
+OK

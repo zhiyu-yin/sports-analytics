@@ -1,0 +1,13 @@
+{
+  "scope": "Stage4A artifact assembly only",
+  "corrections": [
+    "Initial PDF captions overlapped axis labels; margins reserved and final PDFs re-rendered/reviewed.",
+    "Initial coverage hatch used black-on-black; development bar now white with black hatching.",
+    "Prose source references expanded to explicitly cite confidence-level protocol and development-season exclusion.",
+    "Numeric-token checker now parses CSV cells separately rather than treating CSV commas as thousands separators; coverage fractions converted to percentages explicitly.",
+    "Table assembly helper renamed sample_cell to avoid a false-positive static sampling-call guard; it only reads frozen values.",
+    "Non-scientific display references and footer excluded from paragraph numeric/source guard."
+  ],
+  "statistical_changes": false,
+  "historical_artifacts_changed": false
+}

@@ -1,0 +1,165 @@
+{
+  "frozen_at": "2026-09-30T18:50:44.821788+00:00",
+  "new_structural_model": true,
+  "not_equivalent_to_F2": true,
+  "candidates": {
+    "H1": "One standardized opportunity factor shared by hurdle and positive counts; correlated accuracy effect plus independent residual; no realized opportunity in accuracy",
+    "H2": "H1 plus the original frozen within-player opportunity deviation; no between-player term"
+  },
+  "candidate_order": [
+    "H1",
+    "H2"
+  ],
+  "latent_formula": "u=sigma_accuracy*(rho_AO*o+sqrt(1-rho_AO^2)*e); positive effect=sigma_opportunity*o; hurdle effect=lambda_h*o",
+  "factor_sign_anchor": "sigma_opportunity>0",
+  "hurdle_loading_unconstrained": true,
+  "theta_B_absent": true,
+  "panel_sha256": "1c34331385e459ac5da67105658730d31d96c8114bd25fcb3b31cea52f1a1871",
+  "rows": 4117,
+  "players": 857,
+  "seasons": 13,
+  "FTA": 469099,
+  "positive_rows": 3980,
+  "zero_rows": 137,
+  "positions": [
+    "C",
+    "C-PF",
+    "PF",
+    "PF-C",
+    "PF-SF",
+    "PG",
+    "PG-SG",
+    "SF",
+    "SF-PF",
+    "SF-SG",
+    "SG",
+    "SG-PG",
+    "SG-SF",
+    "unknown"
+  ],
+  "seasons_list": [
+    "2010-11",
+    "2011-12",
+    "2012-13",
+    "2014-15",
+    "2015-16",
+    "2016-17",
+    "2017-18",
+    "2018-19",
+    "2019-20",
+    "2020-21",
+    "2021-22",
+    "2022-23",
+    "2023-24"
+  ],
+  "height_center": 77.53028004667445,
+  "GP_offset_coefficient": 1,
+  "sampling": {
+    "chains": 4,
+    "tune": 2000,
+    "draws": 2000,
+    "target_accept": 0.95,
+    "random_seed": 20260930
+  },
+  "recovery": {
+    "tune": 4000,
+    "draws": 4000,
+    "target_accept": 0.99
+  },
+  "max_recoveries": 1,
+  "diagnostics": {
+    "max_rhat": 1.01,
+    "min_bulk_ESS": 400,
+    "min_tail_ESS": 400,
+    "max_divergences": 0,
+    "max_treedepth_hits": 0,
+    "min_BFMI": 0.3,
+    "finite_covariance": true,
+    "visual_review": true,
+    "sealed_parameter_handling": "Include anonymous convergence diagnostics for the sealed slope; never export its location, scale, interval, sign or posterior probability; no raw trace plot of that parameter"
+  },
+  "all_latent_elements_checked": true,
+  "PPC": {
+    "draws": 2000,
+    "seed": 20260930,
+    "global_metrics": [
+      "rate_mean",
+      "rate_SD",
+      "rate_q05",
+      "rate_q50",
+      "rate_q95",
+      "rate_zero_fraction",
+      "rate_one_fraction"
+    ],
+    "accuracy_failure_rules": {
+      "pooled_outside_99": true,
+      "global_outside_99_at_least": 3,
+      "season_outside_99_fraction": 0.3333333333333333,
+      "FTA_bin_outside_99_at_least": 2,
+      "systematic_directional_pattern": true
+    },
+    "pattern_definition": "For each bin, bias=replicate mean minus observed. Evidence of direction requires abs(bias)>2.576*MCSE(replica mean), MCSE estimated by 40 consecutive batch means of 50 replicates in chain-major draw order. Both low bins same sign and both high bins opposite sign triggers failure. This is Monte Carlo uncertainty, not posterior predictive interval width.",
+    "joint_failure_rules": {
+      "zero_fraction_outside_99": true,
+      "quantiles": [
+        0.25,
+        0.5,
+        0.75,
+        0.9,
+        0.95
+      ],
+      "quantiles_outside_99_at_least": 3,
+      "season_total_gross_rule": "At least ceil(n_seasons/3) season totals outside 99% predictive intervals in the same direction"
+    },
+    "conditional_accuracy": "Hold observed FTA fixed, using joint posterior",
+    "joint_generation": "Simulate all FTA then FTM conditional on simulated FTA and the same correlated player draw",
+    "opportunity_checks": [
+      "overall distribution",
+      "season distributions/totals",
+      "original-position distributions",
+      "zero fraction",
+      "Q25",
+      "Q50",
+      "Q75",
+      "Q90",
+      "Q95"
+    ],
+    "baseline_policy": "Reuse original 1000 saved D0 replications; no re-evaluation to seek a different baseline outcome"
+  },
+  "positive_count_gate": {
+    "quantiles": [
+      0.25,
+      0.5,
+      0.75
+    ],
+    "fail_at_least": 2,
+    "interval": 0.99
+  },
+  "H2_joint_generation": "Generate FTA with the same posterior latent factor, recompute within by the exact frozen decomposition function, then generate FTM; conditional PPC holds observed FTA/within fixed",
+  "selection": "H1 sampler fail after recovery => C and stop; H1 all gates pass => A and stop; H1 sampler pass plus PPC failure => H2; H2 all gates pass => B; any H2 failure => D, following explicit section 22; no H3",
+  "prior_failure": "Stop without posterior fits or tuning; D prerequisite failure, not an observed PPC or sampler failure",
+  "prior_protocol_sha256": "d3906fbb496005d77f9390b7f3a2bdf05d8811e3f018b509deff92580ac135dc",
+  "decomposition_csv_sha256": "2412df80bf520b5dd90b2dc71365651647c59d44bd676de5115a056385bdb1ac",
+  "decomposition_metadata_sha256": "c6bda0cabbc2acad6a5b11774998ffbf466720d4019aa53636d36668ed6f7c53",
+  "frozen_code": {
+    "scripts/stage3h_common.py": "6f91168e4977de3bbb64541a16dc7add272837501eafbe6c1c12b5acd54b46c6",
+    "scripts/stage3h_model.py": "e03234272e079682f833026371682ecee99044f40217c5980490b5644a9d539f",
+    "scripts/stage3h_freeze.py": "6528f180490fe8f226e332a1c30669ac0e0f79b1b707a2ce74c8da99eaf9586a",
+    "scripts/stage3h_run.py": "59525526f9130a5f8c0ed91f6bcf378855075aec2ab34667d538f367be14dc5d",
+    "scripts/stage3h_selection.py": "d349bf07e590141e275791891c11bbf9ebd11cae618e3a6f1db9dc7747b684ef",
+    "scripts/stage3h_sampling.py": "1a472b80da215146697ef8aece30888821401d26bb82b0faabaa6501fe2c2554",
+    "scripts/stage3h_ppc.py": "ae4a82e0f42007bce14cb8b01319fa24393c99a9312aff3d1f65bd50c5b62c4b",
+    "scripts/stage3h_prior.py": "65e5d9e9fb6d00e2fd8be9cabd76ba272e8196a81391dcfac44f3ad0afb5f768",
+    "scripts/stage3f_common.py": "a2f7a34c8f0d2ad7aa06d4ce49af4a369b08c56591b99cd84fd50b1c22f334b5",
+    "scripts/stage3f_model.py": "ed5b1246c89faf77de23898bff5b4641949ab00fd8b75f11f6966a0eeb59a295",
+    "scripts/stage3d_model.py": "a3c1afed6d912b9e4926040315297152dbebb55d4b6ef3105b8fd77feb5a3c97",
+    "scripts/stage3d_protocol.py": "2505ef0f76dca81088a1947495acd16e3f1b181e8fa81ff2a3162de6a3e014f6",
+    "scripts/stage3d_selection.py": "8768edc64079ac70ed396dc53c447a19292484d677f0abe79e1c917e891da918",
+    "scripts/stage3dr_ppc.py": "554688672c3c05ab2b0b4d0b98fd086e9a0baba1f1401d78e801d27d48ed3907",
+    "scripts/stage3c_results.py": "8cd5d13861d75dcd0cfe992977888bc95c375c3bef99ff32f24041330a8fd514"
+  },
+  "scientific_parameter_status": "SEALED",
+  "stage3g_executed": false,
+  "no_commit": true,
+  "no_push": true
+}

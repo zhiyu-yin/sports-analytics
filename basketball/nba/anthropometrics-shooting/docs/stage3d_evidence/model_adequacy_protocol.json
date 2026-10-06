@@ -1,0 +1,393 @@
+{
+  "frozen_at": "2026-09-29T00:40:57.933949+00:00",
+  "purpose": "Attempt-volume/model-adequacy investigation, not a new scientific exposure test",
+  "primary_panel_sha256": "1c34331385e459ac5da67105658730d31d96c8114bd25fcb3b31cea52f1a1871",
+  "accounting": {
+    "seasons": 13,
+    "rows": 4117,
+    "players": 857,
+    "FTA": 469099,
+    "positive_FTA": 3980,
+    "zero_FTA": 137
+  },
+  "height_center": 77.53028004667445,
+  "log1p_FTA_center": 4.030428177092034,
+  "center_population": "All 4117 primary accounting rows including zero FTA; outcomes not used",
+  "positions": [
+    "C",
+    "C-PF",
+    "PF",
+    "PF-C",
+    "PF-SF",
+    "PG",
+    "PG-SG",
+    "SF",
+    "SF-PF",
+    "SF-SG",
+    "SG",
+    "SG-PG",
+    "SG-SF",
+    "unknown"
+  ],
+  "position_reference": "C",
+  "seasons": [
+    "2010-11",
+    "2011-12",
+    "2012-13",
+    "2014-15",
+    "2015-16",
+    "2016-17",
+    "2017-18",
+    "2018-19",
+    "2019-20",
+    "2020-21",
+    "2021-22",
+    "2022-23",
+    "2023-24"
+  ],
+  "season_reference": "2010-11",
+  "frozen_exposure": {
+    "intercept": 4.574910520685837,
+    "slope": 1.0013410045156863,
+    "refitted": false
+  },
+  "bins": [
+    [
+      1,
+      9,
+      "1-9"
+    ],
+    [
+      10,
+      49,
+      "10-49"
+    ],
+    [
+      50,
+      99,
+      "50-99"
+    ],
+    [
+      100,
+      299,
+      "100-299"
+    ],
+    [
+      300,
+      null,
+      "300+"
+    ]
+  ],
+  "candidates": {
+    "D0": {
+      "definition": "Exact failed Stage 3C; reuse saved diagnostics/PPC without refitting",
+      "eligible": false
+    },
+    "D1": {
+      "definition": "Stage 3C accuracy mean plus gamma_FTA * centered_log1p_FTA",
+      "eligible": false,
+      "priors": {
+        "shared_accuracy": {
+          "intercept": [
+            "Normal",
+            0,
+            2.5
+          ],
+          "residual_wingspan_slope": [
+            "Normal",
+            0,
+            0.5
+          ],
+          "height_slope": [
+            "Normal",
+            0,
+            0.5
+          ],
+          "position": [
+            "Normal",
+            0,
+            1
+          ],
+          "season": [
+            "Normal",
+            0,
+            1
+          ],
+          "log_kappa": [
+            "Normal",
+            3,
+            2
+          ]
+        },
+        "sigma_player": [
+          "HalfNormal",
+          1
+        ],
+        "gamma_FTA": [
+          "Normal",
+          0,
+          0.5
+        ]
+      },
+      "sampling": {
+        "chains": 4,
+        "tune": 1500,
+        "draws": 1500,
+        "target_accept": 0.95,
+        "seed": 20260928
+      }
+    },
+    "D2": {
+      "definition": "Unchanged Stage 3C accuracy mean; log(kappa_it)=gamma_0 + gamma_k * centered_log1p_FTA",
+      "eligible": false,
+      "priors": {
+        "shared_accuracy": {
+          "intercept": [
+            "Normal",
+            0,
+            2.5
+          ],
+          "residual_wingspan_slope": [
+            "Normal",
+            0,
+            0.5
+          ],
+          "height_slope": [
+            "Normal",
+            0,
+            0.5
+          ],
+          "position": [
+            "Normal",
+            0,
+            1
+          ],
+          "season": [
+            "Normal",
+            0,
+            1
+          ]
+        },
+        "sigma_player": [
+          "HalfNormal",
+          1
+        ],
+        "gamma_0": [
+          "Normal",
+          3,
+          2
+        ],
+        "gamma_k": [
+          "Normal",
+          0,
+          0.5
+        ]
+      },
+      "sampling": {
+        "chains": 4,
+        "tune": 1500,
+        "draws": 1500,
+        "target_accept": 0.95,
+        "seed": 20260928
+      }
+    },
+    "D3": {
+      "definition": "Joint NegativeBinomial FTA with fixed log(GP) offset and BetaBinomial FTM|FTA; correlated non-centered player opportunity/accuracy intercepts",
+      "eligible": true,
+      "accuracy_rows": 3980,
+      "opportunity_rows": 4117,
+      "accuracy_priors": {
+        "intercept": [
+          "Normal",
+          0,
+          2.5
+        ],
+        "residual_wingspan_slope": [
+          "Normal",
+          0,
+          0.5
+        ],
+        "height_slope": [
+          "Normal",
+          0,
+          0.5
+        ],
+        "position": [
+          "Normal",
+          0,
+          1
+        ],
+        "season": [
+          "Normal",
+          0,
+          1
+        ],
+        "log_kappa": [
+          "Normal",
+          3,
+          2
+        ]
+      },
+      "opportunity_priors": {
+        "a_0": [
+          "Normal",
+          0,
+          2.5
+        ],
+        "a_RW": [
+          "Normal",
+          0,
+          0.5
+        ],
+        "a_H": [
+          "Normal",
+          0,
+          0.5
+        ],
+        "a_position": [
+          "Normal",
+          0,
+          1
+        ],
+        "a_season": [
+          "Normal",
+          0,
+          1
+        ],
+        "alpha_FTA": [
+          "HalfNormal",
+          5
+        ]
+      },
+      "random_effects": {
+        "construction": "LKJCholeskyCov; [u,v]=z @ chol.T; rows=players, columns=[accuracy,opportunity]",
+        "eta": 2,
+        "SD_priors": [
+          "HalfNormal",
+          1
+        ],
+        "noncentered": true
+      },
+      "sampling": {
+        "chains": 4,
+        "tune": 2000,
+        "draws": 2000,
+        "target_accept": 0.95,
+        "seed": 20260928
+      },
+      "recovery": {
+        "max_runs": 1,
+        "target_accept": 0.99,
+        "tune": 4000,
+        "draws": 4000,
+        "trigger": "Generic sampler diagnostic failure only"
+      }
+    }
+  },
+  "prior_predictive": {
+    "draws": 2000,
+    "seed": 20260928,
+    "order": [
+      "D1",
+      "D2",
+      "D3"
+    ],
+    "all_prior_checks_before_any_posterior": true,
+    "accuracy_gate": "Same gross screen as Stage 3C: all mu finite; at most 25% below .01 and at most 25% above .99",
+    "opportunity_gate": {
+      "all_finite_nonnegative_integer": true,
+      "max_fraction_implied_rate_over_100_per_game": 0.01,
+      "max_fraction_simulated_count_over_1000000": 0.001
+    },
+    "rationale": "100 expected FTA per player per game is an intentionally very generous gross-scale bound, not an empirical NBA record or a fit target. More than 1% prior mass above that sustained rate, or more than 0.1% simulated seasons above one million attempts, is grossly implausible. Neither bound is derived from the observed accuracy association.",
+    "failure_action": "STOP before any outcome posterior fitting. Retain the suggested priors and record the failure; no automatic prior amendment in this run."
+  },
+  "diagnostics": {
+    "max_rhat": 1.01,
+    "min_bulk_ESS": 400,
+    "min_tail_ESS": 400,
+    "max_divergences": 0,
+    "max_treedepth_hits": 0,
+    "min_BFMI": 0.3,
+    "finite_covariance": true,
+    "visual_review": true,
+    "sealed_parameter_handling": "Include anonymous convergence diagnostics for the sealed slope; never export its location, scale, interval, sign or posterior probability; no raw trace plot of that parameter"
+  },
+  "PPC": {
+    "draws": 2000,
+    "seed": 20260929,
+    "global_metrics": [
+      "rate_mean",
+      "rate_SD",
+      "rate_q05",
+      "rate_q50",
+      "rate_q95",
+      "rate_zero_fraction",
+      "rate_one_fraction"
+    ],
+    "accuracy_failure_rules": {
+      "pooled_outside_99": true,
+      "global_outside_99_at_least": 3,
+      "season_outside_99_fraction": 0.3333333333333333,
+      "FTA_bin_outside_99_at_least": 2,
+      "systematic_directional_pattern": true
+    },
+    "pattern_definition": "For each bin, bias=replicate mean minus observed. Evidence of direction requires abs(bias)>2.576*MCSE(replica mean), MCSE estimated by 40 consecutive batch means of 50 replicates in chain-major draw order. Both low bins same sign and both high bins opposite sign triggers failure. This is Monte Carlo uncertainty, not posterior predictive interval width.",
+    "joint_failure_rules": {
+      "zero_fraction_outside_99": true,
+      "quantiles": [
+        0.25,
+        0.5,
+        0.75,
+        0.9,
+        0.95
+      ],
+      "quantiles_outside_99_at_least": 3,
+      "season_total_gross_rule": "At least ceil(n_seasons/3) season totals outside 99% predictive intervals in the same direction"
+    },
+    "conditional_accuracy": "Hold observed FTA fixed, using joint posterior",
+    "joint_generation": "Simulate all FTA then FTM conditional on simulated FTA and the same correlated player draw",
+    "opportunity_checks": [
+      "overall distribution",
+      "season distributions/totals",
+      "original-position distributions",
+      "zero fraction",
+      "Q25",
+      "Q50",
+      "Q75",
+      "Q90",
+      "Q95"
+    ],
+    "baseline_policy": "Reuse original 1000 saved D0 replications; no re-evaluation to seek a different baseline outcome"
+  },
+  "selection": {
+    "only_eligible": "D3",
+    "inputs": "Typed gate booleans/counts only; no parameter summaries or traces",
+    "requires": [
+      "prior_pass",
+      "sampler_pass",
+      "conditional_accuracy_pass",
+      "joint_opportunity_pass",
+      "no_posthoc_change",
+      "firewall_intact"
+    ],
+    "D1_D2_diagnostic_only": true,
+    "add_candidates_after_results": false,
+    "scientific_parameter_status": "SEALED_PENDING_STAGE3E"
+  },
+  "prohibitions": [
+    "full_panel",
+    "2013-14",
+    "FTA_threshold_filter",
+    "alternate_exposure",
+    "grouped_position",
+    "leave_one_season_out",
+    "new_confounders",
+    "minutes_predictor",
+    "scientific_effect_unsealing",
+    "Stage3E_execution"
+  ],
+  "minute_limitation": "Public NBA game-level minute displays and the archived game records agreed at the available whole-second resolution in the audited sample, while small discrepancies remained between summed game displays and NBA season-level decimal minute displays. Because season-level MIN was not the scientific outcome, exposure, or primary model predictor, and because shooting counts and analytical eligibility reconciled, the amended prospective validation protocol treated season-total MIN as an ancillary representation field rather than an exact numerical release gate. The internal NBA aggregation mechanism remains unknown.",
+  "prior_amendments": [],
+  "prior_stage3c_status": "EXECUTION FAIL \u2014 PRIMARY PPC ADEQUACY GATE FAILED"
+}

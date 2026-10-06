@@ -1,0 +1,44 @@
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l1dcachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l2cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l3cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.optional.neon'. Detail: [errno 1] Operation not permitted
+test_A_historical_unchanged (test_stage3j.TestStage3J) ... ok
+test_B_primary_hash (test_stage3j.TestStage3J) ... ok
+test_C_full_hash (test_stage3j.TestStage3J) ... ok
+test_D_development_excluded (test_stage3j.TestStage3J) ... ok
+test_E_residual_exact (test_stage3j.TestStage3J) ... ok
+test_F_formula (test_stage3j.TestStage3J) ... ok
+test_G_no_random_effect (test_stage3j.TestStage3J) ... ok
+test_H_no_opportunity_model (test_stage3j.TestStage3J) ... ok
+test_I_no_FTA_predictor (test_stage3j.TestStage3J) ... ok
+test_J_no_MIN_predictor (test_stage3j.TestStage3J) ... ok
+test_K_no_new_confounders (test_stage3j.TestStage3J) ... ok
+test_L_player_clustering (test_stage3j.TestStage3J) ... ok
+test_M_grouped_counts (test_stage3j.TestStage3J) ... ok
+test_N_makes_no_more_than_attempts (test_stage3j.TestStage3J) ... ok
+test_O_zero_accounting (test_stage3j.TestStage3J) ... ok
+test_P_independent_sandwich (test_stage3j.TestStage3J) ... ok
+test_Q_player_sampling (test_stage3j.TestStage3J) ... ok
+test_R_full_clusters_seed_and_failure_policy (test_stage3j.TestStage3J) ... FAIL
+test_S_primary_before_sensitivities (test_stage3j.TestStage3J) ... ok
+test_T_J2_secondary_and_likelihood (test_stage3j.TestStage3J) ... ok
+test_U_first_season_selection (test_stage3j.TestStage3J) ... ok
+test_V_thresholds (test_stage3j.TestStage3J) ... ok
+test_W_no_post_result_tuning (test_stage3j.TestStage3J) ... ok
+test_X_full_after_primary (test_stage3j.TestStage3J) ... ok
+test_Y_associational_interpretation (test_stage3j.TestStage3J) ... ok
+
+======================================================================
+FAIL: test_R_full_clusters_seed_and_failure_policy (test_stage3j.TestStage3J)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/zhiyuyin/Documents/last time job hunting material/proj/sports-analytics/basketball/nba/anthropometrics-shooting/tests/test_stage3j.py", line 61, in test_R_full_clusters_seed_and_failure_policy
+    f=pd.read_csv(E/(tag+'_player_bootstrap.csv'));self.assertEqual(f.replicate.tolist(),list(range(1,2001)));self.assertTrue((f.loc[f.status=='PASS','draws']==857).all());s=read(E/(tag+'_bootstrap_summary.json'));recomputed=boot_summary(f,s['seed']);np.testing.assert_allclose([s['mean'],s['SD'],*s['percentile_CI'],s['fraction_beta_negative']],[recomputed['mean'],recomputed['SD'],*recomputed['percentile_CI'],recomputed['fraction_beta_negative']],rtol=1e-12,atol=1e-14);self.assertEqual(s['failed'],recomputed['failed']);self.assertLessEqual(s['failed'],20)
+AssertionError: 299 not less than or equal to 20
+
+----------------------------------------------------------------------
+Ran 25 tests in 6.762s
+
+FAILED (failures=1)
+
+Stage 3J FAIL: J2 numerical bootstrap gate; primary J1 PASS

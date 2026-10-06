@@ -1,0 +1,16 @@
+{
+  "candidate": "H2",
+  "attempt": 1,
+  "started_at": "2026-09-30T19:14:39.682990+00:00",
+  "settings": {
+    "chains": 4,
+    "tune": 2000,
+    "draws": 2000,
+    "target_accept": 0.95,
+    "random_seed": 20260930
+  },
+  "status": "COMPLETE",
+  "protocol_sha256": "82d16b186fae8f9038c9ae91b03053de42bc91b3d2b0abb244dff7ad7255b2cd",
+  "completed_at": "2026-09-30T19:31:27.983246+00:00",
+  "trace_sha256": "823b7f358dd347cfd9400040e5dc0074760f8a303e3afaeff086deac99abf1ed"
+}

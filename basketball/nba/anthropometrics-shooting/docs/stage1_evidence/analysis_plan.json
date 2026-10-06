@@ -1,0 +1,16 @@
+{
+  "primary_exposure": "residual_wingspan",
+  "outcome": "FTM out of FTA, grouped binomial logit",
+  "formulas": ["1 + residual_wingspan", "1 + residual_wingspan + height", "1 + residual_wingspan + height + original_position"],
+  "likelihood": "all FTA > 0; no minimum attempt threshold",
+  "position": "original labels, missing unknown; alphabetically first observed category C reference; hybrids distinct; unobserved levels omitted only in secondary subsets",
+  "bins": "quintiles of all 311 residuals using linear quantile interpolation, before inspecting shooting association",
+  "marginal_predictions": "Q25 and Q75 of all 311 residuals; equal-player average over 299 likelihood players, other covariates observed",
+  "confidence_intervals": "95% normal Wald; unscaled model-based binomial covariance; delta method for marginal probabilities and paired contrasts; conditional on frozen geometric fit",
+  "sd_scaling": "sample SD (ddof=1) among 311 candidates",
+  "dispersion": "Pearson chi-square / residual df; substantial if > 1.5; do not change primary family",
+  "diagnostic_stop": "nonconvergence, rank deficiency, nonfinite covariance, or separation not ruled out by full-rank mixed-success/failure rows; investigate before policy changes",
+  "leverage": "report hat > 2p/n; singleton category hat=1 expected, deletion diagnostics undefined; retain if finite identifiable fit",
+  "secondary": {"exposures": ["wingspan_advantage", "wingspan_ratio"], "FTA_thresholds": [50, 100]},
+  "model3": "not run — prerequisite not validated"
+}

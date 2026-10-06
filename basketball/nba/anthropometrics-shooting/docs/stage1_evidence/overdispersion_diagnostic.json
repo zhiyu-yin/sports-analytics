@@ -1,0 +1,33 @@
+{
+  "rule": "Pearson chi-square / residual df > 1.5",
+  "models": {
+    "M0": {
+      "dispersion": 7.618073354186252,
+      "substantial": true
+    },
+    "M1": {
+      "dispersion": 6.168417273670685,
+      "substantial": true
+    },
+    "M2": {
+      "dispersion": 5.561569929184411,
+      "substantial": true
+    },
+    "wingspan_advantage": {
+      "dispersion": 5.5615699291844285,
+      "substantial": true
+    },
+    "wingspan_ratio": {
+      "dispersion": 5.56946336367111,
+      "substantial": true
+    },
+    "FTA50": {
+      "dispersion": 6.991833539249852,
+      "substantial": true
+    },
+    "FTA100": {
+      "dispersion": 8.557115954000151,
+      "substantial": true
+    }
+  }
+}

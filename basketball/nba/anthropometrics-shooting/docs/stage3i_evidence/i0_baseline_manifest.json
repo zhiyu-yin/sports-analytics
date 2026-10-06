@@ -1,0 +1,26 @@
+{
+  "source": "Exact saved H2; no refit or new PPC",
+  "files": {
+    "docs/stage3h_evidence/h2_diagnostics.json": {
+      "sha256": "4ba64060e44adfc9d5c157292ee185c2720edcc328b10c7d6f3d24ebae076b83",
+      "copy": "docs/stage3i_evidence/i0_diagnostics.json"
+    },
+    "docs/stage3h_evidence/h2_conditional_accuracy_ppc.json": {
+      "sha256": "70fb157e8ced77e831f622c8abe146b5a3a8787b9f7ca32542365492f3a0f0ab",
+      "copy": "docs/stage3i_evidence/i0_conditional_accuracy_ppc.json"
+    },
+    "docs/stage3h_evidence/h2_joint_opportunity_ppc.json": {
+      "sha256": "d759e8b1b3a61a7708a652f3a837a634562b0913c45d86a0f4f774c7d724690f",
+      "copy": "docs/stage3i_evidence/i0_joint_opportunity_ppc.json"
+    },
+    "docs/stage3h_evidence/h2_conditional_PPC_metrics.csv": {
+      "sha256": "222de1e9c814b03aca5232e784ef95fb7cc7cf7f027cb09e961c74d7cbef872f",
+      "copy": "docs/stage3i_evidence/i0_conditional_PPC_metrics.csv"
+    },
+    "docs/stage3h_evidence/h2_joint_PPC_metrics.csv": {
+      "sha256": "36b1e4fdd5fe6f0d7acd37ac5c515669bd81f86c3a551e248010fec5e0b9c701",
+      "copy": "docs/stage3i_evidence/i0_joint_PPC_metrics.csv"
+    }
+  },
+  "trace_sha256": "823b7f358dd347cfd9400040e5dc0074760f8a303e3afaeff086deac99abf1ed"
+}

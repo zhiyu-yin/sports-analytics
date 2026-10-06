@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "required_artifacts_checked": 21,
+  "historical_artifacts_verified": 1323,
+  "protocol_scientific_fields_unchanged": true,
+  "primary_result_unchanged": true,
+  "coverage_exact_copy": true,
+  "J2_invalid_interval_withheld": true,
+  "all_4000_scheduled_replicates_recorded": true,
+  "all_13_season_omissions_recorded": true,
+  "report_sections": 27,
+  "verified_at": "2026-10-01T01:02:33.198163+00:00"
+}

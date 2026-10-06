@@ -1,0 +1,23 @@
+{
+  "season": "2013-14",
+  "player_game_keys": 31378,
+  "games": 1230,
+  "roster_players": 487,
+  "all_player_totals_reconstruct_exactly": true,
+  "zero_minute_nonzero_count_rows": 0,
+  "official_aggregate_scope": "Golden State only; league-wide official total unavailable",
+  "GSW_official_totals": {
+    "FTM": 1303,
+    "FTA": 1731,
+    "FG3M": 774,
+    "FG3A": 2037
+  },
+  "GSW_archive_totals": {
+    "FTM": 1303,
+    "FTA": 1731,
+    "FG3M": 774,
+    "FG3A": 2037
+  },
+  "GSW_exact_match": true,
+  "official_source": "https://ak-static-int.nba.com/wp-content/uploads/sites/3/2016/10/2016-17-Media-Guide-Warriors.pdf#page=137"
+}

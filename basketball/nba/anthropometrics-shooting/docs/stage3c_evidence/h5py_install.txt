@@ -1,0 +1,9 @@
+Collecting h5py==3.14.0
+  Downloading h5py-3.14.0-cp310-cp310-macosx_11_0_arm64.whl (2.8 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2.8/2.8 MB 6.5 MB/s eta 0:00:00
+Requirement already satisfied: numpy>=1.19.3 in ./basketball/nba/anthropometrics-shooting/models/stage3c/environment/lib/python3.10/site-packages (from h5py==3.14.0) (2.2.6)
+Installing collected packages: h5py
+Successfully installed h5py-3.14.0
+
+[notice] A new release of pip available: 22.2.2 -> 26.2.1
+[notice] To update, run: /Users/zhiyuyin/Documents/last time job hunting material/proj/sports-analytics/basketball/nba/anthropometrics-shooting/models/stage3c/environment/bin/python -m pip install --upgrade pip

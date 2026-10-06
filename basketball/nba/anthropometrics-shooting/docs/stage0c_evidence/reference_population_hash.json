@@ -1,0 +1,7 @@
+{
+  "original_path": "data/interim/residual_reference_pre2013.csv",
+  "snapshot_path": "data/interim/stage0c_reference_membership.csv",
+  "sha256": "14537d9c1cec20b388fc2cf5c86d7ea9ec2e435117c62da499f2b2fa2820d85a",
+  "matches_stage0b": true,
+  "canonical_membership_sha256": "38f6bec18216fc2c3430b2b4facf1477533181c2b934e7a3d0f3a88e5f02c4c1"
+}

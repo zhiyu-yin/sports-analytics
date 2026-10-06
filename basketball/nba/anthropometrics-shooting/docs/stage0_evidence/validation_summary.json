@@ -1,0 +1,10 @@
+{
+  "unit_tests_passed": 7,
+  "evidence_invariants": "passed",
+  "raw_manifest_checksums_verified": 25,
+  "report_sections": 24,
+  "prototype_rows": 12,
+  "tracked_existing_file_changes": 0,
+  "models_fitted": false,
+  "commit_or_push_performed": false
+}

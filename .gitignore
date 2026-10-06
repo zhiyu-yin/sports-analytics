@@ -55,3 +55,10 @@ logs/
 
 # Derived evaluation datasets also exist under replay evidence folders
 *.parquet
+
+# Alternate local environments and opaque sampler outputs
+.venv*/
+*.nc
+*.netcdf
+*.npz
+*.npy

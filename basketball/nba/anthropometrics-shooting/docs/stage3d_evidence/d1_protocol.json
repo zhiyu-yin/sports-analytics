@@ -1,0 +1,56 @@
+{
+  "frozen_at": "2026-09-29T00:40:57.933949+00:00",
+  "parent_protocol_sha256": "8be5e5b796396ae0edc5d01ba5c1a6b62ceb0928aae6f47d7f0180595b3ea703",
+  "definition": "Stage 3C accuracy mean plus gamma_FTA * centered_log1p_FTA",
+  "eligible": false,
+  "priors": {
+    "shared_accuracy": {
+      "intercept": [
+        "Normal",
+        0,
+        2.5
+      ],
+      "residual_wingspan_slope": [
+        "Normal",
+        0,
+        0.5
+      ],
+      "height_slope": [
+        "Normal",
+        0,
+        0.5
+      ],
+      "position": [
+        "Normal",
+        0,
+        1
+      ],
+      "season": [
+        "Normal",
+        0,
+        1
+      ],
+      "log_kappa": [
+        "Normal",
+        3,
+        2
+      ]
+    },
+    "sigma_player": [
+      "HalfNormal",
+      1
+    ],
+    "gamma_FTA": [
+      "Normal",
+      0,
+      0.5
+    ]
+  },
+  "sampling": {
+    "chains": 4,
+    "tune": 1500,
+    "draws": 1500,
+    "target_accept": 0.95,
+    "seed": 20260928
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "fixture_seed": 123943,
+  "rows": 1000,
+  "methods": "hybr|Newton-CG|hybr",
+  "score_max": 5.8761884247360285e-12,
+  "finite_covariance": true,
+  "completed_at": "2026-10-01T01:18:58.359024+00:00"
+}

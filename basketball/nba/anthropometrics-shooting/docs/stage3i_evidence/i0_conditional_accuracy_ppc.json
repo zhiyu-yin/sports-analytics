@@ -1,0 +1,78 @@
+{
+  "candidate": "H2",
+  "replicates": 2000,
+  "seed": 20260930,
+  "pooled_rate_99_pass": true,
+  "global_metrics_99_fail_count": 1,
+  "season_rate_99_fail_count": 0,
+  "season_count": 13,
+  "FTA_bin_99_fail_count": 0,
+  "systematic_volume_pattern": true,
+  "gate_pass": false,
+  "pooled_rate": {
+    "metric": "pooled_rate",
+    "observed": 0.7674307555547976,
+    "replicated_mean": 0.7667618796885092,
+    "predictive_99_low": 0.763533134796706,
+    "predictive_99_high": 0.7700744405765094,
+    "outside_99": false,
+    "MCSE_mean": 3.315784372081484e-05
+  },
+  "bin_checks": [
+    {
+      "metric": "FTA_1-9_pooled",
+      "observed": 0.6840474961280331,
+      "replicated_mean": 0.707443727413526,
+      "predictive_99_low": 0.6794011357769747,
+      "predictive_99_high": 0.7377387712958183,
+      "outside_99": false,
+      "MCSE_mean": 0.00023923200270783103
+    },
+    {
+      "metric": "FTA_10-49_pooled",
+      "observed": 0.7152835987706063,
+      "replicated_mean": 0.7232369726180498,
+      "predictive_99_low": 0.7151438949427215,
+      "predictive_99_high": 0.7322230371612182,
+      "outside_99": false,
+      "MCSE_mean": 7.017944089211811e-05
+    },
+    {
+      "metric": "FTA_50-99_pooled",
+      "observed": 0.7443223443223443,
+      "replicated_mean": 0.7433936996336996,
+      "predictive_99_low": 0.7366377696377696,
+      "predictive_99_high": 0.7500855514855516,
+      "outside_99": false,
+      "MCSE_mean": 5.949238704573449e-05
+    },
+    {
+      "metric": "FTA_100-299_pooled",
+      "observed": 0.7663528501418623,
+      "replicated_mean": 0.7643367767173932,
+      "predictive_99_low": 0.7602481299974206,
+      "predictive_99_high": 0.7684120239016422,
+      "outside_99": false,
+      "MCSE_mean": 4.1764533154156046e-05
+    },
+    {
+      "metric": "FTA_300+_pooled",
+      "observed": 0.7904419143855763,
+      "replicated_mean": 0.7900211959719001,
+      "predictive_99_low": 0.7838044087621552,
+      "predictive_99_high": 0.7963603142194692,
+      "outside_99": false,
+      "MCSE_mean": 6.251310840775592e-05
+    }
+  ],
+  "metrics_outside_99": [
+    "rate_q95"
+  ],
+  "visual_review": {
+    "reviewed_at": "2026-09-30T19:33:47.070451+00:00",
+    "reviewed": true,
+    "accuracy": "All five bins inside 99% intervals; systematic direction remains according to the unchanged MCSE rule, distinct from interval coverage",
+    "opportunity": "Zero frequency inside interval; positive median and upper quartile above predictive intervals",
+    "scientific_plot": false
+  }
+}

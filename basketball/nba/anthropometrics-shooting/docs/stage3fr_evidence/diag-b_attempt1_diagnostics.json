@@ -1,0 +1,21 @@
+{
+  "candidate": "DIAG-B",
+  "attempt": 1,
+  "max_rhat": 1.0059370917879167,
+  "min_bulk_ESS": 885.8420555061449,
+  "min_tail_ESS": 1379.3669811611906,
+  "BFMI": [
+    0.6097556512407142,
+    0.7134437835936708,
+    0.5966280710277996,
+    0.6891045010713915
+  ],
+  "divergences": 0,
+  "max_depth_hits": 0,
+  "finite_covariance": true,
+  "sealed_parameter_sampler_pass": true,
+  "numeric_gate_pass": true,
+  "visual_review": "PENDING",
+  "checked_at": "2026-09-29T21:29:28.358397+00:00",
+  "all_latent_elements_in_gate": true
+}
