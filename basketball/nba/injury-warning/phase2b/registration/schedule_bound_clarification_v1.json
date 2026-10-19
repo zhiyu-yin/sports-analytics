@@ -1,0 +1,6 @@
+{
+  "rule": "A closed absence envelope with a complete enumerated applicable-team schedule and verified membership continuity has a maximum equal to the number of scheduled games, even if one roster/reason record is missing. If this upper bound is below ten, severity is negative. Missing roster reason cannot itself imply injury; it also cannot create unbounded games between two known appearances.",
+  "guards": "No left-censored start; no unresolved membership gap; actual NBA schedules only; first and return appearances/contract transitions reviewed; never apply to clinical duration.",
+  "motivation": "Targeted trade audit finds one-game unknown envelopes on February 8 for Beverley/McDermott. This conservative finite upper bound was incorrectly discarded solely because roster observation was absent.",
+  "selection": "Applied to every envelope, not only these players; preserve unresolved contracts and censored severity."
+}
