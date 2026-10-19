@@ -1,0 +1,54 @@
+{
+  "version": "phase1c-v1",
+  "amendment_status": "User-authorized development-data-informed amendment; NOT a preregistration before observing development data",
+  "team": "Boston Celtics",
+  "team_id": "1610612738",
+  "season": "2023-24",
+  "pilot_game_dates": [
+    "2024-01-01",
+    "2024-02-18"
+  ],
+  "historical_versions": "Preserve all Phase 1 and Phase 1B documents, tables, raw receipts and code; implement Phase 1C separately. Prior source_manifest hash and table/code hashes captured alongside this amendment.",
+  "population": "Players with >0 observed minutes in a completed pilot regular-season game: recently active without a known disqualifying report, NOT medically confirmed healthy. Start from 392 candidates, then recompute timing, roster, searched-source coverage and exclusions.",
+  "decision_rule": "12:00 America/New_York on the calendar day after the documented team game date. Require documented game-end upper bound < decision time. Preserve game-date ambiguity, source timestamps and UTC comparisons.",
+  "lag_sensitivity": "Rebuild ALL decisions at noon one additional local calendar day later; independently rebuild eligible evidence, exclusions, coverage, 14 elapsed-day windows, features, event membership and labels. An extra day does not verify publication.",
+  "prospective_exclusions": [
+    "Explicit new injury sustained in the completed game, reported in eligible source evidence by decision time.",
+    "An injury-related Out/unavailable listing applicable to a not-yet-completed target game at decision time, or explicit ongoing unavailable injury announcement. Do not use stale completed-game listings as current status.",
+    "Documented roster departure effective by decision, ambiguous membership, unresolved identity, inadequate searched-source coverage or game-end ordering: record excluded or unknown with distinct reasons, not automatic inclusion.",
+    "Documented noninjury circumstances that prevent active team membership (e.g. suspension/not with team) may exclude; ordinary symptoms, injury management, rest for a completed game and questionable/probable listings alone do not exclude appeared players. Record symptoms separately."
+  ],
+  "primary_outcome": "New documented injury onset in (decision_at, decision_at+14 elapsed days], followed by >=10 consecutive missed applicable-team games attributed to that same episode. Return appearance, noninjury reason or unresolved mixed attribution interrupts a confirmed injury-only run.",
+  "secondary_outcome": "New documented injury onset in the same window, followed by a continuous injury-attributed missed-game episode with public-record span >28 calendar days: local date(first return appearance)-date(first injury-attributed missed game), end-exclusive. A named appearance-based absence-span proxy, NOT medical incapacity. Positive censored lower bounds require a later documented injury-attributed missed game >28 days after the first, not elapsed time alone.",
+  "additional_medical_outcome": "Original medically supported >28-day outcome retained separately where ascertainable; never infer it from the public-record span.",
+  "source_process": {
+    "channels": [
+      "Official historical gamebook plus public game-page final structured stats and full game recap/story",
+      "Official injury-report snapshots: existing game-day 06PM and next-day 09AM/11AM plus added game-day 11PM, every calendar day's 11AM in the pilot and 14-day onset extension, and sensitivity decision days",
+      "Reproducible official-team/NBA injury-news search for each decision period, and targeted source review for injury-attributed absence candidates; retain queries, results/gaps, source dates and locators"
+    ],
+    "adequate_B_eligibility_coverage": "For each candidate: complete final game record AND substantive completed-game recap reviewed for injury disclosures; an acquired report on/before the decision day, with a submitted Boston baseline section for the completed game; completed official-team/NBA dated injury-news search for the decision period. Report team-not-covered/not-yet-submitted/absent-player states remain gaps. Coverage adequate only for THIS bounded searched-source definition, never exhaustive proof of health or of no public reports. Require at least two distinct channels, not one absent report.",
+    "A_verified": "Source public availability established contemporaneously by timestamped original/archived evidence for every material decision input. Mutable page metadata, retrieval time or server Last-Modified alone are insufficient. No assumption-based status/news in verified eligibility/predictors.",
+    "B_assumed": "Historical final game statistics and final recap are assumed publicly available by documented game-end upper bound +6 elapsed hours. Report snapshots are assumed available by their nominal ET header time +30 elapsed minutes. Explicit timezone-aware original article metadata, when present, is assumed available +60 elapsed minutes; date-only or undated news remains category C for eligibility. These are unverified assumptions, not publication facts.",
+    "C_retrospective": "Undated, date-only, publication-ambiguous or later evidence may establish episode outcomes, baseline/prevalent injury misclassification or follow-up, but cannot retroactively change prospective eligibility.",
+    "negative_surveillance": "A negative means no qualifying documented new event under the registered process: all expected Boston team games in the onset window and severity follow-up checked through 2024-04-14, daily report probes across the 14-day onset window recorded, official recap/news searches completed, and every plausibly qualifying episode resolved or proven below that outcome's severity threshold. Missing isolated reports can be covered by complete game records plus recaps/news, but gaps with no alternative evidence make surveillance unknown. This does not prove absence of all unreported injuries. Transfers/loss of follow-up, unresolved potentially qualifying runs/onset, and season-end windows without enough team games remain unknown."
+  },
+  "episodes": "Review the 28 leads individually using stable IDs, site/side, explicit onset evidence, documented continuity, interruption and roster boundaries. Adjacent absences or identical diagnoses alone are insufficient to establish clinical episode identity. Preserve candidate grouping confidence and source assertions. First missed game is not onset. Retrospectively established onset <=decision is NOT a future event and cannot be used to retroactively exclude an otherwise included row; flag baseline/prevalent misclassification separately.",
+  "uncertain_onset": "Definite in-window only if entire onset interval is within (t,t+14 elapsed days]. Boundary-straddling or unknown onset remains unknown if episode severity could qualify. Severity-proven-negative episodes cannot create a qualifying outcome even if onset is unknown.",
+  "followup": "Existing Boston game history starts 2023-12-04; follow-up through 2024-04-14. No offseason extension. Do not count post-departure team games. Prior-team workload history for included arrivals only if obtainable; otherwise mark incomplete. No expansion of the prediction cohort to other teams.",
+  "features": {
+    "windows": "Trailing (decision_at-k elapsed days, decision_at] for k=7,14,28; require game-end upper bound and assumed/verified publication <=decision. Include only actually completed games, including a subsequent Boston game if it completed before the additional-day decision. Preserve the original indexing game separately.",
+    "measurements": [
+      "minutes and appearances 7/14/28d",
+      "elapsed rest days since most recent completed appearance and team game",
+      "index-game back-to-back by documented game dates",
+      "7-day minutes minus prior nonoverlapping 7-day minutes, with missingness",
+      "past-only mean minutes per prior appearance and workload deviation; no full-season baseline"
+    ],
+    "history": "Do not replace absent prior-team or prehistory coverage with zero. Suppress affected features and flag incomplete history. Verified and B-assumption features stored separately; retrospective diagnoses, future returns and future absences are prohibited.",
+    "corrections": "Retain raw source minutes, explicit :60 carry, PDF-vs-HTML discrepancies and mutable-source flags. No claim that present final statistics match exact historical bytes."
+  },
+  "label_availability": "Store retrospective ascertainment separately from defensible historical label_known_at. Unless original publication is established, historical label_known_at stays unknown even for retrospectively resolved labels. A separate assumed evidence-availability bound may be retained as B, never promoted to A.",
+  "outputs": "Versioned amendment/hash/commit, cohort funnel, A/B/C separated evidence and features, baseline and additional-day tables, episode review and assertion ledger, separate outcome columns, fully traced timelines and remaining human review queue. No models or protected holdout access.",
+  "registered_at_utc": "2026-10-19T03:35:26.027421+00:00"
+}
