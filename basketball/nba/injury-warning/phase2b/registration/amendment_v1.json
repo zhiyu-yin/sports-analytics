@@ -1,0 +1,19 @@
+{
+  "version": "phase2b_development_audit_v1",
+  "scope": "Existing six teams and dates only; Boston and fixtures separately. No model/holdout.",
+  "prior_results": "Preserved byte-for-byte in registration/preserved_hashes.json",
+  "knowledge": {
+    "ever_known": "All acquired B-eligible injury reports and recap injury signals through decision, without retrospective C. Retain history within observed archive, never claim lifetime completeness.",
+    "recent": "Trailing 28 elapsed days for both injury reports and recap signals; separate from ever-known history.",
+    "status": "Latest B-eligible status per target game; current only if target game has not completed by decision, or date >= decision local date when completion unknown. Omission is not resolution. Expire after target game completion. Explicit Available/superseding status is recorded, not inferred from omission.",
+    "acute": "Same-event flag only when an identified future event links the original B-eligible acute disclosure. Generic rows carry prior_acute_history, not same-event disclosure. C linkage describes retrospective strata only; never eligibility/features."
+  },
+  "segments": {
+    "definition": "Maximal consecutive individually injury-attributed actual applicable-team missed games, with verified roster and full page/book; conflict/unknown/noninjury/gap breaks segment. Never sum segments.",
+    "continuity": "Review total evidence: complete absence sequence, same anatomical condition/side, consecutive contemporaneous status records referring to same ongoing absence, no return or new trauma, and contextual recap/return/rehab evidence. Diagnosis matching alone insufficient. Explicit narrative is sufficient but not mandatory. Document supporting and contradictory assertions per reviewed segment.",
+    "anchor": "Preserve original registered envelope anchor. Later qualifying segment establishes severity only; ambiguous original common identity/onset remains unknown. Do not move anchor to maximize labels."
+  },
+  "clocks": "Parse explicit fixed numeric abbreviation offsets, not seasonal ZoneInfo substitution. Use scheduled UTC date to resolve local date rollover; explicit UTC suffix means UTC only in scheduled field. gameEt trailing Z is an Eastern wall-clock mislabeled as UTC and never used. Untagged clock unknown absent independent timezone evidence. Preserve raw source text/minute precision and official-book comparison; small distinct timestamp discrepancy does not itself prove parser bug.",
+  "membership": "Target public dated contracts/waivers by affected-row counts. Retain ambiguous intervals and absent roster reasons; never create zero workload or injury from missing record.",
+  "selection": "Rules selected for interpretability, not positivity or missingness optimization; all changed fields traced."
+}
