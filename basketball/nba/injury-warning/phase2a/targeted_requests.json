@@ -1,0 +1,4736 @@
+[
+  {
+    "source_id": "page_0022301201",
+    "date": "2023-12-05",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nyk-vs-mil-0022301201/box-score"
+  },
+  {
+    "source_id": "book_0022301201",
+    "date": "2023-12-05",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231205/20231205_NYKMIL_book.pdf"
+  },
+  {
+    "source_id": "page_0022301229",
+    "date": "2023-12-07",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-mil-0022301229/box-score"
+  },
+  {
+    "source_id": "book_0022301229",
+    "date": "2023-12-07",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231207/20231207_INDMIL_book.pdf"
+  },
+  {
+    "source_id": "page_0022300300",
+    "date": "2023-12-11",
+    "kind": "page",
+    "url": "https://www.nba.com/game/chi-vs-mil-0022300300/box-score"
+  },
+  {
+    "source_id": "book_0022300300",
+    "date": "2023-12-11",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231211/20231211_CHIMIL_book.pdf"
+  },
+  {
+    "source_id": "page_0022300315",
+    "date": "2023-12-13",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-mil-0022300315/box-score"
+  },
+  {
+    "source_id": "book_0022300315",
+    "date": "2023-12-13",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231213/20231213_INDMIL_book.pdf"
+  },
+  {
+    "source_id": "page_0022300334",
+    "date": "2023-12-16",
+    "kind": "page",
+    "url": "https://www.nba.com/game/det-vs-mil-0022300334/box-score"
+  },
+  {
+    "source_id": "book_0022300334",
+    "date": "2023-12-16",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231216/20231216_DETMIL_book.pdf"
+  },
+  {
+    "source_id": "page_0022300346",
+    "date": "2023-12-17",
+    "kind": "page",
+    "url": "https://www.nba.com/game/hou-vs-mil-0022300346/box-score"
+  },
+  {
+    "source_id": "book_0022300346",
+    "date": "2023-12-17",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231217/20231217_HOUMIL_book.pdf"
+  },
+  {
+    "source_id": "page_0022300361",
+    "date": "2023-12-19",
+    "kind": "page",
+    "url": "https://www.nba.com/game/sas-vs-mil-0022300361/box-score"
+  },
+  {
+    "source_id": "book_0022300361",
+    "date": "2023-12-19",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231219/20231219_SASMIL_book.pdf"
+  },
+  {
+    "source_id": "page_0022300378",
+    "date": "2023-12-21",
+    "kind": "page",
+    "url": "https://www.nba.com/game/orl-vs-mil-0022300378/box-score"
+  },
+  {
+    "source_id": "book_0022300378",
+    "date": "2023-12-21",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231221/20231221_ORLMIL_book.pdf"
+  },
+  {
+    "source_id": "page_0022300388",
+    "date": "2023-12-23",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mil-vs-nyk-0022300388/box-score"
+  },
+  {
+    "source_id": "book_0022300388",
+    "date": "2023-12-23",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231223/20231223_MILNYK_book.pdf"
+  },
+  {
+    "source_id": "page_0022300401",
+    "date": "2023-12-25",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mil-vs-nyk-0022300401/box-score"
+  },
+  {
+    "source_id": "book_0022300401",
+    "date": "2023-12-25",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231225/20231225_MILNYK_book.pdf"
+  },
+  {
+    "source_id": "page_0022300417",
+    "date": "2023-12-27",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mil-vs-bkn-0022300417/box-score"
+  },
+  {
+    "source_id": "book_0022300417",
+    "date": "2023-12-27",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231227/20231227_MILBKN_book.pdf"
+  },
+  {
+    "source_id": "page_0022300433",
+    "date": "2023-12-29",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mil-vs-cle-0022300433/box-score"
+  },
+  {
+    "source_id": "book_0022300433",
+    "date": "2023-12-29",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231229/20231229_MILCLE_book.pdf"
+  },
+  {
+    "source_id": "page_0022300454",
+    "date": "2024-01-01",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-mil-0022300454/box-score"
+  },
+  {
+    "source_id": "book_0022300454",
+    "date": "2024-01-01",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240101/20240101_INDMIL_book.pdf"
+  },
+  {
+    "source_id": "page_0022300466",
+    "date": "2024-01-03",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mil-vs-ind-0022300466/box-score"
+  },
+  {
+    "source_id": "book_0022300466",
+    "date": "2024-01-03",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240103/20240103_MILIND_book.pdf"
+  },
+  {
+    "source_id": "page_0022300477",
+    "date": "2024-01-04",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mil-vs-sas-0022300477/box-score"
+  },
+  {
+    "source_id": "book_0022300477",
+    "date": "2024-01-04",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240104/20240104_MILSAS_book.pdf"
+  },
+  {
+    "source_id": "page_0022300496",
+    "date": "2024-01-06",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mil-vs-hou-0022300496/box-score"
+  },
+  {
+    "source_id": "book_0022300496",
+    "date": "2024-01-06",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240106/20240106_MILHOU_book.pdf"
+  },
+  {
+    "source_id": "page_0022300510",
+    "date": "2024-01-08",
+    "kind": "page",
+    "url": "https://www.nba.com/game/uta-vs-mil-0022300510/box-score"
+  },
+  {
+    "source_id": "book_0022300510",
+    "date": "2024-01-08",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240108/20240108_UTAMIL_book.pdf"
+  },
+  {
+    "source_id": "page_0022300528",
+    "date": "2024-01-11",
+    "kind": "page",
+    "url": "https://www.nba.com/game/bos-vs-mil-0022300528/box-score"
+  },
+  {
+    "source_id": "book_0022300528",
+    "date": "2024-01-11",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240111/20240111_BOSMIL_book.pdf"
+  },
+  {
+    "source_id": "page_0022300545",
+    "date": "2024-01-13",
+    "kind": "page",
+    "url": "https://www.nba.com/game/gsw-vs-mil-0022300545/box-score"
+  },
+  {
+    "source_id": "book_0022300545",
+    "date": "2024-01-13",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240113/20240113_GSWMIL_book.pdf"
+  },
+  {
+    "source_id": "page_0022300552",
+    "date": "2024-01-14",
+    "kind": "page",
+    "url": "https://www.nba.com/game/sac-vs-mil-0022300552/box-score"
+  },
+  {
+    "source_id": "book_0022300552",
+    "date": "2024-01-14",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240114/20240114_SACMIL_book.pdf"
+  },
+  {
+    "source_id": "page_0022300572",
+    "date": "2024-01-17",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mil-vs-cle-0022300572/box-score"
+  },
+  {
+    "source_id": "book_0022300572",
+    "date": "2024-01-17",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240117/20240117_MILCLE_book.pdf"
+  },
+  {
+    "source_id": "page_0022300592",
+    "date": "2024-01-20",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mil-vs-det-0022300592/box-score"
+  },
+  {
+    "source_id": "book_0022300592",
+    "date": "2024-01-20",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240120/20240120_MILDET_book.pdf"
+  },
+  {
+    "source_id": "page_0022300606",
+    "date": "2024-01-22",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mil-vs-det-0022300606/box-score"
+  },
+  {
+    "source_id": "book_0022300606",
+    "date": "2024-01-22",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240122/20240122_MILDET_book.pdf"
+  },
+  {
+    "source_id": "page_0022300624",
+    "date": "2024-01-24",
+    "kind": "page",
+    "url": "https://www.nba.com/game/cle-vs-mil-0022300624/box-score"
+  },
+  {
+    "source_id": "book_0022300624",
+    "date": "2024-01-24",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240124/20240124_CLEMIL_book.pdf"
+  },
+  {
+    "source_id": "page_0022300639",
+    "date": "2024-01-26",
+    "kind": "page",
+    "url": "https://www.nba.com/game/cle-vs-mil-0022300639/box-score"
+  },
+  {
+    "source_id": "book_0022300639",
+    "date": "2024-01-26",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240126/20240126_CLEMIL_book.pdf"
+  },
+  {
+    "source_id": "page_0022300648",
+    "date": "2024-01-27",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nop-vs-mil-0022300648/box-score"
+  },
+  {
+    "source_id": "book_0022300648",
+    "date": "2024-01-27",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240127/20240127_NOPMIL_book.pdf"
+  },
+  {
+    "source_id": "page_0022300667",
+    "date": "2024-01-29",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mil-vs-den-0022300667/box-score"
+  },
+  {
+    "source_id": "book_0022300667",
+    "date": "2024-01-29",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240129/20240129_MILDEN_book.pdf"
+  },
+  {
+    "source_id": "page_0022300683",
+    "date": "2024-01-31",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mil-vs-por-0022300683/box-score"
+  },
+  {
+    "source_id": "book_0022300683",
+    "date": "2024-01-31",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240131/20240131_MILPOR_book.pdf"
+  },
+  {
+    "source_id": "page_0022300702",
+    "date": "2024-02-03",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mil-vs-dal-0022300702/box-score"
+  },
+  {
+    "source_id": "book_0022300702",
+    "date": "2024-02-03",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240203/20240203_MILDAL_book.pdf"
+  },
+  {
+    "source_id": "page_0022300711",
+    "date": "2024-02-04",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mil-vs-uta-0022300711/box-score"
+  },
+  {
+    "source_id": "book_0022300711",
+    "date": "2024-02-04",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240204/20240204_MILUTA_book.pdf"
+  },
+  {
+    "source_id": "page_0022300725",
+    "date": "2024-02-06",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mil-vs-phx-0022300725/box-score"
+  },
+  {
+    "source_id": "book_0022300725",
+    "date": "2024-02-06",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240206/20240206_MILPHX_book.pdf"
+  },
+  {
+    "source_id": "page_0022301202",
+    "date": "2023-12-04",
+    "kind": "page",
+    "url": "https://www.nba.com/game/bos-vs-ind-0022301202/box-score"
+  },
+  {
+    "source_id": "book_0022301202",
+    "date": "2023-12-04",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231204/20231204_BOSIND_book.pdf"
+  },
+  {
+    "source_id": "page_0022300293",
+    "date": "2023-12-11",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-det-0022300293/box-score"
+  },
+  {
+    "source_id": "book_0022300293",
+    "date": "2023-12-11",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231211/20231211_INDDET_book.pdf"
+  },
+  {
+    "source_id": "page_0022300328",
+    "date": "2023-12-15",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-was-0022300328/box-score"
+  },
+  {
+    "source_id": "book_0022300328",
+    "date": "2023-12-15",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231215/20231215_INDWAS_book.pdf"
+  },
+  {
+    "source_id": "page_0022300338",
+    "date": "2023-12-16",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-min-0022300338/box-score"
+  },
+  {
+    "source_id": "book_0022300338",
+    "date": "2023-12-16",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231216/20231216_INDMIN_book.pdf"
+  },
+  {
+    "source_id": "page_0022300350",
+    "date": "2023-12-18",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lac-vs-ind-0022300350/box-score"
+  },
+  {
+    "source_id": "book_0022300350",
+    "date": "2023-12-18",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231218/20231218_LACIND_book.pdf"
+  },
+  {
+    "source_id": "page_0022300365",
+    "date": "2023-12-20",
+    "kind": "page",
+    "url": "https://www.nba.com/game/cha-vs-ind-0022300365/box-score"
+  },
+  {
+    "source_id": "book_0022300365",
+    "date": "2023-12-20",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231220/20231220_CHAIND_book.pdf"
+  },
+  {
+    "source_id": "page_0022300377",
+    "date": "2023-12-21",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-mem-0022300377/box-score"
+  },
+  {
+    "source_id": "book_0022300377",
+    "date": "2023-12-21",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231221/20231221_INDMEM_book.pdf"
+  },
+  {
+    "source_id": "page_0022300391",
+    "date": "2023-12-23",
+    "kind": "page",
+    "url": "https://www.nba.com/game/orl-vs-ind-0022300391/box-score"
+  },
+  {
+    "source_id": "book_0022300391",
+    "date": "2023-12-23",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231223/20231223_ORLIND_book.pdf"
+  },
+  {
+    "source_id": "page_0022300409",
+    "date": "2023-12-26",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-hou-0022300409/box-score"
+  },
+  {
+    "source_id": "book_0022300409",
+    "date": "2023-12-26",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231226/20231226_INDHOU_book.pdf"
+  },
+  {
+    "source_id": "page_0022300422",
+    "date": "2023-12-28",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-chi-0022300422/box-score"
+  },
+  {
+    "source_id": "book_0022300422",
+    "date": "2023-12-28",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231228/20231228_INDCHI_book.pdf"
+  },
+  {
+    "source_id": "page_0022300441",
+    "date": "2023-12-30",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nyk-vs-ind-0022300441/box-score"
+  },
+  {
+    "source_id": "book_0022300441",
+    "date": "2023-12-30",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231230/20231230_NYKIND_book.pdf"
+  },
+  {
+    "source_id": "page_0022300480",
+    "date": "2024-01-05",
+    "kind": "page",
+    "url": "https://www.nba.com/game/atl-vs-ind-0022300480/box-score"
+  },
+  {
+    "source_id": "book_0022300480",
+    "date": "2024-01-05",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240105/20240105_ATLIND_book.pdf"
+  },
+  {
+    "source_id": "page_0022300493",
+    "date": "2024-01-06",
+    "kind": "page",
+    "url": "https://www.nba.com/game/bos-vs-ind-0022300493/box-score"
+  },
+  {
+    "source_id": "book_0022300493",
+    "date": "2024-01-06",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240106/20240106_BOSIND_book.pdf"
+  },
+  {
+    "source_id": "page_0022300507",
+    "date": "2024-01-08",
+    "kind": "page",
+    "url": "https://www.nba.com/game/bos-vs-ind-0022300507/box-score"
+  },
+  {
+    "source_id": "book_0022300507",
+    "date": "2024-01-08",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240108/20240108_BOSIND_book.pdf"
+  },
+  {
+    "source_id": "page_0022300520",
+    "date": "2024-01-10",
+    "kind": "page",
+    "url": "https://www.nba.com/game/was-vs-ind-0022300520/box-score"
+  },
+  {
+    "source_id": "book_0022300520",
+    "date": "2024-01-10",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240110/20240110_WASIND_book.pdf"
+  },
+  {
+    "source_id": "page_0022300533",
+    "date": "2024-01-12",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-atl-0022300533/box-score"
+  },
+  {
+    "source_id": "book_0022300533",
+    "date": "2024-01-12",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240112/20240112_INDATL_book.pdf"
+  },
+  {
+    "source_id": "page_0022300550",
+    "date": "2024-01-14",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-den-0022300550/box-score"
+  },
+  {
+    "source_id": "book_0022300550",
+    "date": "2024-01-14",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240114/20240114_INDDEN_book.pdf"
+  },
+  {
+    "source_id": "page_0022300564",
+    "date": "2024-01-15",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-uta-0022300564/box-score"
+  },
+  {
+    "source_id": "book_0022300564",
+    "date": "2024-01-15",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240115/20240115_INDUTA_book.pdf"
+  },
+  {
+    "source_id": "page_0022300583",
+    "date": "2024-01-18",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-sac-0022300583/box-score"
+  },
+  {
+    "source_id": "book_0022300583",
+    "date": "2024-01-18",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240118/20240118_INDSAC_book.pdf"
+  },
+  {
+    "source_id": "page_0022300590",
+    "date": "2024-01-19",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-por-0022300590/box-score"
+  },
+  {
+    "source_id": "book_0022300590",
+    "date": "2024-01-19",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240119/20240119_INDPOR_book.pdf"
+  },
+  {
+    "source_id": "page_0022300604",
+    "date": "2024-01-21",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-phx-0022300604/box-score"
+  },
+  {
+    "source_id": "book_0022300604",
+    "date": "2024-01-21",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240121/20240121_INDPHX_book.pdf"
+  },
+  {
+    "source_id": "page_0022300614",
+    "date": "2024-01-23",
+    "kind": "page",
+    "url": "https://www.nba.com/game/den-vs-ind-0022300614/box-score"
+  },
+  {
+    "source_id": "book_0022300614",
+    "date": "2024-01-23",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240123/20240123_DENIND_book.pdf"
+  },
+  {
+    "source_id": "page_0022300627",
+    "date": "2024-01-25",
+    "kind": "page",
+    "url": "https://www.nba.com/game/phi-vs-ind-0022300627/box-score"
+  },
+  {
+    "source_id": "book_0022300627",
+    "date": "2024-01-25",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240125/20240125_PHIIND_book.pdf"
+  },
+  {
+    "source_id": "page_0022300636",
+    "date": "2024-01-26",
+    "kind": "page",
+    "url": "https://www.nba.com/game/phx-vs-ind-0022300636/box-score"
+  },
+  {
+    "source_id": "book_0022300636",
+    "date": "2024-01-26",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240126/20240126_PHXIND_book.pdf"
+  },
+  {
+    "source_id": "page_0022300652",
+    "date": "2024-01-28",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mem-vs-ind-0022300652/box-score"
+  },
+  {
+    "source_id": "book_0022300652",
+    "date": "2024-01-28",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240128/20240128_MEMIND_book.pdf"
+  },
+  {
+    "source_id": "page_0022300670",
+    "date": "2024-01-30",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-bos-0022300670/box-score"
+  },
+  {
+    "source_id": "book_0022300670",
+    "date": "2024-01-30",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240130/20240130_INDBOS_book.pdf"
+  },
+  {
+    "source_id": "page_0022300685",
+    "date": "2024-02-01",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-nyk-0022300685/box-score"
+  },
+  {
+    "source_id": "book_0022300685",
+    "date": "2024-02-01",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240201/20240201_INDNYK_book.pdf"
+  },
+  {
+    "source_id": "page_0022300691",
+    "date": "2024-02-02",
+    "kind": "page",
+    "url": "https://www.nba.com/game/sac-vs-ind-0022300691/box-score"
+  },
+  {
+    "source_id": "book_0022300691",
+    "date": "2024-02-02",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240202/20240202_SACIND_book.pdf"
+  },
+  {
+    "source_id": "page_0022300707",
+    "date": "2024-02-04",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-cha-0022300707/box-score"
+  },
+  {
+    "source_id": "book_0022300707",
+    "date": "2024-02-04",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240204/20240204_INDCHA_book.pdf"
+  },
+  {
+    "source_id": "page_0022300719",
+    "date": "2024-02-06",
+    "kind": "page",
+    "url": "https://www.nba.com/game/hou-vs-ind-0022300719/box-score"
+  },
+  {
+    "source_id": "book_0022300719",
+    "date": "2024-02-06",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240206/20240206_HOUIND_book.pdf"
+  },
+  {
+    "source_id": "page_0022300738",
+    "date": "2024-02-08",
+    "kind": "page",
+    "url": "https://www.nba.com/game/min-vs-mil-0022300738/box-score"
+  },
+  {
+    "source_id": "book_0022300738",
+    "date": "2024-02-08",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240208/20240208_MINMIL_book.pdf"
+  },
+  {
+    "source_id": "page_0022300770",
+    "date": "2024-02-12",
+    "kind": "page",
+    "url": "https://www.nba.com/game/min-vs-lac-0022300770/box-score"
+  },
+  {
+    "source_id": "book_0022300770",
+    "date": "2024-02-12",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240212/20240212_MINLAC_book.pdf"
+  },
+  {
+    "source_id": "page_0022300775",
+    "date": "2024-02-13",
+    "kind": "page",
+    "url": "https://www.nba.com/game/min-vs-por-0022300775/box-score"
+  },
+  {
+    "source_id": "book_0022300775",
+    "date": "2024-02-13",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240213/20240213_MINPOR_book.pdf"
+  },
+  {
+    "source_id": "page_0022300791",
+    "date": "2024-02-15",
+    "kind": "page",
+    "url": "https://www.nba.com/game/min-vs-por-0022300791/box-score"
+  },
+  {
+    "source_id": "book_0022300791",
+    "date": "2024-02-15",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240215/20240215_MINPOR_book.pdf"
+  },
+  {
+    "source_id": "page_0022300808",
+    "date": "2024-02-23",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mil-vs-min-0022300808/box-score"
+  },
+  {
+    "source_id": "book_0022300808",
+    "date": "2024-02-23",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240223/20240223_MILMIN_book.pdf"
+  },
+  {
+    "source_id": "page_0022300815",
+    "date": "2024-02-24",
+    "kind": "page",
+    "url": "https://www.nba.com/game/bkn-vs-min-0022300815/box-score"
+  },
+  {
+    "source_id": "book_0022300815",
+    "date": "2024-02-24",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240224/20240224_BKNMIN_book.pdf"
+  },
+  {
+    "source_id": "page_0022300838",
+    "date": "2024-02-27",
+    "kind": "page",
+    "url": "https://www.nba.com/game/sas-vs-min-0022300838/box-score"
+  },
+  {
+    "source_id": "book_0022300838",
+    "date": "2024-02-27",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240227/20240227_SASMIN_book.pdf"
+  },
+  {
+    "source_id": "page_0022300845",
+    "date": "2024-02-28",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mem-vs-min-0022300845/box-score"
+  },
+  {
+    "source_id": "book_0022300845",
+    "date": "2024-02-28",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240228/20240228_MEMMIN_book.pdf"
+  },
+  {
+    "source_id": "page_0022300862",
+    "date": "2024-03-01",
+    "kind": "page",
+    "url": "https://www.nba.com/game/sac-vs-min-0022300862/box-score"
+  },
+  {
+    "source_id": "book_0022300862",
+    "date": "2024-03-01",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240301/20240301_SACMIN_book.pdf"
+  },
+  {
+    "source_id": "page_0022300873",
+    "date": "2024-03-03",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lac-vs-min-0022300873/box-score"
+  },
+  {
+    "source_id": "book_0022300873",
+    "date": "2024-03-03",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240303/20240303_LACMIN_book.pdf"
+  },
+  {
+    "source_id": "page_0022300881",
+    "date": "2024-03-04",
+    "kind": "page",
+    "url": "https://www.nba.com/game/por-vs-min-0022300881/box-score"
+  },
+  {
+    "source_id": "book_0022300881",
+    "date": "2024-03-04",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240304/20240304_PORMIN_book.pdf"
+  },
+  {
+    "source_id": "page_0022300903",
+    "date": "2024-03-07",
+    "kind": "page",
+    "url": "https://www.nba.com/game/min-vs-ind-0022300903/box-score"
+  },
+  {
+    "source_id": "book_0022300903",
+    "date": "2024-03-07",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240307/20240307_MININD_book.pdf"
+  },
+  {
+    "source_id": "page_0022300911",
+    "date": "2024-03-08",
+    "kind": "page",
+    "url": "https://www.nba.com/game/min-vs-cle-0022300911/box-score"
+  },
+  {
+    "source_id": "book_0022300911",
+    "date": "2024-03-08",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240308/20240308_MINCLE_book.pdf"
+  },
+  {
+    "source_id": "page_0022300932",
+    "date": "2024-03-10",
+    "kind": "page",
+    "url": "https://www.nba.com/game/min-vs-lal-0022300932/box-score"
+  },
+  {
+    "source_id": "book_0022300932",
+    "date": "2024-03-10",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240310/20240310_MINLAL_book.pdf"
+  },
+  {
+    "source_id": "page_0022300944",
+    "date": "2024-03-12",
+    "kind": "page",
+    "url": "https://www.nba.com/game/min-vs-lac-0022300944/box-score"
+  },
+  {
+    "source_id": "book_0022300944",
+    "date": "2024-03-12",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240312/20240312_MINLAC_book.pdf"
+  },
+  {
+    "source_id": "page_0022300974",
+    "date": "2024-03-16",
+    "kind": "page",
+    "url": "https://www.nba.com/game/min-vs-uta-0022300974/box-score"
+  },
+  {
+    "source_id": "book_0022300974",
+    "date": "2024-03-16",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240316/20240316_MINUTA_book.pdf"
+  },
+  {
+    "source_id": "page_0022300987",
+    "date": "2024-03-18",
+    "kind": "page",
+    "url": "https://www.nba.com/game/min-vs-uta-0022300987/box-score"
+  },
+  {
+    "source_id": "book_0022300987",
+    "date": "2024-03-18",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240318/20240318_MINUTA_book.pdf"
+  },
+  {
+    "source_id": "page_0022300995",
+    "date": "2024-03-19",
+    "kind": "page",
+    "url": "https://www.nba.com/game/den-vs-min-0022300995/box-score"
+  },
+  {
+    "source_id": "book_0022300995",
+    "date": "2024-03-19",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240319/20240319_DENMIN_book.pdf"
+  },
+  {
+    "source_id": "page_0022301014",
+    "date": "2024-03-22",
+    "kind": "page",
+    "url": "https://www.nba.com/game/cle-vs-min-0022301014/box-score"
+  },
+  {
+    "source_id": "book_0022301014",
+    "date": "2024-03-22",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240322/20240322_CLEMIN_book.pdf"
+  },
+  {
+    "source_id": "page_0022301031",
+    "date": "2024-03-24",
+    "kind": "page",
+    "url": "https://www.nba.com/game/gsw-vs-min-0022301031/box-score"
+  },
+  {
+    "source_id": "book_0022301031",
+    "date": "2024-03-24",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240324/20240324_GSWMIN_book.pdf"
+  },
+  {
+    "source_id": "page_0022301056",
+    "date": "2024-03-27",
+    "kind": "page",
+    "url": "https://www.nba.com/game/det-vs-min-0022301056/box-score"
+  },
+  {
+    "source_id": "book_0022301056",
+    "date": "2024-03-27",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240327/20240327_DETMIN_book.pdf"
+  },
+  {
+    "source_id": "page_0022301071",
+    "date": "2024-03-29",
+    "kind": "page",
+    "url": "https://www.nba.com/game/min-vs-den-0022301071/box-score"
+  },
+  {
+    "source_id": "book_0022301071",
+    "date": "2024-03-29",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240329/20240329_MINDEN_book.pdf"
+  },
+  {
+    "source_id": "page_0022301084",
+    "date": "2024-03-31",
+    "kind": "page",
+    "url": "https://www.nba.com/game/chi-vs-min-0022301084/box-score"
+  },
+  {
+    "source_id": "book_0022301084",
+    "date": "2024-03-31",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240331/20240331_CHIMIN_book.pdf"
+  },
+  {
+    "source_id": "page_0022301098",
+    "date": "2024-04-02",
+    "kind": "page",
+    "url": "https://www.nba.com/game/hou-vs-min-0022301098/box-score"
+  },
+  {
+    "source_id": "book_0022301098",
+    "date": "2024-04-02",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240402/20240402_HOUMIN_book.pdf"
+  },
+  {
+    "source_id": "page_0022301108",
+    "date": "2024-04-03",
+    "kind": "page",
+    "url": "https://www.nba.com/game/tor-vs-min-0022301108/box-score"
+  },
+  {
+    "source_id": "book_0022301108",
+    "date": "2024-04-03",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240403/20240403_TORMIN_book.pdf"
+  },
+  {
+    "source_id": "page_0022301125",
+    "date": "2024-04-05",
+    "kind": "page",
+    "url": "https://www.nba.com/game/min-vs-phx-0022301125/box-score"
+  },
+  {
+    "source_id": "book_0022301125",
+    "date": "2024-04-05",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240405/20240405_MINPHX_book.pdf"
+  },
+  {
+    "source_id": "page_0022301143",
+    "date": "2024-04-07",
+    "kind": "page",
+    "url": "https://www.nba.com/game/min-vs-lal-0022301143/box-score"
+  },
+  {
+    "source_id": "book_0022301143",
+    "date": "2024-04-07",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240407/20240407_MINLAL_book.pdf"
+  },
+  {
+    "source_id": "page_0022301152",
+    "date": "2024-04-09",
+    "kind": "page",
+    "url": "https://www.nba.com/game/was-vs-min-0022301152/box-score"
+  },
+  {
+    "source_id": "book_0022301152",
+    "date": "2024-04-09",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240409/20240409_WASMIN_book.pdf"
+  },
+  {
+    "source_id": "page_0022301164",
+    "date": "2024-04-10",
+    "kind": "page",
+    "url": "https://www.nba.com/game/min-vs-den-0022301164/box-score"
+  },
+  {
+    "source_id": "book_0022301164",
+    "date": "2024-04-10",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240410/20240410_MINDEN_book.pdf"
+  },
+  {
+    "source_id": "page_0022301178",
+    "date": "2024-04-12",
+    "kind": "page",
+    "url": "https://www.nba.com/game/atl-vs-min-0022301178/box-score"
+  },
+  {
+    "source_id": "book_0022301178",
+    "date": "2024-04-12",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240412/20240412_ATLMIN_book.pdf"
+  },
+  {
+    "source_id": "page_0022301194",
+    "date": "2024-04-14",
+    "kind": "page",
+    "url": "https://www.nba.com/game/phx-vs-min-0022301194/box-score"
+  },
+  {
+    "source_id": "book_0022301194",
+    "date": "2024-04-14",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240414/20240414_PHXMIN_book.pdf"
+  },
+  {
+    "source_id": "page_0022300558",
+    "date": "2024-01-15",
+    "kind": "page",
+    "url": "https://www.nba.com/game/det-vs-was-0022300558/box-score"
+  },
+  {
+    "source_id": "book_0022300558",
+    "date": "2024-01-15",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240115/20240115_DETWAS_book.pdf"
+  },
+  {
+    "source_id": "page_0022300579",
+    "date": "2024-01-18",
+    "kind": "page",
+    "url": "https://www.nba.com/game/was-vs-nyk-0022300579/box-score"
+  },
+  {
+    "source_id": "book_0022300579",
+    "date": "2024-01-18",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240118/20240118_WASNYK_book.pdf"
+  },
+  {
+    "source_id": "page_0022300594",
+    "date": "2024-01-20",
+    "kind": "page",
+    "url": "https://www.nba.com/game/sas-vs-was-0022300594/box-score"
+  },
+  {
+    "source_id": "book_0022300594",
+    "date": "2024-01-20",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240120/20240120_SASWAS_book.pdf"
+  },
+  {
+    "source_id": "page_0022300602",
+    "date": "2024-01-21",
+    "kind": "page",
+    "url": "https://www.nba.com/game/den-vs-was-0022300602/box-score"
+  },
+  {
+    "source_id": "book_0022300602",
+    "date": "2024-01-21",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240121/20240121_DENWAS_book.pdf"
+  },
+  {
+    "source_id": "page_0022300620",
+    "date": "2024-01-24",
+    "kind": "page",
+    "url": "https://www.nba.com/game/min-vs-was-0022300620/box-score"
+  },
+  {
+    "source_id": "book_0022300620",
+    "date": "2024-01-24",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240124/20240124_MINWAS_book.pdf"
+  },
+  {
+    "source_id": "page_0022300628",
+    "date": "2024-01-25",
+    "kind": "page",
+    "url": "https://www.nba.com/game/uta-vs-was-0022300628/box-score"
+  },
+  {
+    "source_id": "book_0022300628",
+    "date": "2024-01-25",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240125/20240125_UTAWAS_book.pdf"
+  },
+  {
+    "source_id": "page_0022300642",
+    "date": "2024-01-27",
+    "kind": "page",
+    "url": "https://www.nba.com/game/was-vs-det-0022300642/box-score"
+  },
+  {
+    "source_id": "book_0022300642",
+    "date": "2024-01-27",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240127/20240127_WASDET_book.pdf"
+  },
+  {
+    "source_id": "page_0022300665",
+    "date": "2024-01-29",
+    "kind": "page",
+    "url": "https://www.nba.com/game/was-vs-sas-0022300665/box-score"
+  },
+  {
+    "source_id": "book_0022300665",
+    "date": "2024-01-29",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240129/20240129_WASSAS_book.pdf"
+  },
+  {
+    "source_id": "page_0022300676",
+    "date": "2024-01-31",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lac-vs-was-0022300676/box-score"
+  },
+  {
+    "source_id": "book_0022300676",
+    "date": "2024-01-31",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240131/20240131_LACWAS_book.pdf"
+  },
+  {
+    "source_id": "page_0022300689",
+    "date": "2024-02-02",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mia-vs-was-0022300689/box-score"
+  },
+  {
+    "source_id": "book_0022300689",
+    "date": "2024-02-02",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240202/20240202_MIAWAS_book.pdf"
+  },
+  {
+    "source_id": "page_0022300705",
+    "date": "2024-02-04",
+    "kind": "page",
+    "url": "https://www.nba.com/game/phx-vs-was-0022300705/box-score"
+  },
+  {
+    "source_id": "book_0022300705",
+    "date": "2024-02-04",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240204/20240204_PHXWAS_book.pdf"
+  },
+  {
+    "source_id": "page_0022300728",
+    "date": "2024-02-07",
+    "kind": "page",
+    "url": "https://www.nba.com/game/cle-vs-was-0022300728/box-score"
+  },
+  {
+    "source_id": "book_0022300728",
+    "date": "2024-02-07",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240207/20240207_CLEWAS_book.pdf"
+  },
+  {
+    "source_id": "page_0022300743",
+    "date": "2024-02-09",
+    "kind": "page",
+    "url": "https://www.nba.com/game/was-vs-bos-0022300743/box-score"
+  },
+  {
+    "source_id": "book_0022300743",
+    "date": "2024-02-09",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240209/20240209_WASBOS_book.pdf"
+  },
+  {
+    "source_id": "page_0022300753",
+    "date": "2024-02-10",
+    "kind": "page",
+    "url": "https://www.nba.com/game/phi-vs-was-0022300753/box-score"
+  },
+  {
+    "source_id": "book_0022300753",
+    "date": "2024-02-10",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240210/20240210_PHIWAS_book.pdf"
+  },
+  {
+    "source_id": "page_0022300768",
+    "date": "2024-02-12",
+    "kind": "page",
+    "url": "https://www.nba.com/game/was-vs-dal-0022300768/box-score"
+  },
+  {
+    "source_id": "book_0022300768",
+    "date": "2024-02-12",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240212/20240212_WASDAL_book.pdf"
+  },
+  {
+    "source_id": "page_0022300784",
+    "date": "2024-02-14",
+    "kind": "page",
+    "url": "https://www.nba.com/game/was-vs-nop-0022300784/box-score"
+  },
+  {
+    "source_id": "book_0022300784",
+    "date": "2024-02-14",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240214/20240214_WASNOP_book.pdf"
+  },
+  {
+    "source_id": "page_0022300800",
+    "date": "2024-02-22",
+    "kind": "page",
+    "url": "https://www.nba.com/game/was-vs-den-0022300800/box-score"
+  },
+  {
+    "source_id": "book_0022300800",
+    "date": "2024-02-22",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240222/20240222_WASDEN_book.pdf"
+  },
+  {
+    "source_id": "page_0022300809",
+    "date": "2024-02-23",
+    "kind": "page",
+    "url": "https://www.nba.com/game/was-vs-okc-0022300809/box-score"
+  },
+  {
+    "source_id": "book_0022300809",
+    "date": "2024-02-23",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240223/20240223_WASOKC_book.pdf"
+  },
+  {
+    "source_id": "page_0022300820",
+    "date": "2024-02-25",
+    "kind": "page",
+    "url": "https://www.nba.com/game/cle-vs-was-0022300820/box-score"
+  },
+  {
+    "source_id": "book_0022300820",
+    "date": "2024-02-25",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240225/20240225_CLEWAS_book.pdf"
+  },
+  {
+    "source_id": "page_0022300834",
+    "date": "2024-02-27",
+    "kind": "page",
+    "url": "https://www.nba.com/game/gsw-vs-was-0022300834/box-score"
+  },
+  {
+    "source_id": "book_0022300834",
+    "date": "2024-02-27",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240227/20240227_GSWWAS_book.pdf"
+  },
+  {
+    "source_id": "page_0022300856",
+    "date": "2024-02-29",
+    "kind": "page",
+    "url": "https://www.nba.com/game/was-vs-lal-0022300856/box-score"
+  },
+  {
+    "source_id": "book_0022300856",
+    "date": "2024-02-29",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240229/20240229_WASLAL_book.pdf"
+  },
+  {
+    "source_id": "page_0022300865",
+    "date": "2024-03-01",
+    "kind": "page",
+    "url": "https://www.nba.com/game/was-vs-lac-0022300865/box-score"
+  },
+  {
+    "source_id": "book_0022300865",
+    "date": "2024-03-01",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240301/20240301_WASLAC_book.pdf"
+  },
+  {
+    "source_id": "page_0022300882",
+    "date": "2024-03-04",
+    "kind": "page",
+    "url": "https://www.nba.com/game/was-vs-uta-0022300882/box-score"
+  },
+  {
+    "source_id": "book_0022300882",
+    "date": "2024-03-04",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240304/20240304_WASUTA_book.pdf"
+  },
+  {
+    "source_id": "page_0022300894",
+    "date": "2024-03-06",
+    "kind": "page",
+    "url": "https://www.nba.com/game/orl-vs-was-0022300894/box-score"
+  },
+  {
+    "source_id": "book_0022300894",
+    "date": "2024-03-06",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240306/20240306_ORLWAS_book.pdf"
+  },
+  {
+    "source_id": "page_0022300910",
+    "date": "2024-03-08",
+    "kind": "page",
+    "url": "https://www.nba.com/game/cha-vs-was-0022300910/box-score"
+  },
+  {
+    "source_id": "book_0022300910",
+    "date": "2024-03-08",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240308/20240308_CHAWAS_book.pdf"
+  },
+  {
+    "source_id": "page_0022300926",
+    "date": "2024-03-10",
+    "kind": "page",
+    "url": "https://www.nba.com/game/was-vs-mia-0022300926/box-score"
+  },
+  {
+    "source_id": "book_0022300926",
+    "date": "2024-03-10",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240310/20240310_WASMIA_book.pdf"
+  },
+  {
+    "source_id": "page_0022300940",
+    "date": "2024-03-12",
+    "kind": "page",
+    "url": "https://www.nba.com/game/was-vs-mem-0022300940/box-score"
+  },
+  {
+    "source_id": "book_0022300940",
+    "date": "2024-03-12",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240312/20240312_WASMEM_book.pdf"
+  },
+  {
+    "source_id": "page_0022300957",
+    "date": "2024-03-14",
+    "kind": "page",
+    "url": "https://www.nba.com/game/was-vs-hou-0022300957/box-score"
+  },
+  {
+    "source_id": "book_0022300957",
+    "date": "2024-03-14",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240314/20240314_WASHOU_book.pdf"
+  },
+  {
+    "source_id": "page_0022300971",
+    "date": "2024-03-16",
+    "kind": "page",
+    "url": "https://www.nba.com/game/was-vs-chi-0022300971/box-score"
+  },
+  {
+    "source_id": "book_0022300971",
+    "date": "2024-03-16",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240316/20240316_WASCHI_book.pdf"
+  },
+  {
+    "source_id": "page_0022300980",
+    "date": "2024-03-17",
+    "kind": "page",
+    "url": "https://www.nba.com/game/bos-vs-was-0022300980/box-score"
+  },
+  {
+    "source_id": "book_0022300980",
+    "date": "2024-03-17",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240317/20240317_BOSWAS_book.pdf"
+  },
+  {
+    "source_id": "page_0022300992",
+    "date": "2024-03-19",
+    "kind": "page",
+    "url": "https://www.nba.com/game/hou-vs-was-0022300992/box-score"
+  },
+  {
+    "source_id": "book_0022300992",
+    "date": "2024-03-19",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240319/20240319_HOUWAS_book.pdf"
+  },
+  {
+    "source_id": "page_0022301005",
+    "date": "2024-03-21",
+    "kind": "page",
+    "url": "https://www.nba.com/game/sac-vs-was-0022301005/box-score"
+  },
+  {
+    "source_id": "book_0022301005",
+    "date": "2024-03-21",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240321/20240321_SACWAS_book.pdf"
+  },
+  {
+    "source_id": "page_0022301022",
+    "date": "2024-03-23",
+    "kind": "page",
+    "url": "https://www.nba.com/game/tor-vs-was-0022301022/box-score"
+  },
+  {
+    "source_id": "book_0022301022",
+    "date": "2024-03-23",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240323/20240323_TORWAS_book.pdf"
+  },
+  {
+    "source_id": "page_0022301037",
+    "date": "2024-03-25",
+    "kind": "page",
+    "url": "https://www.nba.com/game/was-vs-chi-0022301037/box-score"
+  },
+  {
+    "source_id": "book_0022301037",
+    "date": "2024-03-25",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240325/20240325_WASCHI_book.pdf"
+  },
+  {
+    "source_id": "page_0022301050",
+    "date": "2024-03-27",
+    "kind": "page",
+    "url": "https://www.nba.com/game/bkn-vs-was-0022301050/box-score"
+  },
+  {
+    "source_id": "book_0022301050",
+    "date": "2024-03-27",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240327/20240327_BKNWAS_book.pdf"
+  },
+  {
+    "source_id": "page_0022301065",
+    "date": "2024-03-29",
+    "kind": "page",
+    "url": "https://www.nba.com/game/det-vs-was-0022301065/box-score"
+  },
+  {
+    "source_id": "book_0022301065",
+    "date": "2024-03-29",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240329/20240329_DETWAS_book.pdf"
+  },
+  {
+    "source_id": "page_0022301081",
+    "date": "2024-03-31",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mia-vs-was-0022301081/box-score"
+  },
+  {
+    "source_id": "book_0022301081",
+    "date": "2024-03-31",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240331/20240331_MIAWAS_book.pdf"
+  },
+  {
+    "source_id": "page_0022301095",
+    "date": "2024-04-02",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mil-vs-was-0022301095/box-score"
+  },
+  {
+    "source_id": "book_0022301095",
+    "date": "2024-04-02",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240402/20240402_MILWAS_book.pdf"
+  },
+  {
+    "source_id": "page_0022301103",
+    "date": "2024-04-03",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lal-vs-was-0022301103/box-score"
+  },
+  {
+    "source_id": "book_0022301103",
+    "date": "2024-04-03",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240403/20240403_LALWAS_book.pdf"
+  },
+  {
+    "source_id": "page_0022301117",
+    "date": "2024-04-05",
+    "kind": "page",
+    "url": "https://www.nba.com/game/por-vs-was-0022301117/box-score"
+  },
+  {
+    "source_id": "book_0022301117",
+    "date": "2024-04-05",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240405/20240405_PORWAS_book.pdf"
+  },
+  {
+    "source_id": "page_0022301137",
+    "date": "2024-04-07",
+    "kind": "page",
+    "url": "https://www.nba.com/game/was-vs-tor-0022301137/box-score"
+  },
+  {
+    "source_id": "book_0022301137",
+    "date": "2024-04-07",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240407/20240407_WASTOR_book.pdf"
+  },
+  {
+    "source_id": "page_0022301172",
+    "date": "2024-04-12",
+    "kind": "page",
+    "url": "https://www.nba.com/game/chi-vs-was-0022301172/box-score"
+  },
+  {
+    "source_id": "book_0022301172",
+    "date": "2024-04-12",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240412/20240412_CHIWAS_book.pdf"
+  },
+  {
+    "source_id": "page_0022301186",
+    "date": "2024-04-14",
+    "kind": "page",
+    "url": "https://www.nba.com/game/was-vs-bos-0022301186/box-score"
+  },
+  {
+    "source_id": "book_0022301186",
+    "date": "2024-04-14",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240414/20240414_WASBOS_book.pdf"
+  },
+  {
+    "source_id": "page_0022301210",
+    "date": "2023-12-06",
+    "kind": "page",
+    "url": "https://www.nba.com/game/sas-vs-min-0022301210/box-score"
+  },
+  {
+    "source_id": "book_0022301210",
+    "date": "2023-12-06",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231206/20231206_SASMIN_book.pdf"
+  },
+  {
+    "source_id": "page_0022301221",
+    "date": "2023-12-08",
+    "kind": "page",
+    "url": "https://www.nba.com/game/min-vs-mem-0022301221/box-score"
+  },
+  {
+    "source_id": "book_0022301221",
+    "date": "2023-12-08",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231208/20231208_MINMEM_book.pdf"
+  },
+  {
+    "source_id": "page_0022300301",
+    "date": "2023-12-11",
+    "kind": "page",
+    "url": "https://www.nba.com/game/min-vs-nop-0022300301/box-score"
+  },
+  {
+    "source_id": "book_0022300301",
+    "date": "2023-12-11",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231211/20231211_MINNOP_book.pdf"
+  },
+  {
+    "source_id": "page_0022300321",
+    "date": "2023-12-14",
+    "kind": "page",
+    "url": "https://www.nba.com/game/min-vs-dal-0022300321/box-score"
+  },
+  {
+    "source_id": "book_0022300321",
+    "date": "2023-12-14",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231214/20231214_MINDAL_book.pdf"
+  },
+  {
+    "source_id": "page_0022300353",
+    "date": "2023-12-18",
+    "kind": "page",
+    "url": "https://www.nba.com/game/min-vs-mia-0022300353/box-score"
+  },
+  {
+    "source_id": "book_0022300353",
+    "date": "2023-12-18",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231218/20231218_MINMIA_book.pdf"
+  },
+  {
+    "source_id": "page_0022300367",
+    "date": "2023-12-20",
+    "kind": "page",
+    "url": "https://www.nba.com/game/min-vs-phi-0022300367/box-score"
+  },
+  {
+    "source_id": "book_0022300367",
+    "date": "2023-12-20",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231220/20231220_MINPHI_book.pdf"
+  },
+  {
+    "source_id": "page_0022300380",
+    "date": "2023-12-21",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lal-vs-min-0022300380/box-score"
+  },
+  {
+    "source_id": "book_0022300380",
+    "date": "2023-12-21",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231221/20231221_LALMIN_book.pdf"
+  },
+  {
+    "source_id": "page_0022300400",
+    "date": "2023-12-23",
+    "kind": "page",
+    "url": "https://www.nba.com/game/min-vs-sac-0022300400/box-score"
+  },
+  {
+    "source_id": "book_0022300400",
+    "date": "2023-12-23",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231223/20231223_MINSAC_book.pdf"
+  },
+  {
+    "source_id": "page_0022300411",
+    "date": "2023-12-26",
+    "kind": "page",
+    "url": "https://www.nba.com/game/min-vs-okc-0022300411/box-score"
+  },
+  {
+    "source_id": "book_0022300411",
+    "date": "2023-12-26",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231226/20231226_MINOKC_book.pdf"
+  },
+  {
+    "source_id": "page_0022300423",
+    "date": "2023-12-28",
+    "kind": "page",
+    "url": "https://www.nba.com/game/dal-vs-min-0022300423/box-score"
+  },
+  {
+    "source_id": "book_0022300423",
+    "date": "2023-12-28",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231228/20231228_DALMIN_book.pdf"
+  },
+  {
+    "source_id": "page_0022300443",
+    "date": "2023-12-30",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lal-vs-min-0022300443/box-score"
+  },
+  {
+    "source_id": "book_0022300443",
+    "date": "2023-12-30",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231230/20231230_LALMIN_book.pdf"
+  },
+  {
+    "source_id": "page_0022300451",
+    "date": "2024-01-01",
+    "kind": "page",
+    "url": "https://www.nba.com/game/min-vs-nyk-0022300451/box-score"
+  },
+  {
+    "source_id": "book_0022300451",
+    "date": "2024-01-01",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240101/20240101_MINNYK_book.pdf"
+  },
+  {
+    "source_id": "page_0022300471",
+    "date": "2024-01-03",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nop-vs-min-0022300471/box-score"
+  },
+  {
+    "source_id": "book_0022300471",
+    "date": "2024-01-03",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240103/20240103_NOPMIN_book.pdf"
+  },
+  {
+    "source_id": "page_0022300485",
+    "date": "2024-01-05",
+    "kind": "page",
+    "url": "https://www.nba.com/game/min-vs-hou-0022300485/box-score"
+  },
+  {
+    "source_id": "book_0022300485",
+    "date": "2024-01-05",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240105/20240105_MINHOU_book.pdf"
+  },
+  {
+    "source_id": "page_0022300501",
+    "date": "2024-01-07",
+    "kind": "page",
+    "url": "https://www.nba.com/game/min-vs-dal-0022300501/box-score"
+  },
+  {
+    "source_id": "book_0022300501",
+    "date": "2024-01-07",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240107/20240107_MINDAL_book.pdf"
+  },
+  {
+    "source_id": "page_0022300513",
+    "date": "2024-01-09",
+    "kind": "page",
+    "url": "https://www.nba.com/game/min-vs-orl-0022300513/box-score"
+  },
+  {
+    "source_id": "book_0022300513",
+    "date": "2024-01-09",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240109/20240109_MINORL_book.pdf"
+  },
+  {
+    "source_id": "page_0022300517",
+    "date": "2024-01-10",
+    "kind": "page",
+    "url": "https://www.nba.com/game/min-vs-bos-0022300517/box-score"
+  },
+  {
+    "source_id": "book_0022300517",
+    "date": "2024-01-10",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240110/20240110_MINBOS_book.pdf"
+  },
+  {
+    "source_id": "page_0022300538",
+    "date": "2024-01-12",
+    "kind": "page",
+    "url": "https://www.nba.com/game/por-vs-min-0022300538/box-score"
+  },
+  {
+    "source_id": "book_0022300538",
+    "date": "2024-01-12",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240112/20240112_PORMIN_book.pdf"
+  },
+  {
+    "source_id": "page_0022300553",
+    "date": "2024-01-14",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lac-vs-min-0022300553/box-score"
+  },
+  {
+    "source_id": "book_0022300553",
+    "date": "2024-01-14",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240114/20240114_LACMIN_book.pdf"
+  },
+  {
+    "source_id": "page_0022300569",
+    "date": "2024-01-17",
+    "kind": "page",
+    "url": "https://www.nba.com/game/min-vs-det-0022300569/box-score"
+  },
+  {
+    "source_id": "book_0022300569",
+    "date": "2024-01-17",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240117/20240117_MINDET_book.pdf"
+  },
+  {
+    "source_id": "page_0022300582",
+    "date": "2024-01-18",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mem-vs-min-0022300582/box-score"
+  },
+  {
+    "source_id": "book_0022300582",
+    "date": "2024-01-18",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240118/20240118_MEMMIN_book.pdf"
+  },
+  {
+    "source_id": "page_0022300599",
+    "date": "2024-01-20",
+    "kind": "page",
+    "url": "https://www.nba.com/game/okc-vs-min-0022300599/box-score"
+  },
+  {
+    "source_id": "book_0022300599",
+    "date": "2024-01-20",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240120/20240120_OKCMIN_book.pdf"
+  },
+  {
+    "source_id": "page_0022300610",
+    "date": "2024-01-22",
+    "kind": "page",
+    "url": "https://www.nba.com/game/cha-vs-min-0022300610/box-score"
+  },
+  {
+    "source_id": "book_0022300610",
+    "date": "2024-01-22",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240122/20240122_CHAMIN_book.pdf"
+  },
+  {
+    "source_id": "page_0022300629",
+    "date": "2024-01-25",
+    "kind": "page",
+    "url": "https://www.nba.com/game/min-vs-bkn-0022300629/box-score"
+  },
+  {
+    "source_id": "book_0022300629",
+    "date": "2024-01-25",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240125/20240125_MINBKN_book.pdf"
+  },
+  {
+    "source_id": "page_0022300649",
+    "date": "2024-01-27",
+    "kind": "page",
+    "url": "https://www.nba.com/game/min-vs-sas-0022300649/box-score"
+  },
+  {
+    "source_id": "book_0022300649",
+    "date": "2024-01-27",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240127/20240127_MINSAS_book.pdf"
+  },
+  {
+    "source_id": "page_0022300664",
+    "date": "2024-01-29",
+    "kind": "page",
+    "url": "https://www.nba.com/game/min-vs-okc-0022300664/box-score"
+  },
+  {
+    "source_id": "book_0022300664",
+    "date": "2024-01-29",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240129/20240129_MINOKC_book.pdf"
+  },
+  {
+    "source_id": "page_0022300680",
+    "date": "2024-01-31",
+    "kind": "page",
+    "url": "https://www.nba.com/game/dal-vs-min-0022300680/box-score"
+  },
+  {
+    "source_id": "book_0022300680",
+    "date": "2024-01-31",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240131/20240131_DALMIN_book.pdf"
+  },
+  {
+    "source_id": "page_0022300694",
+    "date": "2024-02-02",
+    "kind": "page",
+    "url": "https://www.nba.com/game/orl-vs-min-0022300694/box-score"
+  },
+  {
+    "source_id": "book_0022300694",
+    "date": "2024-02-02",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240202/20240202_ORLMIN_book.pdf"
+  },
+  {
+    "source_id": "page_0022300709",
+    "date": "2024-02-04",
+    "kind": "page",
+    "url": "https://www.nba.com/game/hou-vs-min-0022300709/box-score"
+  },
+  {
+    "source_id": "book_0022300709",
+    "date": "2024-02-04",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240204/20240204_HOUMIN_book.pdf"
+  },
+  {
+    "source_id": "page_0022300723",
+    "date": "2024-02-06",
+    "kind": "page",
+    "url": "https://www.nba.com/game/min-vs-chi-0022300723/box-score"
+  },
+  {
+    "source_id": "book_0022300723",
+    "date": "2024-02-06",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240206/20240206_MINCHI_book.pdf"
+  },
+  {
+    "source_id": "page_0022300889",
+    "date": "2024-03-05",
+    "kind": "page",
+    "url": "https://www.nba.com/game/atl-vs-nyk-0022300889/box-score"
+  },
+  {
+    "source_id": "book_0022300889",
+    "date": "2024-03-05",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240305/20240305_ATLNYK_book.pdf"
+  },
+  {
+    "source_id": "page_0022300912",
+    "date": "2024-03-08",
+    "kind": "page",
+    "url": "https://www.nba.com/game/orl-vs-nyk-0022300912/box-score"
+  },
+  {
+    "source_id": "book_0022300912",
+    "date": "2024-03-08",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240308/20240308_ORLNYK_book.pdf"
+  },
+  {
+    "source_id": "page_0022300927",
+    "date": "2024-03-10",
+    "kind": "page",
+    "url": "https://www.nba.com/game/phi-vs-nyk-0022300927/box-score"
+  },
+  {
+    "source_id": "book_0022300927",
+    "date": "2024-03-10",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240310/20240310_PHINYK_book.pdf"
+  },
+  {
+    "source_id": "page_0022300939",
+    "date": "2024-03-12",
+    "kind": "page",
+    "url": "https://www.nba.com/game/phi-vs-nyk-0022300939/box-score"
+  },
+  {
+    "source_id": "book_0022300939",
+    "date": "2024-03-12",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240312/20240312_PHINYK_book.pdf"
+  },
+  {
+    "source_id": "page_0022300960",
+    "date": "2024-03-14",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nyk-vs-por-0022300960/box-score"
+  },
+  {
+    "source_id": "book_0022300960",
+    "date": "2024-03-14",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240314/20240314_NYKPOR_book.pdf"
+  },
+  {
+    "source_id": "page_0022300975",
+    "date": "2024-03-16",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nyk-vs-sac-0022300975/box-score"
+  },
+  {
+    "source_id": "book_0022300975",
+    "date": "2024-03-16",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240316/20240316_NYKSAC_book.pdf"
+  },
+  {
+    "source_id": "page_0022300988",
+    "date": "2024-03-18",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nyk-vs-gsw-0022300988/box-score"
+  },
+  {
+    "source_id": "book_0022300988",
+    "date": "2024-03-18",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240318/20240318_NYKGSW_book.pdf"
+  },
+  {
+    "source_id": "page_0022301009",
+    "date": "2024-03-21",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nyk-vs-den-0022301009/box-score"
+  },
+  {
+    "source_id": "book_0022301009",
+    "date": "2024-03-21",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240321/20240321_NYKDEN_book.pdf"
+  },
+  {
+    "source_id": "page_0022301019",
+    "date": "2024-03-23",
+    "kind": "page",
+    "url": "https://www.nba.com/game/bkn-vs-nyk-0022301019/box-score"
+  },
+  {
+    "source_id": "book_0022301019",
+    "date": "2024-03-23",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240323/20240323_BKNNYK_book.pdf"
+  },
+  {
+    "source_id": "page_0022301035",
+    "date": "2024-03-25",
+    "kind": "page",
+    "url": "https://www.nba.com/game/det-vs-nyk-0022301035/box-score"
+  },
+  {
+    "source_id": "book_0022301035",
+    "date": "2024-03-25",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240325/20240325_DETNYK_book.pdf"
+  },
+  {
+    "source_id": "page_0022301053",
+    "date": "2024-03-27",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nyk-vs-tor-0022301053/box-score"
+  },
+  {
+    "source_id": "book_0022301053",
+    "date": "2024-03-27",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240327/20240327_NYKTOR_book.pdf"
+  },
+  {
+    "source_id": "page_0022301070",
+    "date": "2024-03-29",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nyk-vs-sas-0022301070/box-score"
+  },
+  {
+    "source_id": "book_0022301070",
+    "date": "2024-03-29",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240329/20240329_NYKSAS_book.pdf"
+  },
+  {
+    "source_id": "page_0022301082",
+    "date": "2024-03-31",
+    "kind": "page",
+    "url": "https://www.nba.com/game/okc-vs-nyk-0022301082/box-score"
+  },
+  {
+    "source_id": "book_0022301082",
+    "date": "2024-03-31",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240331/20240331_OKCNYK_book.pdf"
+  },
+  {
+    "source_id": "page_0022301096",
+    "date": "2024-04-02",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nyk-vs-mia-0022301096/box-score"
+  },
+  {
+    "source_id": "book_0022301096",
+    "date": "2024-04-02",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240402/20240402_NYKMIA_book.pdf"
+  },
+  {
+    "source_id": "page_0022301112",
+    "date": "2024-04-04",
+    "kind": "page",
+    "url": "https://www.nba.com/game/sac-vs-nyk-0022301112/box-score"
+  },
+  {
+    "source_id": "book_0022301112",
+    "date": "2024-04-04",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240404/20240404_SACNYK_book.pdf"
+  },
+  {
+    "source_id": "page_0022301119",
+    "date": "2024-04-05",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nyk-vs-chi-0022301119/box-score"
+  },
+  {
+    "source_id": "book_0022301119",
+    "date": "2024-04-05",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240405/20240405_NYKCHI_book.pdf"
+  },
+  {
+    "source_id": "page_0022301139",
+    "date": "2024-04-07",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nyk-vs-mil-0022301139/box-score"
+  },
+  {
+    "source_id": "book_0022301139",
+    "date": "2024-04-07",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240407/20240407_NYKMIL_book.pdf"
+  },
+  {
+    "source_id": "page_0022301149",
+    "date": "2024-04-09",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nyk-vs-chi-0022301149/box-score"
+  },
+  {
+    "source_id": "book_0022301149",
+    "date": "2024-04-09",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240409/20240409_NYKCHI_book.pdf"
+  },
+  {
+    "source_id": "page_0022301167",
+    "date": "2024-04-11",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nyk-vs-bos-0022301167/box-score"
+  },
+  {
+    "source_id": "book_0022301167",
+    "date": "2024-04-11",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240411/20240411_NYKBOS_book.pdf"
+  },
+  {
+    "source_id": "page_0022301175",
+    "date": "2024-04-12",
+    "kind": "page",
+    "url": "https://www.nba.com/game/bkn-vs-nyk-0022301175/box-score"
+  },
+  {
+    "source_id": "book_0022301175",
+    "date": "2024-04-12",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240412/20240412_BKNNYK_book.pdf"
+  },
+  {
+    "source_id": "page_0022301190",
+    "date": "2024-04-14",
+    "kind": "page",
+    "url": "https://www.nba.com/game/chi-vs-nyk-0022301190/box-score"
+  },
+  {
+    "source_id": "book_0022301190",
+    "date": "2024-04-14",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240414/20240414_CHINYK_book.pdf"
+  },
+  {
+    "source_id": "page_0022301207",
+    "date": "2023-12-06",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mia-vs-tor-0022301207/box-score"
+  },
+  {
+    "source_id": "book_0022301207",
+    "date": "2023-12-06",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231206/20231206_MIATOR_book.pdf"
+  },
+  {
+    "source_id": "page_0022301216",
+    "date": "2023-12-08",
+    "kind": "page",
+    "url": "https://www.nba.com/game/tor-vs-cha-0022301216/box-score"
+  },
+  {
+    "source_id": "book_0022301216",
+    "date": "2023-12-08",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231208/20231208_TORCHA_book.pdf"
+  },
+  {
+    "source_id": "page_0022300297",
+    "date": "2023-12-11",
+    "kind": "page",
+    "url": "https://www.nba.com/game/tor-vs-nyk-0022300297/box-score"
+  },
+  {
+    "source_id": "book_0022300297",
+    "date": "2023-12-11",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231211/20231211_TORNYK_book.pdf"
+  },
+  {
+    "source_id": "page_0022300313",
+    "date": "2023-12-13",
+    "kind": "page",
+    "url": "https://www.nba.com/game/atl-vs-tor-0022300313/box-score"
+  },
+  {
+    "source_id": "book_0022300313",
+    "date": "2023-12-13",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231213/20231213_ATLTOR_book.pdf"
+  },
+  {
+    "source_id": "page_0022300330",
+    "date": "2023-12-15",
+    "kind": "page",
+    "url": "https://www.nba.com/game/atl-vs-tor-0022300330/box-score"
+  },
+  {
+    "source_id": "book_0022300330",
+    "date": "2023-12-15",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231215/20231215_ATLTOR_book.pdf"
+  },
+  {
+    "source_id": "page_0022300354",
+    "date": "2023-12-18",
+    "kind": "page",
+    "url": "https://www.nba.com/game/cha-vs-tor-0022300354/box-score"
+  },
+  {
+    "source_id": "book_0022300354",
+    "date": "2023-12-18",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231218/20231218_CHATOR_book.pdf"
+  },
+  {
+    "source_id": "page_0022300369",
+    "date": "2023-12-20",
+    "kind": "page",
+    "url": "https://www.nba.com/game/den-vs-tor-0022300369/box-score"
+  },
+  {
+    "source_id": "book_0022300369",
+    "date": "2023-12-20",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231220/20231220_DENTOR_book.pdf"
+  },
+  {
+    "source_id": "page_0022300382",
+    "date": "2023-12-22",
+    "kind": "page",
+    "url": "https://www.nba.com/game/tor-vs-phi-0022300382/box-score"
+  },
+  {
+    "source_id": "book_0022300382",
+    "date": "2023-12-22",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231222/20231222_TORPHI_book.pdf"
+  },
+  {
+    "source_id": "page_0022300395",
+    "date": "2023-12-23",
+    "kind": "page",
+    "url": "https://www.nba.com/game/uta-vs-tor-0022300395/box-score"
+  },
+  {
+    "source_id": "book_0022300395",
+    "date": "2023-12-23",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231223/20231223_UTATOR_book.pdf"
+  },
+  {
+    "source_id": "page_0022300416",
+    "date": "2023-12-27",
+    "kind": "page",
+    "url": "https://www.nba.com/game/tor-vs-was-0022300416/box-score"
+  },
+  {
+    "source_id": "book_0022300416",
+    "date": "2023-12-27",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231227/20231227_TORWAS_book.pdf"
+  },
+  {
+    "source_id": "page_0022300432",
+    "date": "2023-12-29",
+    "kind": "page",
+    "url": "https://www.nba.com/game/tor-vs-bos-0022300432/box-score"
+  },
+  {
+    "source_id": "book_0022300432",
+    "date": "2023-12-29",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231229/20231229_TORBOS_book.pdf"
+  },
+  {
+    "source_id": "page_0022300468",
+    "date": "2024-01-03",
+    "kind": "page",
+    "url": "https://www.nba.com/game/chi-vs-nyk-0022300468/box-score"
+  },
+  {
+    "source_id": "book_0022300468",
+    "date": "2024-01-03",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240103/20240103_CHINYK_book.pdf"
+  },
+  {
+    "source_id": "page_0022300483",
+    "date": "2024-01-05",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nyk-vs-phi-0022300483/box-score"
+  },
+  {
+    "source_id": "book_0022300483",
+    "date": "2024-01-05",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240105/20240105_NYKPHI_book.pdf"
+  },
+  {
+    "source_id": "page_0022300494",
+    "date": "2024-01-06",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nyk-vs-was-0022300494/box-score"
+  },
+  {
+    "source_id": "book_0022300494",
+    "date": "2024-01-06",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240106/20240106_NYKWAS_book.pdf"
+  },
+  {
+    "source_id": "page_0022300514",
+    "date": "2024-01-09",
+    "kind": "page",
+    "url": "https://www.nba.com/game/por-vs-nyk-0022300514/box-score"
+  },
+  {
+    "source_id": "book_0022300514",
+    "date": "2024-01-09",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240109/20240109_PORNYK_book.pdf"
+  },
+  {
+    "source_id": "page_0022300530",
+    "date": "2024-01-11",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nyk-vs-dal-0022300530/box-score"
+  },
+  {
+    "source_id": "book_0022300530",
+    "date": "2024-01-11",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240111/20240111_NYKDAL_book.pdf"
+  },
+  {
+    "source_id": "page_0022300544",
+    "date": "2024-01-13",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nyk-vs-mem-0022300544/box-score"
+  },
+  {
+    "source_id": "book_0022300544",
+    "date": "2024-01-13",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240113/20240113_NYKMEM_book.pdf"
+  },
+  {
+    "source_id": "page_0022300557",
+    "date": "2024-01-15",
+    "kind": "page",
+    "url": "https://www.nba.com/game/orl-vs-nyk-0022300557/box-score"
+  },
+  {
+    "source_id": "book_0022300557",
+    "date": "2024-01-15",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240115/20240115_ORLNYK_book.pdf"
+  },
+  {
+    "source_id": "page_0022300573",
+    "date": "2024-01-17",
+    "kind": "page",
+    "url": "https://www.nba.com/game/hou-vs-nyk-0022300573/box-score"
+  },
+  {
+    "source_id": "book_0022300573",
+    "date": "2024-01-17",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240117/20240117_HOUNYK_book.pdf"
+  },
+  {
+    "source_id": "page_0022300596",
+    "date": "2024-01-20",
+    "kind": "page",
+    "url": "https://www.nba.com/game/tor-vs-nyk-0022300596/box-score"
+  },
+  {
+    "source_id": "book_0022300596",
+    "date": "2024-01-20",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240120/20240120_TORNYK_book.pdf"
+  },
+  {
+    "source_id": "page_0022300615",
+    "date": "2024-01-23",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nyk-vs-bkn-0022300615/box-score"
+  },
+  {
+    "source_id": "book_0022300615",
+    "date": "2024-01-23",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240123/20240123_NYKBKN_book.pdf"
+  },
+  {
+    "source_id": "page_0022300631",
+    "date": "2024-01-25",
+    "kind": "page",
+    "url": "https://www.nba.com/game/den-vs-nyk-0022300631/box-score"
+  },
+  {
+    "source_id": "book_0022300631",
+    "date": "2024-01-25",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240125/20240125_DENNYK_book.pdf"
+  },
+  {
+    "source_id": "page_0022300643",
+    "date": "2024-01-27",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mia-vs-nyk-0022300643/box-score"
+  },
+  {
+    "source_id": "book_0022300643",
+    "date": "2024-01-27",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240127/20240127_MIANYK_book.pdf"
+  },
+  {
+    "source_id": "page_0022300657",
+    "date": "2024-01-29",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nyk-vs-cha-0022300657/box-score"
+  },
+  {
+    "source_id": "book_0022300657",
+    "date": "2024-01-29",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240129/20240129_NYKCHA_book.pdf"
+  },
+  {
+    "source_id": "page_0022300671",
+    "date": "2024-01-30",
+    "kind": "page",
+    "url": "https://www.nba.com/game/uta-vs-nyk-0022300671/box-score"
+  },
+  {
+    "source_id": "book_0022300671",
+    "date": "2024-01-30",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240130/20240130_UTANYK_book.pdf"
+  },
+  {
+    "source_id": "page_0022300701",
+    "date": "2024-02-03",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lal-vs-nyk-0022300701/box-score"
+  },
+  {
+    "source_id": "book_0022300701",
+    "date": "2024-02-03",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240203/20240203_LALNYK_book.pdf"
+  },
+  {
+    "source_id": "page_0022300722",
+    "date": "2024-02-06",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mem-vs-nyk-0022300722/box-score"
+  },
+  {
+    "source_id": "book_0022300722",
+    "date": "2024-02-06",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240206/20240206_MEMNYK_book.pdf"
+  },
+  {
+    "source_id": "page_0022300759",
+    "date": "2024-02-11",
+    "kind": "page",
+    "url": "https://www.nba.com/game/bos-vs-mia-0022300759/box-score"
+  },
+  {
+    "source_id": "book_0022300759",
+    "date": "2024-02-11",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240211/20240211_BOSMIA_book.pdf"
+  },
+  {
+    "source_id": "page_0022300771",
+    "date": "2024-02-13",
+    "kind": "page",
+    "url": "https://www.nba.com/game/bos-vs-bkn-0022300771/box-score"
+  },
+  {
+    "source_id": "book_0022300771",
+    "date": "2024-02-13",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240213/20240213_BOSBKN_book.pdf"
+  },
+  {
+    "source_id": "page_0022300780",
+    "date": "2024-02-14",
+    "kind": "page",
+    "url": "https://www.nba.com/game/bkn-vs-bos-0022300780/box-score"
+  },
+  {
+    "source_id": "book_0022300780",
+    "date": "2024-02-14",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240214/20240214_BKNBOS_book.pdf"
+  },
+  {
+    "source_id": "page_0022300797",
+    "date": "2024-02-22",
+    "kind": "page",
+    "url": "https://www.nba.com/game/bos-vs-chi-0022300797/box-score"
+  },
+  {
+    "source_id": "book_0022300797",
+    "date": "2024-02-22",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240222/20240222_BOSCHI_book.pdf"
+  },
+  {
+    "source_id": "page_0022300816",
+    "date": "2024-02-24",
+    "kind": "page",
+    "url": "https://www.nba.com/game/bos-vs-nyk-0022300816/box-score"
+  },
+  {
+    "source_id": "book_0022300816",
+    "date": "2024-02-24",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240224/20240224_BOSNYK_book.pdf"
+  },
+  {
+    "source_id": "page_0022300836",
+    "date": "2024-02-27",
+    "kind": "page",
+    "url": "https://www.nba.com/game/phi-vs-bos-0022300836/box-score"
+  },
+  {
+    "source_id": "book_0022300836",
+    "date": "2024-02-27",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240227/20240227_PHIBOS_book.pdf"
+  },
+  {
+    "source_id": "page_0022300859",
+    "date": "2024-03-01",
+    "kind": "page",
+    "url": "https://www.nba.com/game/dal-vs-bos-0022300859/box-score"
+  },
+  {
+    "source_id": "book_0022300859",
+    "date": "2024-03-01",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240301/20240301_DALBOS_book.pdf"
+  },
+  {
+    "source_id": "page_0022300872",
+    "date": "2024-03-03",
+    "kind": "page",
+    "url": "https://www.nba.com/game/gsw-vs-bos-0022300872/box-score"
+  },
+  {
+    "source_id": "book_0022300872",
+    "date": "2024-03-03",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240303/20240303_GSWBOS_book.pdf"
+  },
+  {
+    "source_id": "page_0022300886",
+    "date": "2024-03-05",
+    "kind": "page",
+    "url": "https://www.nba.com/game/bos-vs-cle-0022300886/box-score"
+  },
+  {
+    "source_id": "book_0022300886",
+    "date": "2024-03-05",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240305/20240305_BOSCLE_book.pdf"
+  },
+  {
+    "source_id": "page_0022300906",
+    "date": "2024-03-07",
+    "kind": "page",
+    "url": "https://www.nba.com/game/bos-vs-den-0022300906/box-score"
+  },
+  {
+    "source_id": "book_0022300906",
+    "date": "2024-03-07",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240307/20240307_BOSDEN_book.pdf"
+  },
+  {
+    "source_id": "page_0022300920",
+    "date": "2024-03-09",
+    "kind": "page",
+    "url": "https://www.nba.com/game/bos-vs-phx-0022300920/box-score"
+  },
+  {
+    "source_id": "book_0022300920",
+    "date": "2024-03-09",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240309/20240309_BOSPHX_book.pdf"
+  },
+  {
+    "source_id": "page_0022300938",
+    "date": "2024-03-11",
+    "kind": "page",
+    "url": "https://www.nba.com/game/bos-vs-por-0022300938/box-score"
+  },
+  {
+    "source_id": "book_0022300938",
+    "date": "2024-03-11",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240311/20240311_BOSPOR_book.pdf"
+  },
+  {
+    "source_id": "page_0022300943",
+    "date": "2024-03-12",
+    "kind": "page",
+    "url": "https://www.nba.com/game/bos-vs-uta-0022300943/box-score"
+  },
+  {
+    "source_id": "book_0022300943",
+    "date": "2024-03-12",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240312/20240312_BOSUTA_book.pdf"
+  },
+  {
+    "source_id": "page_0022300955",
+    "date": "2024-03-14",
+    "kind": "page",
+    "url": "https://www.nba.com/game/phx-vs-bos-0022300955/box-score"
+  },
+  {
+    "source_id": "book_0022300955",
+    "date": "2024-03-14",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240314/20240314_PHXBOS_book.pdf"
+  },
+  {
+    "source_id": "page_0022300984",
+    "date": "2024-03-18",
+    "kind": "page",
+    "url": "https://www.nba.com/game/det-vs-bos-0022300984/box-score"
+  },
+  {
+    "source_id": "book_0022300984",
+    "date": "2024-03-18",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240318/20240318_DETBOS_book.pdf"
+  },
+  {
+    "source_id": "page_0022300998",
+    "date": "2024-03-20",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mil-vs-bos-0022300998/box-score"
+  },
+  {
+    "source_id": "book_0022300998",
+    "date": "2024-03-20",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240320/20240320_MILBOS_book.pdf"
+  },
+  {
+    "source_id": "page_0022301011",
+    "date": "2024-03-22",
+    "kind": "page",
+    "url": "https://www.nba.com/game/bos-vs-det-0022301011/box-score"
+  },
+  {
+    "source_id": "book_0022301011",
+    "date": "2024-03-22",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240322/20240322_BOSDET_book.pdf"
+  },
+  {
+    "source_id": "page_0022301023",
+    "date": "2024-03-23",
+    "kind": "page",
+    "url": "https://www.nba.com/game/bos-vs-chi-0022301023/box-score"
+  },
+  {
+    "source_id": "book_0022301023",
+    "date": "2024-03-23",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240323/20240323_BOSCHI_book.pdf"
+  },
+  {
+    "source_id": "page_0022301034",
+    "date": "2024-03-25",
+    "kind": "page",
+    "url": "https://www.nba.com/game/bos-vs-atl-0022301034/box-score"
+  },
+  {
+    "source_id": "book_0022301034",
+    "date": "2024-03-25",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240325/20240325_BOSATL_book.pdf"
+  },
+  {
+    "source_id": "page_0022301060",
+    "date": "2024-03-28",
+    "kind": "page",
+    "url": "https://www.nba.com/game/bos-vs-atl-0022301060/box-score"
+  },
+  {
+    "source_id": "book_0022301060",
+    "date": "2024-03-28",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240328/20240328_BOSATL_book.pdf"
+  },
+  {
+    "source_id": "page_0022301074",
+    "date": "2024-03-30",
+    "kind": "page",
+    "url": "https://www.nba.com/game/bos-vs-nop-0022301074/box-score"
+  },
+  {
+    "source_id": "book_0022301074",
+    "date": "2024-03-30",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240330/20240330_BOSNOP_book.pdf"
+  },
+  {
+    "source_id": "page_0022301087",
+    "date": "2024-04-01",
+    "kind": "page",
+    "url": "https://www.nba.com/game/bos-vs-cha-0022301087/box-score"
+  },
+  {
+    "source_id": "book_0022301087",
+    "date": "2024-04-01",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240401/20240401_BOSCHA_book.pdf"
+  },
+  {
+    "source_id": "page_0022301105",
+    "date": "2024-04-03",
+    "kind": "page",
+    "url": "https://www.nba.com/game/okc-vs-bos-0022301105/box-score"
+  },
+  {
+    "source_id": "book_0022301105",
+    "date": "2024-04-03",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240403/20240403_OKCBOS_book.pdf"
+  },
+  {
+    "source_id": "page_0022301118",
+    "date": "2024-04-05",
+    "kind": "page",
+    "url": "https://www.nba.com/game/sac-vs-bos-0022301118/box-score"
+  },
+  {
+    "source_id": "book_0022301118",
+    "date": "2024-04-05",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240405/20240405_SACBOS_book.pdf"
+  },
+  {
+    "source_id": "page_0022301134",
+    "date": "2024-04-07",
+    "kind": "page",
+    "url": "https://www.nba.com/game/por-vs-bos-0022301134/box-score"
+  },
+  {
+    "source_id": "book_0022301134",
+    "date": "2024-04-07",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240407/20240407_PORBOS_book.pdf"
+  },
+  {
+    "source_id": "page_0022301148",
+    "date": "2024-04-09",
+    "kind": "page",
+    "url": "https://www.nba.com/game/bos-vs-mil-0022301148/box-score"
+  },
+  {
+    "source_id": "book_0022301148",
+    "date": "2024-04-09",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240409/20240409_BOSMIL_book.pdf"
+  },
+  {
+    "source_id": "page_0022301173",
+    "date": "2024-04-12",
+    "kind": "page",
+    "url": "https://www.nba.com/game/cha-vs-bos-0022301173/box-score"
+  },
+  {
+    "source_id": "book_0022301173",
+    "date": "2024-04-12",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240412/20240412_CHABOS_book.pdf"
+  },
+  {
+    "source_id": "page_0022301213",
+    "date": "2023-12-06",
+    "kind": "page",
+    "url": "https://www.nba.com/game/uta-vs-dal-0022301213/box-score"
+  },
+  {
+    "source_id": "book_0022301213",
+    "date": "2023-12-06",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231206/20231206_UTADAL_book.pdf"
+  },
+  {
+    "source_id": "page_0022301225",
+    "date": "2023-12-08",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lac-vs-uta-0022301225/box-score"
+  },
+  {
+    "source_id": "book_0022301225",
+    "date": "2023-12-08",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231208/20231208_LACUTA_book.pdf"
+  },
+  {
+    "source_id": "page_0022300302",
+    "date": "2023-12-11",
+    "kind": "page",
+    "url": "https://www.nba.com/game/uta-vs-okc-0022300302/box-score"
+  },
+  {
+    "source_id": "book_0022300302",
+    "date": "2023-12-11",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231211/20231211_UTAOKC_book.pdf"
+  },
+  {
+    "source_id": "page_0022300318",
+    "date": "2023-12-13",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nyk-vs-uta-0022300318/box-score"
+  },
+  {
+    "source_id": "book_0022300318",
+    "date": "2023-12-13",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231213/20231213_NYKUTA_book.pdf"
+  },
+  {
+    "source_id": "page_0022300323",
+    "date": "2023-12-14",
+    "kind": "page",
+    "url": "https://www.nba.com/game/uta-vs-por-0022300323/box-score"
+  },
+  {
+    "source_id": "book_0022300323",
+    "date": "2023-12-14",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231214/20231214_UTAPOR_book.pdf"
+  },
+  {
+    "source_id": "page_0022300342",
+    "date": "2023-12-16",
+    "kind": "page",
+    "url": "https://www.nba.com/game/uta-vs-sac-0022300342/box-score"
+  },
+  {
+    "source_id": "book_0022300342",
+    "date": "2023-12-16",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231216/20231216_UTASAC_book.pdf"
+  },
+  {
+    "source_id": "page_0022300357",
+    "date": "2023-12-18",
+    "kind": "page",
+    "url": "https://www.nba.com/game/bkn-vs-uta-0022300357/box-score"
+  },
+  {
+    "source_id": "book_0022300357",
+    "date": "2023-12-18",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231218/20231218_BKNUTA_book.pdf"
+  },
+  {
+    "source_id": "page_0022300364",
+    "date": "2023-12-20",
+    "kind": "page",
+    "url": "https://www.nba.com/game/uta-vs-cle-0022300364/box-score"
+  },
+  {
+    "source_id": "book_0022300364",
+    "date": "2023-12-20",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231220/20231220_UTACLE_book.pdf"
+  },
+  {
+    "source_id": "page_0022300374",
+    "date": "2023-12-21",
+    "kind": "page",
+    "url": "https://www.nba.com/game/uta-vs-det-0022300374/box-score"
+  },
+  {
+    "source_id": "book_0022300374",
+    "date": "2023-12-21",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231221/20231221_UTADET_book.pdf"
+  },
+  {
+    "source_id": "page_0022300412",
+    "date": "2023-12-26",
+    "kind": "page",
+    "url": "https://www.nba.com/game/uta-vs-sas-0022300412/box-score"
+  },
+  {
+    "source_id": "book_0022300412",
+    "date": "2023-12-26",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231226/20231226_UTASAS_book.pdf"
+  },
+  {
+    "source_id": "page_0022300424",
+    "date": "2023-12-28",
+    "kind": "page",
+    "url": "https://www.nba.com/game/uta-vs-nop-0022300424/box-score"
+  },
+  {
+    "source_id": "book_0022300424",
+    "date": "2023-12-28",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231228/20231228_UTANOP_book.pdf"
+  },
+  {
+    "source_id": "page_0022300439",
+    "date": "2023-12-30",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mia-vs-uta-0022300439/box-score"
+  },
+  {
+    "source_id": "book_0022300439",
+    "date": "2023-12-30",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231230/20231230_MIAUTA_book.pdf"
+  },
+  {
+    "source_id": "page_0022300457",
+    "date": "2024-01-01",
+    "kind": "page",
+    "url": "https://www.nba.com/game/dal-vs-uta-0022300457/box-score"
+  },
+  {
+    "source_id": "book_0022300457",
+    "date": "2024-01-01",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240101/20240101_DALUTA_book.pdf"
+  },
+  {
+    "source_id": "page_0022300474",
+    "date": "2024-01-03",
+    "kind": "page",
+    "url": "https://www.nba.com/game/det-vs-uta-0022300474/box-score"
+  },
+  {
+    "source_id": "book_0022300474",
+    "date": "2024-01-03",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240103/20240103_DETUTA_book.pdf"
+  },
+  {
+    "source_id": "page_0022300479",
+    "date": "2024-01-05",
+    "kind": "page",
+    "url": "https://www.nba.com/game/uta-vs-bos-0022300479/box-score"
+  },
+  {
+    "source_id": "book_0022300479",
+    "date": "2024-01-05",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240105/20240105_UTABOS_book.pdf"
+  },
+  {
+    "source_id": "page_0022300495",
+    "date": "2024-01-06",
+    "kind": "page",
+    "url": "https://www.nba.com/game/uta-vs-phi-0022300495/box-score"
+  },
+  {
+    "source_id": "book_0022300495",
+    "date": "2024-01-06",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240106/20240106_UTAPHI_book.pdf"
+  },
+  {
+    "source_id": "page_0022300524",
+    "date": "2024-01-10",
+    "kind": "page",
+    "url": "https://www.nba.com/game/den-vs-uta-0022300524/box-score"
+  },
+  {
+    "source_id": "book_0022300524",
+    "date": "2024-01-10",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240110/20240110_DENUTA_book.pdf"
+  },
+  {
+    "source_id": "page_0022300540",
+    "date": "2024-01-12",
+    "kind": "page",
+    "url": "https://www.nba.com/game/tor-vs-uta-0022300540/box-score"
+  },
+  {
+    "source_id": "book_0022300540",
+    "date": "2024-01-12",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240112/20240112_TORUTA_book.pdf"
+  },
+  {
+    "source_id": "page_0022300549",
+    "date": "2024-01-13",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lal-vs-uta-0022300549/box-score"
+  },
+  {
+    "source_id": "book_0022300549",
+    "date": "2024-01-13",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240113/20240113_LALUTA_book.pdf"
+  },
+  {
+    "source_id": "page_0022300581",
+    "date": "2024-01-18",
+    "kind": "page",
+    "url": "https://www.nba.com/game/okc-vs-uta-0022300581/box-score"
+  },
+  {
+    "source_id": "book_0022300581",
+    "date": "2024-01-18",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240118/20240118_OKCUTA_book.pdf"
+  },
+  {
+    "source_id": "page_0022300598",
+    "date": "2024-01-20",
+    "kind": "page",
+    "url": "https://www.nba.com/game/uta-vs-hou-0022300598/box-score"
+  },
+  {
+    "source_id": "book_0022300598",
+    "date": "2024-01-20",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240120/20240120_UTAHOU_book.pdf"
+  },
+  {
+    "source_id": "page_0022300616",
+    "date": "2024-01-23",
+    "kind": "page",
+    "url": "https://www.nba.com/game/uta-vs-nop-0022300616/box-score"
+  },
+  {
+    "source_id": "book_0022300616",
+    "date": "2024-01-23",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240123/20240123_UTANOP_book.pdf"
+  },
+  {
+    "source_id": "page_0022300647",
+    "date": "2024-01-27",
+    "kind": "page",
+    "url": "https://www.nba.com/game/uta-vs-cha-0022300647/box-score"
+  },
+  {
+    "source_id": "book_0022300647",
+    "date": "2024-01-27",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240127/20240127_UTACHA_book.pdf"
+  },
+  {
+    "source_id": "page_0022300660",
+    "date": "2024-01-29",
+    "kind": "page",
+    "url": "https://www.nba.com/game/uta-vs-bkn-0022300660/box-score"
+  },
+  {
+    "source_id": "book_0022300660",
+    "date": "2024-01-29",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240129/20240129_UTABKN_book.pdf"
+  },
+  {
+    "source_id": "page_0022300686",
+    "date": "2024-02-01",
+    "kind": "page",
+    "url": "https://www.nba.com/game/phi-vs-uta-0022300686/box-score"
+  },
+  {
+    "source_id": "book_0022300686",
+    "date": "2024-02-01",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240201/20240201_PHIUTA_book.pdf"
+  },
+  {
+    "source_id": "page_0022300724",
+    "date": "2024-02-06",
+    "kind": "page",
+    "url": "https://www.nba.com/game/okc-vs-uta-0022300724/box-score"
+  },
+  {
+    "source_id": "book_0022300724",
+    "date": "2024-02-06",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240206/20240206_OKCUTA_book.pdf"
+  },
+  {
+    "source_id": "page_0022300745",
+    "date": "2024-02-09",
+    "kind": "page",
+    "url": "https://www.nba.com/game/cha-vs-mil-0022300745/box-score"
+  },
+  {
+    "source_id": "book_0022300745",
+    "date": "2024-02-09",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240209/20240209_CHAMIL_book.pdf"
+  },
+  {
+    "source_id": "page_0022300767",
+    "date": "2024-02-12",
+    "kind": "page",
+    "url": "https://www.nba.com/game/den-vs-mil-0022300767/box-score"
+  },
+  {
+    "source_id": "book_0022300767",
+    "date": "2024-02-12",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240212/20240212_DENMIL_book.pdf"
+  },
+  {
+    "source_id": "page_0022300773",
+    "date": "2024-02-13",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mia-vs-mil-0022300773/box-score"
+  },
+  {
+    "source_id": "book_0022300773",
+    "date": "2024-02-13",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240213/20240213_MIAMIL_book.pdf"
+  },
+  {
+    "source_id": "page_0022300790",
+    "date": "2024-02-15",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mil-vs-mem-0022300790/box-score"
+  },
+  {
+    "source_id": "book_0022300790",
+    "date": "2024-02-15",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240215/20240215_MILMEM_book.pdf"
+  },
+  {
+    "source_id": "page_0022300817",
+    "date": "2024-02-25",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mil-vs-phi-0022300817/box-score"
+  },
+  {
+    "source_id": "book_0022300817",
+    "date": "2024-02-25",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240225/20240225_MILPHI_book.pdf"
+  },
+  {
+    "source_id": "page_0022300840",
+    "date": "2024-02-27",
+    "kind": "page",
+    "url": "https://www.nba.com/game/cha-vs-mil-0022300840/box-score"
+  },
+  {
+    "source_id": "book_0022300840",
+    "date": "2024-02-27",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240227/20240227_CHAMIL_book.pdf"
+  },
+  {
+    "source_id": "page_0022300849",
+    "date": "2024-02-29",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mil-vs-cha-0022300849/box-score"
+  },
+  {
+    "source_id": "book_0022300849",
+    "date": "2024-02-29",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240229/20240229_MILCHA_book.pdf"
+  },
+  {
+    "source_id": "page_0022300864",
+    "date": "2024-03-01",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mil-vs-chi-0022300864/box-score"
+  },
+  {
+    "source_id": "book_0022300864",
+    "date": "2024-03-01",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240301/20240301_MILCHI_book.pdf"
+  },
+  {
+    "source_id": "page_0022300880",
+    "date": "2024-03-04",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lac-vs-mil-0022300880/box-score"
+  },
+  {
+    "source_id": "book_0022300880",
+    "date": "2024-03-04",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240304/20240304_LACMIL_book.pdf"
+  },
+  {
+    "source_id": "page_0022300899",
+    "date": "2024-03-06",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mil-vs-gsw-0022300899/box-score"
+  },
+  {
+    "source_id": "book_0022300899",
+    "date": "2024-03-06",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240306/20240306_MILGSW_book.pdf"
+  },
+  {
+    "source_id": "page_0022300915",
+    "date": "2024-03-08",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mil-vs-lal-0022300915/box-score"
+  },
+  {
+    "source_id": "book_0022300915",
+    "date": "2024-03-08",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240308/20240308_MILLAL_book.pdf"
+  },
+  {
+    "source_id": "page_0022300924",
+    "date": "2024-03-10",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mil-vs-lac-0022300924/box-score"
+  },
+  {
+    "source_id": "book_0022300924",
+    "date": "2024-03-10",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240310/20240310_MILLAC_book.pdf"
+  },
+  {
+    "source_id": "page_0022300945",
+    "date": "2024-03-12",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mil-vs-sac-0022300945/box-score"
+  },
+  {
+    "source_id": "book_0022300945",
+    "date": "2024-03-12",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240312/20240312_MILSAC_book.pdf"
+  },
+  {
+    "source_id": "page_0022300958",
+    "date": "2024-03-14",
+    "kind": "page",
+    "url": "https://www.nba.com/game/phi-vs-mil-0022300958/box-score"
+  },
+  {
+    "source_id": "book_0022300958",
+    "date": "2024-03-14",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240314/20240314_PHIMIL_book.pdf"
+  },
+  {
+    "source_id": "page_0022300976",
+    "date": "2024-03-17",
+    "kind": "page",
+    "url": "https://www.nba.com/game/phx-vs-mil-0022300976/box-score"
+  },
+  {
+    "source_id": "book_0022300976",
+    "date": "2024-03-17",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240317/20240317_PHXMIL_book.pdf"
+  },
+  {
+    "source_id": "page_0022301007",
+    "date": "2024-03-21",
+    "kind": "page",
+    "url": "https://www.nba.com/game/bkn-vs-mil-0022301007/box-score"
+  },
+  {
+    "source_id": "book_0022301007",
+    "date": "2024-03-21",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240321/20240321_BKNMIL_book.pdf"
+  },
+  {
+    "source_id": "page_0022301030",
+    "date": "2024-03-24",
+    "kind": "page",
+    "url": "https://www.nba.com/game/okc-vs-mil-0022301030/box-score"
+  },
+  {
+    "source_id": "book_0022301030",
+    "date": "2024-03-24",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240324/20240324_OKCMIL_book.pdf"
+  },
+  {
+    "source_id": "page_0022301045",
+    "date": "2024-03-26",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lal-vs-mil-0022301045/box-score"
+  },
+  {
+    "source_id": "book_0022301045",
+    "date": "2024-03-26",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240326/20240326_LALMIL_book.pdf"
+  },
+  {
+    "source_id": "page_0022301061",
+    "date": "2024-03-28",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mil-vs-nop-0022301061/box-score"
+  },
+  {
+    "source_id": "book_0022301061",
+    "date": "2024-03-28",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240328/20240328_MILNOP_book.pdf"
+  },
+  {
+    "source_id": "page_0022301076",
+    "date": "2024-03-30",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mil-vs-atl-0022301076/box-score"
+  },
+  {
+    "source_id": "book_0022301076",
+    "date": "2024-03-30",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240330/20240330_MILATL_book.pdf"
+  },
+  {
+    "source_id": "page_0022301107",
+    "date": "2024-04-03",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mem-vs-mil-0022301107/box-score"
+  },
+  {
+    "source_id": "book_0022301107",
+    "date": "2024-04-03",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240403/20240403_MEMMIL_book.pdf"
+  },
+  {
+    "source_id": "page_0022301122",
+    "date": "2024-04-05",
+    "kind": "page",
+    "url": "https://www.nba.com/game/tor-vs-mil-0022301122/box-score"
+  },
+  {
+    "source_id": "book_0022301122",
+    "date": "2024-04-05",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240405/20240405_TORMIL_book.pdf"
+  },
+  {
+    "source_id": "page_0022301162",
+    "date": "2024-04-10",
+    "kind": "page",
+    "url": "https://www.nba.com/game/orl-vs-mil-0022301162/box-score"
+  },
+  {
+    "source_id": "book_0022301162",
+    "date": "2024-04-10",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240410/20240410_ORLMIL_book.pdf"
+  },
+  {
+    "source_id": "page_0022301179",
+    "date": "2024-04-12",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mil-vs-okc-0022301179/box-score"
+  },
+  {
+    "source_id": "book_0022301179",
+    "date": "2024-04-12",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240412/20240412_MILOKC_book.pdf"
+  },
+  {
+    "source_id": "page_0022301191",
+    "date": "2024-04-14",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mil-vs-orl-0022301191/box-score"
+  },
+  {
+    "source_id": "book_0022301191",
+    "date": "2024-04-14",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240414/20240414_MILORL_book.pdf"
+  },
+  {
+    "source_id": "page_0022300736",
+    "date": "2024-02-08",
+    "kind": "page",
+    "url": "https://www.nba.com/game/dal-vs-nyk-0022300736/box-score"
+  },
+  {
+    "source_id": "book_0022300736",
+    "date": "2024-02-08",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240208/20240208_DALNYK_book.pdf"
+  },
+  {
+    "source_id": "page_0022300755",
+    "date": "2024-02-10",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-nyk-0022300755/box-score"
+  },
+  {
+    "source_id": "book_0022300755",
+    "date": "2024-02-10",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240210/20240210_INDNYK_book.pdf"
+  },
+  {
+    "source_id": "page_0022300765",
+    "date": "2024-02-12",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nyk-vs-hou-0022300765/box-score"
+  },
+  {
+    "source_id": "book_0022300765",
+    "date": "2024-02-12",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240212/20240212_NYKHOU_book.pdf"
+  },
+  {
+    "source_id": "page_0022300778",
+    "date": "2024-02-14",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nyk-vs-orl-0022300778/box-score"
+  },
+  {
+    "source_id": "book_0022300778",
+    "date": "2024-02-14",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240214/20240214_NYKORL_book.pdf"
+  },
+  {
+    "source_id": "page_0022300794",
+    "date": "2024-02-22",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nyk-vs-phi-0022300794/box-score"
+  },
+  {
+    "source_id": "book_0022300794",
+    "date": "2024-02-22",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240222/20240222_NYKPHI_book.pdf"
+  },
+  {
+    "source_id": "page_0022300828",
+    "date": "2024-02-26",
+    "kind": "page",
+    "url": "https://www.nba.com/game/det-vs-nyk-0022300828/box-score"
+  },
+  {
+    "source_id": "book_0022300828",
+    "date": "2024-02-26",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240226/20240226_DETNYK_book.pdf"
+  },
+  {
+    "source_id": "page_0022300837",
+    "date": "2024-02-27",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nop-vs-nyk-0022300837/box-score"
+  },
+  {
+    "source_id": "book_0022300837",
+    "date": "2024-02-27",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240227/20240227_NOPNYK_book.pdf"
+  },
+  {
+    "source_id": "page_0022300852",
+    "date": "2024-02-29",
+    "kind": "page",
+    "url": "https://www.nba.com/game/gsw-vs-nyk-0022300852/box-score"
+  },
+  {
+    "source_id": "book_0022300852",
+    "date": "2024-02-29",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240229/20240229_GSWNYK_book.pdf"
+  },
+  {
+    "source_id": "page_0022300876",
+    "date": "2024-03-03",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nyk-vs-cle-0022300876/box-score"
+  },
+  {
+    "source_id": "book_0022300876",
+    "date": "2024-03-03",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240303/20240303_NYKCLE_book.pdf"
+  },
+  {
+    "source_id": "page_0022301227",
+    "date": "2023-12-08",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nyk-vs-bos-0022301227/box-score"
+  },
+  {
+    "source_id": "book_0022301227",
+    "date": "2023-12-08",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231208/20231208_NYKBOS_book.pdf"
+  },
+  {
+    "source_id": "page_0022300333",
+    "date": "2023-12-15",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nyk-vs-phx-0022300333/box-score"
+  },
+  {
+    "source_id": "book_0022300333",
+    "date": "2023-12-15",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231215/20231215_NYKPHX_book.pdf"
+  },
+  {
+    "source_id": "page_0022300343",
+    "date": "2023-12-16",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nyk-vs-lac-0022300343/box-score"
+  },
+  {
+    "source_id": "book_0022300343",
+    "date": "2023-12-16",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231216/20231216_NYKLAC_book.pdf"
+  },
+  {
+    "source_id": "page_0022300359",
+    "date": "2023-12-18",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nyk-vs-lal-0022300359/box-score"
+  },
+  {
+    "source_id": "book_0022300359",
+    "date": "2023-12-18",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231218/20231218_NYKLAL_book.pdf"
+  },
+  {
+    "source_id": "page_0022300368",
+    "date": "2023-12-20",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nyk-vs-bkn-0022300368/box-score"
+  },
+  {
+    "source_id": "book_0022300368",
+    "date": "2023-12-20",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231220/20231220_NYKBKN_book.pdf"
+  },
+  {
+    "source_id": "page_0022300419",
+    "date": "2023-12-27",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nyk-vs-okc-0022300419/box-score"
+  },
+  {
+    "source_id": "book_0022300419",
+    "date": "2023-12-27",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231227/20231227_NYKOKC_book.pdf"
+  },
+  {
+    "source_id": "page_0022300429",
+    "date": "2023-12-29",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nyk-vs-orl-0022300429/box-score"
+  },
+  {
+    "source_id": "book_0022300429",
+    "date": "2023-12-29",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231229/20231229_NYKORL_book.pdf"
+  },
+  {
+    "source_id": "page_0022300733",
+    "date": "2024-02-08",
+    "kind": "page",
+    "url": "https://www.nba.com/game/gsw-vs-ind-0022300733/box-score"
+  },
+  {
+    "source_id": "book_0022300733",
+    "date": "2024-02-08",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240208/20240208_GSWIND_book.pdf"
+  },
+  {
+    "source_id": "page_0022300761",
+    "date": "2024-02-12",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-cha-0022300761/box-score"
+  },
+  {
+    "source_id": "book_0022300761",
+    "date": "2024-02-12",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240212/20240212_INDCHA_book.pdf"
+  },
+  {
+    "source_id": "page_0022300782",
+    "date": "2024-02-14",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-tor-0022300782/box-score"
+  },
+  {
+    "source_id": "book_0022300782",
+    "date": "2024-02-14",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240214/20240214_INDTOR_book.pdf"
+  },
+  {
+    "source_id": "page_0022300793",
+    "date": "2024-02-22",
+    "kind": "page",
+    "url": "https://www.nba.com/game/det-vs-ind-0022300793/box-score"
+  },
+  {
+    "source_id": "book_0022300793",
+    "date": "2024-02-22",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240222/20240222_DETIND_book.pdf"
+  },
+  {
+    "source_id": "page_0022300819",
+    "date": "2024-02-25",
+    "kind": "page",
+    "url": "https://www.nba.com/game/dal-vs-ind-0022300819/box-score"
+  },
+  {
+    "source_id": "book_0022300819",
+    "date": "2024-02-25",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240225/20240225_DALIND_book.pdf"
+  },
+  {
+    "source_id": "page_0022300829",
+    "date": "2024-02-26",
+    "kind": "page",
+    "url": "https://www.nba.com/game/tor-vs-ind-0022300829/box-score"
+  },
+  {
+    "source_id": "book_0022300829",
+    "date": "2024-02-26",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240226/20240226_TORIND_book.pdf"
+  },
+  {
+    "source_id": "page_0022300843",
+    "date": "2024-02-28",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nop-vs-ind-0022300843/box-score"
+  },
+  {
+    "source_id": "book_0022300843",
+    "date": "2024-02-28",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240228/20240228_NOPIND_book.pdf"
+  },
+  {
+    "source_id": "page_0022300863",
+    "date": "2024-03-01",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-nop-0022300863/box-score"
+  },
+  {
+    "source_id": "book_0022300863",
+    "date": "2024-03-01",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240301/20240301_INDNOP_book.pdf"
+  },
+  {
+    "source_id": "page_0022300877",
+    "date": "2024-03-03",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-sas-0022300877/box-score"
+  },
+  {
+    "source_id": "book_0022300877",
+    "date": "2024-03-03",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240303/20240303_INDSAS_book.pdf"
+  },
+  {
+    "source_id": "page_0022300892",
+    "date": "2024-03-05",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-dal-0022300892/box-score"
+  },
+  {
+    "source_id": "book_0022300892",
+    "date": "2024-03-05",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240305/20240305_INDDAL_book.pdf"
+  },
+  {
+    "source_id": "page_0022300928",
+    "date": "2024-03-10",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-orl-0022300928/box-score"
+  },
+  {
+    "source_id": "book_0022300928",
+    "date": "2024-03-10",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240310/20240310_INDORL_book.pdf"
+  },
+  {
+    "source_id": "page_0022300941",
+    "date": "2024-03-12",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-okc-0022300941/box-score"
+  },
+  {
+    "source_id": "book_0022300941",
+    "date": "2024-03-12",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240312/20240312_INDOKC_book.pdf"
+  },
+  {
+    "source_id": "page_0022300948",
+    "date": "2024-03-13",
+    "kind": "page",
+    "url": "https://www.nba.com/game/chi-vs-ind-0022300948/box-score"
+  },
+  {
+    "source_id": "book_0022300948",
+    "date": "2024-03-13",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240313/20240313_CHIIND_book.pdf"
+  },
+  {
+    "source_id": "page_0022300968",
+    "date": "2024-03-16",
+    "kind": "page",
+    "url": "https://www.nba.com/game/bkn-vs-ind-0022300968/box-score"
+  },
+  {
+    "source_id": "book_0022300968",
+    "date": "2024-03-16",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240316/20240316_BKNIND_book.pdf"
+  },
+  {
+    "source_id": "page_0022300983",
+    "date": "2024-03-18",
+    "kind": "page",
+    "url": "https://www.nba.com/game/cle-vs-ind-0022300983/box-score"
+  },
+  {
+    "source_id": "book_0022300983",
+    "date": "2024-03-18",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240318/20240318_CLEIND_book.pdf"
+  },
+  {
+    "source_id": "page_0022300997",
+    "date": "2024-03-20",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-det-0022300997/box-score"
+  },
+  {
+    "source_id": "book_0022300997",
+    "date": "2024-03-20",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240320/20240320_INDDET_book.pdf"
+  },
+  {
+    "source_id": "page_0022301016",
+    "date": "2024-03-22",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-gsw-0022301016/box-score"
+  },
+  {
+    "source_id": "book_0022301016",
+    "date": "2024-03-22",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240322/20240322_INDGSW_book.pdf"
+  },
+  {
+    "source_id": "page_0022301032",
+    "date": "2024-03-24",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-lal-0022301032/box-score"
+  },
+  {
+    "source_id": "book_0022301032",
+    "date": "2024-03-24",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240324/20240324_INDLAL_book.pdf"
+  },
+  {
+    "source_id": "page_0022301043",
+    "date": "2024-03-25",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-lac-0022301043/box-score"
+  },
+  {
+    "source_id": "book_0022301043",
+    "date": "2024-03-25",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240325/20240325_INDLAC_book.pdf"
+  },
+  {
+    "source_id": "page_0022301054",
+    "date": "2024-03-27",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-chi-0022301054/box-score"
+  },
+  {
+    "source_id": "book_0022301054",
+    "date": "2024-03-27",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240327/20240327_INDCHI_book.pdf"
+  },
+  {
+    "source_id": "page_0022301063",
+    "date": "2024-03-29",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lal-vs-ind-0022301063/box-score"
+  },
+  {
+    "source_id": "book_0022301063",
+    "date": "2024-03-29",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240329/20240329_LALIND_book.pdf"
+  },
+  {
+    "source_id": "page_0022301089",
+    "date": "2024-04-01",
+    "kind": "page",
+    "url": "https://www.nba.com/game/bkn-vs-ind-0022301089/box-score"
+  },
+  {
+    "source_id": "book_0022301089",
+    "date": "2024-04-01",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240401/20240401_BKNIND_book.pdf"
+  },
+  {
+    "source_id": "page_0022301106",
+    "date": "2024-04-03",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-bkn-0022301106/box-score"
+  },
+  {
+    "source_id": "book_0022301106",
+    "date": "2024-04-03",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240403/20240403_INDBKN_book.pdf"
+  },
+  {
+    "source_id": "page_0022301116",
+    "date": "2024-04-05",
+    "kind": "page",
+    "url": "https://www.nba.com/game/okc-vs-ind-0022301116/box-score"
+  },
+  {
+    "source_id": "book_0022301116",
+    "date": "2024-04-05",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240405/20240405_OKCIND_book.pdf"
+  },
+  {
+    "source_id": "page_0022301133",
+    "date": "2024-04-07",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mia-vs-ind-0022301133/box-score"
+  },
+  {
+    "source_id": "book_0022301133",
+    "date": "2024-04-07",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240407/20240407_MIAIND_book.pdf"
+  },
+  {
+    "source_id": "page_0022301146",
+    "date": "2024-04-09",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-tor-0022301146/box-score"
+  },
+  {
+    "source_id": "book_0022301146",
+    "date": "2024-04-09",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240409/20240409_INDTOR_book.pdf"
+  },
+  {
+    "source_id": "page_0022301174",
+    "date": "2024-04-12",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-cle-0022301174/box-score"
+  },
+  {
+    "source_id": "book_0022301174",
+    "date": "2024-04-12",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240412/20240412_INDCLE_book.pdf"
+  },
+  {
+    "source_id": "page_0022301188",
+    "date": "2024-04-14",
+    "kind": "page",
+    "url": "https://www.nba.com/game/atl-vs-ind-0022301188/box-score"
+  },
+  {
+    "source_id": "book_0022301188",
+    "date": "2024-04-14",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240414/20240414_ATLIND_book.pdf"
+  },
+  {
+    "source_id": "page_0022301208",
+    "date": "2023-12-06",
+    "kind": "page",
+    "url": "https://www.nba.com/game/phi-vs-was-0022301208/box-score"
+  },
+  {
+    "source_id": "book_0022301208",
+    "date": "2023-12-06",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231206/20231206_PHIWAS_book.pdf"
+  },
+  {
+    "source_id": "page_0022301219",
+    "date": "2023-12-08",
+    "kind": "page",
+    "url": "https://www.nba.com/game/was-vs-bkn-0022301219/box-score"
+  },
+  {
+    "source_id": "book_0022301219",
+    "date": "2023-12-08",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231208/20231208_WASBKN_book.pdf"
+  },
+  {
+    "source_id": "page_0022300295",
+    "date": "2023-12-11",
+    "kind": "page",
+    "url": "https://www.nba.com/game/was-vs-phi-0022300295/box-score"
+  },
+  {
+    "source_id": "book_0022300295",
+    "date": "2023-12-11",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231211/20231211_WASPHI_book.pdf"
+  },
+  {
+    "source_id": "page_0022300311",
+    "date": "2023-12-13",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nop-vs-was-0022300311/box-score"
+  },
+  {
+    "source_id": "book_0022300311",
+    "date": "2023-12-13",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231213/20231213_NOPWAS_book.pdf"
+  },
+  {
+    "source_id": "page_0022300347",
+    "date": "2023-12-17",
+    "kind": "page",
+    "url": "https://www.nba.com/game/was-vs-phx-0022300347/box-score"
+  },
+  {
+    "source_id": "book_0022300347",
+    "date": "2023-12-17",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231217/20231217_WASPHX_book.pdf"
+  },
+  {
+    "source_id": "page_0022300358",
+    "date": "2023-12-18",
+    "kind": "page",
+    "url": "https://www.nba.com/game/was-vs-sac-0022300358/box-score"
+  },
+  {
+    "source_id": "book_0022300358",
+    "date": "2023-12-18",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231218/20231218_WASSAC_book.pdf"
+  },
+  {
+    "source_id": "page_0022300381",
+    "date": "2023-12-21",
+    "kind": "page",
+    "url": "https://www.nba.com/game/was-vs-por-0022300381/box-score"
+  },
+  {
+    "source_id": "book_0022300381",
+    "date": "2023-12-21",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231221/20231221_WASPOR_book.pdf"
+  },
+  {
+    "source_id": "page_0022300386",
+    "date": "2023-12-22",
+    "kind": "page",
+    "url": "https://www.nba.com/game/was-vs-gsw-0022300386/box-score"
+  },
+  {
+    "source_id": "book_0022300386",
+    "date": "2023-12-22",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231222/20231222_WASGSW_book.pdf"
+  },
+  {
+    "source_id": "page_0022300407",
+    "date": "2023-12-26",
+    "kind": "page",
+    "url": "https://www.nba.com/game/orl-vs-was-0022300407/box-score"
+  },
+  {
+    "source_id": "book_0022300407",
+    "date": "2023-12-26",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231226/20231226_ORLWAS_book.pdf"
+  },
+  {
+    "source_id": "page_0022300430",
+    "date": "2023-12-29",
+    "kind": "page",
+    "url": "https://www.nba.com/game/bkn-vs-was-0022300430/box-score"
+  },
+  {
+    "source_id": "book_0022300430",
+    "date": "2023-12-29",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231229/20231229_BKNWAS_book.pdf"
+  },
+  {
+    "source_id": "page_0022300445",
+    "date": "2023-12-31",
+    "kind": "page",
+    "url": "https://www.nba.com/game/atl-vs-was-0022300445/box-score"
+  },
+  {
+    "source_id": "book_0022300445",
+    "date": "2023-12-31",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231231/20231231_ATLWAS_book.pdf"
+  },
+  {
+    "source_id": "page_0022300465",
+    "date": "2024-01-03",
+    "kind": "page",
+    "url": "https://www.nba.com/game/was-vs-cle-0022300465/box-score"
+  },
+  {
+    "source_id": "book_0022300465",
+    "date": "2024-01-03",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240103/20240103_WASCLE_book.pdf"
+  },
+  {
+    "source_id": "page_0022300482",
+    "date": "2024-01-05",
+    "kind": "page",
+    "url": "https://www.nba.com/game/was-vs-cle-0022300482/box-score"
+  },
+  {
+    "source_id": "book_0022300482",
+    "date": "2024-01-05",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240105/20240105_WASCLE_book.pdf"
+  },
+  {
+    "source_id": "page_0022300508",
+    "date": "2024-01-08",
+    "kind": "page",
+    "url": "https://www.nba.com/game/okc-vs-was-0022300508/box-score"
+  },
+  {
+    "source_id": "book_0022300508",
+    "date": "2024-01-08",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240108/20240108_OKCWAS_book.pdf"
+  },
+  {
+    "source_id": "page_0022300543",
+    "date": "2024-01-13",
+    "kind": "page",
+    "url": "https://www.nba.com/game/was-vs-atl-0022300543/box-score"
+  },
+  {
+    "source_id": "book_0022300543",
+    "date": "2024-01-13",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240113/20240113_WASATL_book.pdf"
+  },
+  {
+    "source_id": "page_0022300878",
+    "date": "2024-03-03",
+    "kind": "page",
+    "url": "https://www.nba.com/game/okc-vs-phx-0022300878/box-score"
+  },
+  {
+    "source_id": "book_0022300878",
+    "date": "2024-03-03",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240303/20240303_OKCPHX_book.pdf"
+  },
+  {
+    "source_id": "page_0022300884",
+    "date": "2024-03-04",
+    "kind": "page",
+    "url": "https://www.nba.com/game/okc-vs-lal-0022300884/box-score"
+  },
+  {
+    "source_id": "book_0022300884",
+    "date": "2024-03-04",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240304/20240304_OKCLAL_book.pdf"
+  },
+  {
+    "source_id": "page_0022300900",
+    "date": "2024-03-06",
+    "kind": "page",
+    "url": "https://www.nba.com/game/okc-vs-por-0022300900/box-score"
+  },
+  {
+    "source_id": "book_0022300900",
+    "date": "2024-03-06",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240306/20240306_OKCPOR_book.pdf"
+  },
+  {
+    "source_id": "page_0022300914",
+    "date": "2024-03-08",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mia-vs-okc-0022300914/box-score"
+  },
+  {
+    "source_id": "book_0022300914",
+    "date": "2024-03-08",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240308/20240308_MIAOKC_book.pdf"
+  },
+  {
+    "source_id": "page_0022300931",
+    "date": "2024-03-10",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mem-vs-okc-0022300931/box-score"
+  },
+  {
+    "source_id": "book_0022300931",
+    "date": "2024-03-10",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240310/20240310_MEMOKC_book.pdf"
+  },
+  {
+    "source_id": "page_0022300959",
+    "date": "2024-03-14",
+    "kind": "page",
+    "url": "https://www.nba.com/game/dal-vs-okc-0022300959/box-score"
+  },
+  {
+    "source_id": "book_0022300959",
+    "date": "2024-03-14",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240314/20240314_DALOKC_book.pdf"
+  },
+  {
+    "source_id": "page_0022300972",
+    "date": "2024-03-16",
+    "kind": "page",
+    "url": "https://www.nba.com/game/okc-vs-mem-0022300972/box-score"
+  },
+  {
+    "source_id": "book_0022300972",
+    "date": "2024-03-16",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240316/20240316_OKCMEM_book.pdf"
+  },
+  {
+    "source_id": "page_0022301000",
+    "date": "2024-03-20",
+    "kind": "page",
+    "url": "https://www.nba.com/game/uta-vs-okc-0022301000/box-score"
+  },
+  {
+    "source_id": "book_0022301000",
+    "date": "2024-03-20",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240320/20240320_UTAOKC_book.pdf"
+  },
+  {
+    "source_id": "page_0022301012",
+    "date": "2024-03-22",
+    "kind": "page",
+    "url": "https://www.nba.com/game/okc-vs-tor-0022301012/box-score"
+  },
+  {
+    "source_id": "book_0022301012",
+    "date": "2024-03-22",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240322/20240322_OKCTOR_book.pdf"
+  },
+  {
+    "source_id": "page_0022301046",
+    "date": "2024-03-26",
+    "kind": "page",
+    "url": "https://www.nba.com/game/okc-vs-nop-0022301046/box-score"
+  },
+  {
+    "source_id": "book_0022301046",
+    "date": "2024-03-26",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240326/20240326_OKCNOP_book.pdf"
+  },
+  {
+    "source_id": "page_0022301057",
+    "date": "2024-03-27",
+    "kind": "page",
+    "url": "https://www.nba.com/game/hou-vs-okc-0022301057/box-score"
+  },
+  {
+    "source_id": "book_0022301057",
+    "date": "2024-03-27",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240327/20240327_HOUOKC_book.pdf"
+  },
+  {
+    "source_id": "page_0022301069",
+    "date": "2024-03-29",
+    "kind": "page",
+    "url": "https://www.nba.com/game/phx-vs-okc-0022301069/box-score"
+  },
+  {
+    "source_id": "book_0022301069",
+    "date": "2024-03-29",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240329/20240329_PHXOKC_book.pdf"
+  },
+  {
+    "source_id": "page_0022301093",
+    "date": "2024-04-02",
+    "kind": "page",
+    "url": "https://www.nba.com/game/okc-vs-phi-0022301093/box-score"
+  },
+  {
+    "source_id": "book_0022301093",
+    "date": "2024-04-02",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240402/20240402_OKCPHI_book.pdf"
+  },
+  {
+    "source_id": "page_0022301135",
+    "date": "2024-04-07",
+    "kind": "page",
+    "url": "https://www.nba.com/game/okc-vs-cha-0022301135/box-score"
+  },
+  {
+    "source_id": "book_0022301135",
+    "date": "2024-04-07",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240407/20240407_OKCCHA_book.pdf"
+  },
+  {
+    "source_id": "page_0022301153",
+    "date": "2024-04-09",
+    "kind": "page",
+    "url": "https://www.nba.com/game/sac-vs-okc-0022301153/box-score"
+  },
+  {
+    "source_id": "book_0022301153",
+    "date": "2024-04-09",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240409/20240409_SACOKC_book.pdf"
+  },
+  {
+    "source_id": "page_0022301163",
+    "date": "2024-04-10",
+    "kind": "page",
+    "url": "https://www.nba.com/game/sas-vs-okc-0022301163/box-score"
+  },
+  {
+    "source_id": "book_0022301163",
+    "date": "2024-04-10",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240410/20240410_SASOKC_book.pdf"
+  },
+  {
+    "source_id": "page_0022301196",
+    "date": "2024-04-14",
+    "kind": "page",
+    "url": "https://www.nba.com/game/dal-vs-okc-0022301196/box-score"
+  },
+  {
+    "source_id": "book_0022301196",
+    "date": "2024-04-14",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240414/20240414_DALOKC_book.pdf"
+  },
+  {
+    "source_id": "page_0022301206",
+    "date": "2023-12-06",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mem-vs-det-0022301206/box-score"
+  },
+  {
+    "source_id": "book_0022301206",
+    "date": "2023-12-06",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231206/20231206_MEMDET_book.pdf"
+  },
+  {
+    "source_id": "page_0022300299",
+    "date": "2023-12-11",
+    "kind": "page",
+    "url": "https://www.nba.com/game/dal-vs-mem-0022300299/box-score"
+  },
+  {
+    "source_id": "book_0022300299",
+    "date": "2023-12-11",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231211/20231211_DALMEM_book.pdf"
+  },
+  {
+    "source_id": "page_0022300314",
+    "date": "2023-12-13",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mem-vs-hou-0022300314/box-score"
+  },
+  {
+    "source_id": "book_0022300314",
+    "date": "2023-12-13",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231213/20231213_MEMHOU_book.pdf"
+  },
+  {
+    "source_id": "page_0022300332",
+    "date": "2023-12-15",
+    "kind": "page",
+    "url": "https://www.nba.com/game/hou-vs-mem-0022300332/box-score"
+  },
+  {
+    "source_id": "book_0022300332",
+    "date": "2023-12-15",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231215/20231215_HOUMEM_book.pdf"
+  },
+  {
+    "source_id": "page_0022300966",
+    "date": "2024-03-15",
+    "kind": "page",
+    "url": "https://www.nba.com/game/atl-vs-uta-0022300966/box-score"
+  },
+  {
+    "source_id": "book_0022300966",
+    "date": "2024-03-15",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240315/20240315_ATLUTA_book.pdf"
+  },
+  {
+    "source_id": "page_0022301008",
+    "date": "2024-03-21",
+    "kind": "page",
+    "url": "https://www.nba.com/game/uta-vs-dal-0022301008/box-score"
+  },
+  {
+    "source_id": "book_0022301008",
+    "date": "2024-03-21",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240321/20240321_UTADAL_book.pdf"
+  },
+  {
+    "source_id": "page_0022301024",
+    "date": "2024-03-23",
+    "kind": "page",
+    "url": "https://www.nba.com/game/uta-vs-hou-0022301024/box-score"
+  },
+  {
+    "source_id": "book_0022301024",
+    "date": "2024-03-23",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240323/20240323_UTAHOU_book.pdf"
+  },
+  {
+    "source_id": "page_0022301041",
+    "date": "2024-03-25",
+    "kind": "page",
+    "url": "https://www.nba.com/game/dal-vs-uta-0022301041/box-score"
+  },
+  {
+    "source_id": "book_0022301041",
+    "date": "2024-03-25",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240325/20240325_DALUTA_book.pdf"
+  },
+  {
+    "source_id": "page_0022301058",
+    "date": "2024-03-27",
+    "kind": "page",
+    "url": "https://www.nba.com/game/sas-vs-uta-0022301058/box-score"
+  },
+  {
+    "source_id": "book_0022301058",
+    "date": "2024-03-27",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240327/20240327_SASUTA_book.pdf"
+  },
+  {
+    "source_id": "page_0022301072",
+    "date": "2024-03-29",
+    "kind": "page",
+    "url": "https://www.nba.com/game/hou-vs-uta-0022301072/box-score"
+  },
+  {
+    "source_id": "book_0022301072",
+    "date": "2024-03-29",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240329/20240329_HOUUTA_book.pdf"
+  },
+  {
+    "source_id": "page_0022301086",
+    "date": "2024-03-31",
+    "kind": "page",
+    "url": "https://www.nba.com/game/uta-vs-sac-0022301086/box-score"
+  },
+  {
+    "source_id": "book_0022301086",
+    "date": "2024-03-31",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240331/20240331_UTASAC_book.pdf"
+  },
+  {
+    "source_id": "page_0022301100",
+    "date": "2024-04-02",
+    "kind": "page",
+    "url": "https://www.nba.com/game/cle-vs-uta-0022301100/box-score"
+  },
+  {
+    "source_id": "book_0022301100",
+    "date": "2024-04-02",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240402/20240402_CLEUTA_book.pdf"
+  },
+  {
+    "source_id": "page_0022301126",
+    "date": "2024-04-05",
+    "kind": "page",
+    "url": "https://www.nba.com/game/uta-vs-lac-0022301126/box-score"
+  },
+  {
+    "source_id": "book_0022301126",
+    "date": "2024-04-05",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240405/20240405_UTALAC_book.pdf"
+  },
+  {
+    "source_id": "page_0022301142",
+    "date": "2024-04-07",
+    "kind": "page",
+    "url": "https://www.nba.com/game/uta-vs-gsw-0022301142/box-score"
+  },
+  {
+    "source_id": "book_0022301142",
+    "date": "2024-04-07",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240407/20240407_UTAGSW_book.pdf"
+  },
+  {
+    "source_id": "page_0022301154",
+    "date": "2024-04-09",
+    "kind": "page",
+    "url": "https://www.nba.com/game/den-vs-uta-0022301154/box-score"
+  },
+  {
+    "source_id": "book_0022301154",
+    "date": "2024-04-09",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240409/20240409_DENUTA_book.pdf"
+  },
+  {
+    "source_id": "page_0022301168",
+    "date": "2024-04-11",
+    "kind": "page",
+    "url": "https://www.nba.com/game/hou-vs-uta-0022301168/box-score"
+  },
+  {
+    "source_id": "book_0022301168",
+    "date": "2024-04-11",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240411/20240411_HOUUTA_book.pdf"
+  },
+  {
+    "source_id": "page_0022301184",
+    "date": "2024-04-12",
+    "kind": "page",
+    "url": "https://www.nba.com/game/uta-vs-lac-0022301184/box-score"
+  },
+  {
+    "source_id": "book_0022301184",
+    "date": "2024-04-12",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240412/20240412_UTALAC_book.pdf"
+  },
+  {
+    "source_id": "page_0022301198",
+    "date": "2024-04-14",
+    "kind": "page",
+    "url": "https://www.nba.com/game/uta-vs-gsw-0022301198/box-score"
+  },
+  {
+    "source_id": "book_0022301198",
+    "date": "2024-04-14",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240414/20240414_UTAGSW_book.pdf"
+  },
+  {
+    "source_id": "page_0022300687",
+    "date": "2024-02-01",
+    "kind": "page",
+    "url": "https://www.nba.com/game/cle-vs-mem-0022300687/box-score"
+  },
+  {
+    "source_id": "book_0022300687",
+    "date": "2024-02-01",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240201/20240201_CLEMEM_book.pdf"
+  },
+  {
+    "source_id": "page_0022300693",
+    "date": "2024-02-02",
+    "kind": "page",
+    "url": "https://www.nba.com/game/gsw-vs-mem-0022300693/box-score"
+  },
+  {
+    "source_id": "book_0022300693",
+    "date": "2024-02-02",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240202/20240202_GSWMEM_book.pdf"
+  },
+  {
+    "source_id": "page_0022300706",
+    "date": "2024-02-04",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mem-vs-bos-0022300706/box-score"
+  },
+  {
+    "source_id": "book_0022300706",
+    "date": "2024-02-04",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240204/20240204_MEMBOS_book.pdf"
+  },
+  {
+    "source_id": "page_0022300737",
+    "date": "2024-02-08",
+    "kind": "page",
+    "url": "https://www.nba.com/game/chi-vs-mem-0022300737/box-score"
+  },
+  {
+    "source_id": "book_0022300737",
+    "date": "2024-02-08",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240208/20240208_CHIMEM_book.pdf"
+  },
+  {
+    "source_id": "page_0022300739",
+    "date": "2024-02-08",
+    "kind": "page",
+    "url": "https://www.nba.com/game/uta-vs-phx-0022300739/box-score"
+  },
+  {
+    "source_id": "book_0022300739",
+    "date": "2024-02-08",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240208/20240208_UTAPHX_book.pdf"
+  },
+  {
+    "source_id": "p2_trade_tracker",
+    "date": "2024-03-13",
+    "kind": "news",
+    "url": "https://www.nba.com/news/2023-24-nba-trade-tracker"
+  },
+  {
+    "source_id": "p2_lofton_uta",
+    "date": "2024-03-11",
+    "kind": "news",
+    "url": "https://www.nba.com/jazz/news/utah-jazz-sign-kenneth-lofton-jr"
+  },
+  {
+    "source_id": "p2_muscala_okc",
+    "date": "2024-03-02",
+    "kind": "news",
+    "url": "https://www.nba.com/thunder/news/release-muscala-240302"
+  },
+  {
+    "source_id": "p2_january_trade",
+    "date": "2024-01-14",
+    "kind": "news",
+    "url": "https://www.nba.com/wizards/news/wizards-acquire-bagley-iii-livers-from-detroit"
+  },
+  {
+    "source_id": "p2_three_team",
+    "date": "2024-02-08",
+    "kind": "news",
+    "url": "https://www.nba.com/pacers/news/indiana-pacers-complete-three-team-trade"
+  },
+  {
+    "source_id": "p2_melton_return",
+    "date": "2024-02-23",
+    "kind": "news",
+    "url": "https://www.hoopsrumors.com/2024/02/sixers-deanthony-melton-returns-after-lengthy-absence.html"
+  },
+  {
+    "source_id": "p2_gary_return",
+    "date": "2024-02-03",
+    "kind": "news",
+    "url": "https://www.hoopsrumors.com/2024/02/magic-notes-suggs-banchero-harris.html"
+  },
+  {
+    "source_id": "p2_livers_update",
+    "date": "2024-02-26",
+    "kind": "news",
+    "url": "https://www.nba.com/wizards/news/wizards-injury-update-13"
+  },
+  {
+    "source_id": "report_2024-02-13_06PM",
+    "date": "2024-02-13",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-13_06PM.pdf"
+  }
+]

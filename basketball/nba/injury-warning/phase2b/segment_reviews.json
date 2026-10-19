@@ -1,0 +1,27 @@
+{
+  "1631124_2024-01-05": {
+    "segment_start": "2024-01-05",
+    "common_episode_supported": true,
+    "original_anchor_supported": true,
+    "source_ids": "p2b_strawther_jan29;p2b_strawther_assignment;p2b_strawther_return;book_0022300682;page_0022300746",
+    "locator": "Jan29 team injury section; Feb4 assignment section; Feb9 return account; all 13 actual injury gamebooks; Feb9 NBA appearance",
+    "note": "13 consecutive medically attributed January games, no appearance or conflicting reason; reviewed return/clearance account distinguishes injury absence from later assignment and rotation choice. Common right-knee episode supported by total sequence, prospective team status and clearance context; not diagnosis matching alone."
+  },
+  "1631321_2024-01-10": {
+    "segment_start": "2024-01-10",
+    "common_episode_supported": true,
+    "original_anchor_supported": true,
+    "source_ids": "p2b_cissoko_serial;report_2024-01-26_11PM;book_0022300641;book_0022300649",
+    "locator": "Dated Jan9-Jan23 cumulative absence updates; all ten actual Jan10-Jan26 gamebooks; Jan26 report; Jan27 assignment",
+    "note": "Serial injury updates link the continuing absence. Ten official games establish the segment; later assignments add no injury games. Earlier Jan7 assignment/report conflict remains distinct; Jan10 is the preserved first injury-attributed actual-game anchor, not clinical onset."
+  },
+  "203496_2024-01-02": {
+    "segment_start": "2024-01-10",
+    "common_episode_supported": true,
+    "original_anchor_supported": false,
+    "source_ids": "page_0022300896;book_0022300495",
+    "locator": "Mar6 story.content[13]; Jan6 FINAL BOX illness; all later knee-attributed games",
+    "note": "Later 41-game individually knee-attributed segment contains a qualifying subset through the Mar6 retrospective continuity account. Jan6 illness prevents linking the original Jan2 onset to that subset. Original episode identity/anchor remains unresolved; anchor not moved.",
+    "supported_through": "2024-03-06"
+  }
+}

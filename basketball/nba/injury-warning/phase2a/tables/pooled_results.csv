@@ -1,0 +1,7 @@
+scope,extra_lag_days,team_game_exposures,distinct_physical_games,roster_players,recently_active_players,candidate_appearances,included,excluded,eligibility_unknown,positive,negative,outcome_unknown,confirmed_qualifying_events,events_with_eligible_prediction,missing_history,A_verified
+new_fixed_six,0,132,117,122,108,1452,1425,12,15,9,1285,131,4,4,13,0
+Boston_previously_inspected,0,23,23,19,16,246,244,2,0,0,244,0,0,0,0,0
+combined_development_not_validation,0,155,138,140,124,1698,1669,14,15,9,1529,131,4,4,13,0
+new_fixed_six,1,132,117,122,108,1452,1359,13,80,10,1224,125,4,4,13,0
+Boston_previously_inspected,1,23,23,19,16,246,234,2,10,0,234,0,0,0,0,0
+combined_development_not_validation,1,155,138,140,124,1698,1593,15,90,10,1458,125,4,4,13,0

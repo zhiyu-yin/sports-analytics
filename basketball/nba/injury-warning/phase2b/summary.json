@@ -1,0 +1,256 @@
+{
+  "before_after": [
+    {
+      "scope": "fixed_six_only",
+      "version": "before_phase2a",
+      "extra_lag_days": "0",
+      "appearances": 1452,
+      "included": 1425,
+      "excluded": 12,
+      "eligibility_unknown": 15,
+      "positive": 9,
+      "negative": 1285,
+      "outcome_unknown": 131,
+      "qualifying_events": 4,
+      "events_with_eligible_prediction": 4,
+      "eligible_positive_decisions": 9,
+      "missing_history": 13,
+      "changed_feature_rows": 0,
+      "acute_already_disclosed": 0,
+      "symptom_or_history_known": 6,
+      "no_signal_found_under_searched_process": 3
+    },
+    {
+      "scope": "fixed_six_only",
+      "version": "after_phase2b",
+      "extra_lag_days": "0",
+      "appearances": 1452,
+      "included": 1425,
+      "excluded": 12,
+      "eligibility_unknown": 15,
+      "positive": 11,
+      "negative": 1285,
+      "outcome_unknown": 129,
+      "qualifying_events": 6,
+      "events_with_eligible_prediction": 5,
+      "eligible_positive_decisions": 11,
+      "missing_history": 13,
+      "changed_feature_rows": 0,
+      "acute_already_disclosed": 0,
+      "symptom_or_history_known": 6,
+      "no_signal_found_under_searched_process": 5
+    },
+    {
+      "scope": "fixed_six_only",
+      "version": "before_phase2a",
+      "extra_lag_days": "1",
+      "appearances": 1452,
+      "included": 1359,
+      "excluded": 13,
+      "eligibility_unknown": 80,
+      "positive": 10,
+      "negative": 1224,
+      "outcome_unknown": 125,
+      "qualifying_events": 4,
+      "events_with_eligible_prediction": 4,
+      "eligible_positive_decisions": 10,
+      "missing_history": 13,
+      "changed_feature_rows": 0,
+      "acute_already_disclosed": 1,
+      "symptom_or_history_known": 6,
+      "no_signal_found_under_searched_process": 3
+    },
+    {
+      "scope": "fixed_six_only",
+      "version": "after_phase2b",
+      "extra_lag_days": "1",
+      "appearances": 1452,
+      "included": 1359,
+      "excluded": 13,
+      "eligibility_unknown": 80,
+      "positive": 11,
+      "negative": 1224,
+      "outcome_unknown": 124,
+      "qualifying_events": 6,
+      "events_with_eligible_prediction": 5,
+      "eligible_positive_decisions": 11,
+      "missing_history": 13,
+      "changed_feature_rows": 0,
+      "acute_already_disclosed": 1,
+      "symptom_or_history_known": 6,
+      "no_signal_found_under_searched_process": 4
+    }
+  ],
+  "changed_rows_by_table": {
+    "cohort_all_roster_candidates": 4660,
+    "row_outcomes": 2784,
+    "events": 247,
+    "event_prediction_coverage": 16
+  },
+  "missingness_nonexclusive": [
+    {
+      "version": "after_phase2b",
+      "extra_lag_days": "0",
+      "cause": "actual_membership_or_bounded_surveillance_gap",
+      "rows": 60,
+      "nonexclusive": true
+    },
+    {
+      "version": "after_phase2b",
+      "extra_lag_days": "0",
+      "cause": "eligibility_source_or_submission_gap",
+      "rows": 15,
+      "nonexclusive": true
+    },
+    {
+      "version": "after_phase2b",
+      "extra_lag_days": "0",
+      "cause": "event_attribution_severity_or_anchor_unresolved",
+      "rows": 36,
+      "nonexclusive": true
+    },
+    {
+      "version": "after_phase2b",
+      "extra_lag_days": "0",
+      "cause": "incomplete_actual_team_severity_followup",
+      "rows": 82,
+      "nonexclusive": true
+    },
+    {
+      "version": "after_phase2b",
+      "extra_lag_days": "0",
+      "cause": "workload_history_unobserved_membership_or_game",
+      "rows": 13,
+      "nonexclusive": true
+    },
+    {
+      "version": "after_phase2b",
+      "extra_lag_days": "1",
+      "cause": "actual_membership_or_bounded_surveillance_gap",
+      "rows": 57,
+      "nonexclusive": true
+    },
+    {
+      "version": "after_phase2b",
+      "extra_lag_days": "1",
+      "cause": "eligibility_source_or_submission_gap",
+      "rows": 80,
+      "nonexclusive": true
+    },
+    {
+      "version": "after_phase2b",
+      "extra_lag_days": "1",
+      "cause": "event_attribution_severity_or_anchor_unresolved",
+      "rows": 31,
+      "nonexclusive": true
+    },
+    {
+      "version": "after_phase2b",
+      "extra_lag_days": "1",
+      "cause": "incomplete_actual_team_severity_followup",
+      "rows": 83,
+      "nonexclusive": true
+    },
+    {
+      "version": "after_phase2b",
+      "extra_lag_days": "1",
+      "cause": "workload_history_unobserved_membership_or_game",
+      "rows": 13,
+      "nonexclusive": true
+    },
+    {
+      "version": "before_phase2a",
+      "extra_lag_days": "0",
+      "cause": "actual_membership_or_bounded_surveillance_gap",
+      "rows": 60,
+      "nonexclusive": true
+    },
+    {
+      "version": "before_phase2a",
+      "extra_lag_days": "0",
+      "cause": "eligibility_source_or_submission_gap",
+      "rows": 15,
+      "nonexclusive": true
+    },
+    {
+      "version": "before_phase2a",
+      "extra_lag_days": "0",
+      "cause": "event_attribution_severity_or_anchor_unresolved",
+      "rows": 60,
+      "nonexclusive": true
+    },
+    {
+      "version": "before_phase2a",
+      "extra_lag_days": "0",
+      "cause": "incomplete_actual_team_severity_followup",
+      "rows": 84,
+      "nonexclusive": true
+    },
+    {
+      "version": "before_phase2a",
+      "extra_lag_days": "0",
+      "cause": "workload_history_unobserved_membership_or_game",
+      "rows": 13,
+      "nonexclusive": true
+    },
+    {
+      "version": "before_phase2a",
+      "extra_lag_days": "1",
+      "cause": "actual_membership_or_bounded_surveillance_gap",
+      "rows": 57,
+      "nonexclusive": true
+    },
+    {
+      "version": "before_phase2a",
+      "extra_lag_days": "1",
+      "cause": "eligibility_source_or_submission_gap",
+      "rows": 80,
+      "nonexclusive": true
+    },
+    {
+      "version": "before_phase2a",
+      "extra_lag_days": "1",
+      "cause": "event_attribution_severity_or_anchor_unresolved",
+      "rows": 54,
+      "nonexclusive": true
+    },
+    {
+      "version": "before_phase2a",
+      "extra_lag_days": "1",
+      "cause": "incomplete_actual_team_severity_followup",
+      "rows": 85,
+      "nonexclusive": true
+    },
+    {
+      "version": "before_phase2a",
+      "extra_lag_days": "1",
+      "cause": "workload_history_unobserved_membership_or_game",
+      "rows": 13,
+      "nonexclusive": true
+    }
+  ],
+  "all_prior_files_verified": 208,
+  "root_README_sha256": "b9a0a38563ece5c86d466e6f1f38b5378890981cec4c0ff965c1dd373ecc6992",
+  "models_trained": 0,
+  "protected_holdouts_opened": false,
+  "amendment_commits": [
+    "acac9e4",
+    "59a0b38",
+    "7e4c6b8"
+  ],
+  "clock": {
+    "acquired_game_pages": 708,
+    "book_checks": 708,
+    "formats": {
+      "verified_NBA_Eastern_wall_clock_stale_EST_label; nearest_scheduled_UTC_date; minute_interval": 708
+    },
+    "unresolved": 0
+  },
+  "legacy": {
+    "clock_records": 159,
+    "boston_feature_rows_recomputed": 478,
+    "boston_labels_identical": true,
+    "fixture_labels_and_eligibility_identical": true,
+    "fixtures_in_cohort_counts": false
+  }
+}

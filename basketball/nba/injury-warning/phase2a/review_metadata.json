@@ -1,0 +1,8 @@
+{
+  "reviewer": "Codex same agent; no independent human adjudication",
+  "retrospective_reviewed_at": "2026-10-19T20:09:03.680575+00:00",
+  "historical_label_known_at": null,
+  "source_scope": "2023-24 development only; fixed six teams plus targeted player histories/followup",
+  "models_trained": 0,
+  "protected_holdouts_opened": 0
+}

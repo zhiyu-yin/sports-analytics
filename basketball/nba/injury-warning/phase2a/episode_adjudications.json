@@ -1,0 +1,46 @@
+{
+  "203914_2024-01-05": {
+    "common_episode_supported": true,
+    "source_ids": "page_0022300476; p2_gary_return; page_0022300694",
+    "locator": "Jan3 story.content[19] calf event; Feb3 dated return report final bullet; Feb2 actual return minutes",
+    "note": "Independent return narrative explicitly attributes 14 missed games to the right calf. Fourteen complete actual nonappearances individually injury-attributed after full-name Harris disambiguation. No intervening appearance.",
+    "supported_through": "2024-02-01",
+    "acute_event_game_ids": [
+      "0022300476"
+    ]
+  },
+  "203954_2024-02-01": {
+    "common_episode_supported": true,
+    "source_ids": "page_0022300673; page_0022301093",
+    "locator": "Jan30 story.content[8]; Apr2 story.content[0,8]",
+    "note": "Systematic PHI collection independently confirms 29 consecutive medical misses, Jan30 trauma, surgery, and Apr2 first game in nine weeks. No fixture rows or prior case labels imported.",
+    "supported_through": "2024-04-01",
+    "acute_event_game_ids": [
+      "0022300673"
+    ]
+  },
+  "1629001_2024-01-15": {
+    "common_episode_supported": true,
+    "source_ids": "p2_melton_return; page_0022300805",
+    "locator": "Feb23 dated return report opening paragraphs; actual Feb23 return minutes",
+    "note": "Independent return account links the 18-game absence since Jan12 to lumbar injury. All 18 actual games individually medically attributed; earlier short back run ended by Jan10 appearance and is not added.",
+    "supported_through": "2024-02-22",
+    "acute_event_game_ids": []
+  },
+  "1630587_2024-01-24": {
+    "common_episode_supported": true,
+    "source_ids": "p2_livers_update; p2_january_trade",
+    "locator": "Feb26 official Wizards update first paragraph; actual WAS gamebooks Jan24-Feb25",
+    "note": "Official update explicitly attributes the prior 15 games to the same right hip condition. First actual injury-attributed miss Jan24; earlier post-trade coaching/transaction nonappearances are not injury games. Later roster disappearance remains censored.",
+    "supported_through": "2024-02-25",
+    "acute_event_game_ids": []
+  },
+  "203496_2024-01-02": {
+    "common_episode_supported": false,
+    "source_ids": "book_0022300495; page_0022300495; page_0022300896",
+    "locator": "Jan6 FINAL BOX full DND reason N/a; Illness; Jan6 story.content[7]; Mar6 story.content[13]",
+    "note": "Later recap broadly attributes calendar-year absence to the knee, but contemporaneous Jan6 PDF explicitly gives illness. The initial Jan2 anchor cannot be assigned a homogeneous >=10-game injury run from a later knee streak without resolving this conflict. Keep mixed attribution unknown; no eligible preceding January-period appearance observed.",
+    "supported_through": "2024-03-06",
+    "acute_event_game_ids": []
+  }
+}

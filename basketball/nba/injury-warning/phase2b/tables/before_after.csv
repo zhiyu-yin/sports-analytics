@@ -1,0 +1,5 @@
+scope,version,extra_lag_days,appearances,included,excluded,eligibility_unknown,positive,negative,outcome_unknown,qualifying_events,events_with_eligible_prediction,eligible_positive_decisions,missing_history,changed_feature_rows,acute_already_disclosed,symptom_or_history_known,no_signal_found_under_searched_process
+fixed_six_only,before_phase2a,0,1452,1425,12,15,9,1285,131,4,4,9,13,0,0,6,3
+fixed_six_only,after_phase2b,0,1452,1425,12,15,11,1285,129,6,5,11,13,0,0,6,5
+fixed_six_only,before_phase2a,1,1452,1359,13,80,10,1224,125,4,4,10,13,0,1,6,3
+fixed_six_only,after_phase2b,1,1452,1359,13,80,11,1224,124,6,5,11,13,0,1,6,4

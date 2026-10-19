@@ -1,0 +1,138 @@
+{
+  "registration_commit": "facea5b",
+  "readiness": {
+    "bounded_development_collection_for_run_onset": true,
+    "general_clinical_onset_collection": false,
+    "model_training": false,
+    "conditions": "retain B assumptions, common-episode adjudication and separate clinical measurement"
+  },
+  "cohort_counts": [
+    {
+      "extra_lag_days": "0",
+      "endpoint": "clinical_before",
+      "n": 244,
+      "positive": 0,
+      "negative": 110,
+      "unknown": 134
+    },
+    {
+      "extra_lag_days": "0",
+      "endpoint": "clinical_after",
+      "n": 244,
+      "positive": 0,
+      "negative": 119,
+      "unknown": 125
+    },
+    {
+      "extra_lag_days": "0",
+      "endpoint": "public_span_before",
+      "n": 244,
+      "positive": 0,
+      "negative": 110,
+      "unknown": 134
+    },
+    {
+      "extra_lag_days": "0",
+      "endpoint": "public_span_after",
+      "n": 244,
+      "positive": 0,
+      "negative": 119,
+      "unknown": 125
+    },
+    {
+      "extra_lag_days": "0",
+      "endpoint": "original_medical_gt28",
+      "n": 244,
+      "positive": 0,
+      "negative": 0,
+      "unknown": 244
+    },
+    {
+      "extra_lag_days": "0",
+      "endpoint": "absence_run_onset_ge10",
+      "n": 244,
+      "positive": 0,
+      "negative": 244,
+      "unknown": 0
+    },
+    {
+      "extra_lag_days": "1",
+      "endpoint": "clinical_before",
+      "n": 234,
+      "positive": 0,
+      "negative": 103,
+      "unknown": 131
+    },
+    {
+      "extra_lag_days": "1",
+      "endpoint": "clinical_after",
+      "n": 234,
+      "positive": 0,
+      "negative": 112,
+      "unknown": 122
+    },
+    {
+      "extra_lag_days": "1",
+      "endpoint": "public_span_before",
+      "n": 234,
+      "positive": 0,
+      "negative": 103,
+      "unknown": 131
+    },
+    {
+      "extra_lag_days": "1",
+      "endpoint": "public_span_after",
+      "n": 234,
+      "positive": 0,
+      "negative": 112,
+      "unknown": 122
+    },
+    {
+      "extra_lag_days": "1",
+      "endpoint": "original_medical_gt28",
+      "n": 234,
+      "positive": 0,
+      "negative": 0,
+      "unknown": 234
+    },
+    {
+      "extra_lag_days": "1",
+      "endpoint": "absence_run_onset_ge10",
+      "n": 234,
+      "positive": 0,
+      "negative": 234,
+      "unknown": 0
+    }
+  ],
+  "baseline_118_audit_rows": 118,
+  "both_lags_audit_rows": 233,
+  "transfer_by_lag": {
+    "0": {
+      "unknown": 7,
+      "negative": 9
+    },
+    "1": {
+      "unknown": 7,
+      "negative": 9
+    }
+  },
+  "fixture_rows": 24,
+  "fixture_eligible_labels": {
+    "clinical_cohort_label": {
+      "negative": 4,
+      "positive": 14,
+      "not_labelled_excluded": 4,
+      "not_labelled_unknown": 2
+    },
+    "run_cohort_label": {
+      "negative": 8,
+      "positive": 10,
+      "not_labelled_excluded": 4,
+      "not_labelled_unknown": 2
+    }
+  },
+  "new_receipts": 193,
+  "historical_label_known_at_count": 0,
+  "features_changed": 0,
+  "independent_human_reviews": 0
+}

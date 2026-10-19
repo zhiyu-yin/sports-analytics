@@ -1,0 +1,8 @@
+{
+  "test_command": "PYTHONPATH=basketball/nba/injury-warning/src:basketball/nba/injury-warning python3 -m unittest discover -s basketball/nba/injury-warning/tests -q",
+  "tests_run": 86,
+  "result": "OK",
+  "raw_private_payload_scan": "No raw PDF/HTML, credentials or private-key/token signatures in new technical artifacts",
+  "prior_files_sha256_verified": 208,
+  "root_README_untouched_and_unstaged": true
+}

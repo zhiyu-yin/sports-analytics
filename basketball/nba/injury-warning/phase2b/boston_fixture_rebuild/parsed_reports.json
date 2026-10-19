@@ -1,0 +1,2320 @@
+[
+  {
+    "source_id": "report_2024-01-03_11AM",
+    "team": "NYK",
+    "retrieval_status": "obtained",
+    "report_at": "2024-01-03T11:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-01-03",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "NewYorkKnicks",
+        "target_game_date": "2024-01-03",
+        "player_name_raw": "Flynn, Malachi",
+        "status": "Out",
+        "reason": "Injury/Illness - Right Ankle; Sprained",
+        "report_at": "2024-01-03T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=382, player Flynn, Malachi"
+      },
+      {
+        "team": "NewYorkKnicks",
+        "target_game_date": "2024-01-03",
+        "player_name_raw": "Robinson, Mitchell",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Ankle; Surgery",
+        "report_at": "2024-01-03T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=404, player Robinson, Mitchell"
+      }
+    ],
+    "all_team_count": 26,
+    "B_available_at": "2024-01-03T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-03_11AM",
+    "team": "CHA",
+    "retrieval_status": "obtained",
+    "report_at": "2024-01-03T11:30:00-05:00",
+    "state": "team_not_covered",
+    "sections": [],
+    "observations": [],
+    "all_team_count": 26,
+    "B_available_at": "2024-01-03T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-14_11AM",
+    "team": "NYK",
+    "retrieval_status": "obtained",
+    "report_at": "2024-01-14T11:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2024-01-15",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 29,
+    "B_available_at": "2024-01-14T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-14_11AM",
+    "team": "CHA",
+    "retrieval_status": "obtained",
+    "report_at": "2024-01-14T11:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-01-14",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2024-01-14",
+        "player_name_raw": "Bailey, Amari",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-14T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=438, player Bailey, Amari"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2024-01-14",
+        "player_name_raw": "Hayward, Gordon",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Calf; Strain",
+        "report_at": "2024-01-14T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=460, player Hayward, Gordon"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2024-01-14",
+        "player_name_raw": "Martin, Cody",
+        "status": "Questionable",
+        "reason": "Injury/Illness - Bilateral Groin; Strain",
+        "report_at": "2024-01-14T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=482, player Martin, Cody"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2024-01-14",
+        "player_name_raw": "Miller, Brandon",
+        "status": "Doubtful",
+        "reason": "Injury/Illness - Low Back; Contusion",
+        "report_at": "2024-01-14T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=504, player Miller, Brandon"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2024-01-14",
+        "player_name_raw": "Ntilikina, Frank",
+        "status": "Questionable",
+        "reason": "Injury/Illness - Left Tibia; Non- Displaced Fracture",
+        "report_at": "2024-01-14T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=90, player Ntilikina, Frank"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2024-01-14",
+        "player_name_raw": "Washington, P.J.",
+        "status": "Doubtful",
+        "reason": "Injury/Illness - Right Foot; Sprain",
+        "report_at": "2024-01-14T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=118, player Washington, P.J."
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2024-01-14",
+        "player_name_raw": "Williams, Mark",
+        "status": "Out",
+        "reason": "Injury/Illness - Low Back; Injury Recovery",
+        "report_at": "2024-01-14T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=148, player Williams, Mark"
+      }
+    ],
+    "all_team_count": 29,
+    "B_available_at": "2024-01-14T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-26_11AM",
+    "team": "NYK",
+    "retrieval_status": "obtained",
+    "report_at": "2024-01-26T11:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2024-01-27",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 28,
+    "B_available_at": "2024-01-26T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-26_11AM",
+    "team": "CHA",
+    "retrieval_status": "obtained",
+    "report_at": "2024-01-26T11:30:00-05:00",
+    "state": "mixed_complete_and_unsubmitted",
+    "sections": [
+      {
+        "target_game_date": "2024-01-26",
+        "state": "complete"
+      },
+      {
+        "target_game_date": "2024-01-27",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2024-01-26",
+        "player_name_raw": "Bailey, Amari",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-26T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=178, player Bailey, Amari"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2024-01-26",
+        "player_name_raw": "Hayward, Gordon",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Calf; Strain",
+        "report_at": "2024-01-26T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=200, player Hayward, Gordon"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2024-01-26",
+        "player_name_raw": "Lowry, Kyle",
+        "status": "Out",
+        "reason": "Not With Team",
+        "report_at": "2024-01-26T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=222, player Lowry, Kyle"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2024-01-26",
+        "player_name_raw": "Williams, Mark",
+        "status": "Out",
+        "reason": "Injury/Illness - Low Back; Injury Recovery",
+        "report_at": "2024-01-26T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=250, player Williams, Mark"
+      }
+    ],
+    "all_team_count": 28,
+    "B_available_at": "2024-01-26T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-28_11AM",
+    "team": "NYK",
+    "retrieval_status": "obtained",
+    "report_at": "2024-01-28T11:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2024-01-29",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 28,
+    "B_available_at": "2024-01-28T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-28_11AM",
+    "team": "CHA",
+    "retrieval_status": "obtained",
+    "report_at": "2024-01-28T11:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2024-01-29",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 28,
+    "B_available_at": "2024-01-28T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-30_11AM",
+    "team": "NYK",
+    "retrieval_status": "obtained",
+    "report_at": "2024-01-30T11:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2024-01-30",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 28,
+    "B_available_at": "2024-01-30T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-30_11AM",
+    "team": "CHA",
+    "retrieval_status": "obtained",
+    "report_at": "2024-01-30T11:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2024-01-31",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 28,
+    "B_available_at": "2024-01-30T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-31_11AM",
+    "team": "NYK",
+    "retrieval_status": "obtained",
+    "report_at": "2024-01-31T11:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2024-02-01",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 26,
+    "B_available_at": "2024-01-31T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-31_11AM",
+    "team": "CHA",
+    "retrieval_status": "obtained",
+    "report_at": "2024-01-31T11:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-01-31",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2024-01-31",
+        "player_name_raw": "Bailey, Amari",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-31T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=152, player Bailey, Amari"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2024-01-31",
+        "player_name_raw": "Ball, LaMelo",
+        "status": "Doubtful",
+        "reason": "Injury/Illness - Right Ankle; Tendinopathy",
+        "report_at": "2024-01-31T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=182, player Ball, LaMelo"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2024-01-31",
+        "player_name_raw": "Bridges, Miles",
+        "status": "Probable",
+        "reason": "Injury/Illness - Left Elbow; Contusion",
+        "report_at": "2024-01-31T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=210, player Bridges, Miles"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2024-01-31",
+        "player_name_raw": "Hayward, Gordon",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Calf; Strain",
+        "report_at": "2024-01-31T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=232, player Hayward, Gordon"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2024-01-31",
+        "player_name_raw": "Lowry, Kyle",
+        "status": "Out",
+        "reason": "Not With Team",
+        "report_at": "2024-01-31T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=254, player Lowry, Kyle"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2024-01-31",
+        "player_name_raw": "Williams, Mark",
+        "status": "Out",
+        "reason": "Injury/Illness - Low Back; Injury Recovery",
+        "report_at": "2024-01-31T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=284, player Williams, Mark"
+      }
+    ],
+    "all_team_count": 26,
+    "B_available_at": "2024-01-31T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-01_11AM",
+    "team": "NYK",
+    "retrieval_status": "obtained",
+    "report_at": "2024-01-01T11:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-01-01",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "NewYorkKnicks",
+        "target_game_date": "2024-01-01",
+        "player_name_raw": "Flynn, Malachi",
+        "status": "Out",
+        "reason": "Injury/Illness - Right Ankle; Sprained",
+        "report_at": "2024-01-01T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=210, player Flynn, Malachi"
+      },
+      {
+        "team": "NewYorkKnicks",
+        "target_game_date": "2024-01-01",
+        "player_name_raw": "Robinson, Mitchell",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Ankle; Surgery",
+        "report_at": "2024-01-01T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=232, player Robinson, Mitchell"
+      }
+    ],
+    "all_team_count": 26,
+    "B_available_at": "2024-01-01T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-01_11AM",
+    "team": "CHA",
+    "retrieval_status": "obtained",
+    "report_at": "2024-01-01T11:30:00-05:00",
+    "state": "mixed_complete_and_unsubmitted",
+    "sections": [
+      {
+        "target_game_date": "2024-01-01",
+        "state": "complete"
+      },
+      {
+        "target_game_date": "2024-01-02",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2024-01-01",
+        "player_name_raw": "Bailey, Amari",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-01T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=496, player Bailey, Amari"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2024-01-01",
+        "player_name_raw": "Ball, LaMelo",
+        "status": "Out",
+        "reason": "Injury/Illness - Right Ankle; Sprain",
+        "report_at": "2024-01-01T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=82, player Ball, LaMelo"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2024-01-01",
+        "player_name_raw": "Black, Leaky",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-01T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=104, player Black, Leaky"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2024-01-01",
+        "player_name_raw": "Hayward, Gordon",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Calf; Strain",
+        "report_at": "2024-01-01T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=126, player Hayward, Gordon"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2024-01-01",
+        "player_name_raw": "Ntilikina, Frank",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Tibia; Non- displaced fracture",
+        "report_at": "2024-01-01T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=156, player Ntilikina, Frank"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2024-01-01",
+        "player_name_raw": "Rozier, Terry",
+        "status": "Probable",
+        "reason": "Injury/Illness - N/a; Illness",
+        "report_at": "2024-01-01T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=184, player Rozier, Terry"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2024-01-01",
+        "player_name_raw": "Williams, Mark",
+        "status": "Doubtful",
+        "reason": "Injury/Illness - Low Back; Contusion",
+        "report_at": "2024-01-01T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=206, player Williams, Mark"
+      }
+    ],
+    "all_team_count": 26,
+    "B_available_at": "2024-01-01T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-02_11AM",
+    "team": "NYK",
+    "retrieval_status": "obtained",
+    "report_at": "2024-01-02T11:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2024-01-03",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 28,
+    "B_available_at": "2024-01-02T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-02_11AM",
+    "team": "CHA",
+    "retrieval_status": "obtained",
+    "report_at": "2024-01-02T11:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2024-01-02",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 28,
+    "B_available_at": "2024-01-02T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-13_11AM",
+    "team": "NYK",
+    "retrieval_status": "obtained",
+    "report_at": "2024-01-13T11:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-01-13",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "NewYorkKnicks",
+        "target_game_date": "2024-01-13",
+        "player_name_raw": "Brunson, Jalen",
+        "status": "Questionable",
+        "reason": "Injury/Illness - Left Calf; Contusion",
+        "report_at": "2024-01-13T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=422, player Brunson, Jalen"
+      },
+      {
+        "team": "NewYorkKnicks",
+        "target_game_date": "2024-01-13",
+        "player_name_raw": "Robinson, Mitchell",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Ankle; Surgery",
+        "report_at": "2024-01-13T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=444, player Robinson, Mitchell"
+      },
+      {
+        "team": "NewYorkKnicks",
+        "target_game_date": "2024-01-13",
+        "player_name_raw": "Toppin, Jacob",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-13T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=466, player Toppin, Jacob"
+      },
+      {
+        "team": "NewYorkKnicks",
+        "target_game_date": "2024-01-13",
+        "player_name_raw": "Washington Jr., Duane",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-13T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=488, player Washington Jr., Duane"
+      }
+    ],
+    "all_team_count": 24,
+    "B_available_at": "2024-01-13T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-13_11AM",
+    "team": "CHA",
+    "retrieval_status": "obtained",
+    "report_at": "2024-01-13T11:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2024-01-14",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 24,
+    "B_available_at": "2024-01-13T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-15_11AM",
+    "team": "NYK",
+    "retrieval_status": "obtained",
+    "report_at": "2024-01-15T11:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-01-15",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "NewYorkKnicks",
+        "target_game_date": "2024-01-15",
+        "player_name_raw": "Brunson, Jalen",
+        "status": "Questionable",
+        "reason": "Injury/Illness - Left Calf; Contusion",
+        "report_at": "2024-01-15T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=350, player Brunson, Jalen"
+      },
+      {
+        "team": "NewYorkKnicks",
+        "target_game_date": "2024-01-15",
+        "player_name_raw": "Robinson, Mitchell",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Ankle; Surgery",
+        "report_at": "2024-01-15T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=372, player Robinson, Mitchell"
+      }
+    ],
+    "all_team_count": 25,
+    "B_available_at": "2024-01-15T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-15_11AM",
+    "team": "CHA",
+    "retrieval_status": "obtained",
+    "report_at": "2024-01-15T11:30:00-05:00",
+    "state": "team_not_covered",
+    "sections": [],
+    "observations": [],
+    "all_team_count": 25,
+    "B_available_at": "2024-01-15T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-25_11AM",
+    "team": "NYK",
+    "retrieval_status": "obtained",
+    "report_at": "2024-01-25T11:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-01-25",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "NewYorkKnicks",
+        "target_game_date": "2024-01-25",
+        "player_name_raw": "Hartenstein, Isaiah",
+        "status": "Questionable",
+        "reason": "Injury/Illness - Left Achillies; Tendinopathy",
+        "report_at": "2024-01-25T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=352, player Hartenstein, Isaiah"
+      },
+      {
+        "team": "NewYorkKnicks",
+        "target_game_date": "2024-01-25",
+        "player_name_raw": "Robinson, Mitchell",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Ankle; Surgery",
+        "report_at": "2024-01-25T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=380, player Robinson, Mitchell"
+      }
+    ],
+    "all_team_count": 28,
+    "B_available_at": "2024-01-25T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-25_11AM",
+    "team": "CHA",
+    "retrieval_status": "obtained",
+    "report_at": "2024-01-25T11:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2024-01-26",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 28,
+    "B_available_at": "2024-01-25T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-27_11AM",
+    "team": "NYK",
+    "retrieval_status": "obtained",
+    "report_at": "2024-01-27T11:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-01-27",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "NewYorkKnicks",
+        "target_game_date": "2024-01-27",
+        "player_name_raw": "Hartenstein, Isaiah",
+        "status": "Questionable",
+        "reason": "Injury/Illness - Left Achillies; Tendinopathy",
+        "report_at": "2024-01-27T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=204, player Hartenstein, Isaiah"
+      },
+      {
+        "team": "NewYorkKnicks",
+        "target_game_date": "2024-01-27",
+        "player_name_raw": "Robinson, Mitchell",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Ankle; Surgery",
+        "report_at": "2024-01-27T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=232, player Robinson, Mitchell"
+      },
+      {
+        "team": "NewYorkKnicks",
+        "target_game_date": "2024-01-27",
+        "player_name_raw": "Bamba, Mo",
+        "status": "Questionable",
+        "reason": "Injury/Illness - Right Knee; Inflammation",
+        "report_at": "2024-01-27T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=262, player Bamba, Mo"
+      },
+      {
+        "team": "NewYorkKnicks",
+        "target_game_date": "2024-01-27",
+        "player_name_raw": "Covington, Robert",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Knee; Bone Bruise",
+        "report_at": "2024-01-27T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=292, player Covington, Robert"
+      },
+      {
+        "team": "NewYorkKnicks",
+        "target_game_date": "2024-01-27",
+        "player_name_raw": "Harris, Tobias",
+        "status": "Questionable",
+        "reason": "Injury/Illness - N/a; Illness",
+        "report_at": "2024-01-27T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=314, player Harris, Tobias"
+      },
+      {
+        "team": "NewYorkKnicks",
+        "target_game_date": "2024-01-27",
+        "player_name_raw": "Lofton Jr., Kenneth",
+        "status": "Out",
+        "reason": "Personal Reasons",
+        "report_at": "2024-01-27T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=336, player Lofton Jr., Kenneth"
+      },
+      {
+        "team": "NewYorkKnicks",
+        "target_game_date": "2024-01-27",
+        "player_name_raw": "Maxey, Tyrese",
+        "status": "Questionable",
+        "reason": "Injury/Illness - Left Ankle; Sprain",
+        "report_at": "2024-01-27T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=358, player Maxey, Tyrese"
+      },
+      {
+        "team": "NewYorkKnicks",
+        "target_game_date": "2024-01-27",
+        "player_name_raw": "Melton, De'Anthony",
+        "status": "Out",
+        "reason": "Injury/Illness - Back; Lumbar Spine Stress Response",
+        "report_at": "2024-01-27T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=386, player Melton, De'Anthony"
+      },
+      {
+        "team": "NewYorkKnicks",
+        "target_game_date": "2024-01-27",
+        "player_name_raw": "Morris Sr., Marcus",
+        "status": "Probable",
+        "reason": "Injury/Illness - Left Foot; Plantar Fasciitis",
+        "report_at": "2024-01-27T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=422, player Morris Sr., Marcus"
+      }
+    ],
+    "all_team_count": 28,
+    "B_available_at": "2024-01-27T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-27_11AM",
+    "team": "CHA",
+    "retrieval_status": "obtained",
+    "report_at": "2024-01-27T11:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2024-01-27",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 28,
+    "B_available_at": "2024-01-27T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-29_11AM",
+    "team": "NYK",
+    "retrieval_status": "obtained",
+    "report_at": "2024-01-29T11:30:00-05:00",
+    "state": "mixed_complete_and_unsubmitted",
+    "sections": [
+      {
+        "target_game_date": "2024-01-29",
+        "state": "complete"
+      },
+      {
+        "target_game_date": "2024-01-30",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [
+      {
+        "team": "NewYorkKnicks",
+        "target_game_date": "2024-01-29",
+        "player_name_raw": "Fournier, Evan",
+        "status": "Out",
+        "reason": "Personal Reasons",
+        "report_at": "2024-01-29T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=300, player Fournier, Evan"
+      },
+      {
+        "team": "NewYorkKnicks",
+        "target_game_date": "2024-01-29",
+        "player_name_raw": "Randle, Julius",
+        "status": "Out",
+        "reason": "Injury/Illness - Right Shoulder; Dislocated",
+        "report_at": "2024-01-29T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=328, player Randle, Julius"
+      },
+      {
+        "team": "NewYorkKnicks",
+        "target_game_date": "2024-01-29",
+        "player_name_raw": "Robinson, Mitchell",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Ankle; Surgery",
+        "report_at": "2024-01-29T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=358, player Robinson, Mitchell"
+      }
+    ],
+    "all_team_count": 28,
+    "B_available_at": "2024-01-29T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-29_11AM",
+    "team": "CHA",
+    "retrieval_status": "obtained",
+    "report_at": "2024-01-29T11:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-01-29",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2024-01-29",
+        "player_name_raw": "Bailey, Amari",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-29T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=380, player Bailey, Amari"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2024-01-29",
+        "player_name_raw": "Ball, LaMelo",
+        "status": "Questionable",
+        "reason": "Injury/Illness - Right Ankle; Soreness",
+        "report_at": "2024-01-29T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=402, player Ball, LaMelo"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2024-01-29",
+        "player_name_raw": "Hayward, Gordon",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Calf; Strain",
+        "report_at": "2024-01-29T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=424, player Hayward, Gordon"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2024-01-29",
+        "player_name_raw": "Ntilikina, Frank",
+        "status": "Questionable",
+        "reason": "Injury/Illness - Left Hip; Discomfort",
+        "report_at": "2024-01-29T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=446, player Ntilikina, Frank"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2024-01-29",
+        "player_name_raw": "Williams, Mark",
+        "status": "Out",
+        "reason": "Injury/Illness - Low Back; Injury recovery",
+        "report_at": "2024-01-29T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=476, player Williams, Mark"
+      }
+    ],
+    "all_team_count": 28,
+    "B_available_at": "2024-01-29T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2023-11-10_11AM",
+    "team": "NYK",
+    "retrieval_status": "obtained",
+    "report_at": "2023-11-10T11:30:00-05:00",
+    "state": "team_not_covered",
+    "sections": [],
+    "observations": [],
+    "all_team_count": 24,
+    "B_available_at": "2023-11-10T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2023-11-10_11AM",
+    "team": "CHA",
+    "retrieval_status": "obtained",
+    "report_at": "2023-11-10T11:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2023-11-10",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2023-11-10",
+        "player_name_raw": "Bouknight, James",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Knee; Surgery",
+        "report_at": "2023-11-10T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=128, player Bouknight, James"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2023-11-10",
+        "player_name_raw": "Bridges, Miles",
+        "status": "Out",
+        "reason": "League Suspension",
+        "report_at": "2023-11-10T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=150, player Bridges, Miles"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2023-11-10",
+        "player_name_raw": "Hayward, Gordon",
+        "status": "Probable",
+        "reason": "Injury/Illness - Right Hamstring; Strain",
+        "report_at": "2023-11-10T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=180, player Hayward, Gordon"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2023-11-10",
+        "player_name_raw": "Martin, Cody",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Knee; Injury Recovery",
+        "report_at": "2023-11-10T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=216, player Martin, Cody"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2023-11-10",
+        "player_name_raw": "Ntilikina, Frank",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Tibia; Non- displaced Fracture",
+        "report_at": "2023-11-10T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=252, player Ntilikina, Frank"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2023-11-10",
+        "player_name_raw": "Rozier, Terry",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Groin; Strain",
+        "report_at": "2023-11-10T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=282, player Rozier, Terry"
+      }
+    ],
+    "all_team_count": 24,
+    "B_available_at": "2023-11-10T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2023-11-11_11AM",
+    "team": "NYK",
+    "retrieval_status": "obtained",
+    "report_at": "2023-11-11T11:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2023-11-12",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 27,
+    "B_available_at": "2023-11-11T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2023-11-11_11AM",
+    "team": "CHA",
+    "retrieval_status": "obtained",
+    "report_at": "2023-11-11T11:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2023-11-12",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 27,
+    "B_available_at": "2023-11-11T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2023-11-12_11AM",
+    "team": "NYK",
+    "retrieval_status": "obtained",
+    "report_at": "2023-11-12T11:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2023-11-13",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 26,
+    "B_available_at": "2023-11-12T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2023-11-12_11AM",
+    "team": "CHA",
+    "retrieval_status": "obtained",
+    "report_at": "2023-11-12T11:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2023-11-12",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2023-11-12",
+        "player_name_raw": "Bouknight, James",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Knee; Surgery",
+        "report_at": "2023-11-12T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 6, y=280, player Bouknight, James"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2023-11-12",
+        "player_name_raw": "Bridges, Miles",
+        "status": "Out",
+        "reason": "League Suspension",
+        "report_at": "2023-11-12T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 6, y=304, player Bridges, Miles"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2023-11-12",
+        "player_name_raw": "Hayward, Gordon",
+        "status": "Available",
+        "reason": "Injury/Illness - Right Hamstring; Strain",
+        "report_at": "2023-11-12T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 6, y=332, player Hayward, Gordon"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2023-11-12",
+        "player_name_raw": "Martin, Cody",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Knee; Injury Recovery",
+        "report_at": "2023-11-12T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 6, y=368, player Martin, Cody"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2023-11-12",
+        "player_name_raw": "Ntilikina, Frank",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Tibia; Non- displaced fracture",
+        "report_at": "2023-11-12T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 6, y=404, player Ntilikina, Frank"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2023-11-12",
+        "player_name_raw": "Rozier, Terry",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Groin; Strain",
+        "report_at": "2023-11-12T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 6, y=434, player Rozier, Terry"
+      }
+    ],
+    "all_team_count": 26,
+    "B_available_at": "2023-11-12T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2023-11-13_11AM",
+    "team": "NYK",
+    "retrieval_status": "obtained",
+    "report_at": "2023-11-13T11:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2023-11-13",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 27,
+    "B_available_at": "2023-11-13T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2023-11-13_11AM",
+    "team": "CHA",
+    "retrieval_status": "obtained",
+    "report_at": "2023-11-13T11:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2023-11-14",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 27,
+    "B_available_at": "2023-11-13T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2023-11-14_11AM",
+    "team": "NYK",
+    "retrieval_status": "obtained",
+    "report_at": "2023-11-14T11:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2023-11-15",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 28,
+    "B_available_at": "2023-11-14T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2023-11-14_11AM",
+    "team": "CHA",
+    "retrieval_status": "obtained",
+    "report_at": "2023-11-14T11:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2023-11-14",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2023-11-14",
+        "player_name_raw": "Bouknight, James",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Knee; Surgery",
+        "report_at": "2023-11-14T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=400, player Bouknight, James"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2023-11-14",
+        "player_name_raw": "Bridges, Miles",
+        "status": "Out",
+        "reason": "League Suspension",
+        "report_at": "2023-11-14T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=422, player Bridges, Miles"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2023-11-14",
+        "player_name_raw": "Hayward, Gordon",
+        "status": "Probable",
+        "reason": "Injury/Illness - Right Hamstring; Strain",
+        "report_at": "2023-11-14T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=452, player Hayward, Gordon"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2023-11-14",
+        "player_name_raw": "Martin, Cody",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Knee; Injury Recovery",
+        "report_at": "2023-11-14T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=488, player Martin, Cody"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2023-11-14",
+        "player_name_raw": "Miller, Brandon",
+        "status": "Probable",
+        "reason": "Injury/Illness - Left Ankle; Sprain",
+        "report_at": "2023-11-14T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=82, player Miller, Brandon"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2023-11-14",
+        "player_name_raw": "Ntilikina, Frank",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Tibia; Non- displaced fracture",
+        "report_at": "2023-11-14T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=112, player Ntilikina, Frank"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2023-11-14",
+        "player_name_raw": "Rozier, Terry",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Groin; Strain",
+        "report_at": "2023-11-14T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=140, player Rozier, Terry"
+      }
+    ],
+    "all_team_count": 28,
+    "B_available_at": "2023-11-14T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2023-11-15_11AM",
+    "team": "NYK",
+    "retrieval_status": "obtained",
+    "report_at": "2023-11-15T11:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2023-11-15",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "NewYorkKnicks",
+        "target_game_date": "2023-11-15",
+        "player_name_raw": "Barrett, RJ",
+        "status": "Questionable",
+        "reason": "Injury/Illness - Illness; Migraine",
+        "report_at": "2023-11-15T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=178, player Barrett, RJ"
+      }
+    ],
+    "all_team_count": 19,
+    "B_available_at": "2023-11-15T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2023-11-15_11AM",
+    "team": "CHA",
+    "retrieval_status": "obtained",
+    "report_at": "2023-11-15T11:30:00-05:00",
+    "state": "team_not_covered",
+    "sections": [],
+    "observations": [],
+    "all_team_count": 19,
+    "B_available_at": "2023-11-15T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2023-11-16_11AM",
+    "team": "NYK",
+    "retrieval_status": "obtained",
+    "report_at": "2023-11-16T11:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2023-11-17",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 25,
+    "B_available_at": "2023-11-16T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2023-11-16_11AM",
+    "team": "CHA",
+    "retrieval_status": "obtained",
+    "report_at": "2023-11-16T11:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2023-11-17",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 25,
+    "B_available_at": "2023-11-16T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2023-11-17_11AM",
+    "team": "NYK",
+    "retrieval_status": "obtained",
+    "report_at": "2023-11-17T11:30:00-05:00",
+    "state": "mixed_complete_and_unsubmitted",
+    "sections": [
+      {
+        "target_game_date": "2023-11-17",
+        "state": "complete"
+      },
+      {
+        "target_game_date": "2023-11-18",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [
+      {
+        "team": "NewYorkKnicks",
+        "target_game_date": "2023-11-17",
+        "player_name_raw": "Barrett, RJ",
+        "status": "Questionable",
+        "reason": "Injury/Illness - Illness; Migraine",
+        "report_at": "2023-11-17T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=408, player Barrett, RJ"
+      },
+      {
+        "team": "NewYorkKnicks",
+        "target_game_date": "2023-11-17",
+        "player_name_raw": "Brown Jr., Charlie",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2023-11-17T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=430, player Brown Jr., Charlie"
+      },
+      {
+        "team": "NewYorkKnicks",
+        "target_game_date": "2023-11-17",
+        "player_name_raw": "Grimes, Quentin",
+        "status": "Questionable",
+        "reason": "Injury/Illness - Left Wrist; Sprained",
+        "report_at": "2023-11-17T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=452, player Grimes, Quentin"
+      },
+      {
+        "team": "NewYorkKnicks",
+        "target_game_date": "2023-11-17",
+        "player_name_raw": "Toppin, Jacob",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2023-11-17T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=474, player Toppin, Jacob"
+      },
+      {
+        "team": "NewYorkKnicks",
+        "target_game_date": "2023-11-17",
+        "player_name_raw": "Washington Jr., Duane",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2023-11-17T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=496, player Washington Jr., Duane"
+      },
+      {
+        "team": "NewYorkKnicks",
+        "target_game_date": "2023-11-17",
+        "player_name_raw": "Windler, Dylan",
+        "status": "Out",
+        "reason": "G League - On Assignment",
+        "report_at": "2023-11-17T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=82, player Windler, Dylan"
+      }
+    ],
+    "all_team_count": 27,
+    "B_available_at": "2023-11-17T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2023-11-17_11AM",
+    "team": "CHA",
+    "retrieval_status": "obtained",
+    "report_at": "2023-11-17T11:30:00-05:00",
+    "state": "mixed_complete_and_unsubmitted",
+    "sections": [
+      {
+        "target_game_date": "2023-11-17",
+        "state": "complete"
+      },
+      {
+        "target_game_date": "2023-11-18",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2023-11-17",
+        "player_name_raw": "Bouknight, James",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Knee; Surgery",
+        "report_at": "2023-11-17T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=232, player Bouknight, James"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2023-11-17",
+        "player_name_raw": "Hayward, Gordon",
+        "status": "Questionable",
+        "reason": "Injury/Illness - Right Hamstring; Strain",
+        "report_at": "2023-11-17T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=262, player Hayward, Gordon"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2023-11-17",
+        "player_name_raw": "Martin, Cody",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Knee; Injury Recovery",
+        "report_at": "2023-11-17T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=298, player Martin, Cody"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2023-11-17",
+        "player_name_raw": "Miller, Brandon",
+        "status": "Questionable",
+        "reason": "Injury/Illness - Left Ankle; Sprain",
+        "report_at": "2023-11-17T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=326, player Miller, Brandon"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2023-11-17",
+        "player_name_raw": "Ntilikina, Frank",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Tibia; Non- displaced fracture",
+        "report_at": "2023-11-17T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=356, player Ntilikina, Frank"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2023-11-17",
+        "player_name_raw": "Rozier, Terry",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Groin; Strain",
+        "report_at": "2023-11-17T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=384, player Rozier, Terry"
+      }
+    ],
+    "all_team_count": 27,
+    "B_available_at": "2023-11-17T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2023-11-18_11AM",
+    "team": "NYK",
+    "retrieval_status": "obtained",
+    "report_at": "2023-11-18T11:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2023-11-18",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 26,
+    "B_available_at": "2023-11-18T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2023-11-18_11AM",
+    "team": "CHA",
+    "retrieval_status": "obtained",
+    "report_at": "2023-11-18T11:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2023-11-18",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 26,
+    "B_available_at": "2023-11-18T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2023-11-19_11AM",
+    "team": "NYK",
+    "retrieval_status": "obtained",
+    "report_at": "2023-11-19T11:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2023-11-20",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 28,
+    "B_available_at": "2023-11-19T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2023-11-19_11AM",
+    "team": "CHA",
+    "retrieval_status": "obtained",
+    "report_at": "2023-11-19T11:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2023-11-20",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 28,
+    "B_available_at": "2023-11-19T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2023-11-20_11AM",
+    "team": "NYK",
+    "retrieval_status": "obtained",
+    "report_at": "2023-11-20T11:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2023-11-20",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "NewYorkKnicks",
+        "target_game_date": "2023-11-20",
+        "player_name_raw": "Brown Jr., Charlie",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2023-11-20T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=208, player Brown Jr., Charlie"
+      },
+      {
+        "team": "NewYorkKnicks",
+        "target_game_date": "2023-11-20",
+        "player_name_raw": "Fournier, Evan",
+        "status": "Questionable",
+        "reason": "Injury/Illness - Right Ankle; Inflammation",
+        "report_at": "2023-11-20T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=236, player Fournier, Evan"
+      },
+      {
+        "team": "NewYorkKnicks",
+        "target_game_date": "2023-11-20",
+        "player_name_raw": "Grimes, Quentin",
+        "status": "Questionable",
+        "reason": "Injury/Illness - Left Wrist; Sprained",
+        "report_at": "2023-11-20T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=266, player Grimes, Quentin"
+      },
+      {
+        "team": "NewYorkKnicks",
+        "target_game_date": "2023-11-20",
+        "player_name_raw": "Toppin, Jacob",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2023-11-20T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=288, player Toppin, Jacob"
+      },
+      {
+        "team": "NewYorkKnicks",
+        "target_game_date": "2023-11-20",
+        "player_name_raw": "Washington Jr., Duane",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2023-11-20T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=310, player Washington Jr., Duane"
+      },
+      {
+        "team": "NewYorkKnicks",
+        "target_game_date": "2023-11-20",
+        "player_name_raw": "Windler, Dylan",
+        "status": "Out",
+        "reason": "G League - On Assignment",
+        "report_at": "2023-11-20T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=332, player Windler, Dylan"
+      }
+    ],
+    "all_team_count": 25,
+    "B_available_at": "2023-11-20T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2023-11-20_11AM",
+    "team": "CHA",
+    "retrieval_status": "obtained",
+    "report_at": "2023-11-20T11:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2023-11-20",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2023-11-20",
+        "player_name_raw": "Bailey, Amari",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2023-11-20T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=152, player Bailey, Amari"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2023-11-20",
+        "player_name_raw": "Black, Leaky",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2023-11-20T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=174, player Black, Leaky"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2023-11-20",
+        "player_name_raw": "Bouknight, James",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Knee; Surgery",
+        "report_at": "2023-11-20T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=196, player Bouknight, James"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2023-11-20",
+        "player_name_raw": "Martin, Cody",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Knee; Injury Recovery",
+        "report_at": "2023-11-20T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=226, player Martin, Cody"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2023-11-20",
+        "player_name_raw": "Ntilikina, Frank",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Tibia; Non- displaced Fracture",
+        "report_at": "2023-11-20T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=262, player Ntilikina, Frank"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2023-11-20",
+        "player_name_raw": "Richards, Nick",
+        "status": "Out",
+        "reason": "Concussion Protocol",
+        "report_at": "2023-11-20T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=290, player Richards, Nick"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2023-11-20",
+        "player_name_raw": "Rozier, Terry",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Groin; Strain",
+        "report_at": "2023-11-20T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=312, player Rozier, Terry"
+      }
+    ],
+    "all_team_count": 25,
+    "B_available_at": "2023-11-20T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2023-11-21_11AM",
+    "team": "NYK",
+    "retrieval_status": "obtained",
+    "report_at": "2023-11-21T11:30:00-05:00",
+    "state": "team_not_covered",
+    "sections": [],
+    "observations": [],
+    "all_team_count": 27,
+    "B_available_at": "2023-11-21T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2023-11-21_11AM",
+    "team": "CHA",
+    "retrieval_status": "obtained",
+    "report_at": "2023-11-21T11:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2023-11-22",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 27,
+    "B_available_at": "2023-11-21T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2023-11-22_11AM",
+    "team": "NYK",
+    "retrieval_status": "obtained",
+    "report_at": "2023-11-22T11:30:00-05:00",
+    "state": "team_not_covered",
+    "sections": [],
+    "observations": [],
+    "all_team_count": 27,
+    "B_available_at": "2023-11-22T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2023-11-22_11AM",
+    "team": "CHA",
+    "retrieval_status": "obtained",
+    "report_at": "2023-11-22T11:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2023-11-22",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2023-11-22",
+        "player_name_raw": "Bailey, Amari",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2023-11-22T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=270, player Bailey, Amari"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2023-11-22",
+        "player_name_raw": "Black, Leaky",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2023-11-22T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=292, player Black, Leaky"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2023-11-22",
+        "player_name_raw": "Bouknight, James",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Knee; Surgery",
+        "report_at": "2023-11-22T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=314, player Bouknight, James"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2023-11-22",
+        "player_name_raw": "Martin, Cody",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Knee; Injury Recovery",
+        "report_at": "2023-11-22T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=344, player Martin, Cody"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2023-11-22",
+        "player_name_raw": "Ntilikina, Frank",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Tibia; Non- displaced fracture",
+        "report_at": "2023-11-22T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=380, player Ntilikina, Frank"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2023-11-22",
+        "player_name_raw": "Richards, Nick",
+        "status": "Out",
+        "reason": "Concussion Protocol",
+        "report_at": "2023-11-22T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=408, player Richards, Nick"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2023-11-22",
+        "player_name_raw": "Rozier, Terry",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Groin; Strain",
+        "report_at": "2023-11-22T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=430, player Rozier, Terry"
+      }
+    ],
+    "all_team_count": 27,
+    "B_available_at": "2023-11-22T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2023-11-23_11AM",
+    "team": "NYK",
+    "retrieval_status": "obtained",
+    "report_at": "2023-11-23T11:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2023-11-24",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 20,
+    "B_available_at": "2023-11-23T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2023-11-23_11AM",
+    "team": "CHA",
+    "retrieval_status": "obtained",
+    "report_at": "2023-11-23T11:30:00-05:00",
+    "state": "team_not_covered",
+    "sections": [],
+    "observations": [],
+    "all_team_count": 20,
+    "B_available_at": "2023-11-23T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2023-11-24_11AM",
+    "team": "NYK",
+    "retrieval_status": "obtained",
+    "report_at": "2023-11-24T11:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2023-11-24",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "NewYorkKnicks",
+        "target_game_date": "2023-11-24",
+        "player_name_raw": "Brown Jr., Charlie",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2023-11-24T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=282, player Brown Jr., Charlie"
+      },
+      {
+        "team": "NewYorkKnicks",
+        "target_game_date": "2023-11-24",
+        "player_name_raw": "Fournier, Evan",
+        "status": "Questionable",
+        "reason": "Injury/Illness - Right Ankle; Inflammation",
+        "report_at": "2023-11-24T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=312, player Fournier, Evan"
+      },
+      {
+        "team": "NewYorkKnicks",
+        "target_game_date": "2023-11-24",
+        "player_name_raw": "Toppin, Jacob",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2023-11-24T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=342, player Toppin, Jacob"
+      },
+      {
+        "team": "NewYorkKnicks",
+        "target_game_date": "2023-11-24",
+        "player_name_raw": "Washington Jr., Duane",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2023-11-24T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=364, player Washington Jr., Duane"
+      },
+      {
+        "team": "NewYorkKnicks",
+        "target_game_date": "2023-11-24",
+        "player_name_raw": "Windler, Dylan",
+        "status": "Out",
+        "reason": "G League - On Assignment",
+        "report_at": "2023-11-24T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=386, player Windler, Dylan"
+      }
+    ],
+    "all_team_count": 27,
+    "B_available_at": "2023-11-24T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2023-11-24_11AM",
+    "team": "CHA",
+    "retrieval_status": "obtained",
+    "report_at": "2023-11-24T11:30:00-05:00",
+    "state": "team_not_covered",
+    "sections": [],
+    "observations": [],
+    "all_team_count": 27,
+    "B_available_at": "2023-11-24T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2023-11-26_11AM",
+    "team": "NYK",
+    "retrieval_status": "obtained",
+    "report_at": "2023-11-26T11:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2023-11-26",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "NewYorkKnicks",
+        "target_game_date": "2023-11-26",
+        "player_name_raw": "Brown Jr., Charlie",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2023-11-26T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=356, player Brown Jr., Charlie"
+      },
+      {
+        "team": "NewYorkKnicks",
+        "target_game_date": "2023-11-26",
+        "player_name_raw": "Toppin, Jacob",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2023-11-26T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=378, player Toppin, Jacob"
+      },
+      {
+        "team": "NewYorkKnicks",
+        "target_game_date": "2023-11-26",
+        "player_name_raw": "Washington Jr., Duane",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2023-11-26T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=400, player Washington Jr., Duane"
+      },
+      {
+        "team": "NewYorkKnicks",
+        "target_game_date": "2023-11-26",
+        "player_name_raw": "Windler, Dylan",
+        "status": "Out",
+        "reason": "G League - On Assignment",
+        "report_at": "2023-11-26T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=422, player Windler, Dylan"
+      }
+    ],
+    "all_team_count": 23,
+    "B_available_at": "2023-11-26T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2023-11-26_11AM",
+    "team": "CHA",
+    "retrieval_status": "obtained",
+    "report_at": "2023-11-26T11:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2023-11-26",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2023-11-26",
+        "player_name_raw": "Bailey, Amari",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2023-11-26T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=484, player Bailey, Amari"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2023-11-26",
+        "player_name_raw": "Bouknight, James",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Knee; Surgery",
+        "report_at": "2023-11-26T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=506, player Bouknight, James"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2023-11-26",
+        "player_name_raw": "Martin, Cody",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Knee; Injury Recovery",
+        "report_at": "2023-11-26T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=90, player Martin, Cody"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2023-11-26",
+        "player_name_raw": "Ntilikina, Frank",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Tibia; Non- displaced fracture",
+        "report_at": "2023-11-26T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=126, player Ntilikina, Frank"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2023-11-26",
+        "player_name_raw": "Richards, Nick",
+        "status": "Out",
+        "reason": "Concussion Protocol",
+        "report_at": "2023-11-26T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=154, player Richards, Nick"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2023-11-26",
+        "player_name_raw": "Rozier, Terry",
+        "status": "Probable",
+        "reason": "Injury/Illness - Left Groin; Strain",
+        "report_at": "2023-11-26T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=176, player Rozier, Terry"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2023-11-26",
+        "player_name_raw": "Washington, P.J.",
+        "status": "Probable",
+        "reason": "Injury/Illness - Right Foot; Discomfort",
+        "report_at": "2023-11-26T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=198, player Washington, P.J."
+      }
+    ],
+    "all_team_count": 23,
+    "B_available_at": "2023-11-26T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2023-11-27_11AM",
+    "team": "NYK",
+    "retrieval_status": "obtained",
+    "report_at": "2023-11-27T11:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2023-11-28",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 25,
+    "B_available_at": "2023-11-27T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2023-11-27_11AM",
+    "team": "CHA",
+    "retrieval_status": "obtained",
+    "report_at": "2023-11-27T11:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2023-11-28",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 25,
+    "B_available_at": "2023-11-27T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2023-11-28_11AM",
+    "team": "NYK",
+    "retrieval_status": "obtained",
+    "report_at": "2023-11-28T11:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2023-11-28",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "NewYorkKnicks",
+        "target_game_date": "2023-11-28",
+        "player_name_raw": "Brown Jr., Charlie",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2023-11-28T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=84, player Brown Jr., Charlie"
+      },
+      {
+        "team": "NewYorkKnicks",
+        "target_game_date": "2023-11-28",
+        "player_name_raw": "Martin, Jaylen",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2023-11-28T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=106, player Martin, Jaylen"
+      },
+      {
+        "team": "NewYorkKnicks",
+        "target_game_date": "2023-11-28",
+        "player_name_raw": "Toppin, Jacob",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2023-11-28T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=128, player Toppin, Jacob"
+      },
+      {
+        "team": "NewYorkKnicks",
+        "target_game_date": "2023-11-28",
+        "player_name_raw": "Washington Jr., Duane",
+        "status": "Out",
+        "reason": "Not With Team",
+        "report_at": "2023-11-28T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=150, player Washington Jr., Duane"
+      },
+      {
+        "team": "NewYorkKnicks",
+        "target_game_date": "2023-11-28",
+        "player_name_raw": "Windler, Dylan",
+        "status": "Out",
+        "reason": "G League - On Assignment",
+        "report_at": "2023-11-28T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=172, player Windler, Dylan"
+      }
+    ],
+    "all_team_count": 24,
+    "B_available_at": "2023-11-28T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2023-11-28_11AM",
+    "team": "CHA",
+    "retrieval_status": "obtained",
+    "report_at": "2023-11-28T11:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2023-11-28",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2023-11-28",
+        "player_name_raw": "Bailey, Amari",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2023-11-28T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=358, player Bailey, Amari"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2023-11-28",
+        "player_name_raw": "Ball, LaMelo",
+        "status": "Doubtful",
+        "reason": "Injury/Illness - Right Ankle; Strain",
+        "report_at": "2023-11-28T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=380, player Ball, LaMelo"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2023-11-28",
+        "player_name_raw": "Bouknight, James",
+        "status": "Probable",
+        "reason": "Injury/Illness - Left Knee; Surgery",
+        "report_at": "2023-11-28T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=402, player Bouknight, James"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2023-11-28",
+        "player_name_raw": "Martin, Cody",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Knee; Injury Recovery",
+        "report_at": "2023-11-28T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=430, player Martin, Cody"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2023-11-28",
+        "player_name_raw": "Ntilikina, Frank",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Tibia; Non- displaced fracture",
+        "report_at": "2023-11-28T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=466, player Ntilikina, Frank"
+      },
+      {
+        "team": "CharlotteHornets",
+        "target_game_date": "2023-11-28",
+        "player_name_raw": "Richards, Nick",
+        "status": "Out",
+        "reason": "Concussion Protocol",
+        "report_at": "2023-11-28T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=496, player Richards, Nick"
+      }
+    ],
+    "all_team_count": 24,
+    "B_available_at": "2023-11-28T12:00:00-05:00"
+  }
+]

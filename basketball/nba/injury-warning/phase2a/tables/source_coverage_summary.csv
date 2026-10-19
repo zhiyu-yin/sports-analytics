@@ -1,0 +1,7 @@
+team,expected_history_index_followup_games,obtained_pages,obtained_gamebooks,full_recaps,daily_report_probes,daily_access_failures,daily_team_submission_or_section_gaps,dated_team_queries,limitation
+CLE,62,62,62,62,63,3,42,63,section gaps include off-days; not every gap invalidates B surveillance; no archive-completeness claim
+DEN,61,61,61,61,63,3,44,63,section gaps include off-days; not every gap invalidates B surveillance; no archive-completeness claim
+DET,62,62,62,62,63,3,44,63,section gaps include off-days; not every gap invalidates B surveillance; no archive-completeness claim
+ORL,62,62,62,62,63,3,43,63,section gaps include off-days; not every gap invalidates B surveillance; no archive-completeness claim
+PHI,63,63,63,63,63,3,47,63,section gaps include off-days; not every gap invalidates B surveillance; no archive-completeness claim
+SAS,63,63,63,63,63,3,46,63,section gaps include off-days; not every gap invalidates B surveillance; no archive-completeness claim

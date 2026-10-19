@@ -1,0 +1,12 @@
+version,extra_lag_days,group_B,included_rows,positive_rows,negative_rows,unknown_rows
+before_phase2a,0,acute_already_disclosed,54,0,52,2
+before_phase2a,0,no_signal_found_under_searched_process,1141,3,1032,106
+before_phase2a,0,symptom_or_history_known,230,6,201,23
+before_phase2a,1,acute_already_disclosed,56,1,54,1
+before_phase2a,1,no_signal_found_under_searched_process,1067,3,962,102
+before_phase2a,1,symptom_or_history_known,236,6,208,22
+after_phase2b,0,no_signal_found_under_searched_process,858,5,771,82
+after_phase2b,0,symptom_or_history_known,567,6,514,47
+after_phase2b,1,acute_already_disclosed,1,1,0,0
+after_phase2b,1,no_signal_found_under_searched_process,799,4,716,79
+after_phase2b,1,symptom_or_history_known,559,6,508,45

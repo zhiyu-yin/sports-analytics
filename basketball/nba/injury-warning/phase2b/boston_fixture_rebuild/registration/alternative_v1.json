@@ -1,0 +1,14 @@
+{
+  "version": "phase1d_absence_run_v1",
+  "population": "Unchanged Phase 1C Boston included rows, both noon timing rules; selected external fixtures never cohort",
+  "endpoint": "New documented injury-attributed absence run beginning in (decision, decision+14 elapsed days] and subsequently reaching >=10 consecutive applicable-team missed games",
+  "anchor": "First injury-attributed missed game, timestamp interval; whole documented local day if actual start cannot be verified",
+  "severity": "Positive requires >=10 consecutive injury-attributed games and independently reviewed common-episode continuity. Appearance ends run, never proves recovery. Mixed reasons and gaps unknown unless conservative complete-run upper bound <10.",
+  "clinical": "Preserve original clinical-onset and >28-day public-span endpoints separately; no onset lower bound from appearances",
+  "transfers": "Follow actual destination schedules from transaction date; missing roster, reason or followup remains unknown; former-team games never counted",
+  "negative": "Conditional on Phase1C bounded B surveillance and adequate applicable-team followup, all potentially in-window runs resolved",
+  "publication": "A verified historical availability unchanged; B original registered lags and source coverage; C outcome-only evidence. Never manufacture label_known_at",
+  "fixtures": "Randle Jan27 2024 and Ball Nov26 2023: actual prior games, both timing rules, same B eligibility coverage required. Unknown if coverage insufficient. Selected cases are integration fixtures only.",
+  "boundaries": "Only 2023-24 development sources; no models, protected holdouts or population expansion",
+  "results_generated": false
+}

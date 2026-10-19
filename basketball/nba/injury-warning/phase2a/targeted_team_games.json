@@ -1,0 +1,4624 @@
+[
+  {
+    "game_id": "0022301201",
+    "game_date": "2023-12-05",
+    "team": "MIL",
+    "matchup": "MIL vs. NYK",
+    "player_ids": [
+      "1626166"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301229",
+    "game_date": "2023-12-07",
+    "team": "MIL",
+    "matchup": "MIL vs. IND",
+    "player_ids": [
+      "1626166"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300300",
+    "game_date": "2023-12-11",
+    "team": "MIL",
+    "matchup": "MIL vs. CHI",
+    "player_ids": [
+      "1626166"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300315",
+    "game_date": "2023-12-13",
+    "team": "MIL",
+    "matchup": "MIL vs. IND",
+    "player_ids": [
+      "1626166"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300334",
+    "game_date": "2023-12-16",
+    "team": "MIL",
+    "matchup": "MIL vs. DET",
+    "player_ids": [
+      "1626166"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300346",
+    "game_date": "2023-12-17",
+    "team": "MIL",
+    "matchup": "MIL vs. HOU",
+    "player_ids": [
+      "1626166"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300361",
+    "game_date": "2023-12-19",
+    "team": "MIL",
+    "matchup": "MIL vs. SAS",
+    "player_ids": [
+      "1626166"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300378",
+    "game_date": "2023-12-21",
+    "team": "MIL",
+    "matchup": "MIL vs. ORL",
+    "player_ids": [
+      "1626166"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300388",
+    "game_date": "2023-12-23",
+    "team": "MIL",
+    "matchup": "MIL @ NYK",
+    "player_ids": [
+      "1626166"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300401",
+    "game_date": "2023-12-25",
+    "team": "MIL",
+    "matchup": "MIL @ NYK",
+    "player_ids": [
+      "1626166"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300417",
+    "game_date": "2023-12-27",
+    "team": "MIL",
+    "matchup": "MIL @ BKN",
+    "player_ids": [
+      "1626166"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300433",
+    "game_date": "2023-12-29",
+    "team": "MIL",
+    "matchup": "MIL @ CLE",
+    "player_ids": [
+      "1626166"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300454",
+    "game_date": "2024-01-01",
+    "team": "MIL",
+    "matchup": "MIL vs. IND",
+    "player_ids": [
+      "1626166"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300466",
+    "game_date": "2024-01-03",
+    "team": "MIL",
+    "matchup": "MIL @ IND",
+    "player_ids": [
+      "1626166"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300477",
+    "game_date": "2024-01-04",
+    "team": "MIL",
+    "matchup": "MIL @ SAS",
+    "player_ids": [
+      "1626166"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300496",
+    "game_date": "2024-01-06",
+    "team": "MIL",
+    "matchup": "MIL @ HOU",
+    "player_ids": [
+      "1626166"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300510",
+    "game_date": "2024-01-08",
+    "team": "MIL",
+    "matchup": "MIL vs. UTA",
+    "player_ids": [
+      "1626166"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300528",
+    "game_date": "2024-01-11",
+    "team": "MIL",
+    "matchup": "MIL vs. BOS",
+    "player_ids": [
+      "1626166"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300545",
+    "game_date": "2024-01-13",
+    "team": "MIL",
+    "matchup": "MIL vs. GSW",
+    "player_ids": [
+      "1626166"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300552",
+    "game_date": "2024-01-14",
+    "team": "MIL",
+    "matchup": "MIL vs. SAC",
+    "player_ids": [
+      "1626166"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300572",
+    "game_date": "2024-01-17",
+    "team": "MIL",
+    "matchup": "MIL @ CLE",
+    "player_ids": [
+      "1626166"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300592",
+    "game_date": "2024-01-20",
+    "team": "MIL",
+    "matchup": "MIL @ DET",
+    "player_ids": [
+      "1626166"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300606",
+    "game_date": "2024-01-22",
+    "team": "MIL",
+    "matchup": "MIL @ DET",
+    "player_ids": [
+      "1626166"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300624",
+    "game_date": "2024-01-24",
+    "team": "MIL",
+    "matchup": "MIL vs. CLE",
+    "player_ids": [
+      "1626166"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300639",
+    "game_date": "2024-01-26",
+    "team": "MIL",
+    "matchup": "MIL vs. CLE",
+    "player_ids": [
+      "1626166"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300648",
+    "game_date": "2024-01-27",
+    "team": "MIL",
+    "matchup": "MIL vs. NOP",
+    "player_ids": [
+      "1626166"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300667",
+    "game_date": "2024-01-29",
+    "team": "MIL",
+    "matchup": "MIL @ DEN",
+    "player_ids": [
+      "1626166"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300683",
+    "game_date": "2024-01-31",
+    "team": "MIL",
+    "matchup": "MIL @ POR",
+    "player_ids": [
+      "1626166"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300702",
+    "game_date": "2024-02-03",
+    "team": "MIL",
+    "matchup": "MIL @ DAL",
+    "player_ids": [
+      "1626166"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300711",
+    "game_date": "2024-02-04",
+    "team": "MIL",
+    "matchup": "MIL @ UTA",
+    "player_ids": [
+      "1626166"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300725",
+    "game_date": "2024-02-06",
+    "team": "MIL",
+    "matchup": "MIL @ PHX",
+    "player_ids": [
+      "1626166"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301202",
+    "game_date": "2023-12-04",
+    "team": "IND",
+    "matchup": "IND vs. BOS",
+    "player_ids": [
+      "1627741"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301229",
+    "game_date": "2023-12-07",
+    "team": "IND",
+    "matchup": "IND @ MIL",
+    "player_ids": [
+      "1627741"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300293",
+    "game_date": "2023-12-11",
+    "team": "IND",
+    "matchup": "IND @ DET",
+    "player_ids": [
+      "1627741"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300315",
+    "game_date": "2023-12-13",
+    "team": "IND",
+    "matchup": "IND @ MIL",
+    "player_ids": [
+      "1627741"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300328",
+    "game_date": "2023-12-15",
+    "team": "IND",
+    "matchup": "IND @ WAS",
+    "player_ids": [
+      "1627741"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300338",
+    "game_date": "2023-12-16",
+    "team": "IND",
+    "matchup": "IND @ MIN",
+    "player_ids": [
+      "1627741"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300350",
+    "game_date": "2023-12-18",
+    "team": "IND",
+    "matchup": "IND vs. LAC",
+    "player_ids": [
+      "1627741"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300365",
+    "game_date": "2023-12-20",
+    "team": "IND",
+    "matchup": "IND vs. CHA",
+    "player_ids": [
+      "1627741"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300377",
+    "game_date": "2023-12-21",
+    "team": "IND",
+    "matchup": "IND @ MEM",
+    "player_ids": [
+      "1627741"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300391",
+    "game_date": "2023-12-23",
+    "team": "IND",
+    "matchup": "IND vs. ORL",
+    "player_ids": [
+      "1627741"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300409",
+    "game_date": "2023-12-26",
+    "team": "IND",
+    "matchup": "IND @ HOU",
+    "player_ids": [
+      "1627741"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300422",
+    "game_date": "2023-12-28",
+    "team": "IND",
+    "matchup": "IND @ CHI",
+    "player_ids": [
+      "1627741"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300441",
+    "game_date": "2023-12-30",
+    "team": "IND",
+    "matchup": "IND vs. NYK",
+    "player_ids": [
+      "1627741"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300454",
+    "game_date": "2024-01-01",
+    "team": "IND",
+    "matchup": "IND @ MIL",
+    "player_ids": [
+      "1627741"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300466",
+    "game_date": "2024-01-03",
+    "team": "IND",
+    "matchup": "IND vs. MIL",
+    "player_ids": [
+      "1627741"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300480",
+    "game_date": "2024-01-05",
+    "team": "IND",
+    "matchup": "IND vs. ATL",
+    "player_ids": [
+      "1627741"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300493",
+    "game_date": "2024-01-06",
+    "team": "IND",
+    "matchup": "IND vs. BOS",
+    "player_ids": [
+      "1627741"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300507",
+    "game_date": "2024-01-08",
+    "team": "IND",
+    "matchup": "IND vs. BOS",
+    "player_ids": [
+      "1627741"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300520",
+    "game_date": "2024-01-10",
+    "team": "IND",
+    "matchup": "IND vs. WAS",
+    "player_ids": [
+      "1627741"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300533",
+    "game_date": "2024-01-12",
+    "team": "IND",
+    "matchup": "IND @ ATL",
+    "player_ids": [
+      "1627741"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300550",
+    "game_date": "2024-01-14",
+    "team": "IND",
+    "matchup": "IND @ DEN",
+    "player_ids": [
+      "1627741"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300564",
+    "game_date": "2024-01-15",
+    "team": "IND",
+    "matchup": "IND @ UTA",
+    "player_ids": [
+      "1627741"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300583",
+    "game_date": "2024-01-18",
+    "team": "IND",
+    "matchup": "IND @ SAC",
+    "player_ids": [
+      "1627741"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300590",
+    "game_date": "2024-01-19",
+    "team": "IND",
+    "matchup": "IND @ POR",
+    "player_ids": [
+      "1627741"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300604",
+    "game_date": "2024-01-21",
+    "team": "IND",
+    "matchup": "IND @ PHX",
+    "player_ids": [
+      "1627741"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300614",
+    "game_date": "2024-01-23",
+    "team": "IND",
+    "matchup": "IND vs. DEN",
+    "player_ids": [
+      "1627741"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300627",
+    "game_date": "2024-01-25",
+    "team": "IND",
+    "matchup": "IND vs. PHI",
+    "player_ids": [
+      "1627741"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300636",
+    "game_date": "2024-01-26",
+    "team": "IND",
+    "matchup": "IND vs. PHX",
+    "player_ids": [
+      "1627741"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300652",
+    "game_date": "2024-01-28",
+    "team": "IND",
+    "matchup": "IND vs. MEM",
+    "player_ids": [
+      "1627741"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300670",
+    "game_date": "2024-01-30",
+    "team": "IND",
+    "matchup": "IND @ BOS",
+    "player_ids": [
+      "1627741"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300685",
+    "game_date": "2024-02-01",
+    "team": "IND",
+    "matchup": "IND @ NYK",
+    "player_ids": [
+      "1627741"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300691",
+    "game_date": "2024-02-02",
+    "team": "IND",
+    "matchup": "IND vs. SAC",
+    "player_ids": [
+      "1627741"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300707",
+    "game_date": "2024-02-04",
+    "team": "IND",
+    "matchup": "IND @ CHA",
+    "player_ids": [
+      "1627741"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300719",
+    "game_date": "2024-02-06",
+    "team": "IND",
+    "matchup": "IND vs. HOU",
+    "player_ids": [
+      "1627741"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300738",
+    "game_date": "2024-02-08",
+    "team": "MIN",
+    "matchup": "MIN @ MIL",
+    "player_ids": [
+      "1628420"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300770",
+    "game_date": "2024-02-12",
+    "team": "MIN",
+    "matchup": "MIN @ LAC",
+    "player_ids": [
+      "1628420"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300775",
+    "game_date": "2024-02-13",
+    "team": "MIN",
+    "matchup": "MIN @ POR",
+    "player_ids": [
+      "1628420"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300791",
+    "game_date": "2024-02-15",
+    "team": "MIN",
+    "matchup": "MIN @ POR",
+    "player_ids": [
+      "1628420"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300808",
+    "game_date": "2024-02-23",
+    "team": "MIN",
+    "matchup": "MIN vs. MIL",
+    "player_ids": [
+      "1628420"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300815",
+    "game_date": "2024-02-24",
+    "team": "MIN",
+    "matchup": "MIN vs. BKN",
+    "player_ids": [
+      "1628420"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300838",
+    "game_date": "2024-02-27",
+    "team": "MIN",
+    "matchup": "MIN vs. SAS",
+    "player_ids": [
+      "1628420"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300845",
+    "game_date": "2024-02-28",
+    "team": "MIN",
+    "matchup": "MIN vs. MEM",
+    "player_ids": [
+      "1628420"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300862",
+    "game_date": "2024-03-01",
+    "team": "MIN",
+    "matchup": "MIN vs. SAC",
+    "player_ids": [
+      "1628420"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300873",
+    "game_date": "2024-03-03",
+    "team": "MIN",
+    "matchup": "MIN vs. LAC",
+    "player_ids": [
+      "1628420"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300881",
+    "game_date": "2024-03-04",
+    "team": "MIN",
+    "matchup": "MIN vs. POR",
+    "player_ids": [
+      "1628420"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300903",
+    "game_date": "2024-03-07",
+    "team": "MIN",
+    "matchup": "MIN @ IND",
+    "player_ids": [
+      "1628420"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300911",
+    "game_date": "2024-03-08",
+    "team": "MIN",
+    "matchup": "MIN @ CLE",
+    "player_ids": [
+      "1628420"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300932",
+    "game_date": "2024-03-10",
+    "team": "MIN",
+    "matchup": "MIN @ LAL",
+    "player_ids": [
+      "1628420"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300944",
+    "game_date": "2024-03-12",
+    "team": "MIN",
+    "matchup": "MIN @ LAC",
+    "player_ids": [
+      "1628420"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300974",
+    "game_date": "2024-03-16",
+    "team": "MIN",
+    "matchup": "MIN @ UTA",
+    "player_ids": [
+      "1628420"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300987",
+    "game_date": "2024-03-18",
+    "team": "MIN",
+    "matchup": "MIN @ UTA",
+    "player_ids": [
+      "1628420"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300995",
+    "game_date": "2024-03-19",
+    "team": "MIN",
+    "matchup": "MIN vs. DEN",
+    "player_ids": [
+      "1628420"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301014",
+    "game_date": "2024-03-22",
+    "team": "MIN",
+    "matchup": "MIN vs. CLE",
+    "player_ids": [
+      "1628420"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301031",
+    "game_date": "2024-03-24",
+    "team": "MIN",
+    "matchup": "MIN vs. GSW",
+    "player_ids": [
+      "1628420"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301056",
+    "game_date": "2024-03-27",
+    "team": "MIN",
+    "matchup": "MIN vs. DET",
+    "player_ids": [
+      "1628420"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301071",
+    "game_date": "2024-03-29",
+    "team": "MIN",
+    "matchup": "MIN @ DEN",
+    "player_ids": [
+      "1628420"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301084",
+    "game_date": "2024-03-31",
+    "team": "MIN",
+    "matchup": "MIN vs. CHI",
+    "player_ids": [
+      "1628420"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301098",
+    "game_date": "2024-04-02",
+    "team": "MIN",
+    "matchup": "MIN vs. HOU",
+    "player_ids": [
+      "1628420"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301108",
+    "game_date": "2024-04-03",
+    "team": "MIN",
+    "matchup": "MIN vs. TOR",
+    "player_ids": [
+      "1628420"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301125",
+    "game_date": "2024-04-05",
+    "team": "MIN",
+    "matchup": "MIN @ PHX",
+    "player_ids": [
+      "1628420"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301143",
+    "game_date": "2024-04-07",
+    "team": "MIN",
+    "matchup": "MIN @ LAL",
+    "player_ids": [
+      "1628420"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301152",
+    "game_date": "2024-04-09",
+    "team": "MIN",
+    "matchup": "MIN vs. WAS",
+    "player_ids": [
+      "1628420"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301164",
+    "game_date": "2024-04-10",
+    "team": "MIN",
+    "matchup": "MIN @ DEN",
+    "player_ids": [
+      "1628420"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301178",
+    "game_date": "2024-04-12",
+    "team": "MIN",
+    "matchup": "MIN vs. ATL",
+    "player_ids": [
+      "1628420"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301194",
+    "game_date": "2024-04-14",
+    "team": "MIN",
+    "matchup": "MIN vs. PHX",
+    "player_ids": [
+      "1628420"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300558",
+    "game_date": "2024-01-15",
+    "team": "WAS",
+    "matchup": "WAS vs. DET",
+    "player_ids": [
+      "1628963",
+      "1630587"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300579",
+    "game_date": "2024-01-18",
+    "team": "WAS",
+    "matchup": "WAS @ NYK",
+    "player_ids": [
+      "1628963",
+      "1630587"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300594",
+    "game_date": "2024-01-20",
+    "team": "WAS",
+    "matchup": "WAS vs. SAS",
+    "player_ids": [
+      "1628963",
+      "1630587"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300602",
+    "game_date": "2024-01-21",
+    "team": "WAS",
+    "matchup": "WAS vs. DEN",
+    "player_ids": [
+      "1628963",
+      "1630587"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300620",
+    "game_date": "2024-01-24",
+    "team": "WAS",
+    "matchup": "WAS vs. MIN",
+    "player_ids": [
+      "1628963",
+      "1630587"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300628",
+    "game_date": "2024-01-25",
+    "team": "WAS",
+    "matchup": "WAS vs. UTA",
+    "player_ids": [
+      "1628963",
+      "1630587"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300642",
+    "game_date": "2024-01-27",
+    "team": "WAS",
+    "matchup": "WAS @ DET",
+    "player_ids": [
+      "1628963",
+      "1630587"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300665",
+    "game_date": "2024-01-29",
+    "team": "WAS",
+    "matchup": "WAS @ SAS",
+    "player_ids": [
+      "1628963",
+      "1630587"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300676",
+    "game_date": "2024-01-31",
+    "team": "WAS",
+    "matchup": "WAS vs. LAC",
+    "player_ids": [
+      "1628963",
+      "1630587"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300689",
+    "game_date": "2024-02-02",
+    "team": "WAS",
+    "matchup": "WAS vs. MIA",
+    "player_ids": [
+      "1628963",
+      "1630587"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300705",
+    "game_date": "2024-02-04",
+    "team": "WAS",
+    "matchup": "WAS vs. PHX",
+    "player_ids": [
+      "1628963",
+      "1630587"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300728",
+    "game_date": "2024-02-07",
+    "team": "WAS",
+    "matchup": "WAS vs. CLE",
+    "player_ids": [
+      "1628963",
+      "1630587"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300743",
+    "game_date": "2024-02-09",
+    "team": "WAS",
+    "matchup": "WAS @ BOS",
+    "player_ids": [
+      "1628963",
+      "1630587"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300753",
+    "game_date": "2024-02-10",
+    "team": "WAS",
+    "matchup": "WAS vs. PHI",
+    "player_ids": [
+      "1628963",
+      "1630587"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300768",
+    "game_date": "2024-02-12",
+    "team": "WAS",
+    "matchup": "WAS @ DAL",
+    "player_ids": [
+      "1628963",
+      "1630587"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300784",
+    "game_date": "2024-02-14",
+    "team": "WAS",
+    "matchup": "WAS @ NOP",
+    "player_ids": [
+      "1628963",
+      "1630587"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300800",
+    "game_date": "2024-02-22",
+    "team": "WAS",
+    "matchup": "WAS @ DEN",
+    "player_ids": [
+      "1628963",
+      "1630587"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300809",
+    "game_date": "2024-02-23",
+    "team": "WAS",
+    "matchup": "WAS @ OKC",
+    "player_ids": [
+      "1628963",
+      "1630587"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300820",
+    "game_date": "2024-02-25",
+    "team": "WAS",
+    "matchup": "WAS vs. CLE",
+    "player_ids": [
+      "1628963",
+      "1630587"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300834",
+    "game_date": "2024-02-27",
+    "team": "WAS",
+    "matchup": "WAS vs. GSW",
+    "player_ids": [
+      "1628963",
+      "1630587"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300856",
+    "game_date": "2024-02-29",
+    "team": "WAS",
+    "matchup": "WAS @ LAL",
+    "player_ids": [
+      "1628963",
+      "1630587"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300865",
+    "game_date": "2024-03-01",
+    "team": "WAS",
+    "matchup": "WAS @ LAC",
+    "player_ids": [
+      "1628963",
+      "1630587"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300882",
+    "game_date": "2024-03-04",
+    "team": "WAS",
+    "matchup": "WAS @ UTA",
+    "player_ids": [
+      "1628963",
+      "1630587"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300894",
+    "game_date": "2024-03-06",
+    "team": "WAS",
+    "matchup": "WAS vs. ORL",
+    "player_ids": [
+      "1628963",
+      "1630587"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300910",
+    "game_date": "2024-03-08",
+    "team": "WAS",
+    "matchup": "WAS vs. CHA",
+    "player_ids": [
+      "1628963",
+      "1630587"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300926",
+    "game_date": "2024-03-10",
+    "team": "WAS",
+    "matchup": "WAS @ MIA",
+    "player_ids": [
+      "1628963",
+      "1630587"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300940",
+    "game_date": "2024-03-12",
+    "team": "WAS",
+    "matchup": "WAS @ MEM",
+    "player_ids": [
+      "1628963",
+      "1630587"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300957",
+    "game_date": "2024-03-14",
+    "team": "WAS",
+    "matchup": "WAS @ HOU",
+    "player_ids": [
+      "1628963",
+      "1630587"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300971",
+    "game_date": "2024-03-16",
+    "team": "WAS",
+    "matchup": "WAS @ CHI",
+    "player_ids": [
+      "1628963",
+      "1630587"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300980",
+    "game_date": "2024-03-17",
+    "team": "WAS",
+    "matchup": "WAS vs. BOS",
+    "player_ids": [
+      "1628963",
+      "1630587"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300992",
+    "game_date": "2024-03-19",
+    "team": "WAS",
+    "matchup": "WAS vs. HOU",
+    "player_ids": [
+      "1628963",
+      "1630587"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301005",
+    "game_date": "2024-03-21",
+    "team": "WAS",
+    "matchup": "WAS vs. SAC",
+    "player_ids": [
+      "1628963",
+      "1630587"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301022",
+    "game_date": "2024-03-23",
+    "team": "WAS",
+    "matchup": "WAS vs. TOR",
+    "player_ids": [
+      "1628963",
+      "1630587"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301037",
+    "game_date": "2024-03-25",
+    "team": "WAS",
+    "matchup": "WAS @ CHI",
+    "player_ids": [
+      "1628963",
+      "1630587"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301050",
+    "game_date": "2024-03-27",
+    "team": "WAS",
+    "matchup": "WAS vs. BKN",
+    "player_ids": [
+      "1628963",
+      "1630587"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301065",
+    "game_date": "2024-03-29",
+    "team": "WAS",
+    "matchup": "WAS vs. DET",
+    "player_ids": [
+      "1628963",
+      "1630587"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301081",
+    "game_date": "2024-03-31",
+    "team": "WAS",
+    "matchup": "WAS vs. MIA",
+    "player_ids": [
+      "1628963",
+      "1630587"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301095",
+    "game_date": "2024-04-02",
+    "team": "WAS",
+    "matchup": "WAS vs. MIL",
+    "player_ids": [
+      "1628963",
+      "1630587"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301103",
+    "game_date": "2024-04-03",
+    "team": "WAS",
+    "matchup": "WAS vs. LAL",
+    "player_ids": [
+      "1628963",
+      "1630587"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301117",
+    "game_date": "2024-04-05",
+    "team": "WAS",
+    "matchup": "WAS vs. POR",
+    "player_ids": [
+      "1628963",
+      "1630587"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301137",
+    "game_date": "2024-04-07",
+    "team": "WAS",
+    "matchup": "WAS @ TOR",
+    "player_ids": [
+      "1628963",
+      "1630587"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301152",
+    "game_date": "2024-04-09",
+    "team": "WAS",
+    "matchup": "WAS @ MIN",
+    "player_ids": [
+      "1628963",
+      "1630587"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301172",
+    "game_date": "2024-04-12",
+    "team": "WAS",
+    "matchup": "WAS vs. CHI",
+    "player_ids": [
+      "1628963",
+      "1630587"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301186",
+    "game_date": "2024-04-14",
+    "team": "WAS",
+    "matchup": "WAS @ BOS",
+    "player_ids": [
+      "1628963",
+      "1630587"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301210",
+    "game_date": "2023-12-06",
+    "team": "MIN",
+    "matchup": "MIN vs. SAS",
+    "player_ids": [
+      "1628972",
+      "1629003"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301221",
+    "game_date": "2023-12-08",
+    "team": "MIN",
+    "matchup": "MIN @ MEM",
+    "player_ids": [
+      "1628972",
+      "1629003"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300301",
+    "game_date": "2023-12-11",
+    "team": "MIN",
+    "matchup": "MIN @ NOP",
+    "player_ids": [
+      "1628972",
+      "1629003"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300321",
+    "game_date": "2023-12-14",
+    "team": "MIN",
+    "matchup": "MIN @ DAL",
+    "player_ids": [
+      "1628972",
+      "1629003"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300338",
+    "game_date": "2023-12-16",
+    "team": "MIN",
+    "matchup": "MIN vs. IND",
+    "player_ids": [
+      "1628972",
+      "1629003"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300353",
+    "game_date": "2023-12-18",
+    "team": "MIN",
+    "matchup": "MIN @ MIA",
+    "player_ids": [
+      "1628972",
+      "1629003"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300367",
+    "game_date": "2023-12-20",
+    "team": "MIN",
+    "matchup": "MIN @ PHI",
+    "player_ids": [
+      "1628972",
+      "1629003"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300380",
+    "game_date": "2023-12-21",
+    "team": "MIN",
+    "matchup": "MIN vs. LAL",
+    "player_ids": [
+      "1628972",
+      "1629003"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300400",
+    "game_date": "2023-12-23",
+    "team": "MIN",
+    "matchup": "MIN @ SAC",
+    "player_ids": [
+      "1628972",
+      "1629003"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300411",
+    "game_date": "2023-12-26",
+    "team": "MIN",
+    "matchup": "MIN @ OKC",
+    "player_ids": [
+      "1628972",
+      "1629003"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300423",
+    "game_date": "2023-12-28",
+    "team": "MIN",
+    "matchup": "MIN vs. DAL",
+    "player_ids": [
+      "1628972",
+      "1629003"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300443",
+    "game_date": "2023-12-30",
+    "team": "MIN",
+    "matchup": "MIN vs. LAL",
+    "player_ids": [
+      "1628972",
+      "1629003"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300451",
+    "game_date": "2024-01-01",
+    "team": "MIN",
+    "matchup": "MIN @ NYK",
+    "player_ids": [
+      "1628972",
+      "1629003"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300471",
+    "game_date": "2024-01-03",
+    "team": "MIN",
+    "matchup": "MIN vs. NOP",
+    "player_ids": [
+      "1628972",
+      "1629003"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300485",
+    "game_date": "2024-01-05",
+    "team": "MIN",
+    "matchup": "MIN @ HOU",
+    "player_ids": [
+      "1628972",
+      "1629003"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300501",
+    "game_date": "2024-01-07",
+    "team": "MIN",
+    "matchup": "MIN @ DAL",
+    "player_ids": [
+      "1628972",
+      "1629003"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300513",
+    "game_date": "2024-01-09",
+    "team": "MIN",
+    "matchup": "MIN @ ORL",
+    "player_ids": [
+      "1628972",
+      "1629003"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300517",
+    "game_date": "2024-01-10",
+    "team": "MIN",
+    "matchup": "MIN @ BOS",
+    "player_ids": [
+      "1628972",
+      "1629003"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300538",
+    "game_date": "2024-01-12",
+    "team": "MIN",
+    "matchup": "MIN vs. POR",
+    "player_ids": [
+      "1628972",
+      "1629003"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300553",
+    "game_date": "2024-01-14",
+    "team": "MIN",
+    "matchup": "MIN vs. LAC",
+    "player_ids": [
+      "1628972",
+      "1629003"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300569",
+    "game_date": "2024-01-17",
+    "team": "MIN",
+    "matchup": "MIN @ DET",
+    "player_ids": [
+      "1628972",
+      "1629003"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300582",
+    "game_date": "2024-01-18",
+    "team": "MIN",
+    "matchup": "MIN vs. MEM",
+    "player_ids": [
+      "1628972",
+      "1629003"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300599",
+    "game_date": "2024-01-20",
+    "team": "MIN",
+    "matchup": "MIN vs. OKC",
+    "player_ids": [
+      "1628972",
+      "1629003"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300610",
+    "game_date": "2024-01-22",
+    "team": "MIN",
+    "matchup": "MIN vs. CHA",
+    "player_ids": [
+      "1628972",
+      "1629003"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300620",
+    "game_date": "2024-01-24",
+    "team": "MIN",
+    "matchup": "MIN @ WAS",
+    "player_ids": [
+      "1628972",
+      "1629003"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300629",
+    "game_date": "2024-01-25",
+    "team": "MIN",
+    "matchup": "MIN @ BKN",
+    "player_ids": [
+      "1628972",
+      "1629003"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300649",
+    "game_date": "2024-01-27",
+    "team": "MIN",
+    "matchup": "MIN @ SAS",
+    "player_ids": [
+      "1628972",
+      "1629003"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300664",
+    "game_date": "2024-01-29",
+    "team": "MIN",
+    "matchup": "MIN @ OKC",
+    "player_ids": [
+      "1628972",
+      "1629003"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300680",
+    "game_date": "2024-01-31",
+    "team": "MIN",
+    "matchup": "MIN vs. DAL",
+    "player_ids": [
+      "1628972",
+      "1629003"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300694",
+    "game_date": "2024-02-02",
+    "team": "MIN",
+    "matchup": "MIN vs. ORL",
+    "player_ids": [
+      "1628972",
+      "1629003"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300709",
+    "game_date": "2024-02-04",
+    "team": "MIN",
+    "matchup": "MIN vs. HOU",
+    "player_ids": [
+      "1628972",
+      "1629003"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300723",
+    "game_date": "2024-02-06",
+    "team": "MIN",
+    "matchup": "MIN @ CHI",
+    "player_ids": [
+      "1628972",
+      "1629003"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300889",
+    "game_date": "2024-03-05",
+    "team": "NYK",
+    "matchup": "NYK vs. ATL",
+    "player_ids": [
+      "1629003",
+      "202692",
+      "202711"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300912",
+    "game_date": "2024-03-08",
+    "team": "NYK",
+    "matchup": "NYK vs. ORL",
+    "player_ids": [
+      "1629003",
+      "202692",
+      "202711"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300927",
+    "game_date": "2024-03-10",
+    "team": "NYK",
+    "matchup": "NYK vs. PHI",
+    "player_ids": [
+      "1629003",
+      "202692",
+      "202711"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300939",
+    "game_date": "2024-03-12",
+    "team": "NYK",
+    "matchup": "NYK vs. PHI",
+    "player_ids": [
+      "1629003",
+      "202692",
+      "202711"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300960",
+    "game_date": "2024-03-14",
+    "team": "NYK",
+    "matchup": "NYK @ POR",
+    "player_ids": [
+      "1629003",
+      "1629603",
+      "202692",
+      "202711"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300975",
+    "game_date": "2024-03-16",
+    "team": "NYK",
+    "matchup": "NYK @ SAC",
+    "player_ids": [
+      "1629003",
+      "1629603",
+      "202692",
+      "202711"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300988",
+    "game_date": "2024-03-18",
+    "team": "NYK",
+    "matchup": "NYK @ GSW",
+    "player_ids": [
+      "1629003",
+      "1629603",
+      "202692",
+      "202711"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301009",
+    "game_date": "2024-03-21",
+    "team": "NYK",
+    "matchup": "NYK @ DEN",
+    "player_ids": [
+      "1629003",
+      "1629603",
+      "202692",
+      "202711"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301019",
+    "game_date": "2024-03-23",
+    "team": "NYK",
+    "matchup": "NYK vs. BKN",
+    "player_ids": [
+      "1629003",
+      "1629603",
+      "202692",
+      "202711"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301035",
+    "game_date": "2024-03-25",
+    "team": "NYK",
+    "matchup": "NYK vs. DET",
+    "player_ids": [
+      "1629003",
+      "1629603",
+      "202692",
+      "202711"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301053",
+    "game_date": "2024-03-27",
+    "team": "NYK",
+    "matchup": "NYK @ TOR",
+    "player_ids": [
+      "1629003",
+      "1629603",
+      "202692",
+      "202711"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301070",
+    "game_date": "2024-03-29",
+    "team": "NYK",
+    "matchup": "NYK @ SAS",
+    "player_ids": [
+      "1629003",
+      "1629603",
+      "202692",
+      "202711"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301082",
+    "game_date": "2024-03-31",
+    "team": "NYK",
+    "matchup": "NYK vs. OKC",
+    "player_ids": [
+      "1629003",
+      "1629603",
+      "202692",
+      "202711"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301096",
+    "game_date": "2024-04-02",
+    "team": "NYK",
+    "matchup": "NYK @ MIA",
+    "player_ids": [
+      "1629003",
+      "1629603",
+      "202692",
+      "202711"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301112",
+    "game_date": "2024-04-04",
+    "team": "NYK",
+    "matchup": "NYK vs. SAC",
+    "player_ids": [
+      "1629003",
+      "1629603",
+      "202692",
+      "202711"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301119",
+    "game_date": "2024-04-05",
+    "team": "NYK",
+    "matchup": "NYK @ CHI",
+    "player_ids": [
+      "1629003",
+      "1629603",
+      "202692",
+      "202711"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301139",
+    "game_date": "2024-04-07",
+    "team": "NYK",
+    "matchup": "NYK @ MIL",
+    "player_ids": [
+      "1629003",
+      "1629603",
+      "202692",
+      "202711"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301149",
+    "game_date": "2024-04-09",
+    "team": "NYK",
+    "matchup": "NYK @ CHI",
+    "player_ids": [
+      "1629003",
+      "1629603",
+      "202692",
+      "202711"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301167",
+    "game_date": "2024-04-11",
+    "team": "NYK",
+    "matchup": "NYK @ BOS",
+    "player_ids": [
+      "1629003",
+      "1629603",
+      "202692",
+      "202711"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301175",
+    "game_date": "2024-04-12",
+    "team": "NYK",
+    "matchup": "NYK vs. BKN",
+    "player_ids": [
+      "1629003",
+      "1629603",
+      "202692",
+      "202711"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301190",
+    "game_date": "2024-04-14",
+    "team": "NYK",
+    "matchup": "NYK vs. CHI",
+    "player_ids": [
+      "1629003",
+      "1629603",
+      "202692",
+      "202711"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301207",
+    "game_date": "2023-12-06",
+    "team": "TOR",
+    "matchup": "TOR vs. MIA",
+    "player_ids": [
+      "1630201"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301216",
+    "game_date": "2023-12-08",
+    "team": "TOR",
+    "matchup": "TOR @ CHA",
+    "player_ids": [
+      "1630201"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300297",
+    "game_date": "2023-12-11",
+    "team": "TOR",
+    "matchup": "TOR @ NYK",
+    "player_ids": [
+      "1630201"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300313",
+    "game_date": "2023-12-13",
+    "team": "TOR",
+    "matchup": "TOR vs. ATL",
+    "player_ids": [
+      "1630201"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300330",
+    "game_date": "2023-12-15",
+    "team": "TOR",
+    "matchup": "TOR vs. ATL",
+    "player_ids": [
+      "1630201"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300354",
+    "game_date": "2023-12-18",
+    "team": "TOR",
+    "matchup": "TOR vs. CHA",
+    "player_ids": [
+      "1630201"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300369",
+    "game_date": "2023-12-20",
+    "team": "TOR",
+    "matchup": "TOR vs. DEN",
+    "player_ids": [
+      "1630201"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300382",
+    "game_date": "2023-12-22",
+    "team": "TOR",
+    "matchup": "TOR @ PHI",
+    "player_ids": [
+      "1630201"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300395",
+    "game_date": "2023-12-23",
+    "team": "TOR",
+    "matchup": "TOR vs. UTA",
+    "player_ids": [
+      "1630201"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300416",
+    "game_date": "2023-12-27",
+    "team": "TOR",
+    "matchup": "TOR @ WAS",
+    "player_ids": [
+      "1630201"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300432",
+    "game_date": "2023-12-29",
+    "team": "TOR",
+    "matchup": "TOR @ BOS",
+    "player_ids": [
+      "1630201"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300441",
+    "game_date": "2023-12-30",
+    "team": "NYK",
+    "matchup": "NYK @ IND",
+    "player_ids": [
+      "1630201",
+      "203095"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300451",
+    "game_date": "2024-01-01",
+    "team": "NYK",
+    "matchup": "NYK vs. MIN",
+    "player_ids": [
+      "1630201",
+      "203095"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300468",
+    "game_date": "2024-01-03",
+    "team": "NYK",
+    "matchup": "NYK vs. CHI",
+    "player_ids": [
+      "1630201",
+      "203095"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300483",
+    "game_date": "2024-01-05",
+    "team": "NYK",
+    "matchup": "NYK @ PHI",
+    "player_ids": [
+      "1630201",
+      "203095"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300494",
+    "game_date": "2024-01-06",
+    "team": "NYK",
+    "matchup": "NYK @ WAS",
+    "player_ids": [
+      "1630201",
+      "203095"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300514",
+    "game_date": "2024-01-09",
+    "team": "NYK",
+    "matchup": "NYK vs. POR",
+    "player_ids": [
+      "1630201",
+      "203095"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300530",
+    "game_date": "2024-01-11",
+    "team": "NYK",
+    "matchup": "NYK @ DAL",
+    "player_ids": [
+      "1630201",
+      "203095"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300544",
+    "game_date": "2024-01-13",
+    "team": "NYK",
+    "matchup": "NYK @ MEM",
+    "player_ids": [
+      "1630201",
+      "203095"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300557",
+    "game_date": "2024-01-15",
+    "team": "NYK",
+    "matchup": "NYK vs. ORL",
+    "player_ids": [
+      "1630201",
+      "203095"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300573",
+    "game_date": "2024-01-17",
+    "team": "NYK",
+    "matchup": "NYK vs. HOU",
+    "player_ids": [
+      "1630201",
+      "203095"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300579",
+    "game_date": "2024-01-18",
+    "team": "NYK",
+    "matchup": "NYK vs. WAS",
+    "player_ids": [
+      "1630201",
+      "203095"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300596",
+    "game_date": "2024-01-20",
+    "team": "NYK",
+    "matchup": "NYK vs. TOR",
+    "player_ids": [
+      "1630201",
+      "203095"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300615",
+    "game_date": "2024-01-23",
+    "team": "NYK",
+    "matchup": "NYK @ BKN",
+    "player_ids": [
+      "1630201",
+      "203095"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300631",
+    "game_date": "2024-01-25",
+    "team": "NYK",
+    "matchup": "NYK vs. DEN",
+    "player_ids": [
+      "1630201",
+      "203095"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300643",
+    "game_date": "2024-01-27",
+    "team": "NYK",
+    "matchup": "NYK vs. MIA",
+    "player_ids": [
+      "1630201",
+      "203095"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300657",
+    "game_date": "2024-01-29",
+    "team": "NYK",
+    "matchup": "NYK @ CHA",
+    "player_ids": [
+      "1630201",
+      "203095"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300671",
+    "game_date": "2024-01-30",
+    "team": "NYK",
+    "matchup": "NYK vs. UTA",
+    "player_ids": [
+      "1630201",
+      "203095"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300685",
+    "game_date": "2024-02-01",
+    "team": "NYK",
+    "matchup": "NYK vs. IND",
+    "player_ids": [
+      "1630201",
+      "203095"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300701",
+    "game_date": "2024-02-03",
+    "team": "NYK",
+    "matchup": "NYK vs. LAL",
+    "player_ids": [
+      "1630201",
+      "203095"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300722",
+    "game_date": "2024-02-06",
+    "team": "NYK",
+    "matchup": "NYK vs. MEM",
+    "player_ids": [
+      "1630201",
+      "203095"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300743",
+    "game_date": "2024-02-09",
+    "team": "BOS",
+    "matchup": "BOS vs. WAS",
+    "player_ids": [
+      "1630531"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300759",
+    "game_date": "2024-02-11",
+    "team": "BOS",
+    "matchup": "BOS @ MIA",
+    "player_ids": [
+      "1630531"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300771",
+    "game_date": "2024-02-13",
+    "team": "BOS",
+    "matchup": "BOS @ BKN",
+    "player_ids": [
+      "1630531"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300780",
+    "game_date": "2024-02-14",
+    "team": "BOS",
+    "matchup": "BOS vs. BKN",
+    "player_ids": [
+      "1630531"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300797",
+    "game_date": "2024-02-22",
+    "team": "BOS",
+    "matchup": "BOS @ CHI",
+    "player_ids": [
+      "1630531"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300816",
+    "game_date": "2024-02-24",
+    "team": "BOS",
+    "matchup": "BOS @ NYK",
+    "player_ids": [
+      "1630531"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300836",
+    "game_date": "2024-02-27",
+    "team": "BOS",
+    "matchup": "BOS vs. PHI",
+    "player_ids": [
+      "1630531"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300859",
+    "game_date": "2024-03-01",
+    "team": "BOS",
+    "matchup": "BOS vs. DAL",
+    "player_ids": [
+      "1630531"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300872",
+    "game_date": "2024-03-03",
+    "team": "BOS",
+    "matchup": "BOS vs. GSW",
+    "player_ids": [
+      "1630531"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300886",
+    "game_date": "2024-03-05",
+    "team": "BOS",
+    "matchup": "BOS @ CLE",
+    "player_ids": [
+      "1630531"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300906",
+    "game_date": "2024-03-07",
+    "team": "BOS",
+    "matchup": "BOS @ DEN",
+    "player_ids": [
+      "1630531"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300920",
+    "game_date": "2024-03-09",
+    "team": "BOS",
+    "matchup": "BOS @ PHX",
+    "player_ids": [
+      "1630531"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300938",
+    "game_date": "2024-03-11",
+    "team": "BOS",
+    "matchup": "BOS @ POR",
+    "player_ids": [
+      "1630531"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300943",
+    "game_date": "2024-03-12",
+    "team": "BOS",
+    "matchup": "BOS @ UTA",
+    "player_ids": [
+      "1630531"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300955",
+    "game_date": "2024-03-14",
+    "team": "BOS",
+    "matchup": "BOS vs. PHX",
+    "player_ids": [
+      "1630531"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300980",
+    "game_date": "2024-03-17",
+    "team": "BOS",
+    "matchup": "BOS @ WAS",
+    "player_ids": [
+      "1630531"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300984",
+    "game_date": "2024-03-18",
+    "team": "BOS",
+    "matchup": "BOS vs. DET",
+    "player_ids": [
+      "1630531"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300998",
+    "game_date": "2024-03-20",
+    "team": "BOS",
+    "matchup": "BOS vs. MIL",
+    "player_ids": [
+      "1630531"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301011",
+    "game_date": "2024-03-22",
+    "team": "BOS",
+    "matchup": "BOS @ DET",
+    "player_ids": [
+      "1630531"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301023",
+    "game_date": "2024-03-23",
+    "team": "BOS",
+    "matchup": "BOS @ CHI",
+    "player_ids": [
+      "1630531"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301034",
+    "game_date": "2024-03-25",
+    "team": "BOS",
+    "matchup": "BOS @ ATL",
+    "player_ids": [
+      "1630531"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301060",
+    "game_date": "2024-03-28",
+    "team": "BOS",
+    "matchup": "BOS @ ATL",
+    "player_ids": [
+      "1630531"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301074",
+    "game_date": "2024-03-30",
+    "team": "BOS",
+    "matchup": "BOS @ NOP",
+    "player_ids": [
+      "1630531"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301087",
+    "game_date": "2024-04-01",
+    "team": "BOS",
+    "matchup": "BOS @ CHA",
+    "player_ids": [
+      "1630531"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301105",
+    "game_date": "2024-04-03",
+    "team": "BOS",
+    "matchup": "BOS vs. OKC",
+    "player_ids": [
+      "1630531"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301118",
+    "game_date": "2024-04-05",
+    "team": "BOS",
+    "matchup": "BOS vs. SAC",
+    "player_ids": [
+      "1630531"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301134",
+    "game_date": "2024-04-07",
+    "team": "BOS",
+    "matchup": "BOS vs. POR",
+    "player_ids": [
+      "1630531"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301148",
+    "game_date": "2024-04-09",
+    "team": "BOS",
+    "matchup": "BOS @ MIL",
+    "player_ids": [
+      "1630531"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301167",
+    "game_date": "2024-04-11",
+    "team": "BOS",
+    "matchup": "BOS vs. NYK",
+    "player_ids": [
+      "1630531"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301173",
+    "game_date": "2024-04-12",
+    "team": "BOS",
+    "matchup": "BOS vs. CHA",
+    "player_ids": [
+      "1630531"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301186",
+    "game_date": "2024-04-14",
+    "team": "BOS",
+    "matchup": "BOS vs. WAS",
+    "player_ids": [
+      "1630531"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301213",
+    "game_date": "2023-12-06",
+    "team": "UTA",
+    "matchup": "UTA @ DAL",
+    "player_ids": [
+      "1631323"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301225",
+    "game_date": "2023-12-08",
+    "team": "UTA",
+    "matchup": "UTA vs. LAC",
+    "player_ids": [
+      "1631323"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300302",
+    "game_date": "2023-12-11",
+    "team": "UTA",
+    "matchup": "UTA @ OKC",
+    "player_ids": [
+      "1631323"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300318",
+    "game_date": "2023-12-13",
+    "team": "UTA",
+    "matchup": "UTA vs. NYK",
+    "player_ids": [
+      "1631323"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300323",
+    "game_date": "2023-12-14",
+    "team": "UTA",
+    "matchup": "UTA @ POR",
+    "player_ids": [
+      "1631323"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300342",
+    "game_date": "2023-12-16",
+    "team": "UTA",
+    "matchup": "UTA @ SAC",
+    "player_ids": [
+      "1631323"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300357",
+    "game_date": "2023-12-18",
+    "team": "UTA",
+    "matchup": "UTA vs. BKN",
+    "player_ids": [
+      "1631323"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300364",
+    "game_date": "2023-12-20",
+    "team": "UTA",
+    "matchup": "UTA @ CLE",
+    "player_ids": [
+      "1631323"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300374",
+    "game_date": "2023-12-21",
+    "team": "UTA",
+    "matchup": "UTA @ DET",
+    "player_ids": [
+      "1631323"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300395",
+    "game_date": "2023-12-23",
+    "team": "UTA",
+    "matchup": "UTA @ TOR",
+    "player_ids": [
+      "1631323"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300412",
+    "game_date": "2023-12-26",
+    "team": "UTA",
+    "matchup": "UTA @ SAS",
+    "player_ids": [
+      "1631323"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300424",
+    "game_date": "2023-12-28",
+    "team": "UTA",
+    "matchup": "UTA @ NOP",
+    "player_ids": [
+      "1631323"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300439",
+    "game_date": "2023-12-30",
+    "team": "UTA",
+    "matchup": "UTA vs. MIA",
+    "player_ids": [
+      "1631323"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300457",
+    "game_date": "2024-01-01",
+    "team": "UTA",
+    "matchup": "UTA vs. DAL",
+    "player_ids": [
+      "1631323"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300474",
+    "game_date": "2024-01-03",
+    "team": "UTA",
+    "matchup": "UTA vs. DET",
+    "player_ids": [
+      "1631323"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300479",
+    "game_date": "2024-01-05",
+    "team": "UTA",
+    "matchup": "UTA @ BOS",
+    "player_ids": [
+      "1631323"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300495",
+    "game_date": "2024-01-06",
+    "team": "UTA",
+    "matchup": "UTA @ PHI",
+    "player_ids": [
+      "1631323"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300510",
+    "game_date": "2024-01-08",
+    "team": "UTA",
+    "matchup": "UTA @ MIL",
+    "player_ids": [
+      "1631323"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300524",
+    "game_date": "2024-01-10",
+    "team": "UTA",
+    "matchup": "UTA vs. DEN",
+    "player_ids": [
+      "1631323"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300540",
+    "game_date": "2024-01-12",
+    "team": "UTA",
+    "matchup": "UTA vs. TOR",
+    "player_ids": [
+      "1631323"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300549",
+    "game_date": "2024-01-13",
+    "team": "UTA",
+    "matchup": "UTA vs. LAL",
+    "player_ids": [
+      "1631323"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300564",
+    "game_date": "2024-01-15",
+    "team": "UTA",
+    "matchup": "UTA vs. IND",
+    "player_ids": [
+      "1631323"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300581",
+    "game_date": "2024-01-18",
+    "team": "UTA",
+    "matchup": "UTA vs. OKC",
+    "player_ids": [
+      "1631323"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300598",
+    "game_date": "2024-01-20",
+    "team": "UTA",
+    "matchup": "UTA @ HOU",
+    "player_ids": [
+      "1631323"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300616",
+    "game_date": "2024-01-23",
+    "team": "UTA",
+    "matchup": "UTA @ NOP",
+    "player_ids": [
+      "1631323"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300628",
+    "game_date": "2024-01-25",
+    "team": "UTA",
+    "matchup": "UTA @ WAS",
+    "player_ids": [
+      "1631323"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300647",
+    "game_date": "2024-01-27",
+    "team": "UTA",
+    "matchup": "UTA @ CHA",
+    "player_ids": [
+      "1631323"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300660",
+    "game_date": "2024-01-29",
+    "team": "UTA",
+    "matchup": "UTA @ BKN",
+    "player_ids": [
+      "1631323"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300671",
+    "game_date": "2024-01-30",
+    "team": "UTA",
+    "matchup": "UTA @ NYK",
+    "player_ids": [
+      "1631323"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300686",
+    "game_date": "2024-02-01",
+    "team": "UTA",
+    "matchup": "UTA vs. PHI",
+    "player_ids": [
+      "1631323"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300711",
+    "game_date": "2024-02-04",
+    "team": "UTA",
+    "matchup": "UTA vs. MIL",
+    "player_ids": [
+      "1631323"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300724",
+    "game_date": "2024-02-06",
+    "team": "UTA",
+    "matchup": "UTA vs. OKC",
+    "player_ids": [
+      "1631323"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300738",
+    "game_date": "2024-02-08",
+    "team": "MIL",
+    "matchup": "MIL vs. MIN",
+    "player_ids": [
+      "201976"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300745",
+    "game_date": "2024-02-09",
+    "team": "MIL",
+    "matchup": "MIL vs. CHA",
+    "player_ids": [
+      "201976"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300767",
+    "game_date": "2024-02-12",
+    "team": "MIL",
+    "matchup": "MIL vs. DEN",
+    "player_ids": [
+      "201976"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300773",
+    "game_date": "2024-02-13",
+    "team": "MIL",
+    "matchup": "MIL vs. MIA",
+    "player_ids": [
+      "201976"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300790",
+    "game_date": "2024-02-15",
+    "team": "MIL",
+    "matchup": "MIL @ MEM",
+    "player_ids": [
+      "201976"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300808",
+    "game_date": "2024-02-23",
+    "team": "MIL",
+    "matchup": "MIL @ MIN",
+    "player_ids": [
+      "201568",
+      "201976"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300817",
+    "game_date": "2024-02-25",
+    "team": "MIL",
+    "matchup": "MIL @ PHI",
+    "player_ids": [
+      "201568",
+      "201976"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300840",
+    "game_date": "2024-02-27",
+    "team": "MIL",
+    "matchup": "MIL vs. CHA",
+    "player_ids": [
+      "201568",
+      "201976"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300849",
+    "game_date": "2024-02-29",
+    "team": "MIL",
+    "matchup": "MIL @ CHA",
+    "player_ids": [
+      "201568",
+      "201976"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300864",
+    "game_date": "2024-03-01",
+    "team": "MIL",
+    "matchup": "MIL @ CHI",
+    "player_ids": [
+      "201568",
+      "201976"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300880",
+    "game_date": "2024-03-04",
+    "team": "MIL",
+    "matchup": "MIL vs. LAC",
+    "player_ids": [
+      "201568",
+      "201976"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300899",
+    "game_date": "2024-03-06",
+    "team": "MIL",
+    "matchup": "MIL @ GSW",
+    "player_ids": [
+      "201568",
+      "201976"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300915",
+    "game_date": "2024-03-08",
+    "team": "MIL",
+    "matchup": "MIL @ LAL",
+    "player_ids": [
+      "201568",
+      "201976"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300924",
+    "game_date": "2024-03-10",
+    "team": "MIL",
+    "matchup": "MIL @ LAC",
+    "player_ids": [
+      "201568",
+      "201976"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300945",
+    "game_date": "2024-03-12",
+    "team": "MIL",
+    "matchup": "MIL @ SAC",
+    "player_ids": [
+      "201568",
+      "201976"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300958",
+    "game_date": "2024-03-14",
+    "team": "MIL",
+    "matchup": "MIL vs. PHI",
+    "player_ids": [
+      "201568",
+      "201976"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300976",
+    "game_date": "2024-03-17",
+    "team": "MIL",
+    "matchup": "MIL vs. PHX",
+    "player_ids": [
+      "201568",
+      "201976"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300998",
+    "game_date": "2024-03-20",
+    "team": "MIL",
+    "matchup": "MIL @ BOS",
+    "player_ids": [
+      "201568",
+      "201976"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301007",
+    "game_date": "2024-03-21",
+    "team": "MIL",
+    "matchup": "MIL vs. BKN",
+    "player_ids": [
+      "201568",
+      "201976"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301030",
+    "game_date": "2024-03-24",
+    "team": "MIL",
+    "matchup": "MIL vs. OKC",
+    "player_ids": [
+      "201568",
+      "201976"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301045",
+    "game_date": "2024-03-26",
+    "team": "MIL",
+    "matchup": "MIL vs. LAL",
+    "player_ids": [
+      "201568",
+      "201976"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301061",
+    "game_date": "2024-03-28",
+    "team": "MIL",
+    "matchup": "MIL @ NOP",
+    "player_ids": [
+      "201568",
+      "201976"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301076",
+    "game_date": "2024-03-30",
+    "team": "MIL",
+    "matchup": "MIL @ ATL",
+    "player_ids": [
+      "201568",
+      "201976"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301095",
+    "game_date": "2024-04-02",
+    "team": "MIL",
+    "matchup": "MIL @ WAS",
+    "player_ids": [
+      "201568",
+      "201976"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301107",
+    "game_date": "2024-04-03",
+    "team": "MIL",
+    "matchup": "MIL vs. MEM",
+    "player_ids": [
+      "201568",
+      "201976"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301122",
+    "game_date": "2024-04-05",
+    "team": "MIL",
+    "matchup": "MIL vs. TOR",
+    "player_ids": [
+      "201568",
+      "201976"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301139",
+    "game_date": "2024-04-07",
+    "team": "MIL",
+    "matchup": "MIL vs. NYK",
+    "player_ids": [
+      "201568",
+      "201976"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301148",
+    "game_date": "2024-04-09",
+    "team": "MIL",
+    "matchup": "MIL vs. BOS",
+    "player_ids": [
+      "201568",
+      "201976"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301162",
+    "game_date": "2024-04-10",
+    "team": "MIL",
+    "matchup": "MIL vs. ORL",
+    "player_ids": [
+      "201568",
+      "201976"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301179",
+    "game_date": "2024-04-12",
+    "team": "MIL",
+    "matchup": "MIL @ OKC",
+    "player_ids": [
+      "201568",
+      "201976"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301191",
+    "game_date": "2024-04-14",
+    "team": "MIL",
+    "matchup": "MIL @ ORL",
+    "player_ids": [
+      "201568",
+      "201976"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300736",
+    "game_date": "2024-02-08",
+    "team": "NYK",
+    "matchup": "NYK vs. DAL",
+    "player_ids": [
+      "202692",
+      "202711"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300755",
+    "game_date": "2024-02-10",
+    "team": "NYK",
+    "matchup": "NYK vs. IND",
+    "player_ids": [
+      "202692",
+      "202711"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300765",
+    "game_date": "2024-02-12",
+    "team": "NYK",
+    "matchup": "NYK @ HOU",
+    "player_ids": [
+      "202692",
+      "202711"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300778",
+    "game_date": "2024-02-14",
+    "team": "NYK",
+    "matchup": "NYK @ ORL",
+    "player_ids": [
+      "202692",
+      "202711"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300794",
+    "game_date": "2024-02-22",
+    "team": "NYK",
+    "matchup": "NYK @ PHI",
+    "player_ids": [
+      "202692",
+      "202711"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300816",
+    "game_date": "2024-02-24",
+    "team": "NYK",
+    "matchup": "NYK vs. BOS",
+    "player_ids": [
+      "202692",
+      "202711"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300828",
+    "game_date": "2024-02-26",
+    "team": "NYK",
+    "matchup": "NYK vs. DET",
+    "player_ids": [
+      "202692",
+      "202711"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300837",
+    "game_date": "2024-02-27",
+    "team": "NYK",
+    "matchup": "NYK vs. NOP",
+    "player_ids": [
+      "202692",
+      "202711"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300852",
+    "game_date": "2024-02-29",
+    "team": "NYK",
+    "matchup": "NYK vs. GSW",
+    "player_ids": [
+      "202692",
+      "202711"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300876",
+    "game_date": "2024-03-03",
+    "team": "NYK",
+    "matchup": "NYK @ CLE",
+    "player_ids": [
+      "202692",
+      "202711"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301201",
+    "game_date": "2023-12-05",
+    "team": "NYK",
+    "matchup": "NYK @ MIL",
+    "player_ids": [
+      "203095"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301227",
+    "game_date": "2023-12-08",
+    "team": "NYK",
+    "matchup": "NYK @ BOS",
+    "player_ids": [
+      "203095"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300297",
+    "game_date": "2023-12-11",
+    "team": "NYK",
+    "matchup": "NYK vs. TOR",
+    "player_ids": [
+      "203095"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300318",
+    "game_date": "2023-12-13",
+    "team": "NYK",
+    "matchup": "NYK @ UTA",
+    "player_ids": [
+      "203095"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300333",
+    "game_date": "2023-12-15",
+    "team": "NYK",
+    "matchup": "NYK @ PHX",
+    "player_ids": [
+      "203095"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300343",
+    "game_date": "2023-12-16",
+    "team": "NYK",
+    "matchup": "NYK @ LAC",
+    "player_ids": [
+      "203095"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300359",
+    "game_date": "2023-12-18",
+    "team": "NYK",
+    "matchup": "NYK @ LAL",
+    "player_ids": [
+      "203095"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300368",
+    "game_date": "2023-12-20",
+    "team": "NYK",
+    "matchup": "NYK @ BKN",
+    "player_ids": [
+      "203095"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300388",
+    "game_date": "2023-12-23",
+    "team": "NYK",
+    "matchup": "NYK vs. MIL",
+    "player_ids": [
+      "203095"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300401",
+    "game_date": "2023-12-25",
+    "team": "NYK",
+    "matchup": "NYK vs. MIL",
+    "player_ids": [
+      "203095"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300419",
+    "game_date": "2023-12-27",
+    "team": "NYK",
+    "matchup": "NYK @ OKC",
+    "player_ids": [
+      "203095"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300429",
+    "game_date": "2023-12-29",
+    "team": "NYK",
+    "matchup": "NYK @ ORL",
+    "player_ids": [
+      "203095"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300733",
+    "game_date": "2024-02-08",
+    "team": "IND",
+    "matchup": "IND vs. GSW",
+    "player_ids": [
+      "1627788",
+      "203926"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300755",
+    "game_date": "2024-02-10",
+    "team": "IND",
+    "matchup": "IND @ NYK",
+    "player_ids": [
+      "1627788",
+      "203926"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300761",
+    "game_date": "2024-02-12",
+    "team": "IND",
+    "matchup": "IND @ CHA",
+    "player_ids": [
+      "203926"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300782",
+    "game_date": "2024-02-14",
+    "team": "IND",
+    "matchup": "IND @ TOR",
+    "player_ids": [
+      "203926"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300793",
+    "game_date": "2024-02-22",
+    "team": "IND",
+    "matchup": "IND vs. DET",
+    "player_ids": [
+      "203926"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300819",
+    "game_date": "2024-02-25",
+    "team": "IND",
+    "matchup": "IND vs. DAL",
+    "player_ids": [
+      "203926"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300829",
+    "game_date": "2024-02-26",
+    "team": "IND",
+    "matchup": "IND vs. TOR",
+    "player_ids": [
+      "203926"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300843",
+    "game_date": "2024-02-28",
+    "team": "IND",
+    "matchup": "IND vs. NOP",
+    "player_ids": [
+      "203926"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300863",
+    "game_date": "2024-03-01",
+    "team": "IND",
+    "matchup": "IND @ NOP",
+    "player_ids": [
+      "203926"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300877",
+    "game_date": "2024-03-03",
+    "team": "IND",
+    "matchup": "IND @ SAS",
+    "player_ids": [
+      "203926"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300892",
+    "game_date": "2024-03-05",
+    "team": "IND",
+    "matchup": "IND @ DAL",
+    "player_ids": [
+      "203926"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300903",
+    "game_date": "2024-03-07",
+    "team": "IND",
+    "matchup": "IND vs. MIN",
+    "player_ids": [
+      "203926"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300928",
+    "game_date": "2024-03-10",
+    "team": "IND",
+    "matchup": "IND @ ORL",
+    "player_ids": [
+      "203926"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300941",
+    "game_date": "2024-03-12",
+    "team": "IND",
+    "matchup": "IND @ OKC",
+    "player_ids": [
+      "203926"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300948",
+    "game_date": "2024-03-13",
+    "team": "IND",
+    "matchup": "IND vs. CHI",
+    "player_ids": [
+      "203926"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300968",
+    "game_date": "2024-03-16",
+    "team": "IND",
+    "matchup": "IND vs. BKN",
+    "player_ids": [
+      "203926"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300983",
+    "game_date": "2024-03-18",
+    "team": "IND",
+    "matchup": "IND vs. CLE",
+    "player_ids": [
+      "203926"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300997",
+    "game_date": "2024-03-20",
+    "team": "IND",
+    "matchup": "IND @ DET",
+    "player_ids": [
+      "203926"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301016",
+    "game_date": "2024-03-22",
+    "team": "IND",
+    "matchup": "IND @ GSW",
+    "player_ids": [
+      "203926"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301032",
+    "game_date": "2024-03-24",
+    "team": "IND",
+    "matchup": "IND @ LAL",
+    "player_ids": [
+      "203926"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301043",
+    "game_date": "2024-03-25",
+    "team": "IND",
+    "matchup": "IND @ LAC",
+    "player_ids": [
+      "203926"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301054",
+    "game_date": "2024-03-27",
+    "team": "IND",
+    "matchup": "IND @ CHI",
+    "player_ids": [
+      "203926"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301063",
+    "game_date": "2024-03-29",
+    "team": "IND",
+    "matchup": "IND vs. LAL",
+    "player_ids": [
+      "203926"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301089",
+    "game_date": "2024-04-01",
+    "team": "IND",
+    "matchup": "IND vs. BKN",
+    "player_ids": [
+      "203926"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301106",
+    "game_date": "2024-04-03",
+    "team": "IND",
+    "matchup": "IND @ BKN",
+    "player_ids": [
+      "203926"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301116",
+    "game_date": "2024-04-05",
+    "team": "IND",
+    "matchup": "IND vs. OKC",
+    "player_ids": [
+      "203926"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301133",
+    "game_date": "2024-04-07",
+    "team": "IND",
+    "matchup": "IND vs. MIA",
+    "player_ids": [
+      "203926"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301146",
+    "game_date": "2024-04-09",
+    "team": "IND",
+    "matchup": "IND @ TOR",
+    "player_ids": [
+      "203926"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301174",
+    "game_date": "2024-04-12",
+    "team": "IND",
+    "matchup": "IND @ CLE",
+    "player_ids": [
+      "203926"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301188",
+    "game_date": "2024-04-14",
+    "team": "IND",
+    "matchup": "IND vs. ATL",
+    "player_ids": [
+      "203926"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301208",
+    "game_date": "2023-12-06",
+    "team": "WAS",
+    "matchup": "WAS vs. PHI",
+    "player_ids": [
+      "201568",
+      "203488"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301219",
+    "game_date": "2023-12-08",
+    "team": "WAS",
+    "matchup": "WAS @ BKN",
+    "player_ids": [
+      "201568",
+      "203488"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300295",
+    "game_date": "2023-12-11",
+    "team": "WAS",
+    "matchup": "WAS @ PHI",
+    "player_ids": [
+      "201568",
+      "203488"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300311",
+    "game_date": "2023-12-13",
+    "team": "WAS",
+    "matchup": "WAS vs. NOP",
+    "player_ids": [
+      "201568",
+      "203488"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300328",
+    "game_date": "2023-12-15",
+    "team": "WAS",
+    "matchup": "WAS vs. IND",
+    "player_ids": [
+      "201568",
+      "203488"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300347",
+    "game_date": "2023-12-17",
+    "team": "WAS",
+    "matchup": "WAS @ PHX",
+    "player_ids": [
+      "201568",
+      "203488"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300358",
+    "game_date": "2023-12-18",
+    "team": "WAS",
+    "matchup": "WAS @ SAC",
+    "player_ids": [
+      "201568",
+      "203488"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300381",
+    "game_date": "2023-12-21",
+    "team": "WAS",
+    "matchup": "WAS @ POR",
+    "player_ids": [
+      "201568",
+      "203488"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300386",
+    "game_date": "2023-12-22",
+    "team": "WAS",
+    "matchup": "WAS @ GSW",
+    "player_ids": [
+      "201568",
+      "203488"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300407",
+    "game_date": "2023-12-26",
+    "team": "WAS",
+    "matchup": "WAS vs. ORL",
+    "player_ids": [
+      "201568",
+      "203488"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300416",
+    "game_date": "2023-12-27",
+    "team": "WAS",
+    "matchup": "WAS vs. TOR",
+    "player_ids": [
+      "201568",
+      "203488"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300430",
+    "game_date": "2023-12-29",
+    "team": "WAS",
+    "matchup": "WAS vs. BKN",
+    "player_ids": [
+      "201568",
+      "203488"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300445",
+    "game_date": "2023-12-31",
+    "team": "WAS",
+    "matchup": "WAS vs. ATL",
+    "player_ids": [
+      "201568",
+      "203488"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300465",
+    "game_date": "2024-01-03",
+    "team": "WAS",
+    "matchup": "WAS @ CLE",
+    "player_ids": [
+      "201568",
+      "203488"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300482",
+    "game_date": "2024-01-05",
+    "team": "WAS",
+    "matchup": "WAS @ CLE",
+    "player_ids": [
+      "201568",
+      "203488"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300494",
+    "game_date": "2024-01-06",
+    "team": "WAS",
+    "matchup": "WAS vs. NYK",
+    "player_ids": [
+      "201568",
+      "203488"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300508",
+    "game_date": "2024-01-08",
+    "team": "WAS",
+    "matchup": "WAS vs. OKC",
+    "player_ids": [
+      "201568",
+      "203488"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300520",
+    "game_date": "2024-01-10",
+    "team": "WAS",
+    "matchup": "WAS @ IND",
+    "player_ids": [
+      "201568",
+      "203488"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300543",
+    "game_date": "2024-01-13",
+    "team": "WAS",
+    "matchup": "WAS @ ATL",
+    "player_ids": [
+      "201568",
+      "203488"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300878",
+    "game_date": "2024-03-03",
+    "team": "OKC",
+    "matchup": "OKC @ PHX",
+    "player_ids": [
+      "203488"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300884",
+    "game_date": "2024-03-04",
+    "team": "OKC",
+    "matchup": "OKC @ LAL",
+    "player_ids": [
+      "203488"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300900",
+    "game_date": "2024-03-06",
+    "team": "OKC",
+    "matchup": "OKC @ POR",
+    "player_ids": [
+      "203488"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300914",
+    "game_date": "2024-03-08",
+    "team": "OKC",
+    "matchup": "OKC vs. MIA",
+    "player_ids": [
+      "203488"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300931",
+    "game_date": "2024-03-10",
+    "team": "OKC",
+    "matchup": "OKC vs. MEM",
+    "player_ids": [
+      "203488"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300941",
+    "game_date": "2024-03-12",
+    "team": "OKC",
+    "matchup": "OKC vs. IND",
+    "player_ids": [
+      "203488"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300959",
+    "game_date": "2024-03-14",
+    "team": "OKC",
+    "matchup": "OKC vs. DAL",
+    "player_ids": [
+      "203488"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300972",
+    "game_date": "2024-03-16",
+    "team": "OKC",
+    "matchup": "OKC @ MEM",
+    "player_ids": [
+      "203488"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301000",
+    "game_date": "2024-03-20",
+    "team": "OKC",
+    "matchup": "OKC vs. UTA",
+    "player_ids": [
+      "203488"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301012",
+    "game_date": "2024-03-22",
+    "team": "OKC",
+    "matchup": "OKC @ TOR",
+    "player_ids": [
+      "203488"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301030",
+    "game_date": "2024-03-24",
+    "team": "OKC",
+    "matchup": "OKC @ MIL",
+    "player_ids": [
+      "203488"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301046",
+    "game_date": "2024-03-26",
+    "team": "OKC",
+    "matchup": "OKC @ NOP",
+    "player_ids": [
+      "203488"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301057",
+    "game_date": "2024-03-27",
+    "team": "OKC",
+    "matchup": "OKC vs. HOU",
+    "player_ids": [
+      "203488"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301069",
+    "game_date": "2024-03-29",
+    "team": "OKC",
+    "matchup": "OKC vs. PHX",
+    "player_ids": [
+      "203488"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301082",
+    "game_date": "2024-03-31",
+    "team": "OKC",
+    "matchup": "OKC @ NYK",
+    "player_ids": [
+      "203488"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301093",
+    "game_date": "2024-04-02",
+    "team": "OKC",
+    "matchup": "OKC @ PHI",
+    "player_ids": [
+      "203488"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301105",
+    "game_date": "2024-04-03",
+    "team": "OKC",
+    "matchup": "OKC @ BOS",
+    "player_ids": [
+      "203488"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301116",
+    "game_date": "2024-04-05",
+    "team": "OKC",
+    "matchup": "OKC @ IND",
+    "player_ids": [
+      "203488"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301135",
+    "game_date": "2024-04-07",
+    "team": "OKC",
+    "matchup": "OKC @ CHA",
+    "player_ids": [
+      "203488"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301153",
+    "game_date": "2024-04-09",
+    "team": "OKC",
+    "matchup": "OKC vs. SAC",
+    "player_ids": [
+      "203488"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301163",
+    "game_date": "2024-04-10",
+    "team": "OKC",
+    "matchup": "OKC vs. SAS",
+    "player_ids": [
+      "203488"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301179",
+    "game_date": "2024-04-12",
+    "team": "OKC",
+    "matchup": "OKC vs. MIL",
+    "player_ids": [
+      "203488"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301196",
+    "game_date": "2024-04-14",
+    "team": "OKC",
+    "matchup": "OKC vs. DAL",
+    "player_ids": [
+      "203488"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301206",
+    "game_date": "2023-12-06",
+    "team": "MEM",
+    "matchup": "MEM @ DET",
+    "player_ids": [
+      "1631254"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301221",
+    "game_date": "2023-12-08",
+    "team": "MEM",
+    "matchup": "MEM vs. MIN",
+    "player_ids": [
+      "1631254"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300299",
+    "game_date": "2023-12-11",
+    "team": "MEM",
+    "matchup": "MEM vs. DAL",
+    "player_ids": [
+      "1631254"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300314",
+    "game_date": "2023-12-13",
+    "team": "MEM",
+    "matchup": "MEM @ HOU",
+    "player_ids": [
+      "1631254"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300332",
+    "game_date": "2023-12-15",
+    "team": "MEM",
+    "matchup": "MEM vs. HOU",
+    "player_ids": [
+      "1631254"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300943",
+    "game_date": "2024-03-12",
+    "team": "UTA",
+    "matchup": "UTA vs. BOS",
+    "player_ids": [
+      "1631254"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300966",
+    "game_date": "2024-03-15",
+    "team": "UTA",
+    "matchup": "UTA vs. ATL",
+    "player_ids": [
+      "1631254"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300974",
+    "game_date": "2024-03-16",
+    "team": "UTA",
+    "matchup": "UTA vs. MIN",
+    "player_ids": [
+      "1631254"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300987",
+    "game_date": "2024-03-18",
+    "team": "UTA",
+    "matchup": "UTA vs. MIN",
+    "player_ids": [
+      "1631254"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301000",
+    "game_date": "2024-03-20",
+    "team": "UTA",
+    "matchup": "UTA @ OKC",
+    "player_ids": [
+      "1631254"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301008",
+    "game_date": "2024-03-21",
+    "team": "UTA",
+    "matchup": "UTA @ DAL",
+    "player_ids": [
+      "1631254"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301024",
+    "game_date": "2024-03-23",
+    "team": "UTA",
+    "matchup": "UTA @ HOU",
+    "player_ids": [
+      "1631254"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301041",
+    "game_date": "2024-03-25",
+    "team": "UTA",
+    "matchup": "UTA vs. DAL",
+    "player_ids": [
+      "1631254"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301058",
+    "game_date": "2024-03-27",
+    "team": "UTA",
+    "matchup": "UTA vs. SAS",
+    "player_ids": [
+      "1631254"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301072",
+    "game_date": "2024-03-29",
+    "team": "UTA",
+    "matchup": "UTA vs. HOU",
+    "player_ids": [
+      "1631254"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301086",
+    "game_date": "2024-03-31",
+    "team": "UTA",
+    "matchup": "UTA @ SAC",
+    "player_ids": [
+      "1631254"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301100",
+    "game_date": "2024-04-02",
+    "team": "UTA",
+    "matchup": "UTA vs. CLE",
+    "player_ids": [
+      "1631254"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301126",
+    "game_date": "2024-04-05",
+    "team": "UTA",
+    "matchup": "UTA @ LAC",
+    "player_ids": [
+      "1631254"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301142",
+    "game_date": "2024-04-07",
+    "team": "UTA",
+    "matchup": "UTA @ GSW",
+    "player_ids": [
+      "1631254"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301154",
+    "game_date": "2024-04-09",
+    "team": "UTA",
+    "matchup": "UTA vs. DEN",
+    "player_ids": [
+      "1631254"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301168",
+    "game_date": "2024-04-11",
+    "team": "UTA",
+    "matchup": "UTA vs. HOU",
+    "player_ids": [
+      "1631254"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301184",
+    "game_date": "2024-04-12",
+    "team": "UTA",
+    "matchup": "UTA @ LAC",
+    "player_ids": [
+      "1631254"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022301198",
+    "game_date": "2024-04-14",
+    "team": "UTA",
+    "matchup": "UTA @ GSW",
+    "player_ids": [
+      "1631254"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300687",
+    "game_date": "2024-02-01",
+    "team": "MEM",
+    "matchup": "MEM vs. CLE",
+    "player_ids": [
+      "1641787"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300693",
+    "game_date": "2024-02-02",
+    "team": "MEM",
+    "matchup": "MEM vs. GSW",
+    "player_ids": [
+      "1641787"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300706",
+    "game_date": "2024-02-04",
+    "team": "MEM",
+    "matchup": "MEM @ BOS",
+    "player_ids": [
+      "1641787"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300722",
+    "game_date": "2024-02-06",
+    "team": "MEM",
+    "matchup": "MEM @ NYK",
+    "player_ids": [
+      "1641787"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300737",
+    "game_date": "2024-02-08",
+    "team": "MEM",
+    "matchup": "MEM vs. CHI",
+    "player_ids": [
+      "1641787"
+    ],
+    "scope": "targeted_cross_team_only"
+  },
+  {
+    "game_id": "0022300739",
+    "game_date": "2024-02-08",
+    "team": "UTA",
+    "matchup": "UTA @ PHX",
+    "player_ids": [
+      "1628995"
+    ],
+    "scope": "targeted_cross_team_only"
+  }
+]

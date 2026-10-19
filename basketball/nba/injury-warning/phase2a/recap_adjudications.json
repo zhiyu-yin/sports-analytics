@@ -1,0 +1,170 @@
+[
+  {
+    "player_id": "1630532",
+    "event_game_id": "0022300476",
+    "source_game_id": "0022300476",
+    "paragraph": 19,
+    "kind": "acute",
+    "reviewer": "Codex same agent; direct full-recap review"
+  },
+  {
+    "player_id": "203914",
+    "event_game_id": "0022300476",
+    "source_game_id": "0022300476",
+    "paragraph": 19,
+    "kind": "acute",
+    "reviewer": "Codex same agent; direct full-recap review"
+  },
+  {
+    "player_id": "1631094",
+    "event_game_id": "0022300476",
+    "source_game_id": "0022300476",
+    "paragraph": 19,
+    "kind": "acute",
+    "reviewer": "Codex same agent; direct full-recap review"
+  },
+  {
+    "player_id": "203954",
+    "event_game_id": "0022300483",
+    "source_game_id": "0022300483",
+    "paragraph": 11,
+    "kind": "acute",
+    "reviewer": "Codex same agent; direct full-recap review"
+  },
+  {
+    "player_id": "1630595",
+    "event_game_id": "0022300502",
+    "source_game_id": "0022300502",
+    "paragraph": 8,
+    "kind": "acute",
+    "reviewer": "Codex same agent; direct full-recap review"
+  },
+  {
+    "player_id": "1630591",
+    "event_game_id": "0022300638",
+    "source_game_id": "0022300638",
+    "paragraph": 3,
+    "kind": "acute",
+    "reviewer": "Codex same agent; direct full-recap review"
+  },
+  {
+    "player_id": "203488",
+    "event_game_id": "0022300675",
+    "source_game_id": "0022300675",
+    "paragraph": 12,
+    "kind": "acute",
+    "reviewer": "Codex same agent; direct full-recap review"
+  },
+  {
+    "player_id": "1628386",
+    "event_game_id": "0022300687",
+    "source_game_id": "0022300687",
+    "paragraph": 2,
+    "kind": "acute",
+    "reviewer": "Codex same agent; direct full-recap review"
+  },
+  {
+    "player_id": "203954",
+    "event_game_id": "0022300673",
+    "source_game_id": "0022300673",
+    "paragraph": 8,
+    "kind": "acute",
+    "reviewer": "Codex same agent; direct full-recap review"
+  },
+  {
+    "player_id": "1630178",
+    "event_game_id": "0022300779",
+    "source_game_id": "0022300779",
+    "paragraph": 9,
+    "kind": "acute",
+    "reviewer": "Codex same agent; direct full-recap review"
+  },
+  {
+    "player_id": "202699",
+    "event_game_id": "0022300483",
+    "source_game_id": "0022300495",
+    "paragraph": 7,
+    "kind": "acute",
+    "reviewer": "Codex same agent; direct full-recap review"
+  },
+  {
+    "player_id": "203932",
+    "event_game_id": "0022300455",
+    "source_game_id": "0022300455",
+    "paragraph": 4,
+    "kind": "history",
+    "reviewer": "Codex same agent; direct full-recap review"
+  },
+  {
+    "player_id": "203954",
+    "event_game_id": "0022300459",
+    "source_game_id": "0022300459",
+    "paragraph": 2,
+    "kind": "history",
+    "reviewer": "Codex same agent; direct full-recap review"
+  },
+  {
+    "player_id": "1627750",
+    "event_game_id": "0022300767",
+    "source_game_id": "0022300767",
+    "paragraph": 8,
+    "kind": "symptom",
+    "reviewer": "Codex same agent; direct full-recap review"
+  },
+  {
+    "player_id": "203484",
+    "event_game_id": "0022300767",
+    "source_game_id": "0022300767",
+    "paragraph": 8,
+    "kind": "symptom",
+    "reviewer": "Codex same agent; direct full-recap review"
+  },
+  {
+    "player_id": "203954",
+    "event_game_id": "0022300627",
+    "source_game_id": "0022300644",
+    "paragraph": 7,
+    "kind": "acute",
+    "reviewer": "Codex same agent; direct full-recap review"
+  },
+  {
+    "player_id": "1641705",
+    "event_game_id": "0022300541",
+    "source_game_id": "0022300541",
+    "paragraph": 6,
+    "kind": "history",
+    "reviewer": "Codex same agent; direct full-recap review"
+  },
+  {
+    "player_id": "1641705",
+    "event_game_id": "0022300548",
+    "source_game_id": "0022300548",
+    "paragraph": 3,
+    "kind": "history",
+    "reviewer": "Codex same agent; direct full-recap review"
+  },
+  {
+    "player_id": "1641705",
+    "event_game_id": "0022300559",
+    "source_game_id": "0022300559",
+    "paragraph": 5,
+    "kind": "history",
+    "reviewer": "Codex same agent; direct full-recap review"
+  },
+  {
+    "player_id": "1641705",
+    "event_game_id": "0022300584",
+    "source_game_id": "0022300584",
+    "paragraph": 1,
+    "kind": "history",
+    "reviewer": "Codex same agent; direct full-recap review"
+  },
+  {
+    "player_id": "1641705",
+    "event_game_id": "0022300594",
+    "source_game_id": "0022300594",
+    "paragraph": 3,
+    "kind": "history",
+    "reviewer": "Codex same agent; direct full-recap review"
+  }
+]

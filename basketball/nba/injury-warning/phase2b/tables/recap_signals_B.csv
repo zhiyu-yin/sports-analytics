@@ -1,0 +1,22 @@
+player_id,event_game_id,source_game_id,paragraph,kind,reviewer,signal_id,B_available_at,source_id,evidence_category
+1630532,0022300476,0022300476,19,acute,Codex same agent; direct full-recap review,recap_signal_0,2024-01-04T07:10:00-05:00,page_0022300476,B_final_recap_end_plus_6h
+203914,0022300476,0022300476,19,acute,Codex same agent; direct full-recap review,recap_signal_1,2024-01-04T07:10:00-05:00,page_0022300476,B_final_recap_end_plus_6h
+1631094,0022300476,0022300476,19,acute,Codex same agent; direct full-recap review,recap_signal_2,2024-01-04T07:10:00-05:00,page_0022300476,B_final_recap_end_plus_6h
+203954,0022300483,0022300483,11,acute,Codex same agent; direct full-recap review,recap_signal_3,2024-01-06T04:06:00-05:00,page_0022300483,B_final_recap_end_plus_6h
+1630595,0022300502,0022300502,8,acute,Codex same agent; direct full-recap review,recap_signal_4,2024-01-08T04:28:00-05:00,page_0022300502,B_final_recap_end_plus_6h
+1630591,0022300638,0022300638,3,acute,Codex same agent; direct full-recap review,recap_signal_5,2024-01-27T04:28:00-05:00,page_0022300638,B_final_recap_end_plus_6h
+203488,0022300675,0022300675,12,acute,Codex same agent; direct full-recap review,recap_signal_6,2024-02-01T03:26:00-05:00,page_0022300675,B_final_recap_end_plus_6h
+1628386,0022300687,0022300687,2,acute,Codex same agent; direct full-recap review,recap_signal_7,2024-02-02T04:25:00-05:00,page_0022300687,B_final_recap_end_plus_6h
+203954,0022300673,0022300673,8,acute,Codex same agent; direct full-recap review,recap_signal_8,2024-01-31T06:31:00-05:00,page_0022300673,B_final_recap_end_plus_6h
+1630178,0022300779,0022300779,9,acute,Codex same agent; direct full-recap review,recap_signal_9,2024-02-15T03:26:00-05:00,page_0022300779,B_final_recap_end_plus_6h
+202699,0022300483,0022300495,7,acute,Codex same agent; direct full-recap review,recap_signal_10,2024-01-07T03:55:00-05:00,page_0022300495,B_final_recap_end_plus_6h
+203932,0022300455,0022300455,4,history,Codex same agent; direct full-recap review,recap_signal_11,2024-01-02T05:15:00-05:00,page_0022300455,B_final_recap_end_plus_6h
+203954,0022300459,0022300459,2,history,Codex same agent; direct full-recap review,recap_signal_12,2024-01-03T03:28:00-05:00,page_0022300459,B_final_recap_end_plus_6h
+1627750,0022300767,0022300767,8,symptom,Codex same agent; direct full-recap review,recap_signal_13,2024-02-13T04:18:00-05:00,page_0022300767,B_final_recap_end_plus_6h
+203484,0022300767,0022300767,8,symptom,Codex same agent; direct full-recap review,recap_signal_14,2024-02-13T04:18:00-05:00,page_0022300767,B_final_recap_end_plus_6h
+203954,0022300627,0022300644,7,acute,Codex same agent; direct full-recap review,recap_signal_15,2024-01-28T02:14:00-05:00,page_0022300644,B_final_recap_end_plus_6h
+1641705,0022300541,0022300541,6,history,Codex same agent; direct full-recap review,recap_signal_16,2024-01-13T04:33:00-05:00,page_0022300541,B_final_recap_end_plus_6h
+1641705,0022300548,0022300548,3,history,Codex same agent; direct full-recap review,recap_signal_17,2024-01-14T04:51:00-05:00,page_0022300548,B_final_recap_end_plus_6h
+1641705,0022300559,0022300559,5,history,Codex same agent; direct full-recap review,recap_signal_18,2024-01-15T23:50:00-05:00,page_0022300559,B_final_recap_end_plus_6h
+1641705,0022300584,0022300584,1,history,Codex same agent; direct full-recap review,recap_signal_19,2024-01-20T03:23:00-05:00,page_0022300584,B_final_recap_end_plus_6h
+1641705,0022300594,0022300594,3,history,Codex same agent; direct full-recap review,recap_signal_20,2024-01-21T03:28:00-05:00,page_0022300594,B_final_recap_end_plus_6h

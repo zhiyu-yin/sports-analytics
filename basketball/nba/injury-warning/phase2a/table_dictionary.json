@@ -1,0 +1,513 @@
+{
+  "cohort_all_roster_candidates.csv": {
+    "rows": 4660,
+    "columns": [
+      "row_id",
+      "team",
+      "player_id",
+      "player_name",
+      "index_game_id",
+      "index_game_date",
+      "extra_lag_days",
+      "decision_at",
+      "window_end",
+      "index_minutes",
+      "appeared",
+      "B_state",
+      "B_reason",
+      "B_exclusion_source_ids",
+      "baseline_report_ids",
+      "decision_report_ids",
+      "game_end_upper",
+      "stats_recap_B_available_at",
+      "A_state",
+      "prospective_uses_retrospective_outcome_evidence",
+      "acute_known_B",
+      "symptoms_history_known_B",
+      "signal_ids",
+      "group_B",
+      "group_A",
+      "A_verified"
+    ]
+  },
+  "daily_coverage.csv": {
+    "rows": 1008,
+    "columns": [
+      "team",
+      "date",
+      "report_source_id",
+      "report_retrieval_status",
+      "report_team_state",
+      "dated_search_executed",
+      "expected_team_games",
+      "complete_game_records_and_recaps",
+      "B_process_covered",
+      "A_process_covered"
+    ]
+  },
+  "detailed_event_reviews.csv": {
+    "rows": 82,
+    "columns": [
+      "event_id",
+      "player_id",
+      "player_name",
+      "anchor_date",
+      "anchor_team",
+      "observed_games",
+      "severity",
+      "common_episode_supported",
+      "mixed_categories",
+      "roster_gap_count",
+      "first_return",
+      "source_ids",
+      "continuity_source_ids",
+      "review_note",
+      "reviewer",
+      "evidence_role",
+      "historical_label_known_at"
+    ]
+  },
+  "event_game_evidence.csv": {
+    "rows": 1464,
+    "columns": [
+      "event_id",
+      "sequence_number",
+      "player_id",
+      "team",
+      "game_id",
+      "game_date",
+      "appeared",
+      "category",
+      "reason",
+      "roster_observed",
+      "coverage",
+      "page_source",
+      "reason_source",
+      "evidence_role"
+    ]
+  },
+  "event_prediction_coverage.csv": {
+    "rows": 494,
+    "columns": [
+      "event_id",
+      "player_id",
+      "anchor_team",
+      "sampled_origin_team",
+      "anchor_date",
+      "extra_lag_days",
+      "severity",
+      "broad_onset_period",
+      "onset_in_index_dates",
+      "eligible_positive_rows",
+      "has_eligible_preceding_prediction",
+      "event_known_groups_B"
+    ]
+  },
+  "events.csv": {
+    "rows": 247,
+    "columns": [
+      "event_id",
+      "player_id",
+      "run_lower",
+      "run_upper",
+      "anchor_game_id",
+      "anchor_date",
+      "anchor_attribution",
+      "left_censored_start",
+      "anchor_precision",
+      "clinical_lower",
+      "clinical_upper",
+      "severity",
+      "continuity_supported",
+      "confirmed_same_episode_games",
+      "possible_run_upper",
+      "observed_games",
+      "return_game_id",
+      "return_date",
+      "mixed_reasons",
+      "game_ids",
+      "source_ids",
+      "reason",
+      "contract_gap_in_run",
+      "player_name",
+      "anchor_team",
+      "sampled_origin_team",
+      "source_phase",
+      "historical_label_known_at",
+      "clinical_onset_not_estimated",
+      "censoring",
+      "last_observed_absence_date",
+      "candidate_broad_onset_period",
+      "onset_in_index_game_dates",
+      "mixed_categories",
+      "roster_gap_count",
+      "continuity_source_ids",
+      "continuity_review_note",
+      "continuity_locator",
+      "acute_event_game_ids"
+    ]
+  },
+  "features_A.csv": {
+    "rows": 0,
+    "columns": [
+      "row_id",
+      "A_verified_publication_at"
+    ]
+  },
+  "features_B.csv": {
+    "rows": 2784,
+    "columns": [
+      "row_id",
+      "team",
+      "player_id",
+      "extra_lag_days",
+      "decision_at",
+      "history_complete",
+      "missing_history_reason",
+      "input_teams",
+      "index_back_to_back",
+      "feature_evidence_category",
+      "minutes_7d",
+      "appearances_7d",
+      "minutes_14d",
+      "appearances_14d",
+      "minutes_28d",
+      "appearances_28d",
+      "minutes_prior_7d",
+      "workload_change_7d",
+      "rest_elapsed_days_since_appearance",
+      "rest_elapsed_days_since_team_game",
+      "baseline_prior_appearance_count",
+      "past_mean_minutes_per_appearance",
+      "last_minutes_deviation",
+      "input_game_ids",
+      "max_input_assumed_available_at"
+    ]
+  },
+  "game_timing.csv": {
+    "rows": 637,
+    "columns": [
+      "game_id",
+      "game_date",
+      "scheduled_start_utc",
+      "end_upper",
+      "end_clock_raw",
+      "anchor_lower",
+      "anchor_upper",
+      "anchor_precision",
+      "B_available_at",
+      "recap_present",
+      "source_id"
+    ]
+  },
+  "known_injury_groups.csv": {
+    "rows": 48,
+    "columns": [
+      "team",
+      "extra_lag_days",
+      "knowledge_group_B",
+      "positive_rows",
+      "distinct_events",
+      "A_verified",
+      "A_knowledge_timing_unresolved_positive_rows"
+    ]
+  },
+  "membership_spells.csv": {
+    "rows": 166,
+    "columns": [
+      "player_id",
+      "team",
+      "start",
+      "end",
+      "date_basis",
+      "source_id",
+      "historical_availability"
+    ]
+  },
+  "missingness_summary.csv": {
+    "rows": 12,
+    "columns": [
+      "team",
+      "extra_lag_days",
+      "eligibility_unknown",
+      "outcome_unknown",
+      "incomplete_history",
+      "transfer_surveillance_gaps",
+      "insufficient_severity_followup",
+      "mixed_reason_candidate_runs",
+      "unresolved_potential_runs",
+      "right_censored_candidates"
+    ]
+  },
+  "negative_sample_review.csv": {
+    "rows": 60,
+    "columns": [
+      "row_id",
+      "team",
+      "player_id",
+      "extra_lag_days",
+      "decision_at",
+      "window_end",
+      "event_ids",
+      "event_severities",
+      "possible_upper_bounds",
+      "window_game_ids",
+      "window_source_ids",
+      "source_sequence_check",
+      "review",
+      "reviewer",
+      "seed"
+    ]
+  },
+  "player_games.csv": {
+    "rows": 7243,
+    "columns": [
+      "team",
+      "game_id",
+      "game_date",
+      "player_id",
+      "player_name",
+      "appeared",
+      "minutes",
+      "minutes_source_raw",
+      "roster_observed",
+      "category",
+      "reason",
+      "coverage",
+      "phase",
+      "page_source",
+      "reason_source",
+      "scope",
+      "reason_locator"
+    ]
+  },
+  "players.csv": {
+    "rows": 136,
+    "columns": [
+      "player_id",
+      "player_name",
+      "first_name",
+      "family_name"
+    ]
+  },
+  "pooled_results.csv": {
+    "rows": 6,
+    "columns": [
+      "scope",
+      "extra_lag_days",
+      "team_game_exposures",
+      "distinct_physical_games",
+      "roster_players",
+      "recently_active_players",
+      "candidate_appearances",
+      "included",
+      "excluded",
+      "eligibility_unknown",
+      "positive",
+      "negative",
+      "outcome_unknown",
+      "confirmed_qualifying_events",
+      "events_with_eligible_prediction",
+      "missing_history",
+      "A_verified"
+    ]
+  },
+  "positive_knowledge_review.csv": {
+    "rows": 19,
+    "columns": [
+      "row_id",
+      "team",
+      "player_id",
+      "event_ids",
+      "extra_lag_days",
+      "decision_at",
+      "acute_known_B",
+      "symptoms_history_known_B",
+      "signal_ids",
+      "group_B",
+      "group_A",
+      "A_verified",
+      "any_prior_acute_disclosure_B",
+      "signal_relation_to_future_run"
+    ]
+  },
+  "reason_evidence_disagreements.csv": {
+    "rows": 4,
+    "columns": [
+      "player_id",
+      "game_id",
+      "game_date",
+      "team",
+      "report_reason",
+      "report_category",
+      "report_source",
+      "final_reason",
+      "final_category",
+      "final_reason_source",
+      "review",
+      "evidence_role"
+    ]
+  },
+  "reason_extraction_corrections.csv": {
+    "rows": 141,
+    "columns": [
+      "player_id",
+      "game_id",
+      "old_reason",
+      "new_reason",
+      "old_category",
+      "new_category",
+      "source_id",
+      "evidence_locator"
+    ]
+  },
+  "recap_review_candidates.csv": {
+    "rows": 993,
+    "columns": [
+      "team",
+      "game_id",
+      "game_date",
+      "paragraph",
+      "player_ids",
+      "source_id",
+      "locator",
+      "B_available_at"
+    ]
+  },
+  "recap_signals_B.csv": {
+    "rows": 21,
+    "columns": [
+      "player_id",
+      "event_game_id",
+      "source_game_id",
+      "paragraph",
+      "kind",
+      "reviewer",
+      "signal_id",
+      "B_available_at",
+      "source_id",
+      "evidence_category"
+    ]
+  },
+  "roster_inventory.csv": {
+    "rows": 124,
+    "columns": [
+      "team",
+      "player_id",
+      "player_name",
+      "roster_game_records",
+      "period_appearances",
+      "first_roster_game",
+      "last_roster_game",
+      "role",
+      "membership_date",
+      "source_id"
+    ]
+  },
+  "row_event_links.csv": {
+    "rows": 5514,
+    "columns": [
+      "row_id",
+      "event_id",
+      "window_membership",
+      "severity",
+      "anchor_lower",
+      "anchor_upper",
+      "common_episode_supported"
+    ]
+  },
+  "row_outcomes.csv": {
+    "rows": 2784,
+    "columns": [
+      "row_id",
+      "team",
+      "player_id",
+      "extra_lag_days",
+      "decision_at",
+      "window_end",
+      "absence_run_onset_ge10",
+      "event_ids",
+      "potential_event_ids",
+      "onset_surveillance_B",
+      "severity_followup_B",
+      "cross_team_onset_window",
+      "transfer_onset_surveillance_gap",
+      "applicable_games_after_horizon",
+      "unknown_reason",
+      "historical_label_known_at",
+      "retrospective_ascertainment_at",
+      "historical_training_cutoff_usable",
+      "evidence_category",
+      "acute_known_B",
+      "symptoms_history_known_B",
+      "signal_ids",
+      "group_B",
+      "group_A",
+      "A_verified",
+      "any_prior_acute_disclosure_B",
+      "signal_relation_to_future_run"
+    ]
+  },
+  "source_coverage_summary.csv": {
+    "rows": 6,
+    "columns": [
+      "team",
+      "expected_history_index_followup_games",
+      "obtained_pages",
+      "obtained_gamebooks",
+      "full_recaps",
+      "daily_report_probes",
+      "daily_access_failures",
+      "daily_team_submission_or_section_gaps",
+      "dated_team_queries",
+      "limitation"
+    ]
+  },
+  "status_observations.csv": {
+    "rows": 2181,
+    "columns": [
+      "team",
+      "target_game_date",
+      "player_name_raw",
+      "status",
+      "reason",
+      "report_at",
+      "publication_verified",
+      "evidence_locator",
+      "player_id",
+      "category",
+      "source_id",
+      "observation_id",
+      "B_available_at",
+      "A_verified_publication_at"
+    ]
+  },
+  "team_results.csv": {
+    "rows": 12,
+    "columns": [
+      "scope",
+      "team",
+      "extra_lag_days",
+      "games",
+      "roster_players",
+      "candidate_appearances",
+      "included",
+      "excluded",
+      "eligibility_unknown",
+      "positive",
+      "negative",
+      "outcome_unknown",
+      "qualifying_events_broad_onset_period",
+      "affected_event_players",
+      "events_with_eligible_prediction",
+      "missing_history",
+      "A_verified_rows",
+      "B_feature_rows",
+      "acute_known_positive_rows",
+      "symptom_known_positive_rows",
+      "no_signal_positive_rows",
+      "A_positive_knowledge_unresolved",
+      "transfer_surveillance_gaps"
+    ]
+  }
+}

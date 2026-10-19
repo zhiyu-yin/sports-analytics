@@ -1,0 +1,44 @@
+{
+  "unique_requested_sources": 1388,
+  "source_kind_counts": {
+    "page": 637,
+    "book": 637,
+    "report": 106,
+    "news": 8
+  },
+  "new_http_requests": 1082,
+  "new_http_statuses": {
+    "obtained": 1082
+  },
+  "new_obtained_bytes": 337579297,
+  "prior_phase_source_reuse": 306,
+  "summed_request_seconds": 1008.94,
+  "observed_initial_acquisition_batch_wall_seconds": [
+    92.76,
+    77.44
+  ],
+  "last_parsing": {
+    "team_game_records": 814,
+    "player_game_records": 7243,
+    "distinct_players": 136,
+    "parsed_reports": 106,
+    "search_queries": 554,
+    "elapsed_seconds": 112.06
+  },
+  "last_build": {
+    "cohort_roster_decision_rows": 4660,
+    "outcome_rows": 2784,
+    "events": 247,
+    "detailed_reviews": 82,
+    "negative_review_rows": 60,
+    "elapsed_seconds": 9.58
+  },
+  "saved_dated_queries": 554,
+  "saved_search_call_receipts": 139,
+  "targeted_transfer_queries": 176,
+  "detailed_event_reviews": 82,
+  "negative_trace_reviews": 60,
+  "independent_human_reviews": 0,
+  "manual_person_time": "not instrumented; do not infer from request wall time",
+  "supplemental_interactive_searches": "used to locate continuity sources; article retrieval URLs/hashes retained; total interactive review time not measured"
+}

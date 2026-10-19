@@ -1,0 +1,5 @@
+player_id,game_id,game_date,team,report_reason,report_category,report_source,final_reason,final_category,final_reason_source,review,evidence_role
+1629660,0022300452,2024-01-01,CLE,Injury/Illness - Right Ankle; Sprain,injury,report_2024-01-01_11PM,NWT - Not With Team,unknown,book_0022300452,status-to-final reason disagreement; not silently resolved or used to infer health,C_quality_review_only
+1631321,0022300497,2024-01-07,SAS,Injury/Illness - Left Ankle; Sprain,injury,report_2024-01-07_11PM,G League - On Assignment,assignment,book_0022300497,status-to-final reason disagreement; not silently resolved or used to infer health,C_quality_review_only
+1630191,0022300741,2024-02-08,DET,Injury/Illness - Left Ankle; Sprain,injury,report_2024-02-08_11PM,DNP - Coach's Decision,coaching,book_0022300741,status-to-final reason disagreement; not silently resolved or used to infer health,C_quality_review_only
+1629660,0022300756,2024-02-10,CLE,Injury/Illness - Right Ankle; Surgery,injury,report_2024-02-10_11PM,NWT - Not With Team,unknown,book_0022300756,status-to-final reason disagreement; not silently resolved or used to infer health,C_quality_review_only

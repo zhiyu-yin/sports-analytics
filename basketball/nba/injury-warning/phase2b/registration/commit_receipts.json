@@ -1,0 +1,14 @@
+[
+  {
+    "commit": "acac9e43fc409e255c1353465f1a44ac965bb020",
+    "subject": "Preregister Phase 2B clock, knowledge and qualifying-subrun audit rules"
+  },
+  {
+    "commit": "59a0b38a9a42bebaaae8121c81895662340832a6",
+    "subject": "Clarify NBA stale EST clock labels from complete official book audit"
+  },
+  {
+    "commit": "7e4c6b8ea76e43fc694e29199fd298af7b62f12b",
+    "subject": "Register finite schedule bounds for closed short absence envelopes"
+  }
+]

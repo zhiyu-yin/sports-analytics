@@ -1,0 +1,7 @@
+{
+  "retrospective_reviewed_at": "2026-10-19T18:27:29.375942+00:00",
+  "reviewer": "Codex, same agent; not independent human review",
+  "historical_label_known_at": null,
+  "historical_training_cutoff_usable": false,
+  "scope": "Bounded 2023-24 source review; no protected holdouts or model execution"
+}

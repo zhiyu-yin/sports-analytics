@@ -1,0 +1,174 @@
+{
+  "registration_commit": "d2a8c3030951ede574ddf279c39d789a2d8340a3",
+  "registration_sha256": "2344541f05c12d22587a1c7d50ab95fa4c5b9152fdd2072556a7e8c7bb32b286",
+  "pooled_results": [
+    {
+      "scope": "new_fixed_six",
+      "extra_lag_days": "0",
+      "team_game_exposures": 132,
+      "distinct_physical_games": 117,
+      "roster_players": 122,
+      "recently_active_players": 108,
+      "candidate_appearances": 1452,
+      "included": 1425,
+      "excluded": 12,
+      "eligibility_unknown": 15,
+      "positive": 9,
+      "negative": 1285,
+      "outcome_unknown": 131,
+      "confirmed_qualifying_events": 4,
+      "events_with_eligible_prediction": 4,
+      "missing_history": 13,
+      "A_verified": 0
+    },
+    {
+      "scope": "Boston_previously_inspected",
+      "extra_lag_days": "0",
+      "team_game_exposures": 23,
+      "distinct_physical_games": 23,
+      "roster_players": 19,
+      "recently_active_players": 16,
+      "candidate_appearances": 246,
+      "included": 244,
+      "excluded": 2,
+      "eligibility_unknown": 0,
+      "positive": 0,
+      "negative": 244,
+      "outcome_unknown": 0,
+      "confirmed_qualifying_events": 0,
+      "events_with_eligible_prediction": 0,
+      "missing_history": 0,
+      "A_verified": 0
+    },
+    {
+      "scope": "combined_development_not_validation",
+      "extra_lag_days": "0",
+      "team_game_exposures": 155,
+      "distinct_physical_games": 138,
+      "roster_players": 140,
+      "recently_active_players": 124,
+      "candidate_appearances": 1698,
+      "included": 1669,
+      "excluded": 14,
+      "eligibility_unknown": 15,
+      "positive": 9,
+      "negative": 1529,
+      "outcome_unknown": 131,
+      "confirmed_qualifying_events": 4,
+      "events_with_eligible_prediction": 4,
+      "missing_history": 13,
+      "A_verified": 0
+    },
+    {
+      "scope": "new_fixed_six",
+      "extra_lag_days": "1",
+      "team_game_exposures": 132,
+      "distinct_physical_games": 117,
+      "roster_players": 122,
+      "recently_active_players": 108,
+      "candidate_appearances": 1452,
+      "included": 1359,
+      "excluded": 13,
+      "eligibility_unknown": 80,
+      "positive": 10,
+      "negative": 1224,
+      "outcome_unknown": 125,
+      "confirmed_qualifying_events": 4,
+      "events_with_eligible_prediction": 4,
+      "missing_history": 13,
+      "A_verified": 0
+    },
+    {
+      "scope": "Boston_previously_inspected",
+      "extra_lag_days": "1",
+      "team_game_exposures": 23,
+      "distinct_physical_games": 23,
+      "roster_players": 19,
+      "recently_active_players": 16,
+      "candidate_appearances": 246,
+      "included": 234,
+      "excluded": 2,
+      "eligibility_unknown": 10,
+      "positive": 0,
+      "negative": 234,
+      "outcome_unknown": 0,
+      "confirmed_qualifying_events": 0,
+      "events_with_eligible_prediction": 0,
+      "missing_history": 0,
+      "A_verified": 0
+    },
+    {
+      "scope": "combined_development_not_validation",
+      "extra_lag_days": "1",
+      "team_game_exposures": 155,
+      "distinct_physical_games": 138,
+      "roster_players": 140,
+      "recently_active_players": 124,
+      "candidate_appearances": 1698,
+      "included": 1593,
+      "excluded": 15,
+      "eligibility_unknown": 90,
+      "positive": 10,
+      "negative": 1458,
+      "outcome_unknown": 125,
+      "confirmed_qualifying_events": 4,
+      "events_with_eligible_prediction": 4,
+      "missing_history": 13,
+      "A_verified": 0
+    }
+  ],
+  "knowledge_groups": [
+    {
+      "extra_lag_days": "0",
+      "group_B": "acute_already_disclosed",
+      "rows": 0,
+      "events": 0
+    },
+    {
+      "extra_lag_days": "0",
+      "group_B": "symptom_or_history_known",
+      "rows": 6,
+      "events": 2
+    },
+    {
+      "extra_lag_days": "0",
+      "group_B": "no_signal_found_under_searched_process",
+      "rows": 3,
+      "events": 2
+    },
+    {
+      "extra_lag_days": "0",
+      "group_B": "timing_unresolved",
+      "rows": 0,
+      "events": 0
+    },
+    {
+      "extra_lag_days": "1",
+      "group_B": "acute_already_disclosed",
+      "rows": 1,
+      "events": 1
+    },
+    {
+      "extra_lag_days": "1",
+      "group_B": "symptom_or_history_known",
+      "rows": 6,
+      "events": 2
+    },
+    {
+      "extra_lag_days": "1",
+      "group_B": "no_signal_found_under_searched_process",
+      "rows": 3,
+      "events": 1
+    },
+    {
+      "extra_lag_days": "1",
+      "group_B": "timing_unresolved",
+      "rows": 0,
+      "events": 0
+    }
+  ],
+  "tests_passed": 73,
+  "recommendation": "Repair a specific data-quality bottleneck: adjudicate unresolved run attribution and contract/roster gaps before baseline-study planning",
+  "models_trained": 0,
+  "protected_holdouts_opened": 0
+}

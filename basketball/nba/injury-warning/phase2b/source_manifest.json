@@ -1,0 +1,132 @@
+[
+  {
+    "source_id": "p2b_strawther_jan29",
+    "date": "2024-01-29",
+    "url": "https://www.nba.com/nuggets/news/nuggets-and-bucks-play-in-battle-of-two-title-contenders",
+    "retrieved_at": "2026-10-19T21:02:12.377737+00:00",
+    "role": "C_targeted_review_only; not historical predictor publication",
+    "status": "obtained",
+    "sha256": "cd3a1e72243627fa4cff3b28458832ba115ba91e8b1b19d54416df96e17dd594",
+    "raw_file": "data/raw/phase2b/cd3a1e72243627fa4cff3b28458832ba115ba91e8b1b19d54416df96e17dd594.html",
+    "bytes": 106646
+  },
+  {
+    "source_id": "p2b_strawther_assignment",
+    "date": "2024-02-04",
+    "url": "https://www.nba.com/nuggets/news/nuggets-play-trail-blazers-for-second-time-in-three-days",
+    "retrieved_at": "2026-10-19T21:02:12.378336+00:00",
+    "role": "C_targeted_review_only; not historical predictor publication",
+    "status": "obtained",
+    "sha256": "763ac20e865803f9b49f046266bce9f9157d5ec5bf5d9e410da17629878f0b19",
+    "raw_file": "data/raw/phase2b/763ac20e865803f9b49f046266bce9f9157d5ec5bf5d9e410da17629878f0b19.html",
+    "bytes": 105813
+  },
+  {
+    "source_id": "p2b_knox_waiver",
+    "date": "2024-02-09",
+    "url": "https://www.nba.com/jazz/news/utah-jazz-waive-kevin-knox-ii",
+    "retrieved_at": "2026-10-19T21:02:12.378436+00:00",
+    "role": "C_targeted_review_only; not historical predictor publication",
+    "status": "obtained",
+    "sha256": "03f374721bf5febe4f438846d0644411388ae17f9c1c08cf44bb7f5793e11a71",
+    "raw_file": "data/raw/phase2b/03f374721bf5febe4f438846d0644411388ae17f9c1c08cf44bb7f5793e11a71.html",
+    "bytes": 91936
+  },
+  {
+    "source_id": "p2b_korkmaz_waiver",
+    "date": "2024-02-09",
+    "url": "https://www.nba.com/pacers/news/indiana-pacers-waive-furkan-korkmaz",
+    "retrieved_at": "2026-10-19T21:02:12.378520+00:00",
+    "role": "C_targeted_review_only; not historical predictor publication",
+    "status": "obtained",
+    "sha256": "31bf22142a35c4917c6aa5fecf866f1b159832d2309b4cf2b8f967c34461e613",
+    "raw_file": "data/raw/phase2b/31bf22142a35c4917c6aa5fecf866f1b159832d2309b4cf2b8f967c34461e613.html",
+    "bytes": 91010
+  },
+  {
+    "source_id": "p2b_nance_10day",
+    "date": "2024-01-18",
+    "url": "https://gleague.nba.com/news/cavaliers-sign-pete-nance-to-10-day-contract",
+    "retrieved_at": "2026-10-19T21:02:12.378582+00:00",
+    "role": "C_targeted_review_only; not historical predictor publication",
+    "status": "obtained",
+    "sha256": "e330ccc9bec7afeed66ae86cebe048235f18d5a2de33e34f71219bf6f7cc41ee",
+    "raw_file": "data/raw/phase2b/e330ccc9bec7afeed66ae86cebe048235f18d5a2de33e34f71219bf6f7cc41ee.html",
+    "bytes": 215435
+  },
+  {
+    "source_id": "p2b_nance_2way",
+    "date": "2024-02-19",
+    "url": "https://www.nba.com/cavaliers/news/releases-pete-nance-two-way-240219",
+    "retrieved_at": "2026-10-19T21:02:12.897860+00:00",
+    "role": "C_targeted_review_only; not historical predictor publication",
+    "status": "obtained",
+    "sha256": "b88e8dee38ac0c3e7e1872e9f8c7643ea9a932bcad7d460ccf1431c580b59afe",
+    "raw_file": "data/raw/phase2b/b88e8dee38ac0c3e7e1872e9f8c7643ea9a932bcad7d460ccf1431c580b59afe.html",
+    "bytes": 103836
+  },
+  {
+    "source_id": "p2b_diakite_sign",
+    "date": "2024-01-01",
+    "url": "https://www.nba.com/spurs/news/spurs-sign-mamadi-diakite-to-two-way-contract",
+    "retrieved_at": "2026-10-19T21:02:12.898902+00:00",
+    "role": "C_targeted_review_only; not historical predictor publication",
+    "status": "obtained",
+    "sha256": "9083f68e62eea5523416dd615c72a08ae2968c493bf685445b5ab3fcf71b8c4f",
+    "raw_file": "data/raw/phase2b/9083f68e62eea5523416dd615c72a08ae2968c493bf685445b5ab3fcf71b8c4f.html",
+    "bytes": 100203
+  },
+  {
+    "source_id": "p2b_stewart_suspension",
+    "date": "2024-02-22",
+    "url": "https://www.nba.com/news/pistons-isaiah-stewart-suspension",
+    "retrieved_at": "2026-10-19T21:02:12.996080+00:00",
+    "role": "C_targeted_review_only; not historical predictor publication",
+    "status": "obtained",
+    "sha256": "af7ecee29c2ded3835dbede376e40c847248356779ce6d1d62a04353571f2952",
+    "raw_file": "data/raw/phase2b/af7ecee29c2ded3835dbede376e40c847248356779ce6d1d62a04353571f2952.html",
+    "bytes": 309988
+  },
+  {
+    "source_id": "p2b_morris_contract",
+    "date": "2024-03-18",
+    "url": "https://www.nba.com/news/cleveland-cavaliers-marcus-morris-10-day-contract",
+    "retrieved_at": "2026-10-19T21:02:13.093433+00:00",
+    "role": "C_targeted_review_only; not historical predictor publication",
+    "status": "obtained",
+    "sha256": "b0a394051bd87660e254949e93e911bce5479215778d7c0ac0709f89d1e9afb4",
+    "raw_file": "data/raw/phase2b/b0a394051bd87660e254949e93e911bce5479215778d7c0ac0709f89d1e9afb4.html",
+    "bytes": 316816
+  },
+  {
+    "source_id": "p2b_hayes_waiver",
+    "date": "2024-02-08",
+    "url": "https://www.nba.com/pistons/news/detroit-pistons-request-waivers-on-killian-hayes-joe-harris-and-danuel-house-jr",
+    "retrieved_at": "2026-10-19T21:02:13.413472+00:00",
+    "role": "C_targeted_review_only; not historical predictor publication",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "source_id": "p2b_strawther_return",
+    "date": "2024-02-09",
+    "url": "https://gazette.com/2024/02/09/julian-strawther-is-back-from-injury-but-michael-malone-says-nuggets-plan-to-stick-with-jamal-murray-led-second-unit/",
+    "retrieved_at": "2026-10-19T21:03:54.856391+00:00",
+    "role": "C_targeted_review_only; not historical predictor publication",
+    "status": "obtained",
+    "sha256": "03f4cb2915274947afb687f216d1188d48aa9a238a05f14825149763300b5b7d",
+    "raw_file": "data/raw/phase2b/03f4cb2915274947afb687f216d1188d48aa9a238a05f14825149763300b5b7d.html",
+    "bytes": 186187
+  },
+  {
+    "source_id": "p2b_cissoko_serial",
+    "date": "2024-01-23",
+    "url": "https://www.foxsports.com/nba/sidy-cissoko-2-player?p=4",
+    "retrieved_at": "2026-10-19T21:03:54.857090+00:00",
+    "role": "C_targeted_review_only; not historical predictor publication",
+    "status": "obtained",
+    "sha256": "93880b2695ee5d8bdbe7d9baead897839e75192ae1005e380c15d641de18e04b",
+    "raw_file": "data/raw/phase2b/93880b2695ee5d8bdbe7d9baead897839e75192ae1005e380c15d641de18e04b.html",
+    "bytes": 207310
+  }
+]

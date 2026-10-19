@@ -1,0 +1,506 @@
+[
+  {
+    "player_id": "1626166",
+    "team": "MIL",
+    "start": "2023-12-04",
+    "end": "2024-02-07",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "1626166",
+    "team": "PHI",
+    "start": "2024-02-08",
+    "end": "2024-04-14",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "1627741",
+    "team": "IND",
+    "start": "2023-12-04",
+    "end": "2024-02-07",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "1627741",
+    "team": "PHI",
+    "start": "2024-02-08",
+    "end": "2024-04-14",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "1628420",
+    "team": "DET",
+    "start": "2023-12-04",
+    "end": "2024-02-06",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "1628420",
+    "team": "MIN",
+    "start": "2024-02-07",
+    "end": "2024-04-14",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "1628963",
+    "team": "DET",
+    "start": "2023-12-04",
+    "end": "2024-01-13",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "1628963",
+    "team": "WAS",
+    "start": "2024-01-14",
+    "end": "2024-04-14",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "1630587",
+    "team": "DET",
+    "start": "2023-12-04",
+    "end": "2024-01-13",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "1630587",
+    "team": "WAS",
+    "start": "2024-01-14",
+    "end": "2024-04-14",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "1628972",
+    "team": "MIN",
+    "start": "2023-12-04",
+    "end": "2024-02-06",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "1628972",
+    "team": "DET",
+    "start": "2024-02-07",
+    "end": "2024-04-14",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "1629003",
+    "team": "MIN",
+    "start": "2023-12-04",
+    "end": "2024-02-06",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker; game roster locators in player_games",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "1629003",
+    "team": "DET",
+    "start": "2024-02-07",
+    "end": "2024-03-01",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker; game roster locators in player_games",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "1629003",
+    "team": "NYK",
+    "start": "2024-03-05",
+    "end": "2024-04-14",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker; game roster locators in player_games",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "1630201",
+    "team": "TOR",
+    "start": "2023-12-04",
+    "end": "2023-12-29",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker; game roster locators in player_games",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "1630201",
+    "team": "NYK",
+    "start": "2023-12-30",
+    "end": "2024-02-07",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker; game roster locators in player_games",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "1630201",
+    "team": "DET",
+    "start": "2024-02-08",
+    "end": "2024-04-14",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker; game roster locators in player_games",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "1630531",
+    "team": "PHI",
+    "start": "2023-12-04",
+    "end": "2024-02-07",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "1630531",
+    "team": "BOS",
+    "start": "2024-02-08",
+    "end": "2024-04-14",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "1631323",
+    "team": "UTA",
+    "start": "2023-12-04",
+    "end": "2024-02-07",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "1631323",
+    "team": "DET",
+    "start": "2024-02-08",
+    "end": "2024-04-14",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "201976",
+    "team": "PHI",
+    "start": "2023-12-04",
+    "end": "2024-02-07",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "201976",
+    "team": "MIL",
+    "start": "2024-02-08",
+    "end": "2024-04-14",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "202692",
+    "team": "DET",
+    "start": "2023-12-04",
+    "end": "2024-02-07",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "202692",
+    "team": "NYK",
+    "start": "2024-02-08",
+    "end": "2024-04-14",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "202694",
+    "team": "PHI",
+    "start": "2023-12-04",
+    "end": "2024-02-07",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker; game roster locators in player_games",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "202694",
+    "team": "SAS",
+    "start": "2024-02-08",
+    "end": "2024-02-29",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker; game roster locators in player_games",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "202694",
+    "team": "CLE",
+    "start": "2024-03-18",
+    "end": "2024-04-14",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker; game roster locators in player_games",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "202711",
+    "team": "DET",
+    "start": "2023-12-04",
+    "end": "2024-02-07",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "202711",
+    "team": "NYK",
+    "start": "2024-02-08",
+    "end": "2024-04-14",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "203095",
+    "team": "NYK",
+    "start": "2023-12-04",
+    "end": "2024-02-07",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "203095",
+    "team": "DET",
+    "start": "2024-02-08",
+    "end": "2024-04-14",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "203926",
+    "team": "SAS",
+    "start": "2023-12-04",
+    "end": "2024-02-07",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "203926",
+    "team": "IND",
+    "start": "2024-02-08",
+    "end": "2024-04-14",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "201568",
+    "team": "WAS",
+    "start": "2023-12-04",
+    "end": "2024-01-13",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker; game roster locators in player_games",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "201568",
+    "team": "DET",
+    "start": "2024-01-14",
+    "end": "2024-02-08",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker; game roster locators in player_games",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "201568",
+    "team": "MIL",
+    "start": "2024-02-21",
+    "end": "2024-04-14",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker; game roster locators in player_games",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "203488",
+    "team": "WAS",
+    "start": "2023-12-04",
+    "end": "2024-01-13",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker; game roster locators in player_games",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "203488",
+    "team": "DET",
+    "start": "2024-01-14",
+    "end": "2024-02-27",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker; game roster locators in player_games",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "203488",
+    "team": "OKC",
+    "start": "2024-03-02",
+    "end": "2024-04-14",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker; game roster locators in player_games",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "1631254",
+    "team": "MEM",
+    "start": "2023-12-04",
+    "end": "2023-12-17",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker; game roster locators in player_games",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "1631254",
+    "team": "PHI",
+    "start": "2023-12-23",
+    "end": "2024-03-01",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker; game roster locators in player_games",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "1631254",
+    "team": "UTA",
+    "start": "2024-03-11",
+    "end": "2024-04-14",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker; game roster locators in player_games",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "1641787",
+    "team": "MEM",
+    "start": "2024-01-30",
+    "end": "2024-02-08",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "1641787",
+    "team": "DET",
+    "start": "2024-02-13",
+    "end": "2024-04-14",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker; game roster locators in player_games",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "1629603",
+    "team": "SAS",
+    "start": "2024-01-01",
+    "end": "2024-02-29",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "1629603",
+    "team": "NYK",
+    "start": "2024-03-14",
+    "end": "2024-04-14",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker; game roster locators in player_games",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "1628995",
+    "team": "DET",
+    "start": "2023-12-04",
+    "end": "2024-02-07",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "1628995",
+    "team": "UTA",
+    "start": "2024-02-08",
+    "end": "2024-02-08",
+    "date_basis": "Official Feb9 waiver timestamp precedes that evening actual team game; last potentially applicable game date Feb8, intraday Feb8 onboarding remains unresolved",
+    "source_id": "p2b_knox_waiver;p2_trade_tracker",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "1627788",
+    "team": "PHI",
+    "start": "2023-12-04",
+    "end": "2024-02-07",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "1627788",
+    "team": "IND",
+    "start": "2024-02-08",
+    "end": "2024-02-08",
+    "date_basis": "Official Feb9 waiver timestamp precedes that evening actual team game; last potentially applicable game date Feb8, intraday Feb8 onboarding remains unresolved",
+    "source_id": "p2b_korkmaz_waiver;p2_trade_tracker",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "1627863",
+    "team": "PHI",
+    "start": "2023-12-04",
+    "end": "2024-02-07",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "1627863",
+    "team": "DET",
+    "start": "2024-02-08",
+    "end": "2024-02-08",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "1631250",
+    "team": "CLE",
+    "start": "2024-01-18",
+    "end": "2024-01-26",
+    "date_basis": "Jan18 10-day signing; Jan26 last observed roster; nominal expiry Jan27, exact termination not independently timestamped",
+    "source_id": "p2b_nance_10day",
+    "historical_availability": "C; membership not historical B eligibility exclusion"
+  },
+  {
+    "player_id": "1631250",
+    "team": "CLE",
+    "start": "2024-02-19",
+    "end": "2024-04-14",
+    "date_basis": "Feb19 official two-way signing plus observed roster through season end",
+    "source_id": "p2b_nance_2way",
+    "historical_availability": "C; membership not historical B eligibility exclusion"
+  }
+]
