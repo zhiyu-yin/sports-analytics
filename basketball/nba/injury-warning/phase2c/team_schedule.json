@@ -1,0 +1,2276 @@
+[
+  {
+    "game_id": "0022301204",
+    "game_date": "2023-12-04",
+    "team": "SAC",
+    "matchup": "SAC vs. NOP"
+  },
+  {
+    "game_id": "0022301201",
+    "game_date": "2023-12-05",
+    "team": "NYK",
+    "matchup": "NYK @ MIL"
+  },
+  {
+    "game_id": "0022301212",
+    "game_date": "2023-12-06",
+    "team": "OKC",
+    "matchup": "OKC @ HOU"
+  },
+  {
+    "game_id": "0022301209",
+    "game_date": "2023-12-06",
+    "team": "ATL",
+    "matchup": "ATL vs. BKN"
+  },
+  {
+    "game_id": "0022301213",
+    "game_date": "2023-12-06",
+    "team": "DAL",
+    "matchup": "DAL vs. UTA"
+  },
+  {
+    "game_id": "0022301206",
+    "game_date": "2023-12-06",
+    "team": "MEM",
+    "matchup": "MEM @ DET"
+  },
+  {
+    "game_id": "0022301227",
+    "game_date": "2023-12-08",
+    "team": "NYK",
+    "matchup": "NYK @ BOS"
+  },
+  {
+    "game_id": "0022301222",
+    "game_date": "2023-12-08",
+    "team": "OKC",
+    "matchup": "OKC vs. GSW"
+  },
+  {
+    "game_id": "0022301221",
+    "game_date": "2023-12-08",
+    "team": "MEM",
+    "matchup": "MEM vs. MIN"
+  },
+  {
+    "game_id": "0022301218",
+    "game_date": "2023-12-08",
+    "team": "ATL",
+    "matchup": "ATL @ PHI"
+  },
+  {
+    "game_id": "0022301228",
+    "game_date": "2023-12-08",
+    "team": "SAC",
+    "matchup": "SAC @ PHX"
+  },
+  {
+    "game_id": "0022301226",
+    "game_date": "2023-12-08",
+    "team": "DAL",
+    "matchup": "DAL @ POR"
+  },
+  {
+    "game_id": "0022300299",
+    "game_date": "2023-12-11",
+    "team": "MEM",
+    "matchup": "MEM vs. DAL"
+  },
+  {
+    "game_id": "0022300296",
+    "game_date": "2023-12-11",
+    "team": "ATL",
+    "matchup": "ATL vs. DEN"
+  },
+  {
+    "game_id": "0022300303",
+    "game_date": "2023-12-11",
+    "team": "SAC",
+    "matchup": "SAC vs. BKN"
+  },
+  {
+    "game_id": "0022300297",
+    "game_date": "2023-12-11",
+    "team": "NYK",
+    "matchup": "NYK vs. TOR"
+  },
+  {
+    "game_id": "0022300302",
+    "game_date": "2023-12-11",
+    "team": "OKC",
+    "matchup": "OKC vs. UTA"
+  },
+  {
+    "game_id": "0022300299",
+    "game_date": "2023-12-11",
+    "team": "DAL",
+    "matchup": "DAL @ MEM"
+  },
+  {
+    "game_id": "0022300309",
+    "game_date": "2023-12-12",
+    "team": "SAC",
+    "matchup": "SAC @ LAC"
+  },
+  {
+    "game_id": "0022300306",
+    "game_date": "2023-12-12",
+    "team": "DAL",
+    "matchup": "DAL vs. LAL"
+  },
+  {
+    "game_id": "0022300314",
+    "game_date": "2023-12-13",
+    "team": "MEM",
+    "matchup": "MEM @ HOU"
+  },
+  {
+    "game_id": "0022300313",
+    "game_date": "2023-12-13",
+    "team": "ATL",
+    "matchup": "ATL @ TOR"
+  },
+  {
+    "game_id": "0022300318",
+    "game_date": "2023-12-13",
+    "team": "NYK",
+    "matchup": "NYK @ UTA"
+  },
+  {
+    "game_id": "0022300321",
+    "game_date": "2023-12-14",
+    "team": "DAL",
+    "matchup": "DAL vs. MIN"
+  },
+  {
+    "game_id": "0022300324",
+    "game_date": "2023-12-14",
+    "team": "OKC",
+    "matchup": "OKC @ SAC"
+  },
+  {
+    "game_id": "0022300324",
+    "game_date": "2023-12-14",
+    "team": "SAC",
+    "matchup": "SAC vs. OKC"
+  },
+  {
+    "game_id": "0022300332",
+    "game_date": "2023-12-15",
+    "team": "MEM",
+    "matchup": "MEM vs. HOU"
+  },
+  {
+    "game_id": "0022300333",
+    "game_date": "2023-12-15",
+    "team": "NYK",
+    "matchup": "NYK @ PHX"
+  },
+  {
+    "game_id": "0022300330",
+    "game_date": "2023-12-15",
+    "team": "ATL",
+    "matchup": "ATL @ TOR"
+  },
+  {
+    "game_id": "0022300336",
+    "game_date": "2023-12-16",
+    "team": "ATL",
+    "matchup": "ATL @ CLE"
+  },
+  {
+    "game_id": "0022300340",
+    "game_date": "2023-12-16",
+    "team": "OKC",
+    "matchup": "OKC @ DEN"
+  },
+  {
+    "game_id": "0022300343",
+    "game_date": "2023-12-16",
+    "team": "NYK",
+    "matchup": "NYK @ LAC"
+  },
+  {
+    "game_id": "0022300341",
+    "game_date": "2023-12-16",
+    "team": "DAL",
+    "matchup": "DAL @ POR"
+  },
+  {
+    "game_id": "0022300342",
+    "game_date": "2023-12-16",
+    "team": "SAC",
+    "matchup": "SAC vs. UTA"
+  },
+  {
+    "game_id": "0022300356",
+    "game_date": "2023-12-18",
+    "team": "DAL",
+    "matchup": "DAL @ DEN"
+  },
+  {
+    "game_id": "0022300359",
+    "game_date": "2023-12-18",
+    "team": "NYK",
+    "matchup": "NYK @ LAL"
+  },
+  {
+    "game_id": "0022300355",
+    "game_date": "2023-12-18",
+    "team": "MEM",
+    "matchup": "MEM @ OKC"
+  },
+  {
+    "game_id": "0022300355",
+    "game_date": "2023-12-18",
+    "team": "OKC",
+    "matchup": "OKC vs. MEM"
+  },
+  {
+    "game_id": "0022300358",
+    "game_date": "2023-12-18",
+    "team": "SAC",
+    "matchup": "SAC vs. WAS"
+  },
+  {
+    "game_id": "0022300352",
+    "game_date": "2023-12-18",
+    "team": "ATL",
+    "matchup": "ATL vs. DET"
+  },
+  {
+    "game_id": "0022300360",
+    "game_date": "2023-12-19",
+    "team": "MEM",
+    "matchup": "MEM @ NOP"
+  },
+  {
+    "game_id": "0022300373",
+    "game_date": "2023-12-20",
+    "team": "SAC",
+    "matchup": "SAC vs. BOS"
+  },
+  {
+    "game_id": "0022300371",
+    "game_date": "2023-12-20",
+    "team": "ATL",
+    "matchup": "ATL @ HOU"
+  },
+  {
+    "game_id": "0022300372",
+    "game_date": "2023-12-20",
+    "team": "DAL",
+    "matchup": "DAL vs. LAC"
+  },
+  {
+    "game_id": "0022300368",
+    "game_date": "2023-12-20",
+    "team": "NYK",
+    "matchup": "NYK @ BKN"
+  },
+  {
+    "game_id": "0022300379",
+    "game_date": "2023-12-21",
+    "team": "OKC",
+    "matchup": "OKC vs. LAC"
+  },
+  {
+    "game_id": "0022300377",
+    "game_date": "2023-12-21",
+    "team": "MEM",
+    "matchup": "MEM vs. IND"
+  },
+  {
+    "game_id": "0022300385",
+    "game_date": "2023-12-22",
+    "team": "DAL",
+    "matchup": "DAL @ HOU"
+  },
+  {
+    "game_id": "0022300384",
+    "game_date": "2023-12-22",
+    "team": "ATL",
+    "matchup": "ATL @ MIA"
+  },
+  {
+    "game_id": "0022300387",
+    "game_date": "2023-12-22",
+    "team": "SAC",
+    "matchup": "SAC vs. PHX"
+  },
+  {
+    "game_id": "0022300393",
+    "game_date": "2023-12-23",
+    "team": "MEM",
+    "matchup": "MEM @ ATL"
+  },
+  {
+    "game_id": "0022300397",
+    "game_date": "2023-12-23",
+    "team": "OKC",
+    "matchup": "OKC vs. LAL"
+  },
+  {
+    "game_id": "0022300388",
+    "game_date": "2023-12-23",
+    "team": "NYK",
+    "matchup": "NYK vs. MIL"
+  },
+  {
+    "game_id": "0022300400",
+    "game_date": "2023-12-23",
+    "team": "SAC",
+    "matchup": "SAC vs. MIN"
+  },
+  {
+    "game_id": "0022300398",
+    "game_date": "2023-12-23",
+    "team": "DAL",
+    "matchup": "DAL vs. SAS"
+  },
+  {
+    "game_id": "0022300393",
+    "game_date": "2023-12-23",
+    "team": "ATL",
+    "matchup": "ATL vs. MEM"
+  },
+  {
+    "game_id": "0022300401",
+    "game_date": "2023-12-25",
+    "team": "NYK",
+    "matchup": "NYK vs. MIL"
+  },
+  {
+    "game_id": "0022300405",
+    "game_date": "2023-12-25",
+    "team": "DAL",
+    "matchup": "DAL @ PHX"
+  },
+  {
+    "game_id": "0022300410",
+    "game_date": "2023-12-26",
+    "team": "MEM",
+    "matchup": "MEM @ NOP"
+  },
+  {
+    "game_id": "0022300408",
+    "game_date": "2023-12-26",
+    "team": "ATL",
+    "matchup": "ATL @ CHI"
+  },
+  {
+    "game_id": "0022300411",
+    "game_date": "2023-12-26",
+    "team": "OKC",
+    "matchup": "OKC vs. MIN"
+  },
+  {
+    "game_id": "0022300413",
+    "game_date": "2023-12-26",
+    "team": "SAC",
+    "matchup": "SAC @ POR"
+  },
+  {
+    "game_id": "0022300420",
+    "game_date": "2023-12-27",
+    "team": "DAL",
+    "matchup": "DAL vs. CLE"
+  },
+  {
+    "game_id": "0022300419",
+    "game_date": "2023-12-27",
+    "team": "OKC",
+    "matchup": "OKC vs. NYK"
+  },
+  {
+    "game_id": "0022300419",
+    "game_date": "2023-12-27",
+    "team": "NYK",
+    "matchup": "NYK @ OKC"
+  },
+  {
+    "game_id": "0022300425",
+    "game_date": "2023-12-28",
+    "team": "MEM",
+    "matchup": "MEM @ DEN"
+  },
+  {
+    "game_id": "0022300423",
+    "game_date": "2023-12-28",
+    "team": "DAL",
+    "matchup": "DAL @ MIN"
+  },
+  {
+    "game_id": "0022300431",
+    "game_date": "2023-12-29",
+    "team": "SAC",
+    "matchup": "SAC @ ATL"
+  },
+  {
+    "game_id": "0022300435",
+    "game_date": "2023-12-29",
+    "team": "OKC",
+    "matchup": "OKC @ DEN"
+  },
+  {
+    "game_id": "0022300438",
+    "game_date": "2023-12-29",
+    "team": "MEM",
+    "matchup": "MEM @ LAC"
+  },
+  {
+    "game_id": "0022300429",
+    "game_date": "2023-12-29",
+    "team": "NYK",
+    "matchup": "NYK @ ORL"
+  },
+  {
+    "game_id": "0022300431",
+    "game_date": "2023-12-29",
+    "team": "ATL",
+    "matchup": "ATL vs. SAC"
+  },
+  {
+    "game_id": "0022300444",
+    "game_date": "2023-12-30",
+    "team": "DAL",
+    "matchup": "DAL @ GSW"
+  },
+  {
+    "game_id": "0022300441",
+    "game_date": "2023-12-30",
+    "team": "NYK",
+    "matchup": "NYK @ IND"
+  },
+  {
+    "game_id": "0022300447",
+    "game_date": "2023-12-31",
+    "team": "OKC",
+    "matchup": "OKC vs. BKN"
+  },
+  {
+    "game_id": "0022300449",
+    "game_date": "2023-12-31",
+    "team": "MEM",
+    "matchup": "MEM vs. SAC"
+  },
+  {
+    "game_id": "0022300449",
+    "game_date": "2023-12-31",
+    "team": "SAC",
+    "matchup": "SAC @ MEM"
+  },
+  {
+    "game_id": "0022300445",
+    "game_date": "2023-12-31",
+    "team": "ATL",
+    "matchup": "ATL @ WAS"
+  },
+  {
+    "game_id": "0022300451",
+    "game_date": "2024-01-01",
+    "team": "NYK",
+    "matchup": "NYK vs. MIN"
+  },
+  {
+    "game_id": "0022300457",
+    "game_date": "2024-01-01",
+    "team": "DAL",
+    "matchup": "DAL @ UTA"
+  },
+  {
+    "game_id": "0022300462",
+    "game_date": "2024-01-02",
+    "team": "OKC",
+    "matchup": "OKC vs. BOS"
+  },
+  {
+    "game_id": "0022300460",
+    "game_date": "2024-01-02",
+    "team": "MEM",
+    "matchup": "MEM vs. SAS"
+  },
+  {
+    "game_id": "0022300464",
+    "game_date": "2024-01-02",
+    "team": "SAC",
+    "matchup": "SAC vs. CHA"
+  },
+  {
+    "game_id": "0022300467",
+    "game_date": "2024-01-03",
+    "team": "OKC",
+    "matchup": "OKC @ ATL"
+  },
+  {
+    "game_id": "0022300468",
+    "game_date": "2024-01-03",
+    "team": "NYK",
+    "matchup": "NYK vs. CHI"
+  },
+  {
+    "game_id": "0022300476",
+    "game_date": "2024-01-03",
+    "team": "SAC",
+    "matchup": "SAC vs. ORL"
+  },
+  {
+    "game_id": "0022300472",
+    "game_date": "2024-01-03",
+    "team": "DAL",
+    "matchup": "DAL vs. POR"
+  },
+  {
+    "game_id": "0022300467",
+    "game_date": "2024-01-03",
+    "team": "ATL",
+    "matchup": "ATL vs. OKC"
+  },
+  {
+    "game_id": "0022300470",
+    "game_date": "2024-01-03",
+    "team": "MEM",
+    "matchup": "MEM vs. TOR"
+  },
+  {
+    "game_id": "0022300491",
+    "game_date": "2024-01-05",
+    "team": "MEM",
+    "matchup": "MEM @ LAL"
+  },
+  {
+    "game_id": "0022300481",
+    "game_date": "2024-01-05",
+    "team": "OKC",
+    "matchup": "OKC @ BKN"
+  },
+  {
+    "game_id": "0022300480",
+    "game_date": "2024-01-05",
+    "team": "ATL",
+    "matchup": "ATL @ IND"
+  },
+  {
+    "game_id": "0022300483",
+    "game_date": "2024-01-05",
+    "team": "NYK",
+    "matchup": "NYK @ PHI"
+  },
+  {
+    "game_id": "0022300487",
+    "game_date": "2024-01-05",
+    "team": "DAL",
+    "matchup": "DAL vs. POR"
+  },
+  {
+    "game_id": "0022300492",
+    "game_date": "2024-01-05",
+    "team": "SAC",
+    "matchup": "SAC vs. TOR"
+  },
+  {
+    "game_id": "0022300494",
+    "game_date": "2024-01-06",
+    "team": "NYK",
+    "matchup": "NYK @ WAS"
+  },
+  {
+    "game_id": "0022300500",
+    "game_date": "2024-01-07",
+    "team": "SAC",
+    "matchup": "SAC vs. NOP"
+  },
+  {
+    "game_id": "0022300501",
+    "game_date": "2024-01-07",
+    "team": "DAL",
+    "matchup": "DAL vs. MIN"
+  },
+  {
+    "game_id": "0022300499",
+    "game_date": "2024-01-07",
+    "team": "ATL",
+    "matchup": "ATL @ ORL"
+  },
+  {
+    "game_id": "0022300503",
+    "game_date": "2024-01-07",
+    "team": "MEM",
+    "matchup": "MEM @ PHX"
+  },
+  {
+    "game_id": "0022300508",
+    "game_date": "2024-01-08",
+    "team": "OKC",
+    "matchup": "OKC @ WAS"
+  },
+  {
+    "game_id": "0022300515",
+    "game_date": "2024-01-09",
+    "team": "MEM",
+    "matchup": "MEM @ DAL"
+  },
+  {
+    "game_id": "0022300514",
+    "game_date": "2024-01-09",
+    "team": "NYK",
+    "matchup": "NYK vs. POR"
+  },
+  {
+    "game_id": "0022300515",
+    "game_date": "2024-01-09",
+    "team": "DAL",
+    "matchup": "DAL vs. MEM"
+  },
+  {
+    "game_id": "0022300512",
+    "game_date": "2024-01-09",
+    "team": "SAC",
+    "matchup": "SAC @ DET"
+  },
+  {
+    "game_id": "0022300522",
+    "game_date": "2024-01-10",
+    "team": "OKC",
+    "matchup": "OKC @ MIA"
+  },
+  {
+    "game_id": "0022300521",
+    "game_date": "2024-01-10",
+    "team": "ATL",
+    "matchup": "ATL vs. PHI"
+  },
+  {
+    "game_id": "0022300518",
+    "game_date": "2024-01-10",
+    "team": "SAC",
+    "matchup": "SAC @ CHA"
+  },
+  {
+    "game_id": "0022300530",
+    "game_date": "2024-01-11",
+    "team": "NYK",
+    "matchup": "NYK @ DAL"
+  },
+  {
+    "game_id": "0022300530",
+    "game_date": "2024-01-11",
+    "team": "DAL",
+    "matchup": "DAL vs. NYK"
+  },
+  {
+    "game_id": "0022300529",
+    "game_date": "2024-01-11",
+    "team": "OKC",
+    "matchup": "OKC vs. POR"
+  },
+  {
+    "game_id": "0022300537",
+    "game_date": "2024-01-12",
+    "team": "MEM",
+    "matchup": "MEM vs. LAC"
+  },
+  {
+    "game_id": "0022300533",
+    "game_date": "2024-01-12",
+    "team": "ATL",
+    "matchup": "ATL vs. IND"
+  },
+  {
+    "game_id": "0022300532",
+    "game_date": "2024-01-12",
+    "team": "SAC",
+    "matchup": "SAC @ PHI"
+  },
+  {
+    "game_id": "0022300547",
+    "game_date": "2024-01-13",
+    "team": "DAL",
+    "matchup": "DAL vs. NOP"
+  },
+  {
+    "game_id": "0022300544",
+    "game_date": "2024-01-13",
+    "team": "MEM",
+    "matchup": "MEM vs. NYK"
+  },
+  {
+    "game_id": "0022300546",
+    "game_date": "2024-01-13",
+    "team": "OKC",
+    "matchup": "OKC vs. ORL"
+  },
+  {
+    "game_id": "0022300544",
+    "game_date": "2024-01-13",
+    "team": "NYK",
+    "matchup": "NYK @ MEM"
+  },
+  {
+    "game_id": "0022300543",
+    "game_date": "2024-01-13",
+    "team": "ATL",
+    "matchup": "ATL vs. WAS"
+  },
+  {
+    "game_id": "0022300552",
+    "game_date": "2024-01-14",
+    "team": "SAC",
+    "matchup": "SAC @ MIL"
+  },
+  {
+    "game_id": "0022300556",
+    "game_date": "2024-01-15",
+    "team": "DAL",
+    "matchup": "DAL vs. NOP"
+  },
+  {
+    "game_id": "0022300560",
+    "game_date": "2024-01-15",
+    "team": "MEM",
+    "matchup": "MEM vs. GSW"
+  },
+  {
+    "game_id": "0022300565",
+    "game_date": "2024-01-15",
+    "team": "OKC",
+    "matchup": "OKC @ LAL"
+  },
+  {
+    "game_id": "0022300557",
+    "game_date": "2024-01-15",
+    "team": "NYK",
+    "matchup": "NYK vs. ORL"
+  },
+  {
+    "game_id": "0022300559",
+    "game_date": "2024-01-15",
+    "team": "ATL",
+    "matchup": "ATL vs. SAS"
+  },
+  {
+    "game_id": "0022300568",
+    "game_date": "2024-01-16",
+    "team": "OKC",
+    "matchup": "OKC @ LAC"
+  },
+  {
+    "game_id": "0022300567",
+    "game_date": "2024-01-16",
+    "team": "SAC",
+    "matchup": "SAC @ PHX"
+  },
+  {
+    "game_id": "0022300573",
+    "game_date": "2024-01-17",
+    "team": "NYK",
+    "matchup": "NYK vs. HOU"
+  },
+  {
+    "game_id": "0022300577",
+    "game_date": "2024-01-17",
+    "team": "DAL",
+    "matchup": "DAL @ LAL"
+  },
+  {
+    "game_id": "0022300570",
+    "game_date": "2024-01-17",
+    "team": "ATL",
+    "matchup": "ATL vs. ORL"
+  },
+  {
+    "game_id": "0022300582",
+    "game_date": "2024-01-18",
+    "team": "MEM",
+    "matchup": "MEM @ MIN"
+  },
+  {
+    "game_id": "0022300583",
+    "game_date": "2024-01-18",
+    "team": "SAC",
+    "matchup": "SAC vs. IND"
+  },
+  {
+    "game_id": "0022300581",
+    "game_date": "2024-01-18",
+    "team": "OKC",
+    "matchup": "OKC @ UTA"
+  },
+  {
+    "game_id": "0022300579",
+    "game_date": "2024-01-18",
+    "team": "NYK",
+    "matchup": "NYK vs. WAS"
+  },
+  {
+    "game_id": "0022300587",
+    "game_date": "2024-01-19",
+    "team": "ATL",
+    "matchup": "ATL @ MIA"
+  },
+  {
+    "game_id": "0022300595",
+    "game_date": "2024-01-20",
+    "team": "ATL",
+    "matchup": "ATL vs. CLE"
+  },
+  {
+    "game_id": "0022300597",
+    "game_date": "2024-01-20",
+    "team": "MEM",
+    "matchup": "MEM @ CHI"
+  },
+  {
+    "game_id": "0022300599",
+    "game_date": "2024-01-20",
+    "team": "OKC",
+    "matchup": "OKC @ MIN"
+  },
+  {
+    "game_id": "0022300596",
+    "game_date": "2024-01-20",
+    "team": "NYK",
+    "matchup": "NYK vs. TOR"
+  },
+  {
+    "game_id": "0022300613",
+    "game_date": "2024-01-22",
+    "team": "SAC",
+    "matchup": "SAC vs. ATL"
+  },
+  {
+    "game_id": "0022300611",
+    "game_date": "2024-01-22",
+    "team": "DAL",
+    "matchup": "DAL vs. BOS"
+  },
+  {
+    "game_id": "0022300613",
+    "game_date": "2024-01-22",
+    "team": "ATL",
+    "matchup": "ATL @ SAC"
+  },
+  {
+    "game_id": "0022300609",
+    "game_date": "2024-01-22",
+    "team": "MEM",
+    "matchup": "MEM @ TOR"
+  },
+  {
+    "game_id": "0022300615",
+    "game_date": "2024-01-23",
+    "team": "NYK",
+    "matchup": "NYK @ BKN"
+  },
+  {
+    "game_id": "0022300617",
+    "game_date": "2024-01-23",
+    "team": "OKC",
+    "matchup": "OKC vs. POR"
+  },
+  {
+    "game_id": "0022300626",
+    "game_date": "2024-01-24",
+    "team": "ATL",
+    "matchup": "ATL @ GSW"
+  },
+  {
+    "game_id": "0022300621",
+    "game_date": "2024-01-24",
+    "team": "MEM",
+    "matchup": "MEM @ MIA"
+  },
+  {
+    "game_id": "0022300625",
+    "game_date": "2024-01-24",
+    "team": "DAL",
+    "matchup": "DAL vs. PHX"
+  },
+  {
+    "game_id": "0022300622",
+    "game_date": "2024-01-24",
+    "team": "OKC",
+    "matchup": "OKC @ SAS"
+  },
+  {
+    "game_id": "0022300631",
+    "game_date": "2024-01-25",
+    "team": "NYK",
+    "matchup": "NYK vs. DEN"
+  },
+  {
+    "game_id": "0022300632",
+    "game_date": "2024-01-25",
+    "team": "SAC",
+    "matchup": "SAC @ GSW"
+  },
+  {
+    "game_id": "0022300634",
+    "game_date": "2024-01-26",
+    "team": "DAL",
+    "matchup": "DAL @ ATL"
+  },
+  {
+    "game_id": "0022300640",
+    "game_date": "2024-01-26",
+    "team": "OKC",
+    "matchup": "OKC @ NOP"
+  },
+  {
+    "game_id": "0022300634",
+    "game_date": "2024-01-26",
+    "team": "ATL",
+    "matchup": "ATL vs. DAL"
+  },
+  {
+    "game_id": "0022300638",
+    "game_date": "2024-01-26",
+    "team": "MEM",
+    "matchup": "MEM vs. ORL"
+  },
+  {
+    "game_id": "0022300651",
+    "game_date": "2024-01-27",
+    "team": "SAC",
+    "matchup": "SAC @ DAL"
+  },
+  {
+    "game_id": "0022300643",
+    "game_date": "2024-01-27",
+    "team": "NYK",
+    "matchup": "NYK vs. MIA"
+  },
+  {
+    "game_id": "0022300651",
+    "game_date": "2024-01-27",
+    "team": "DAL",
+    "matchup": "DAL vs. SAC"
+  },
+  {
+    "game_id": "0022300652",
+    "game_date": "2024-01-28",
+    "team": "MEM",
+    "matchup": "MEM @ IND"
+  },
+  {
+    "game_id": "0022300653",
+    "game_date": "2024-01-28",
+    "team": "ATL",
+    "matchup": "ATL vs. TOR"
+  },
+  {
+    "game_id": "0022300654",
+    "game_date": "2024-01-28",
+    "team": "OKC",
+    "matchup": "OKC @ DET"
+  },
+  {
+    "game_id": "0022300664",
+    "game_date": "2024-01-29",
+    "team": "OKC",
+    "matchup": "OKC vs. MIN"
+  },
+  {
+    "game_id": "0022300666",
+    "game_date": "2024-01-29",
+    "team": "DAL",
+    "matchup": "DAL vs. ORL"
+  },
+  {
+    "game_id": "0022300663",
+    "game_date": "2024-01-29",
+    "team": "MEM",
+    "matchup": "MEM vs. SAC"
+  },
+  {
+    "game_id": "0022300663",
+    "game_date": "2024-01-29",
+    "team": "SAC",
+    "matchup": "SAC @ MEM"
+  },
+  {
+    "game_id": "0022300657",
+    "game_date": "2024-01-29",
+    "team": "NYK",
+    "matchup": "NYK @ CHA"
+  },
+  {
+    "game_id": "0022300669",
+    "game_date": "2024-01-30",
+    "team": "ATL",
+    "matchup": "ATL vs. LAL"
+  },
+  {
+    "game_id": "0022300671",
+    "game_date": "2024-01-30",
+    "team": "NYK",
+    "matchup": "NYK vs. UTA"
+  },
+  {
+    "game_id": "0022300682",
+    "game_date": "2024-01-31",
+    "team": "OKC",
+    "matchup": "OKC vs. DEN"
+  },
+  {
+    "game_id": "0022300678",
+    "game_date": "2024-01-31",
+    "team": "SAC",
+    "matchup": "SAC @ MIA"
+  },
+  {
+    "game_id": "0022300680",
+    "game_date": "2024-01-31",
+    "team": "DAL",
+    "matchup": "DAL @ MIN"
+  },
+  {
+    "game_id": "0022300687",
+    "game_date": "2024-02-01",
+    "team": "MEM",
+    "matchup": "MEM vs. CLE"
+  },
+  {
+    "game_id": "0022300685",
+    "game_date": "2024-02-01",
+    "team": "NYK",
+    "matchup": "NYK vs. IND"
+  },
+  {
+    "game_id": "0022300693",
+    "game_date": "2024-02-02",
+    "team": "MEM",
+    "matchup": "MEM vs. GSW"
+  },
+  {
+    "game_id": "0022300691",
+    "game_date": "2024-02-02",
+    "team": "SAC",
+    "matchup": "SAC @ IND"
+  },
+  {
+    "game_id": "0022300690",
+    "game_date": "2024-02-02",
+    "team": "ATL",
+    "matchup": "ATL vs. PHX"
+  },
+  {
+    "game_id": "0022300695",
+    "game_date": "2024-02-02",
+    "team": "OKC",
+    "matchup": "OKC vs. CHA"
+  },
+  {
+    "game_id": "0022300700",
+    "game_date": "2024-02-03",
+    "team": "SAC",
+    "matchup": "SAC @ CHI"
+  },
+  {
+    "game_id": "0022300699",
+    "game_date": "2024-02-03",
+    "team": "ATL",
+    "matchup": "ATL vs. GSW"
+  },
+  {
+    "game_id": "0022300701",
+    "game_date": "2024-02-03",
+    "team": "NYK",
+    "matchup": "NYK vs. LAL"
+  },
+  {
+    "game_id": "0022300702",
+    "game_date": "2024-02-03",
+    "team": "DAL",
+    "matchup": "DAL vs. MIL"
+  },
+  {
+    "game_id": "0022300706",
+    "game_date": "2024-02-04",
+    "team": "MEM",
+    "matchup": "MEM @ BOS"
+  },
+  {
+    "game_id": "0022300710",
+    "game_date": "2024-02-04",
+    "team": "OKC",
+    "matchup": "OKC vs. TOR"
+  },
+  {
+    "game_id": "0022300714",
+    "game_date": "2024-02-05",
+    "team": "SAC",
+    "matchup": "SAC @ CLE"
+  },
+  {
+    "game_id": "0022300716",
+    "game_date": "2024-02-05",
+    "team": "ATL",
+    "matchup": "ATL vs. LAC"
+  },
+  {
+    "game_id": "0022300715",
+    "game_date": "2024-02-05",
+    "team": "DAL",
+    "matchup": "DAL @ PHI"
+  },
+  {
+    "game_id": "0022300720",
+    "game_date": "2024-02-06",
+    "team": "DAL",
+    "matchup": "DAL @ BKN"
+  },
+  {
+    "game_id": "0022300722",
+    "game_date": "2024-02-06",
+    "team": "MEM",
+    "matchup": "MEM @ NYK"
+  },
+  {
+    "game_id": "0022300724",
+    "game_date": "2024-02-06",
+    "team": "OKC",
+    "matchup": "OKC @ UTA"
+  },
+  {
+    "game_id": "0022300722",
+    "game_date": "2024-02-06",
+    "team": "NYK",
+    "matchup": "NYK vs. MEM"
+  },
+  {
+    "game_id": "0022300729",
+    "game_date": "2024-02-07",
+    "team": "ATL",
+    "matchup": "ATL @ BOS"
+  },
+  {
+    "game_id": "0022300732",
+    "game_date": "2024-02-07",
+    "team": "SAC",
+    "matchup": "SAC vs. DET"
+  },
+  {
+    "game_id": "0022300737",
+    "game_date": "2024-02-08",
+    "team": "MEM",
+    "matchup": "MEM vs. CHI"
+  },
+  {
+    "game_id": "0022300736",
+    "game_date": "2024-02-08",
+    "team": "NYK",
+    "matchup": "NYK vs. DAL"
+  },
+  {
+    "game_id": "0022300736",
+    "game_date": "2024-02-08",
+    "team": "DAL",
+    "matchup": "DAL @ NYK"
+  },
+  {
+    "game_id": "0022300746",
+    "game_date": "2024-02-09",
+    "team": "SAC",
+    "matchup": "SAC vs. DEN"
+  },
+  {
+    "game_id": "0022300742",
+    "game_date": "2024-02-09",
+    "team": "ATL",
+    "matchup": "ATL @ PHI"
+  },
+  {
+    "game_id": "0022300748",
+    "game_date": "2024-02-10",
+    "team": "OKC",
+    "matchup": "OKC @ DAL"
+  },
+  {
+    "game_id": "0022300754",
+    "game_date": "2024-02-10",
+    "team": "ATL",
+    "matchup": "ATL vs. HOU"
+  },
+  {
+    "game_id": "0022300755",
+    "game_date": "2024-02-10",
+    "team": "NYK",
+    "matchup": "NYK vs. IND"
+  },
+  {
+    "game_id": "0022300748",
+    "game_date": "2024-02-10",
+    "team": "DAL",
+    "matchup": "DAL vs. OKC"
+  },
+  {
+    "game_id": "0022300751",
+    "game_date": "2024-02-10",
+    "team": "MEM",
+    "matchup": "MEM @ CHA"
+  },
+  {
+    "game_id": "0022300760",
+    "game_date": "2024-02-11",
+    "team": "OKC",
+    "matchup": "OKC vs. SAC"
+  },
+  {
+    "game_id": "0022300760",
+    "game_date": "2024-02-11",
+    "team": "SAC",
+    "matchup": "SAC @ OKC"
+  },
+  {
+    "game_id": "0022300766",
+    "game_date": "2024-02-12",
+    "team": "MEM",
+    "matchup": "MEM vs. NOP"
+  },
+  {
+    "game_id": "0022300763",
+    "game_date": "2024-02-12",
+    "team": "ATL",
+    "matchup": "ATL vs. CHI"
+  },
+  {
+    "game_id": "0022300765",
+    "game_date": "2024-02-12",
+    "team": "NYK",
+    "matchup": "NYK @ HOU"
+  },
+  {
+    "game_id": "0022300768",
+    "game_date": "2024-02-12",
+    "team": "DAL",
+    "matchup": "DAL vs. WAS"
+  },
+  {
+    "game_id": "0022300772",
+    "game_date": "2024-02-13",
+    "team": "OKC",
+    "matchup": "OKC @ ORL"
+  },
+  {
+    "game_id": "0022300774",
+    "game_date": "2024-02-13",
+    "team": "SAC",
+    "matchup": "SAC @ PHX"
+  },
+  {
+    "game_id": "0022300786",
+    "game_date": "2024-02-14",
+    "team": "SAC",
+    "matchup": "SAC @ DEN"
+  },
+  {
+    "game_id": "0022300783",
+    "game_date": "2024-02-14",
+    "team": "MEM",
+    "matchup": "MEM vs. HOU"
+  },
+  {
+    "game_id": "0022300778",
+    "game_date": "2024-02-14",
+    "team": "NYK",
+    "matchup": "NYK @ ORL"
+  },
+  {
+    "game_id": "0022300785",
+    "game_date": "2024-02-14",
+    "team": "DAL",
+    "matchup": "DAL vs. SAS"
+  },
+  {
+    "game_id": "0022300777",
+    "game_date": "2024-02-14",
+    "team": "ATL",
+    "matchup": "ATL @ CHA"
+  },
+  {
+    "game_id": "0022300790",
+    "game_date": "2024-02-15",
+    "team": "MEM",
+    "matchup": "MEM vs. MIL"
+  },
+  {
+    "game_id": "0022300799",
+    "game_date": "2024-02-22",
+    "team": "OKC",
+    "matchup": "OKC vs. LAC"
+  },
+  {
+    "game_id": "0022300794",
+    "game_date": "2024-02-22",
+    "team": "NYK",
+    "matchup": "NYK @ PHI"
+  },
+  {
+    "game_id": "0022300796",
+    "game_date": "2024-02-22",
+    "team": "DAL",
+    "matchup": "DAL vs. PHX"
+  },
+  {
+    "game_id": "0022300803",
+    "game_date": "2024-02-22",
+    "team": "SAC",
+    "matchup": "SAC vs. SAS"
+  },
+  {
+    "game_id": "0022300807",
+    "game_date": "2024-02-23",
+    "team": "MEM",
+    "matchup": "MEM vs. LAC"
+  },
+  {
+    "game_id": "0022300804",
+    "game_date": "2024-02-23",
+    "team": "ATL",
+    "matchup": "ATL vs. TOR"
+  },
+  {
+    "game_id": "0022300809",
+    "game_date": "2024-02-23",
+    "team": "OKC",
+    "matchup": "OKC vs. WAS"
+  },
+  {
+    "game_id": "0022300816",
+    "game_date": "2024-02-24",
+    "team": "NYK",
+    "matchup": "NYK vs. BOS"
+  },
+  {
+    "game_id": "0022300822",
+    "game_date": "2024-02-25",
+    "team": "OKC",
+    "matchup": "OKC @ HOU"
+  },
+  {
+    "game_id": "0022300827",
+    "game_date": "2024-02-25",
+    "team": "SAC",
+    "matchup": "SAC @ LAC"
+  },
+  {
+    "game_id": "0022300821",
+    "game_date": "2024-02-25",
+    "team": "ATL",
+    "matchup": "ATL vs. ORL"
+  },
+  {
+    "game_id": "0022300819",
+    "game_date": "2024-02-25",
+    "team": "DAL",
+    "matchup": "DAL @ IND"
+  },
+  {
+    "game_id": "0022300831",
+    "game_date": "2024-02-26",
+    "team": "SAC",
+    "matchup": "SAC vs. MIA"
+  },
+  {
+    "game_id": "0022300830",
+    "game_date": "2024-02-26",
+    "team": "MEM",
+    "matchup": "MEM vs. BKN"
+  },
+  {
+    "game_id": "0022300828",
+    "game_date": "2024-02-26",
+    "team": "NYK",
+    "matchup": "NYK vs. DET"
+  },
+  {
+    "game_id": "0022300832",
+    "game_date": "2024-02-27",
+    "team": "DAL",
+    "matchup": "DAL @ CLE"
+  },
+  {
+    "game_id": "0022300837",
+    "game_date": "2024-02-27",
+    "team": "NYK",
+    "matchup": "NYK vs. NOP"
+  },
+  {
+    "game_id": "0022300841",
+    "game_date": "2024-02-27",
+    "team": "OKC",
+    "matchup": "OKC vs. HOU"
+  },
+  {
+    "game_id": "0022300835",
+    "game_date": "2024-02-27",
+    "team": "ATL",
+    "matchup": "ATL vs. UTA"
+  },
+  {
+    "game_id": "0022300847",
+    "game_date": "2024-02-28",
+    "team": "SAC",
+    "matchup": "SAC @ DEN"
+  },
+  {
+    "game_id": "0022300845",
+    "game_date": "2024-02-28",
+    "team": "MEM",
+    "matchup": "MEM @ MIN"
+  },
+  {
+    "game_id": "0022300844",
+    "game_date": "2024-02-28",
+    "team": "DAL",
+    "matchup": "DAL @ TOR"
+  },
+  {
+    "game_id": "0022300852",
+    "game_date": "2024-02-29",
+    "team": "NYK",
+    "matchup": "NYK vs. GSW"
+  },
+  {
+    "game_id": "0022300851",
+    "game_date": "2024-02-29",
+    "team": "ATL",
+    "matchup": "ATL @ BKN"
+  },
+  {
+    "game_id": "0022300853",
+    "game_date": "2024-02-29",
+    "team": "OKC",
+    "matchup": "OKC @ SAS"
+  },
+  {
+    "game_id": "0022300859",
+    "game_date": "2024-03-01",
+    "team": "DAL",
+    "matchup": "DAL @ BOS"
+  },
+  {
+    "game_id": "0022300862",
+    "game_date": "2024-03-01",
+    "team": "SAC",
+    "matchup": "SAC @ MIN"
+  },
+  {
+    "game_id": "0022300861",
+    "game_date": "2024-03-01",
+    "team": "MEM",
+    "matchup": "MEM vs. POR"
+  },
+  {
+    "game_id": "0022300866",
+    "game_date": "2024-03-02",
+    "team": "ATL",
+    "matchup": "ATL @ BKN"
+  },
+  {
+    "game_id": "0022300868",
+    "game_date": "2024-03-02",
+    "team": "MEM",
+    "matchup": "MEM vs. POR"
+  },
+  {
+    "game_id": "0022300876",
+    "game_date": "2024-03-03",
+    "team": "NYK",
+    "matchup": "NYK @ CLE"
+  },
+  {
+    "game_id": "0022300871",
+    "game_date": "2024-03-03",
+    "team": "DAL",
+    "matchup": "DAL vs. PHI"
+  },
+  {
+    "game_id": "0022300878",
+    "game_date": "2024-03-03",
+    "team": "OKC",
+    "matchup": "OKC @ PHX"
+  },
+  {
+    "game_id": "0022300883",
+    "game_date": "2024-03-04",
+    "team": "SAC",
+    "matchup": "SAC vs. CHI"
+  },
+  {
+    "game_id": "0022300884",
+    "game_date": "2024-03-04",
+    "team": "OKC",
+    "matchup": "OKC @ LAL"
+  },
+  {
+    "game_id": "0022300879",
+    "game_date": "2024-03-04",
+    "team": "MEM",
+    "matchup": "MEM @ BKN"
+  },
+  {
+    "game_id": "0022300889",
+    "game_date": "2024-03-05",
+    "team": "NYK",
+    "matchup": "NYK vs. ATL"
+  },
+  {
+    "game_id": "0022300889",
+    "game_date": "2024-03-05",
+    "team": "ATL",
+    "matchup": "ATL @ NYK"
+  },
+  {
+    "game_id": "0022300892",
+    "game_date": "2024-03-05",
+    "team": "DAL",
+    "matchup": "DAL vs. IND"
+  },
+  {
+    "game_id": "0022300895",
+    "game_date": "2024-03-06",
+    "team": "ATL",
+    "matchup": "ATL vs. CLE"
+  },
+  {
+    "game_id": "0022300901",
+    "game_date": "2024-03-06",
+    "team": "SAC",
+    "matchup": "SAC @ LAL"
+  },
+  {
+    "game_id": "0022300896",
+    "game_date": "2024-03-06",
+    "team": "MEM",
+    "matchup": "MEM @ PHI"
+  },
+  {
+    "game_id": "0022300900",
+    "game_date": "2024-03-06",
+    "team": "OKC",
+    "matchup": "OKC @ POR"
+  },
+  {
+    "game_id": "0022300904",
+    "game_date": "2024-03-07",
+    "team": "DAL",
+    "matchup": "DAL vs. MIA"
+  },
+  {
+    "game_id": "0022300908",
+    "game_date": "2024-03-07",
+    "team": "SAC",
+    "matchup": "SAC vs. SAS"
+  },
+  {
+    "game_id": "0022300913",
+    "game_date": "2024-03-08",
+    "team": "MEM",
+    "matchup": "MEM vs. ATL"
+  },
+  {
+    "game_id": "0022300914",
+    "game_date": "2024-03-08",
+    "team": "OKC",
+    "matchup": "OKC vs. MIA"
+  },
+  {
+    "game_id": "0022300912",
+    "game_date": "2024-03-08",
+    "team": "NYK",
+    "matchup": "NYK vs. ORL"
+  },
+  {
+    "game_id": "0022300913",
+    "game_date": "2024-03-08",
+    "team": "ATL",
+    "matchup": "ATL @ MEM"
+  },
+  {
+    "game_id": "0022300919",
+    "game_date": "2024-03-09",
+    "team": "DAL",
+    "matchup": "DAL @ DET"
+  },
+  {
+    "game_id": "0022300925",
+    "game_date": "2024-03-10",
+    "team": "ATL",
+    "matchup": "ATL vs. NOP"
+  },
+  {
+    "game_id": "0022300929",
+    "game_date": "2024-03-10",
+    "team": "SAC",
+    "matchup": "SAC vs. HOU"
+  },
+  {
+    "game_id": "0022300927",
+    "game_date": "2024-03-10",
+    "team": "NYK",
+    "matchup": "NYK vs. PHI"
+  },
+  {
+    "game_id": "0022300931",
+    "game_date": "2024-03-10",
+    "team": "MEM",
+    "matchup": "MEM @ OKC"
+  },
+  {
+    "game_id": "0022300931",
+    "game_date": "2024-03-10",
+    "team": "OKC",
+    "matchup": "OKC vs. MEM"
+  },
+  {
+    "game_id": "0022300935",
+    "game_date": "2024-03-11",
+    "team": "DAL",
+    "matchup": "DAL @ CHI"
+  },
+  {
+    "game_id": "0022300945",
+    "game_date": "2024-03-12",
+    "team": "SAC",
+    "matchup": "SAC vs. MIL"
+  },
+  {
+    "game_id": "0022300941",
+    "game_date": "2024-03-12",
+    "team": "OKC",
+    "matchup": "OKC vs. IND"
+  },
+  {
+    "game_id": "0022300939",
+    "game_date": "2024-03-12",
+    "team": "NYK",
+    "matchup": "NYK vs. PHI"
+  },
+  {
+    "game_id": "0022300940",
+    "game_date": "2024-03-12",
+    "team": "MEM",
+    "matchup": "MEM vs. WAS"
+  },
+  {
+    "game_id": "0022300952",
+    "game_date": "2024-03-13",
+    "team": "DAL",
+    "matchup": "DAL vs. GSW"
+  },
+  {
+    "game_id": "0022300954",
+    "game_date": "2024-03-13",
+    "team": "SAC",
+    "matchup": "SAC vs. LAL"
+  },
+  {
+    "game_id": "0022300953",
+    "game_date": "2024-03-13",
+    "team": "ATL",
+    "matchup": "ATL @ POR"
+  },
+  {
+    "game_id": "0022300950",
+    "game_date": "2024-03-13",
+    "team": "MEM",
+    "matchup": "MEM vs. CHA"
+  },
+  {
+    "game_id": "0022300959",
+    "game_date": "2024-03-14",
+    "team": "OKC",
+    "matchup": "OKC vs. DAL"
+  },
+  {
+    "game_id": "0022300960",
+    "game_date": "2024-03-14",
+    "team": "NYK",
+    "matchup": "NYK @ POR"
+  },
+  {
+    "game_id": "0022300959",
+    "game_date": "2024-03-14",
+    "team": "DAL",
+    "matchup": "DAL @ OKC"
+  },
+  {
+    "game_id": "0022300966",
+    "game_date": "2024-03-15",
+    "team": "ATL",
+    "matchup": "ATL @ UTA"
+  },
+  {
+    "game_id": "0022300975",
+    "game_date": "2024-03-16",
+    "team": "SAC",
+    "matchup": "SAC vs. NYK"
+  },
+  {
+    "game_id": "0022300975",
+    "game_date": "2024-03-16",
+    "team": "NYK",
+    "matchup": "NYK @ SAC"
+  },
+  {
+    "game_id": "0022300972",
+    "game_date": "2024-03-16",
+    "team": "MEM",
+    "matchup": "MEM vs. OKC"
+  },
+  {
+    "game_id": "0022300972",
+    "game_date": "2024-03-16",
+    "team": "OKC",
+    "matchup": "OKC @ MEM"
+  },
+  {
+    "game_id": "0022300978",
+    "game_date": "2024-03-17",
+    "team": "DAL",
+    "matchup": "DAL vs. DEN"
+  },
+  {
+    "game_id": "0022300982",
+    "game_date": "2024-03-17",
+    "team": "ATL",
+    "matchup": "ATL @ LAC"
+  },
+  {
+    "game_id": "0022300988",
+    "game_date": "2024-03-18",
+    "team": "NYK",
+    "matchup": "NYK @ GSW"
+  },
+  {
+    "game_id": "0022300990",
+    "game_date": "2024-03-18",
+    "team": "ATL",
+    "matchup": "ATL @ LAL"
+  },
+  {
+    "game_id": "0022300989",
+    "game_date": "2024-03-18",
+    "team": "MEM",
+    "matchup": "MEM @ SAC"
+  },
+  {
+    "game_id": "0022300989",
+    "game_date": "2024-03-18",
+    "team": "SAC",
+    "matchup": "SAC vs. MEM"
+  },
+  {
+    "game_id": "0022300994",
+    "game_date": "2024-03-19",
+    "team": "DAL",
+    "matchup": "DAL @ SAS"
+  },
+  {
+    "game_id": "0022301001",
+    "game_date": "2024-03-20",
+    "team": "MEM",
+    "matchup": "MEM @ GSW"
+  },
+  {
+    "game_id": "0022300999",
+    "game_date": "2024-03-20",
+    "team": "SAC",
+    "matchup": "SAC @ TOR"
+  },
+  {
+    "game_id": "0022301000",
+    "game_date": "2024-03-20",
+    "team": "OKC",
+    "matchup": "OKC vs. UTA"
+  },
+  {
+    "game_id": "0022301009",
+    "game_date": "2024-03-21",
+    "team": "NYK",
+    "matchup": "NYK @ DEN"
+  },
+  {
+    "game_id": "0022301010",
+    "game_date": "2024-03-21",
+    "team": "ATL",
+    "matchup": "ATL @ PHX"
+  },
+  {
+    "game_id": "0022301008",
+    "game_date": "2024-03-21",
+    "team": "DAL",
+    "matchup": "DAL vs. UTA"
+  },
+  {
+    "game_id": "0022301005",
+    "game_date": "2024-03-21",
+    "team": "SAC",
+    "matchup": "SAC @ WAS"
+  },
+  {
+    "game_id": "0022301015",
+    "game_date": "2024-03-22",
+    "team": "MEM",
+    "matchup": "MEM @ SAS"
+  },
+  {
+    "game_id": "0022301012",
+    "game_date": "2024-03-22",
+    "team": "OKC",
+    "matchup": "OKC @ TOR"
+  },
+  {
+    "game_id": "0022301019",
+    "game_date": "2024-03-23",
+    "team": "NYK",
+    "matchup": "NYK vs. BKN"
+  },
+  {
+    "game_id": "0022301020",
+    "game_date": "2024-03-23",
+    "team": "SAC",
+    "matchup": "SAC @ ORL"
+  },
+  {
+    "game_id": "0022301021",
+    "game_date": "2024-03-23",
+    "team": "ATL",
+    "matchup": "ATL vs. CHA"
+  },
+  {
+    "game_id": "0022301030",
+    "game_date": "2024-03-24",
+    "team": "OKC",
+    "matchup": "OKC @ MIL"
+  },
+  {
+    "game_id": "0022301034",
+    "game_date": "2024-03-25",
+    "team": "ATL",
+    "matchup": "ATL vs. BOS"
+  },
+  {
+    "game_id": "0022301040",
+    "game_date": "2024-03-25",
+    "team": "MEM",
+    "matchup": "MEM @ DEN"
+  },
+  {
+    "game_id": "0022301042",
+    "game_date": "2024-03-25",
+    "team": "SAC",
+    "matchup": "SAC vs. PHI"
+  },
+  {
+    "game_id": "0022301041",
+    "game_date": "2024-03-25",
+    "team": "DAL",
+    "matchup": "DAL @ UTA"
+  },
+  {
+    "game_id": "0022301035",
+    "game_date": "2024-03-25",
+    "team": "NYK",
+    "matchup": "NYK vs. DET"
+  },
+  {
+    "game_id": "0022301046",
+    "game_date": "2024-03-26",
+    "team": "OKC",
+    "matchup": "OKC @ NOP"
+  },
+  {
+    "game_id": "0022301047",
+    "game_date": "2024-03-26",
+    "team": "SAC",
+    "matchup": "SAC vs. DAL"
+  },
+  {
+    "game_id": "0022301047",
+    "game_date": "2024-03-26",
+    "team": "DAL",
+    "matchup": "DAL @ SAC"
+  },
+  {
+    "game_id": "0022301057",
+    "game_date": "2024-03-27",
+    "team": "OKC",
+    "matchup": "OKC vs. HOU"
+  },
+  {
+    "game_id": "0022301055",
+    "game_date": "2024-03-27",
+    "team": "MEM",
+    "matchup": "MEM vs. LAL"
+  },
+  {
+    "game_id": "0022301051",
+    "game_date": "2024-03-27",
+    "team": "ATL",
+    "matchup": "ATL vs. POR"
+  },
+  {
+    "game_id": "0022301053",
+    "game_date": "2024-03-27",
+    "team": "NYK",
+    "matchup": "NYK @ TOR"
+  },
+  {
+    "game_id": "0022301060",
+    "game_date": "2024-03-28",
+    "team": "ATL",
+    "matchup": "ATL vs. BOS"
+  },
+  {
+    "game_id": "0022301073",
+    "game_date": "2024-03-29",
+    "team": "SAC",
+    "matchup": "SAC vs. DAL"
+  },
+  {
+    "game_id": "0022301069",
+    "game_date": "2024-03-29",
+    "team": "OKC",
+    "matchup": "OKC vs. PHX"
+  },
+  {
+    "game_id": "0022301073",
+    "game_date": "2024-03-29",
+    "team": "DAL",
+    "matchup": "DAL @ SAC"
+  },
+  {
+    "game_id": "0022301070",
+    "game_date": "2024-03-29",
+    "team": "NYK",
+    "matchup": "NYK @ SAS"
+  },
+  {
+    "game_id": "0022301076",
+    "game_date": "2024-03-30",
+    "team": "ATL",
+    "matchup": "ATL vs. MIL"
+  },
+  {
+    "game_id": "0022301075",
+    "game_date": "2024-03-30",
+    "team": "MEM",
+    "matchup": "MEM @ ORL"
+  },
+  {
+    "game_id": "0022301083",
+    "game_date": "2024-03-31",
+    "team": "DAL",
+    "matchup": "DAL @ HOU"
+  },
+  {
+    "game_id": "0022301082",
+    "game_date": "2024-03-31",
+    "team": "OKC",
+    "matchup": "OKC @ NYK"
+  },
+  {
+    "game_id": "0022301082",
+    "game_date": "2024-03-31",
+    "team": "NYK",
+    "matchup": "NYK vs. OKC"
+  },
+  {
+    "game_id": "0022301086",
+    "game_date": "2024-03-31",
+    "team": "SAC",
+    "matchup": "SAC vs. UTA"
+  },
+  {
+    "game_id": "0022301091",
+    "game_date": "2024-04-01",
+    "team": "ATL",
+    "matchup": "ATL @ CHI"
+  },
+  {
+    "game_id": "0022301088",
+    "game_date": "2024-04-01",
+    "team": "MEM",
+    "matchup": "MEM @ DET"
+  },
+  {
+    "game_id": "0022300589",
+    "game_date": "2024-04-02",
+    "team": "DAL",
+    "matchup": "DAL @ GSW"
+  },
+  {
+    "game_id": "0022301101",
+    "game_date": "2024-04-02",
+    "team": "SAC",
+    "matchup": "SAC vs. LAC"
+  },
+  {
+    "game_id": "0022301096",
+    "game_date": "2024-04-02",
+    "team": "NYK",
+    "matchup": "NYK @ MIA"
+  },
+  {
+    "game_id": "0022301093",
+    "game_date": "2024-04-02",
+    "team": "OKC",
+    "matchup": "OKC @ PHI"
+  },
+  {
+    "game_id": "0022301105",
+    "game_date": "2024-04-03",
+    "team": "OKC",
+    "matchup": "OKC @ BOS"
+  },
+  {
+    "game_id": "0022301107",
+    "game_date": "2024-04-03",
+    "team": "MEM",
+    "matchup": "MEM @ MIL"
+  },
+  {
+    "game_id": "0022301104",
+    "game_date": "2024-04-03",
+    "team": "ATL",
+    "matchup": "ATL vs. DET"
+  },
+  {
+    "game_id": "0022301124",
+    "game_date": "2024-04-04",
+    "team": "DAL",
+    "matchup": "DAL vs. ATL"
+  },
+  {
+    "game_id": "0022301124",
+    "game_date": "2024-04-04",
+    "team": "ATL",
+    "matchup": "ATL @ DAL"
+  },
+  {
+    "game_id": "0022301112",
+    "game_date": "2024-04-04",
+    "team": "SAC",
+    "matchup": "SAC @ NYK"
+  },
+  {
+    "game_id": "0022301112",
+    "game_date": "2024-04-04",
+    "team": "NYK",
+    "matchup": "NYK vs. SAC"
+  },
+  {
+    "game_id": "0022301118",
+    "game_date": "2024-04-05",
+    "team": "SAC",
+    "matchup": "SAC @ BOS"
+  },
+  {
+    "game_id": "0022301119",
+    "game_date": "2024-04-05",
+    "team": "NYK",
+    "matchup": "NYK @ CHI"
+  },
+  {
+    "game_id": "0022301097",
+    "game_date": "2024-04-05",
+    "team": "DAL",
+    "matchup": "DAL vs. GSW"
+  },
+  {
+    "game_id": "0022301116",
+    "game_date": "2024-04-05",
+    "team": "OKC",
+    "matchup": "OKC @ IND"
+  },
+  {
+    "game_id": "0022301121",
+    "game_date": "2024-04-05",
+    "team": "MEM",
+    "matchup": "MEM vs. DET"
+  },
+  {
+    "game_id": "0022301130",
+    "game_date": "2024-04-06",
+    "team": "ATL",
+    "matchup": "ATL @ DEN"
+  },
+  {
+    "game_id": "0022301129",
+    "game_date": "2024-04-06",
+    "team": "MEM",
+    "matchup": "MEM vs. PHI"
+  },
+  {
+    "game_id": "0022301131",
+    "game_date": "2024-04-07",
+    "team": "DAL",
+    "matchup": "DAL vs. HOU"
+  },
+  {
+    "game_id": "0022301139",
+    "game_date": "2024-04-07",
+    "team": "NYK",
+    "matchup": "NYK @ MIL"
+  },
+  {
+    "game_id": "0022301141",
+    "game_date": "2024-04-07",
+    "team": "SAC",
+    "matchup": "SAC @ BKN"
+  },
+  {
+    "game_id": "0022301135",
+    "game_date": "2024-04-07",
+    "team": "OKC",
+    "matchup": "OKC @ CHA"
+  },
+  {
+    "game_id": "0022301149",
+    "game_date": "2024-04-09",
+    "team": "NYK",
+    "matchup": "NYK @ CHI"
+  },
+  {
+    "game_id": "0022301147",
+    "game_date": "2024-04-09",
+    "team": "ATL",
+    "matchup": "ATL vs. MIA"
+  },
+  {
+    "game_id": "0022301153",
+    "game_date": "2024-04-09",
+    "team": "OKC",
+    "matchup": "OKC vs. SAC"
+  },
+  {
+    "game_id": "0022301151",
+    "game_date": "2024-04-09",
+    "team": "MEM",
+    "matchup": "MEM vs. SAS"
+  },
+  {
+    "game_id": "0022301153",
+    "game_date": "2024-04-09",
+    "team": "SAC",
+    "matchup": "SAC @ OKC"
+  },
+  {
+    "game_id": "0022301144",
+    "game_date": "2024-04-09",
+    "team": "DAL",
+    "matchup": "DAL @ CHA"
+  },
+  {
+    "game_id": "0022301158",
+    "game_date": "2024-04-10",
+    "team": "MEM",
+    "matchup": "MEM @ CLE"
+  },
+  {
+    "game_id": "0022301161",
+    "game_date": "2024-04-10",
+    "team": "DAL",
+    "matchup": "DAL @ MIA"
+  },
+  {
+    "game_id": "0022301163",
+    "game_date": "2024-04-10",
+    "team": "OKC",
+    "matchup": "OKC vs. SAS"
+  },
+  {
+    "game_id": "0022301159",
+    "game_date": "2024-04-10",
+    "team": "ATL",
+    "matchup": "ATL vs. CHA"
+  },
+  {
+    "game_id": "0022301167",
+    "game_date": "2024-04-11",
+    "team": "NYK",
+    "matchup": "NYK @ BOS"
+  },
+  {
+    "game_id": "0022301170",
+    "game_date": "2024-04-11",
+    "team": "SAC",
+    "matchup": "SAC vs. NOP"
+  },
+  {
+    "game_id": "0022301177",
+    "game_date": "2024-04-12",
+    "team": "MEM",
+    "matchup": "MEM vs. LAL"
+  },
+  {
+    "game_id": "0022301179",
+    "game_date": "2024-04-12",
+    "team": "OKC",
+    "matchup": "OKC vs. MIL"
+  },
+  {
+    "game_id": "0022301178",
+    "game_date": "2024-04-12",
+    "team": "ATL",
+    "matchup": "ATL @ MIN"
+  },
+  {
+    "game_id": "0022301175",
+    "game_date": "2024-04-12",
+    "team": "NYK",
+    "matchup": "NYK vs. BKN"
+  },
+  {
+    "game_id": "0022301185",
+    "game_date": "2024-04-12",
+    "team": "SAC",
+    "matchup": "SAC vs. PHX"
+  },
+  {
+    "game_id": "0022301181",
+    "game_date": "2024-04-12",
+    "team": "DAL",
+    "matchup": "DAL vs. DET"
+  },
+  {
+    "game_id": "0022301190",
+    "game_date": "2024-04-14",
+    "team": "NYK",
+    "matchup": "NYK vs. CHI"
+  },
+  {
+    "game_id": "0022301196",
+    "game_date": "2024-04-14",
+    "team": "OKC",
+    "matchup": "OKC vs. DAL"
+  },
+  {
+    "game_id": "0022301193",
+    "game_date": "2024-04-14",
+    "team": "MEM",
+    "matchup": "MEM vs. DEN"
+  },
+  {
+    "game_id": "0022301188",
+    "game_date": "2024-04-14",
+    "team": "ATL",
+    "matchup": "ATL @ IND"
+  },
+  {
+    "game_id": "0022301200",
+    "game_date": "2024-04-14",
+    "team": "SAC",
+    "matchup": "SAC vs. POR"
+  },
+  {
+    "game_id": "0022301196",
+    "game_date": "2024-04-14",
+    "team": "DAL",
+    "matchup": "DAL @ OKC"
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "proposed_prediction_teams": [
+    "BKN",
+    "CHA",
+    "CHI",
+    "GSW",
+    "HOU",
+    "IND",
+    "LAC",
+    "LAL",
+    "MIA",
+    "MIL",
+    "MIN",
+    "NOP",
+    "PHX",
+    "POR",
+    "TOR",
+    "UTA",
+    "WAS"
+  ],
+  "team_count": 17,
+  "index_dates": [
+    "2024-01-01",
+    "2024-02-18"
+  ],
+  "scope": "All remaining17 teams as one fixed development collection phase; no event-count stopping; separate future preregistration required",
+  "uncached_core_game_page_book_requests": 122,
+  "additional_daily_dated_queries_upper": 1071,
+  "estimated_new_core_raw_bytes_range": [
+    18300000,
+    85400000
+  ],
+  "targeted_transfer_requests": "Additional bounded actual-member requests; most source games already cached, exact ledger established before acquisition",
+  "estimated_agent_review_hours": [
+    15,
+    30
+  ],
+  "estimated_independent_human_adjudication_hours": [
+    8,
+    16
+  ],
+  "estimates_not_measured_work": true,
+  "not_collected": true
+}

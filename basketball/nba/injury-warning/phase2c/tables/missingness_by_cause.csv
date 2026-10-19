@@ -1,0 +1,11 @@
+extra_lag_days,cause,rows,nonexclusive
+0,eligibility_report_submission_or_source_gap,42,True
+0,incomplete_actual_team_severity_followup,35,True
+0,membership_or_bounded_onset_surveillance_gap,40,True
+0,unobserved_prior_NBA_membership_or_game_history,43,True
+0,unresolved_event_identity_attribution_anchor_or_bound,64,True
+1,eligibility_report_submission_or_source_gap,86,True
+1,incomplete_actual_team_severity_followup,34,True
+1,membership_or_bounded_onset_surveillance_gap,42,True
+1,unobserved_prior_NBA_membership_or_game_history,41,True
+1,unresolved_event_identity_attribution_anchor_or_bound,65,True

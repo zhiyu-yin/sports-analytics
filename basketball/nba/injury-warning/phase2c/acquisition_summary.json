@@ -1,0 +1,10 @@
+{
+  "request_catalog_unique": 1432,
+  "cached_reused": 1368,
+  "new_requests": 64,
+  "new_status": {
+    "obtained": 1032,
+    "failed": 6
+  },
+  "last_acquisition_elapsed_seconds": 9.55
+}

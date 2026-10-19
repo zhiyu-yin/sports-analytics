@@ -1,0 +1,9 @@
+scope,extra_lag_days,distinct_membership_inventory_players,contract_only_unobserved_players,team_game_exposures,distinct_physical_games,distinct_roster_players,distinct_recently_active_players,candidate_appearances,included,excluded,eligibility_unknown,positive,negative,outcome_unknown,distinct_qualifying_events,distinct_event_players,events_with_eligible_preceding_prediction,B_feature_rows,A_verified_rows,A_original_publication_unresolved_rows,missing_workload,onset_surveillance_gaps,severity_followup_gaps
+new_six_phase2c,0,126,2,138,126,124,112,1454,1398,14,42,46,1288,64,13,12,12,1398,0,1398,43,40,35
+new_six_phase2c,1,126,2,138,126,124,112,1454,1341,27,86,41,1235,65,13,12,11,1341,0,1341,41,42,34
+first_six_audited_phase2b,0,122,0,132,117,122,108,1452,1425,12,15,11,1285,129,6,6,5,1425,0,1425,13,60,82
+first_six_audited_phase2b,1,122,0,132,117,122,108,1452,1359,13,80,11,1224,124,6,6,5,1359,0,1359,13,57,83
+Boston_prior,0,19,0,23,23,19,16,246,244,2,0,0,244,0,0,0,0,244,0,244,0,0,0
+Boston_prior,1,19,0,23,23,19,16,246,234,2,10,0,234,0,0,0,0,234,0,234,0,0,0
+combined_development,0,257,2,293,232,255,230,3152,3067,28,57,57,2817,193,19,18,17,3067,0,3067,56,100,117
+combined_development,1,257,2,293,232,255,230,3152,2934,42,176,52,2693,189,19,18,16,2934,0,2934,54,99,117

@@ -1,0 +1,13 @@
+{
+  "test_command": "PYTHONPATH=basketball/nba/injury-warning/src:basketball/nba/injury-warning python3 -m unittest discover -s basketball/nba/injury-warning/tests -q",
+  "tests_run": 100,
+  "result": "OK",
+  "negative_original_source_reread_rows": 60,
+  "independent_human_reviews": 0,
+  "prior_versioned_module_files_hash_verified": 300,
+  "models_trained": 0,
+  "protected_holdouts_opened": false,
+  "privacy_scan": "No raw PDF/HTML, credentials signatures, private keys or files above50MB in checkpoint scope",
+  "root_readme_sha256_unchanged": "b9a0a38563ece5c86d466e6f1f38b5378890981cec4c0ff965c1dd373ecc6992",
+  "sampling_commit": "f0cb5342fe7c812342fa0f1ae5f499fc3eef1ed5"
+}

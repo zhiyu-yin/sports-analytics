@@ -1,0 +1,38 @@
+[
+  {
+    "source_id": "c_vezenkov_return",
+    "required_fragments": [
+      "22 games",
+      "MARCH 31, 2024"
+    ]
+  },
+  {
+    "source_id": "c_rose_return",
+    "required_fragments": [
+      "15-game",
+      "FEBRUARY 2, 2024"
+    ]
+  },
+  {
+    "source_id": "c_rose_march_coach",
+    "required_fragments": [
+      "2024-03-29",
+      "March 5",
+      "lower back"
+    ]
+  },
+  {
+    "source_id": "c_smart_medical",
+    "required_fragments": [
+      "January 9",
+      "six weeks"
+    ]
+  },
+  {
+    "source_id": "c_morant_medical",
+    "required_fragments": [
+      "training",
+      "labral"
+    ]
+  }
+]

@@ -1,0 +1,1076 @@
+[
+  {
+    "team": "BKN",
+    "date": "2024-03-02",
+    "q": "site:nba.com \"BrooklynNets\" \"March 2, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "BKN",
+    "date": "2024-03-03",
+    "q": "site:nba.com \"BrooklynNets\" \"March 3, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "BOS",
+    "date": "2024-01-01",
+    "q": "site:nba.com \"BostonCeltics\" \"January 1, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "BOS",
+    "date": "2024-01-02",
+    "q": "site:nba.com \"BostonCeltics\" \"January 2, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "BOS",
+    "date": "2024-01-03",
+    "q": "site:nba.com \"BostonCeltics\" \"January 3, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "BOS",
+    "date": "2024-01-04",
+    "q": "site:nba.com \"BostonCeltics\" \"January 4, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "BOS",
+    "date": "2024-01-05",
+    "q": "site:nba.com \"BostonCeltics\" \"January 5, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "BOS",
+    "date": "2024-01-06",
+    "q": "site:nba.com \"BostonCeltics\" \"January 6, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "BOS",
+    "date": "2024-01-07",
+    "q": "site:nba.com \"BostonCeltics\" \"January 7, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "BOS",
+    "date": "2024-01-08",
+    "q": "site:nba.com \"BostonCeltics\" \"January 8, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "BOS",
+    "date": "2024-01-09",
+    "q": "site:nba.com \"BostonCeltics\" \"January 9, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "BOS",
+    "date": "2024-01-10",
+    "q": "site:nba.com \"BostonCeltics\" \"January 10, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "BOS",
+    "date": "2024-01-11",
+    "q": "site:nba.com \"BostonCeltics\" \"January 11, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "BOS",
+    "date": "2024-01-12",
+    "q": "site:nba.com \"BostonCeltics\" \"January 12, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "BOS",
+    "date": "2024-01-13",
+    "q": "site:nba.com \"BostonCeltics\" \"January 13, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "BOS",
+    "date": "2024-01-14",
+    "q": "site:nba.com \"BostonCeltics\" \"January 14, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "BOS",
+    "date": "2024-01-15",
+    "q": "site:nba.com \"BostonCeltics\" \"January 15, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "BOS",
+    "date": "2024-01-16",
+    "q": "site:nba.com \"BostonCeltics\" \"January 16, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "BOS",
+    "date": "2024-01-17",
+    "q": "site:nba.com \"BostonCeltics\" \"January 17, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "BOS",
+    "date": "2024-01-18",
+    "q": "site:nba.com \"BostonCeltics\" \"January 18, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "BOS",
+    "date": "2024-01-19",
+    "q": "site:nba.com \"BostonCeltics\" \"January 19, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "BOS",
+    "date": "2024-01-20",
+    "q": "site:nba.com \"BostonCeltics\" \"January 20, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "BOS",
+    "date": "2024-01-21",
+    "q": "site:nba.com \"BostonCeltics\" \"January 21, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "BOS",
+    "date": "2024-01-22",
+    "q": "site:nba.com \"BostonCeltics\" \"January 22, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "BOS",
+    "date": "2024-01-23",
+    "q": "site:nba.com \"BostonCeltics\" \"January 23, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "BOS",
+    "date": "2024-01-24",
+    "q": "site:nba.com \"BostonCeltics\" \"January 24, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "BOS",
+    "date": "2024-01-25",
+    "q": "site:nba.com \"BostonCeltics\" \"January 25, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "BOS",
+    "date": "2024-01-26",
+    "q": "site:nba.com \"BostonCeltics\" \"January 26, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "BOS",
+    "date": "2024-01-27",
+    "q": "site:nba.com \"BostonCeltics\" \"January 27, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "BOS",
+    "date": "2024-01-28",
+    "q": "site:nba.com \"BostonCeltics\" \"January 28, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "BOS",
+    "date": "2024-01-29",
+    "q": "site:nba.com \"BostonCeltics\" \"January 29, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "BOS",
+    "date": "2024-01-30",
+    "q": "site:nba.com \"BostonCeltics\" \"January 30, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "BOS",
+    "date": "2024-01-31",
+    "q": "site:nba.com \"BostonCeltics\" \"January 31, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "BOS",
+    "date": "2024-02-01",
+    "q": "site:nba.com \"BostonCeltics\" \"February 1, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "BOS",
+    "date": "2024-02-02",
+    "q": "site:nba.com \"BostonCeltics\" \"February 2, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "BOS",
+    "date": "2024-02-03",
+    "q": "site:nba.com \"BostonCeltics\" \"February 3, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "BOS",
+    "date": "2024-02-04",
+    "q": "site:nba.com \"BostonCeltics\" \"February 4, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "BOS",
+    "date": "2024-02-05",
+    "q": "site:nba.com \"BostonCeltics\" \"February 5, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "BOS",
+    "date": "2024-02-06",
+    "q": "site:nba.com \"BostonCeltics\" \"February 6, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "BOS",
+    "date": "2024-02-07",
+    "q": "site:nba.com \"BostonCeltics\" \"February 7, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-01-01",
+    "q": "site:nba.com \"CharlotteHornets\" \"January 1, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-01-02",
+    "q": "site:nba.com \"CharlotteHornets\" \"January 2, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-01-03",
+    "q": "site:nba.com \"CharlotteHornets\" \"January 3, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-01-04",
+    "q": "site:nba.com \"CharlotteHornets\" \"January 4, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-01-05",
+    "q": "site:nba.com \"CharlotteHornets\" \"January 5, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-01-06",
+    "q": "site:nba.com \"CharlotteHornets\" \"January 6, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-01-07",
+    "q": "site:nba.com \"CharlotteHornets\" \"January 7, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-01-08",
+    "q": "site:nba.com \"CharlotteHornets\" \"January 8, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-01-09",
+    "q": "site:nba.com \"CharlotteHornets\" \"January 9, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-01-10",
+    "q": "site:nba.com \"CharlotteHornets\" \"January 10, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-01-11",
+    "q": "site:nba.com \"CharlotteHornets\" \"January 11, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-01-12",
+    "q": "site:nba.com \"CharlotteHornets\" \"January 12, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-01-13",
+    "q": "site:nba.com \"CharlotteHornets\" \"January 13, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-01-14",
+    "q": "site:nba.com \"CharlotteHornets\" \"January 14, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-01-15",
+    "q": "site:nba.com \"CharlotteHornets\" \"January 15, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-01-16",
+    "q": "site:nba.com \"CharlotteHornets\" \"January 16, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-01-17",
+    "q": "site:nba.com \"CharlotteHornets\" \"January 17, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-01-18",
+    "q": "site:nba.com \"CharlotteHornets\" \"January 18, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-01-19",
+    "q": "site:nba.com \"CharlotteHornets\" \"January 19, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-01-20",
+    "q": "site:nba.com \"CharlotteHornets\" \"January 20, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-01-21",
+    "q": "site:nba.com \"CharlotteHornets\" \"January 21, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-01-22",
+    "q": "site:nba.com \"CharlotteHornets\" \"January 22, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-01-23",
+    "q": "site:nba.com \"CharlotteHornets\" \"January 23, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-01-24",
+    "q": "site:nba.com \"CharlotteHornets\" \"January 24, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-01-25",
+    "q": "site:nba.com \"CharlotteHornets\" \"January 25, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-01-26",
+    "q": "site:nba.com \"CharlotteHornets\" \"January 26, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-01-27",
+    "q": "site:nba.com \"CharlotteHornets\" \"January 27, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-01-28",
+    "q": "site:nba.com \"CharlotteHornets\" \"January 28, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-01-29",
+    "q": "site:nba.com \"CharlotteHornets\" \"January 29, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-01-30",
+    "q": "site:nba.com \"CharlotteHornets\" \"January 30, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-01-31",
+    "q": "site:nba.com \"CharlotteHornets\" \"January 31, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-02-01",
+    "q": "site:nba.com \"CharlotteHornets\" \"February 1, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-02-02",
+    "q": "site:nba.com \"CharlotteHornets\" \"February 2, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-02-03",
+    "q": "site:nba.com \"CharlotteHornets\" \"February 3, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-02-04",
+    "q": "site:nba.com \"CharlotteHornets\" \"February 4, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-02-05",
+    "q": "site:nba.com \"CharlotteHornets\" \"February 5, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-02-06",
+    "q": "site:nba.com \"CharlotteHornets\" \"February 6, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-02-07",
+    "q": "site:nba.com \"CharlotteHornets\" \"February 7, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-02-08",
+    "q": "site:nba.com \"CharlotteHornets\" \"February 8, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-02-09",
+    "q": "site:nba.com \"CharlotteHornets\" \"February 9, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-02-10",
+    "q": "site:nba.com \"CharlotteHornets\" \"February 10, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-02-11",
+    "q": "site:nba.com \"CharlotteHornets\" \"February 11, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-02-12",
+    "q": "site:nba.com \"CharlotteHornets\" \"February 12, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-02-13",
+    "q": "site:nba.com \"CharlotteHornets\" \"February 13, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-02-14",
+    "q": "site:nba.com \"CharlotteHornets\" \"February 14, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-02-15",
+    "q": "site:nba.com \"CharlotteHornets\" \"February 15, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-02-16",
+    "q": "site:nba.com \"CharlotteHornets\" \"February 16, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-02-17",
+    "q": "site:nba.com \"CharlotteHornets\" \"February 17, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-02-18",
+    "q": "site:nba.com \"CharlotteHornets\" \"February 18, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-02-19",
+    "q": "site:nba.com \"CharlotteHornets\" \"February 19, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-02-20",
+    "q": "site:nba.com \"CharlotteHornets\" \"February 20, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-02-21",
+    "q": "site:nba.com \"CharlotteHornets\" \"February 21, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-02-22",
+    "q": "site:nba.com \"CharlotteHornets\" \"February 22, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-02-23",
+    "q": "site:nba.com \"CharlotteHornets\" \"February 23, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-02-24",
+    "q": "site:nba.com \"CharlotteHornets\" \"February 24, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-02-25",
+    "q": "site:nba.com \"CharlotteHornets\" \"February 25, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-02-26",
+    "q": "site:nba.com \"CharlotteHornets\" \"February 26, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-02-27",
+    "q": "site:nba.com \"CharlotteHornets\" \"February 27, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-02-28",
+    "q": "site:nba.com \"CharlotteHornets\" \"February 28, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-02-29",
+    "q": "site:nba.com \"CharlotteHornets\" \"February 29, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-03-01",
+    "q": "site:nba.com \"CharlotteHornets\" \"March 1, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-03-02",
+    "q": "site:nba.com \"CharlotteHornets\" \"March 2, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "CHA",
+    "date": "2024-03-03",
+    "q": "site:nba.com \"CharlotteHornets\" \"March 3, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-01-01",
+    "q": "site:nba.com \"PhoenixSuns\" \"January 1, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-01-02",
+    "q": "site:nba.com \"PhoenixSuns\" \"January 2, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-01-03",
+    "q": "site:nba.com \"PhoenixSuns\" \"January 3, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-01-04",
+    "q": "site:nba.com \"PhoenixSuns\" \"January 4, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-01-05",
+    "q": "site:nba.com \"PhoenixSuns\" \"January 5, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-01-06",
+    "q": "site:nba.com \"PhoenixSuns\" \"January 6, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-01-07",
+    "q": "site:nba.com \"PhoenixSuns\" \"January 7, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-01-08",
+    "q": "site:nba.com \"PhoenixSuns\" \"January 8, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-01-09",
+    "q": "site:nba.com \"PhoenixSuns\" \"January 9, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-01-10",
+    "q": "site:nba.com \"PhoenixSuns\" \"January 10, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-01-11",
+    "q": "site:nba.com \"PhoenixSuns\" \"January 11, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-01-12",
+    "q": "site:nba.com \"PhoenixSuns\" \"January 12, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-01-13",
+    "q": "site:nba.com \"PhoenixSuns\" \"January 13, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-01-14",
+    "q": "site:nba.com \"PhoenixSuns\" \"January 14, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-01-15",
+    "q": "site:nba.com \"PhoenixSuns\" \"January 15, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-01-16",
+    "q": "site:nba.com \"PhoenixSuns\" \"January 16, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-01-17",
+    "q": "site:nba.com \"PhoenixSuns\" \"January 17, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-01-18",
+    "q": "site:nba.com \"PhoenixSuns\" \"January 18, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-01-19",
+    "q": "site:nba.com \"PhoenixSuns\" \"January 19, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-01-20",
+    "q": "site:nba.com \"PhoenixSuns\" \"January 20, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-01-21",
+    "q": "site:nba.com \"PhoenixSuns\" \"January 21, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-01-22",
+    "q": "site:nba.com \"PhoenixSuns\" \"January 22, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-01-23",
+    "q": "site:nba.com \"PhoenixSuns\" \"January 23, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-01-24",
+    "q": "site:nba.com \"PhoenixSuns\" \"January 24, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-01-25",
+    "q": "site:nba.com \"PhoenixSuns\" \"January 25, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-01-26",
+    "q": "site:nba.com \"PhoenixSuns\" \"January 26, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-01-27",
+    "q": "site:nba.com \"PhoenixSuns\" \"January 27, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-01-28",
+    "q": "site:nba.com \"PhoenixSuns\" \"January 28, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-01-29",
+    "q": "site:nba.com \"PhoenixSuns\" \"January 29, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-01-30",
+    "q": "site:nba.com \"PhoenixSuns\" \"January 30, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-01-31",
+    "q": "site:nba.com \"PhoenixSuns\" \"January 31, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-02-01",
+    "q": "site:nba.com \"PhoenixSuns\" \"February 1, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-02-02",
+    "q": "site:nba.com \"PhoenixSuns\" \"February 2, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-02-03",
+    "q": "site:nba.com \"PhoenixSuns\" \"February 3, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-02-04",
+    "q": "site:nba.com \"PhoenixSuns\" \"February 4, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-02-05",
+    "q": "site:nba.com \"PhoenixSuns\" \"February 5, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-02-06",
+    "q": "site:nba.com \"PhoenixSuns\" \"February 6, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-02-07",
+    "q": "site:nba.com \"PhoenixSuns\" \"February 7, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-02-08",
+    "q": "site:nba.com \"PhoenixSuns\" \"February 8, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-02-09",
+    "q": "site:nba.com \"PhoenixSuns\" \"February 9, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-02-10",
+    "q": "site:nba.com \"PhoenixSuns\" \"February 10, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-02-11",
+    "q": "site:nba.com \"PhoenixSuns\" \"February 11, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-02-12",
+    "q": "site:nba.com \"PhoenixSuns\" \"February 12, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-02-13",
+    "q": "site:nba.com \"PhoenixSuns\" \"February 13, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-02-14",
+    "q": "site:nba.com \"PhoenixSuns\" \"February 14, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-02-15",
+    "q": "site:nba.com \"PhoenixSuns\" \"February 15, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-02-16",
+    "q": "site:nba.com \"PhoenixSuns\" \"February 16, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-02-17",
+    "q": "site:nba.com \"PhoenixSuns\" \"February 17, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-02-18",
+    "q": "site:nba.com \"PhoenixSuns\" \"February 18, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-02-19",
+    "q": "site:nba.com \"PhoenixSuns\" \"February 19, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-02-20",
+    "q": "site:nba.com \"PhoenixSuns\" \"February 20, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-02-21",
+    "q": "site:nba.com \"PhoenixSuns\" \"February 21, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-02-22",
+    "q": "site:nba.com \"PhoenixSuns\" \"February 22, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-02-23",
+    "q": "site:nba.com \"PhoenixSuns\" \"February 23, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-02-24",
+    "q": "site:nba.com \"PhoenixSuns\" \"February 24, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-02-25",
+    "q": "site:nba.com \"PhoenixSuns\" \"February 25, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-02-26",
+    "q": "site:nba.com \"PhoenixSuns\" \"February 26, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-02-27",
+    "q": "site:nba.com \"PhoenixSuns\" \"February 27, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-02-28",
+    "q": "site:nba.com \"PhoenixSuns\" \"February 28, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-02-29",
+    "q": "site:nba.com \"PhoenixSuns\" \"February 29, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-03-01",
+    "q": "site:nba.com \"PhoenixSuns\" \"March 1, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-03-02",
+    "q": "site:nba.com \"PhoenixSuns\" \"March 2, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "PHX",
+    "date": "2024-03-03",
+    "q": "site:nba.com \"PhoenixSuns\" \"March 3, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "WAS",
+    "date": "2024-01-01",
+    "q": "site:nba.com \"WashingtonWizards\" \"January 1, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "WAS",
+    "date": "2024-01-02",
+    "q": "site:nba.com \"WashingtonWizards\" \"January 2, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "WAS",
+    "date": "2024-01-03",
+    "q": "site:nba.com \"WashingtonWizards\" \"January 3, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "WAS",
+    "date": "2024-01-04",
+    "q": "site:nba.com \"WashingtonWizards\" \"January 4, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "WAS",
+    "date": "2024-01-05",
+    "q": "site:nba.com \"WashingtonWizards\" \"January 5, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "WAS",
+    "date": "2024-01-06",
+    "q": "site:nba.com \"WashingtonWizards\" \"January 6, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "WAS",
+    "date": "2024-01-07",
+    "q": "site:nba.com \"WashingtonWizards\" \"January 7, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "WAS",
+    "date": "2024-01-08",
+    "q": "site:nba.com \"WashingtonWizards\" \"January 8, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "WAS",
+    "date": "2024-01-09",
+    "q": "site:nba.com \"WashingtonWizards\" \"January 9, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "WAS",
+    "date": "2024-01-10",
+    "q": "site:nba.com \"WashingtonWizards\" \"January 10, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "WAS",
+    "date": "2024-01-11",
+    "q": "site:nba.com \"WashingtonWizards\" \"January 11, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "WAS",
+    "date": "2024-01-12",
+    "q": "site:nba.com \"WashingtonWizards\" \"January 12, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  },
+  {
+    "team": "WAS",
+    "date": "2024-01-13",
+    "q": "site:nba.com \"WashingtonWizards\" \"January 13, 2024\" injury status recap",
+    "scope": "targeted_actual_member_onset_surveillance"
+  }
+]

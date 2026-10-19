@@ -1,0 +1,39 @@
+{
+  "actual_new_http_requests": 1041,
+  "actual_http_status": {
+    "obtained": 1035,
+    "failed": 6
+  },
+  "new_request_bytes": 321132389,
+  "source_catalog_unique": 1432,
+  "catalog_prior_cache_reused": 1044,
+  "catalog_without_new_attempt": 394,
+  "intrabatch_duplicate_url_attempts": 1,
+  "redundant_http_requests_from_adapter_bug": 650,
+  "actual_new_search_queries": 557,
+  "new_search_call_receipts": 140,
+  "reused_executed_target_queries": 138,
+  "manual_supplemental_search_effort": "Additional targeted interactive contract/continuity lookups performed; not instrumented as fixed dated searches; no invented elapsed review time",
+  "agent_adjudication": {
+    "recap_cards": 285,
+    "prior_team_cards": 8,
+    "negative_rows": 60,
+    "independent_human_reviews": 0
+  },
+  "current_pipeline_parsing": {
+    "team_game_records": 813,
+    "player_game_records": 7642,
+    "distinct_players": 143,
+    "parsed_reports": 107,
+    "search_queries": 695,
+    "elapsed_seconds": 132.61
+  },
+  "clock_audit": {
+    "acquired_game_pages": 889,
+    "book_checks": 889,
+    "formats": {
+      "verified_NBA_Eastern_wall_clock_stale_EST_label; nearest_scheduled_UTC_date; minute_interval": 889
+    },
+    "unresolved": 0
+  }
+}

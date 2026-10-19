@@ -1,0 +1,2270 @@
+[
+  {
+    "team": "ATL",
+    "date": "2024-01-01",
+    "q": "site:nba.com \"Atlanta Hawks\" \"January 1, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-01-02",
+    "q": "site:nba.com \"Atlanta Hawks\" \"January 2, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-01-03",
+    "q": "site:nba.com \"Atlanta Hawks\" \"January 3, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-01-04",
+    "q": "site:nba.com \"Atlanta Hawks\" \"January 4, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-01-05",
+    "q": "site:nba.com \"Atlanta Hawks\" \"January 5, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-01-06",
+    "q": "site:nba.com \"Atlanta Hawks\" \"January 6, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-01-07",
+    "q": "site:nba.com \"Atlanta Hawks\" \"January 7, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-01-08",
+    "q": "site:nba.com \"Atlanta Hawks\" \"January 8, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-01-09",
+    "q": "site:nba.com \"Atlanta Hawks\" \"January 9, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-01-10",
+    "q": "site:nba.com \"Atlanta Hawks\" \"January 10, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-01-11",
+    "q": "site:nba.com \"Atlanta Hawks\" \"January 11, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-01-12",
+    "q": "site:nba.com \"Atlanta Hawks\" \"January 12, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-01-13",
+    "q": "site:nba.com \"Atlanta Hawks\" \"January 13, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-01-14",
+    "q": "site:nba.com \"Atlanta Hawks\" \"January 14, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-01-15",
+    "q": "site:nba.com \"Atlanta Hawks\" \"January 15, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-01-16",
+    "q": "site:nba.com \"Atlanta Hawks\" \"January 16, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-01-17",
+    "q": "site:nba.com \"Atlanta Hawks\" \"January 17, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-01-18",
+    "q": "site:nba.com \"Atlanta Hawks\" \"January 18, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-01-19",
+    "q": "site:nba.com \"Atlanta Hawks\" \"January 19, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-01-20",
+    "q": "site:nba.com \"Atlanta Hawks\" \"January 20, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-01-21",
+    "q": "site:nba.com \"Atlanta Hawks\" \"January 21, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-01-22",
+    "q": "site:nba.com \"Atlanta Hawks\" \"January 22, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-01-23",
+    "q": "site:nba.com \"Atlanta Hawks\" \"January 23, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-01-24",
+    "q": "site:nba.com \"Atlanta Hawks\" \"January 24, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-01-25",
+    "q": "site:nba.com \"Atlanta Hawks\" \"January 25, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-01-26",
+    "q": "site:nba.com \"Atlanta Hawks\" \"January 26, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-01-27",
+    "q": "site:nba.com \"Atlanta Hawks\" \"January 27, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-01-28",
+    "q": "site:nba.com \"Atlanta Hawks\" \"January 28, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-01-29",
+    "q": "site:nba.com \"Atlanta Hawks\" \"January 29, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-01-30",
+    "q": "site:nba.com \"Atlanta Hawks\" \"January 30, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-01-31",
+    "q": "site:nba.com \"Atlanta Hawks\" \"January 31, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-02-01",
+    "q": "site:nba.com \"Atlanta Hawks\" \"February 1, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-02-02",
+    "q": "site:nba.com \"Atlanta Hawks\" \"February 2, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-02-03",
+    "q": "site:nba.com \"Atlanta Hawks\" \"February 3, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-02-04",
+    "q": "site:nba.com \"Atlanta Hawks\" \"February 4, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-02-05",
+    "q": "site:nba.com \"Atlanta Hawks\" \"February 5, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-02-06",
+    "q": "site:nba.com \"Atlanta Hawks\" \"February 6, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-02-07",
+    "q": "site:nba.com \"Atlanta Hawks\" \"February 7, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-02-08",
+    "q": "site:nba.com \"Atlanta Hawks\" \"February 8, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-02-09",
+    "q": "site:nba.com \"Atlanta Hawks\" \"February 9, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-02-10",
+    "q": "site:nba.com \"Atlanta Hawks\" \"February 10, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-02-11",
+    "q": "site:nba.com \"Atlanta Hawks\" \"February 11, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-02-12",
+    "q": "site:nba.com \"Atlanta Hawks\" \"February 12, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-02-13",
+    "q": "site:nba.com \"Atlanta Hawks\" \"February 13, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-02-14",
+    "q": "site:nba.com \"Atlanta Hawks\" \"February 14, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-02-15",
+    "q": "site:nba.com \"Atlanta Hawks\" \"February 15, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-02-16",
+    "q": "site:nba.com \"Atlanta Hawks\" \"February 16, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-02-17",
+    "q": "site:nba.com \"Atlanta Hawks\" \"February 17, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-02-18",
+    "q": "site:nba.com \"Atlanta Hawks\" \"February 18, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-02-19",
+    "q": "site:nba.com \"Atlanta Hawks\" \"February 19, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-02-20",
+    "q": "site:nba.com \"Atlanta Hawks\" \"February 20, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-02-21",
+    "q": "site:nba.com \"Atlanta Hawks\" \"February 21, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-02-22",
+    "q": "site:nba.com \"Atlanta Hawks\" \"February 22, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-02-23",
+    "q": "site:nba.com \"Atlanta Hawks\" \"February 23, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-02-24",
+    "q": "site:nba.com \"Atlanta Hawks\" \"February 24, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-02-25",
+    "q": "site:nba.com \"Atlanta Hawks\" \"February 25, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-02-26",
+    "q": "site:nba.com \"Atlanta Hawks\" \"February 26, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-02-27",
+    "q": "site:nba.com \"Atlanta Hawks\" \"February 27, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-02-28",
+    "q": "site:nba.com \"Atlanta Hawks\" \"February 28, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-02-29",
+    "q": "site:nba.com \"Atlanta Hawks\" \"February 29, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-03-01",
+    "q": "site:nba.com \"Atlanta Hawks\" \"March 1, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-03-02",
+    "q": "site:nba.com \"Atlanta Hawks\" \"March 2, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "ATL",
+    "date": "2024-03-03",
+    "q": "site:nba.com \"Atlanta Hawks\" \"March 3, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-01-01",
+    "q": "site:nba.com \"Dallas Mavericks\" \"January 1, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-01-02",
+    "q": "site:nba.com \"Dallas Mavericks\" \"January 2, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-01-03",
+    "q": "site:nba.com \"Dallas Mavericks\" \"January 3, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-01-04",
+    "q": "site:nba.com \"Dallas Mavericks\" \"January 4, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-01-05",
+    "q": "site:nba.com \"Dallas Mavericks\" \"January 5, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-01-06",
+    "q": "site:nba.com \"Dallas Mavericks\" \"January 6, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-01-07",
+    "q": "site:nba.com \"Dallas Mavericks\" \"January 7, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-01-08",
+    "q": "site:nba.com \"Dallas Mavericks\" \"January 8, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-01-09",
+    "q": "site:nba.com \"Dallas Mavericks\" \"January 9, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-01-10",
+    "q": "site:nba.com \"Dallas Mavericks\" \"January 10, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-01-11",
+    "q": "site:nba.com \"Dallas Mavericks\" \"January 11, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-01-12",
+    "q": "site:nba.com \"Dallas Mavericks\" \"January 12, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-01-13",
+    "q": "site:nba.com \"Dallas Mavericks\" \"January 13, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-01-14",
+    "q": "site:nba.com \"Dallas Mavericks\" \"January 14, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-01-15",
+    "q": "site:nba.com \"Dallas Mavericks\" \"January 15, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-01-16",
+    "q": "site:nba.com \"Dallas Mavericks\" \"January 16, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-01-17",
+    "q": "site:nba.com \"Dallas Mavericks\" \"January 17, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-01-18",
+    "q": "site:nba.com \"Dallas Mavericks\" \"January 18, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-01-19",
+    "q": "site:nba.com \"Dallas Mavericks\" \"January 19, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-01-20",
+    "q": "site:nba.com \"Dallas Mavericks\" \"January 20, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-01-21",
+    "q": "site:nba.com \"Dallas Mavericks\" \"January 21, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-01-22",
+    "q": "site:nba.com \"Dallas Mavericks\" \"January 22, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-01-23",
+    "q": "site:nba.com \"Dallas Mavericks\" \"January 23, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-01-24",
+    "q": "site:nba.com \"Dallas Mavericks\" \"January 24, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-01-25",
+    "q": "site:nba.com \"Dallas Mavericks\" \"January 25, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-01-26",
+    "q": "site:nba.com \"Dallas Mavericks\" \"January 26, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-01-27",
+    "q": "site:nba.com \"Dallas Mavericks\" \"January 27, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-01-28",
+    "q": "site:nba.com \"Dallas Mavericks\" \"January 28, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-01-29",
+    "q": "site:nba.com \"Dallas Mavericks\" \"January 29, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-01-30",
+    "q": "site:nba.com \"Dallas Mavericks\" \"January 30, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-01-31",
+    "q": "site:nba.com \"Dallas Mavericks\" \"January 31, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-02-01",
+    "q": "site:nba.com \"Dallas Mavericks\" \"February 1, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-02-02",
+    "q": "site:nba.com \"Dallas Mavericks\" \"February 2, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-02-03",
+    "q": "site:nba.com \"Dallas Mavericks\" \"February 3, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-02-04",
+    "q": "site:nba.com \"Dallas Mavericks\" \"February 4, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-02-05",
+    "q": "site:nba.com \"Dallas Mavericks\" \"February 5, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-02-06",
+    "q": "site:nba.com \"Dallas Mavericks\" \"February 6, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-02-07",
+    "q": "site:nba.com \"Dallas Mavericks\" \"February 7, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-02-08",
+    "q": "site:nba.com \"Dallas Mavericks\" \"February 8, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-02-09",
+    "q": "site:nba.com \"Dallas Mavericks\" \"February 9, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-02-10",
+    "q": "site:nba.com \"Dallas Mavericks\" \"February 10, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-02-11",
+    "q": "site:nba.com \"Dallas Mavericks\" \"February 11, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-02-12",
+    "q": "site:nba.com \"Dallas Mavericks\" \"February 12, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-02-13",
+    "q": "site:nba.com \"Dallas Mavericks\" \"February 13, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-02-14",
+    "q": "site:nba.com \"Dallas Mavericks\" \"February 14, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-02-15",
+    "q": "site:nba.com \"Dallas Mavericks\" \"February 15, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-02-16",
+    "q": "site:nba.com \"Dallas Mavericks\" \"February 16, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-02-17",
+    "q": "site:nba.com \"Dallas Mavericks\" \"February 17, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-02-18",
+    "q": "site:nba.com \"Dallas Mavericks\" \"February 18, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-02-19",
+    "q": "site:nba.com \"Dallas Mavericks\" \"February 19, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-02-20",
+    "q": "site:nba.com \"Dallas Mavericks\" \"February 20, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-02-21",
+    "q": "site:nba.com \"Dallas Mavericks\" \"February 21, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-02-22",
+    "q": "site:nba.com \"Dallas Mavericks\" \"February 22, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-02-23",
+    "q": "site:nba.com \"Dallas Mavericks\" \"February 23, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-02-24",
+    "q": "site:nba.com \"Dallas Mavericks\" \"February 24, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-02-25",
+    "q": "site:nba.com \"Dallas Mavericks\" \"February 25, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-02-26",
+    "q": "site:nba.com \"Dallas Mavericks\" \"February 26, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-02-27",
+    "q": "site:nba.com \"Dallas Mavericks\" \"February 27, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-02-28",
+    "q": "site:nba.com \"Dallas Mavericks\" \"February 28, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-02-29",
+    "q": "site:nba.com \"Dallas Mavericks\" \"February 29, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-03-01",
+    "q": "site:nba.com \"Dallas Mavericks\" \"March 1, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-03-02",
+    "q": "site:nba.com \"Dallas Mavericks\" \"March 2, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "DAL",
+    "date": "2024-03-03",
+    "q": "site:nba.com \"Dallas Mavericks\" \"March 3, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-01-01",
+    "q": "site:nba.com \"New York Knicks\" \"January 1, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-01-02",
+    "q": "site:nba.com \"New York Knicks\" \"January 2, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-01-03",
+    "q": "site:nba.com \"New York Knicks\" \"January 3, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-01-04",
+    "q": "site:nba.com \"New York Knicks\" \"January 4, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-01-05",
+    "q": "site:nba.com \"New York Knicks\" \"January 5, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-01-06",
+    "q": "site:nba.com \"New York Knicks\" \"January 6, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-01-07",
+    "q": "site:nba.com \"New York Knicks\" \"January 7, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-01-08",
+    "q": "site:nba.com \"New York Knicks\" \"January 8, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-01-09",
+    "q": "site:nba.com \"New York Knicks\" \"January 9, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-01-10",
+    "q": "site:nba.com \"New York Knicks\" \"January 10, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-01-11",
+    "q": "site:nba.com \"New York Knicks\" \"January 11, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-01-12",
+    "q": "site:nba.com \"New York Knicks\" \"January 12, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-01-13",
+    "q": "site:nba.com \"New York Knicks\" \"January 13, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-01-14",
+    "q": "site:nba.com \"New York Knicks\" \"January 14, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-01-15",
+    "q": "site:nba.com \"New York Knicks\" \"January 15, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-01-16",
+    "q": "site:nba.com \"New York Knicks\" \"January 16, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-01-17",
+    "q": "site:nba.com \"New York Knicks\" \"January 17, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-01-18",
+    "q": "site:nba.com \"New York Knicks\" \"January 18, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-01-19",
+    "q": "site:nba.com \"New York Knicks\" \"January 19, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-01-20",
+    "q": "site:nba.com \"New York Knicks\" \"January 20, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-01-21",
+    "q": "site:nba.com \"New York Knicks\" \"January 21, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-01-22",
+    "q": "site:nba.com \"New York Knicks\" \"January 22, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-01-23",
+    "q": "site:nba.com \"New York Knicks\" \"January 23, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-01-24",
+    "q": "site:nba.com \"New York Knicks\" \"January 24, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-01-25",
+    "q": "site:nba.com \"New York Knicks\" \"January 25, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-01-26",
+    "q": "site:nba.com \"New York Knicks\" \"January 26, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-01-27",
+    "q": "site:nba.com \"New York Knicks\" \"January 27, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-01-28",
+    "q": "site:nba.com \"New York Knicks\" \"January 28, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-01-29",
+    "q": "site:nba.com \"New York Knicks\" \"January 29, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-01-30",
+    "q": "site:nba.com \"New York Knicks\" \"January 30, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-01-31",
+    "q": "site:nba.com \"New York Knicks\" \"January 31, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-02-01",
+    "q": "site:nba.com \"New York Knicks\" \"February 1, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-02-02",
+    "q": "site:nba.com \"New York Knicks\" \"February 2, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-02-03",
+    "q": "site:nba.com \"New York Knicks\" \"February 3, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-02-04",
+    "q": "site:nba.com \"New York Knicks\" \"February 4, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-02-05",
+    "q": "site:nba.com \"New York Knicks\" \"February 5, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-02-06",
+    "q": "site:nba.com \"New York Knicks\" \"February 6, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-02-07",
+    "q": "site:nba.com \"New York Knicks\" \"February 7, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-02-08",
+    "q": "site:nba.com \"New York Knicks\" \"February 8, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-02-09",
+    "q": "site:nba.com \"New York Knicks\" \"February 9, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-02-10",
+    "q": "site:nba.com \"New York Knicks\" \"February 10, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-02-11",
+    "q": "site:nba.com \"New York Knicks\" \"February 11, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-02-12",
+    "q": "site:nba.com \"New York Knicks\" \"February 12, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-02-13",
+    "q": "site:nba.com \"New York Knicks\" \"February 13, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-02-14",
+    "q": "site:nba.com \"New York Knicks\" \"February 14, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-02-15",
+    "q": "site:nba.com \"New York Knicks\" \"February 15, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-02-16",
+    "q": "site:nba.com \"New York Knicks\" \"February 16, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-02-17",
+    "q": "site:nba.com \"New York Knicks\" \"February 17, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-02-18",
+    "q": "site:nba.com \"New York Knicks\" \"February 18, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-02-19",
+    "q": "site:nba.com \"New York Knicks\" \"February 19, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-02-20",
+    "q": "site:nba.com \"New York Knicks\" \"February 20, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-02-21",
+    "q": "site:nba.com \"New York Knicks\" \"February 21, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-02-22",
+    "q": "site:nba.com \"New York Knicks\" \"February 22, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-02-23",
+    "q": "site:nba.com \"New York Knicks\" \"February 23, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-02-24",
+    "q": "site:nba.com \"New York Knicks\" \"February 24, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-02-25",
+    "q": "site:nba.com \"New York Knicks\" \"February 25, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-02-26",
+    "q": "site:nba.com \"New York Knicks\" \"February 26, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-02-27",
+    "q": "site:nba.com \"New York Knicks\" \"February 27, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-02-28",
+    "q": "site:nba.com \"New York Knicks\" \"February 28, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-02-29",
+    "q": "site:nba.com \"New York Knicks\" \"February 29, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-03-01",
+    "q": "site:nba.com \"New York Knicks\" \"March 1, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-03-02",
+    "q": "site:nba.com \"New York Knicks\" \"March 2, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "NYK",
+    "date": "2024-03-03",
+    "q": "site:nba.com \"New York Knicks\" \"March 3, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-01-01",
+    "q": "site:nba.com \"Sacramento Kings\" \"January 1, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-01-02",
+    "q": "site:nba.com \"Sacramento Kings\" \"January 2, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-01-03",
+    "q": "site:nba.com \"Sacramento Kings\" \"January 3, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-01-04",
+    "q": "site:nba.com \"Sacramento Kings\" \"January 4, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-01-05",
+    "q": "site:nba.com \"Sacramento Kings\" \"January 5, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-01-06",
+    "q": "site:nba.com \"Sacramento Kings\" \"January 6, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-01-07",
+    "q": "site:nba.com \"Sacramento Kings\" \"January 7, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-01-08",
+    "q": "site:nba.com \"Sacramento Kings\" \"January 8, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-01-09",
+    "q": "site:nba.com \"Sacramento Kings\" \"January 9, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-01-10",
+    "q": "site:nba.com \"Sacramento Kings\" \"January 10, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-01-11",
+    "q": "site:nba.com \"Sacramento Kings\" \"January 11, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-01-12",
+    "q": "site:nba.com \"Sacramento Kings\" \"January 12, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-01-13",
+    "q": "site:nba.com \"Sacramento Kings\" \"January 13, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-01-14",
+    "q": "site:nba.com \"Sacramento Kings\" \"January 14, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-01-15",
+    "q": "site:nba.com \"Sacramento Kings\" \"January 15, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-01-16",
+    "q": "site:nba.com \"Sacramento Kings\" \"January 16, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-01-17",
+    "q": "site:nba.com \"Sacramento Kings\" \"January 17, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-01-18",
+    "q": "site:nba.com \"Sacramento Kings\" \"January 18, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-01-19",
+    "q": "site:nba.com \"Sacramento Kings\" \"January 19, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-01-20",
+    "q": "site:nba.com \"Sacramento Kings\" \"January 20, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-01-21",
+    "q": "site:nba.com \"Sacramento Kings\" \"January 21, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-01-22",
+    "q": "site:nba.com \"Sacramento Kings\" \"January 22, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-01-23",
+    "q": "site:nba.com \"Sacramento Kings\" \"January 23, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-01-24",
+    "q": "site:nba.com \"Sacramento Kings\" \"January 24, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-01-25",
+    "q": "site:nba.com \"Sacramento Kings\" \"January 25, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-01-26",
+    "q": "site:nba.com \"Sacramento Kings\" \"January 26, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-01-27",
+    "q": "site:nba.com \"Sacramento Kings\" \"January 27, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-01-28",
+    "q": "site:nba.com \"Sacramento Kings\" \"January 28, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-01-29",
+    "q": "site:nba.com \"Sacramento Kings\" \"January 29, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-01-30",
+    "q": "site:nba.com \"Sacramento Kings\" \"January 30, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-01-31",
+    "q": "site:nba.com \"Sacramento Kings\" \"January 31, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-02-01",
+    "q": "site:nba.com \"Sacramento Kings\" \"February 1, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-02-02",
+    "q": "site:nba.com \"Sacramento Kings\" \"February 2, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-02-03",
+    "q": "site:nba.com \"Sacramento Kings\" \"February 3, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-02-04",
+    "q": "site:nba.com \"Sacramento Kings\" \"February 4, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-02-05",
+    "q": "site:nba.com \"Sacramento Kings\" \"February 5, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-02-06",
+    "q": "site:nba.com \"Sacramento Kings\" \"February 6, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-02-07",
+    "q": "site:nba.com \"Sacramento Kings\" \"February 7, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-02-08",
+    "q": "site:nba.com \"Sacramento Kings\" \"February 8, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-02-09",
+    "q": "site:nba.com \"Sacramento Kings\" \"February 9, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-02-10",
+    "q": "site:nba.com \"Sacramento Kings\" \"February 10, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-02-11",
+    "q": "site:nba.com \"Sacramento Kings\" \"February 11, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-02-12",
+    "q": "site:nba.com \"Sacramento Kings\" \"February 12, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-02-13",
+    "q": "site:nba.com \"Sacramento Kings\" \"February 13, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-02-14",
+    "q": "site:nba.com \"Sacramento Kings\" \"February 14, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-02-15",
+    "q": "site:nba.com \"Sacramento Kings\" \"February 15, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-02-16",
+    "q": "site:nba.com \"Sacramento Kings\" \"February 16, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-02-17",
+    "q": "site:nba.com \"Sacramento Kings\" \"February 17, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-02-18",
+    "q": "site:nba.com \"Sacramento Kings\" \"February 18, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-02-19",
+    "q": "site:nba.com \"Sacramento Kings\" \"February 19, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-02-20",
+    "q": "site:nba.com \"Sacramento Kings\" \"February 20, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-02-21",
+    "q": "site:nba.com \"Sacramento Kings\" \"February 21, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-02-22",
+    "q": "site:nba.com \"Sacramento Kings\" \"February 22, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-02-23",
+    "q": "site:nba.com \"Sacramento Kings\" \"February 23, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-02-24",
+    "q": "site:nba.com \"Sacramento Kings\" \"February 24, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-02-25",
+    "q": "site:nba.com \"Sacramento Kings\" \"February 25, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-02-26",
+    "q": "site:nba.com \"Sacramento Kings\" \"February 26, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-02-27",
+    "q": "site:nba.com \"Sacramento Kings\" \"February 27, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-02-28",
+    "q": "site:nba.com \"Sacramento Kings\" \"February 28, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-02-29",
+    "q": "site:nba.com \"Sacramento Kings\" \"February 29, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-03-01",
+    "q": "site:nba.com \"Sacramento Kings\" \"March 1, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-03-02",
+    "q": "site:nba.com \"Sacramento Kings\" \"March 2, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "SAC",
+    "date": "2024-03-03",
+    "q": "site:nba.com \"Sacramento Kings\" \"March 3, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-01-01",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"January 1, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-01-02",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"January 2, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-01-03",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"January 3, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-01-04",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"January 4, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-01-05",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"January 5, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-01-06",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"January 6, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-01-07",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"January 7, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-01-08",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"January 8, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-01-09",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"January 9, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-01-10",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"January 10, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-01-11",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"January 11, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-01-12",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"January 12, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-01-13",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"January 13, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-01-14",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"January 14, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-01-15",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"January 15, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-01-16",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"January 16, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-01-17",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"January 17, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-01-18",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"January 18, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-01-19",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"January 19, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-01-20",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"January 20, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-01-21",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"January 21, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-01-22",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"January 22, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-01-23",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"January 23, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-01-24",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"January 24, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-01-25",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"January 25, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-01-26",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"January 26, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-01-27",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"January 27, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-01-28",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"January 28, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-01-29",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"January 29, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-01-30",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"January 30, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-01-31",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"January 31, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-02-01",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"February 1, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-02-02",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"February 2, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-02-03",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"February 3, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-02-04",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"February 4, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-02-05",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"February 5, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-02-06",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"February 6, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-02-07",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"February 7, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-02-08",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"February 8, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-02-09",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"February 9, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-02-10",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"February 10, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-02-11",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"February 11, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-02-12",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"February 12, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-02-13",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"February 13, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-02-14",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"February 14, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-02-15",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"February 15, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-02-16",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"February 16, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-02-17",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"February 17, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-02-18",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"February 18, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-02-19",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"February 19, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-02-20",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"February 20, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-02-21",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"February 21, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-02-22",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"February 22, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-02-23",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"February 23, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-02-24",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"February 24, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-02-25",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"February 25, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-02-26",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"February 26, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-02-27",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"February 27, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-02-28",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"February 28, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-02-29",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"February 29, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-03-01",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"March 1, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-03-02",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"March 2, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "OKC",
+    "date": "2024-03-03",
+    "q": "site:nba.com \"Oklahoma City Thunder\" \"March 3, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-01-01",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"January 1, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-01-02",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"January 2, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-01-03",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"January 3, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-01-04",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"January 4, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-01-05",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"January 5, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-01-06",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"January 6, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-01-07",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"January 7, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-01-08",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"January 8, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-01-09",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"January 9, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-01-10",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"January 10, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-01-11",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"January 11, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-01-12",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"January 12, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-01-13",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"January 13, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-01-14",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"January 14, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-01-15",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"January 15, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-01-16",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"January 16, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-01-17",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"January 17, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-01-18",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"January 18, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-01-19",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"January 19, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-01-20",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"January 20, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-01-21",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"January 21, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-01-22",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"January 22, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-01-23",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"January 23, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-01-24",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"January 24, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-01-25",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"January 25, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-01-26",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"January 26, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-01-27",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"January 27, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-01-28",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"January 28, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-01-29",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"January 29, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-01-30",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"January 30, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-01-31",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"January 31, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-02-01",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"February 1, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-02-02",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"February 2, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-02-03",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"February 3, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-02-04",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"February 4, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-02-05",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"February 5, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-02-06",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"February 6, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-02-07",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"February 7, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-02-08",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"February 8, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-02-09",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"February 9, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-02-10",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"February 10, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-02-11",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"February 11, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-02-12",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"February 12, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-02-13",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"February 13, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-02-14",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"February 14, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-02-15",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"February 15, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-02-16",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"February 16, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-02-17",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"February 17, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-02-18",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"February 18, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-02-19",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"February 19, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-02-20",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"February 20, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-02-21",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"February 21, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-02-22",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"February 22, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-02-23",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"February 23, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-02-24",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"February 24, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-02-25",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"February 25, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-02-26",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"February 26, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-02-27",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"February 27, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-02-28",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"February 28, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-02-29",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"February 29, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-03-01",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"March 1, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-03-02",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"March 2, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  },
+  {
+    "team": "MEM",
+    "date": "2024-03-03",
+    "q": "site:nba.com \"Memphis Grizzlies\" \"March 3, 2024\" injury status recap",
+    "scope": "phase2c_registered_dated_team_search"
+  }
+]

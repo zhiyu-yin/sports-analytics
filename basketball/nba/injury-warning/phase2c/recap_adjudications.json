@@ -1,0 +1,2198 @@
+[
+  {
+    "player_id": "202681",
+    "source_game_id": "0022301213",
+    "event_game_id": "0022301213",
+    "paragraph": 16,
+    "kind": "history",
+    "locator": "story.content[16]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629027",
+    "source_game_id": "0022301218",
+    "event_game_id": "0022301218",
+    "paragraph": 3,
+    "kind": "history",
+    "locator": "story.content[3]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1630552",
+    "source_game_id": "0022301218",
+    "event_game_id": "0022301218",
+    "paragraph": 3,
+    "kind": "history",
+    "locator": "story.content[3]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "202681",
+    "source_game_id": "0022301226",
+    "event_game_id": "0022301226",
+    "paragraph": 0,
+    "kind": "acute",
+    "locator": "story.content[0]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "202681",
+    "source_game_id": "0022301226",
+    "event_game_id": "0022301226",
+    "paragraph": 2,
+    "kind": "acute",
+    "locator": "story.content[2]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1628973",
+    "source_game_id": "0022301227",
+    "event_game_id": "0022301227",
+    "paragraph": 15,
+    "kind": "acute",
+    "locator": "story.content[15]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "203992",
+    "source_game_id": "0022300296",
+    "event_game_id": "0022300296",
+    "paragraph": 4,
+    "kind": "history",
+    "locator": "story.content[4]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1630552",
+    "source_game_id": "0022300296",
+    "event_game_id": "0022300296",
+    "paragraph": 12,
+    "kind": "history",
+    "locator": "story.content[12]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629631",
+    "source_game_id": "0022300296",
+    "event_game_id": "0022300296",
+    "paragraph": 12,
+    "kind": "history",
+    "locator": "story.content[12]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629011",
+    "source_game_id": "0022300297",
+    "event_game_id": "0022300297",
+    "paragraph": 2,
+    "kind": "history",
+    "locator": "story.content[2]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1630193",
+    "source_game_id": "0022300297",
+    "event_game_id": "0022300297",
+    "paragraph": 6,
+    "kind": "history",
+    "locator": "story.content[6]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "202681",
+    "source_game_id": "0022300299",
+    "event_game_id": "0022300299",
+    "paragraph": 8,
+    "kind": "history",
+    "locator": "story.content[8]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "203501",
+    "source_game_id": "0022300299",
+    "event_game_id": "0022300299",
+    "paragraph": 8,
+    "kind": "history",
+    "locator": "story.content[8]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1627884",
+    "source_game_id": "0022300299",
+    "event_game_id": "0022300299",
+    "paragraph": 9,
+    "kind": "acute",
+    "locator": "story.content[9]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629684",
+    "source_game_id": "0022300306",
+    "event_game_id": "0022300306",
+    "paragraph": 7,
+    "kind": "history",
+    "locator": "story.content[7]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "202681",
+    "source_game_id": "0022300306",
+    "event_game_id": "0022300306",
+    "paragraph": 7,
+    "kind": "history",
+    "locator": "story.content[7]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1627884",
+    "source_game_id": "0022300306",
+    "event_game_id": "0022300306",
+    "paragraph": 7,
+    "kind": "history",
+    "locator": "story.content[7]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1630182",
+    "source_game_id": "0022300306",
+    "event_game_id": "0022300306",
+    "paragraph": 8,
+    "kind": "history",
+    "locator": "story.content[8]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1628467",
+    "source_game_id": "0022300306",
+    "event_game_id": "0022300306",
+    "paragraph": 8,
+    "kind": "history",
+    "locator": "story.content[8]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "203552",
+    "source_game_id": "0022300306",
+    "event_game_id": "0022300306",
+    "paragraph": 8,
+    "kind": "acute",
+    "locator": "story.content[8]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629029",
+    "source_game_id": "0022300306",
+    "event_game_id": "0022300306",
+    "paragraph": 12,
+    "kind": "history",
+    "locator": "story.content[12]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629631",
+    "source_game_id": "0022300313",
+    "event_game_id": "0022300313",
+    "paragraph": 13,
+    "kind": "history",
+    "locator": "story.content[13]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1630552",
+    "source_game_id": "0022300313",
+    "event_game_id": "0022300313",
+    "paragraph": 13,
+    "kind": "history",
+    "locator": "story.content[13]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1630217",
+    "source_game_id": "0022300314",
+    "event_game_id": "0022300314",
+    "paragraph": 12,
+    "kind": "history",
+    "locator": "story.content[12]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "202681",
+    "source_game_id": "0022300321",
+    "event_game_id": "0022300321",
+    "paragraph": 9,
+    "kind": "history",
+    "locator": "story.content[9]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629631",
+    "source_game_id": "0022300330",
+    "event_game_id": "0022300330",
+    "paragraph": 19,
+    "kind": "history",
+    "locator": "story.content[19]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1630552",
+    "source_game_id": "0022300330",
+    "event_game_id": "0022300330",
+    "paragraph": 19,
+    "kind": "history",
+    "locator": "story.content[19]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "201565",
+    "source_game_id": "0022300332",
+    "event_game_id": "0022300332",
+    "paragraph": 12,
+    "kind": "acute",
+    "locator": "story.content[12]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "203991",
+    "source_game_id": "0022300336",
+    "event_game_id": "0022300336",
+    "paragraph": 5,
+    "kind": "history",
+    "locator": "story.content[5]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629631",
+    "source_game_id": "0022300336",
+    "event_game_id": "0022300336",
+    "paragraph": 8,
+    "kind": "history",
+    "locator": "story.content[8]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "203992",
+    "source_game_id": "0022300336",
+    "event_game_id": "0022300336",
+    "paragraph": 11,
+    "kind": "history",
+    "locator": "story.content[11]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "203991",
+    "source_game_id": "0022300352",
+    "event_game_id": "0022300352",
+    "paragraph": 16,
+    "kind": "history",
+    "locator": "story.content[16]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1630552",
+    "source_game_id": "0022300352",
+    "event_game_id": "0022300352",
+    "paragraph": 17,
+    "kind": "history",
+    "locator": "story.content[17]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "203992",
+    "source_game_id": "0022300352",
+    "event_game_id": "0022300352",
+    "paragraph": 19,
+    "kind": "history",
+    "locator": "story.content[19]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "203935",
+    "source_game_id": "0022300355",
+    "event_game_id": "0022300355",
+    "paragraph": 11,
+    "kind": "history",
+    "locator": "story.content[11]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "201565",
+    "source_game_id": "0022300355",
+    "event_game_id": "0022300355",
+    "paragraph": 11,
+    "kind": "history",
+    "locator": "story.content[11]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "202681",
+    "source_game_id": "0022300356",
+    "event_game_id": "0022300356",
+    "paragraph": 9,
+    "kind": "history",
+    "locator": "story.content[9]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1630182",
+    "source_game_id": "0022300356",
+    "event_game_id": "0022300356",
+    "paragraph": 9,
+    "kind": "history",
+    "locator": "story.content[9]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1628467",
+    "source_game_id": "0022300356",
+    "event_game_id": "0022300356",
+    "paragraph": 9,
+    "kind": "history",
+    "locator": "story.content[9]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1641726",
+    "source_game_id": "0022300356",
+    "event_game_id": "0022300356",
+    "paragraph": 9,
+    "kind": "history",
+    "locator": "story.content[9]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "202693",
+    "source_game_id": "0022300356",
+    "event_game_id": "0022300356",
+    "paragraph": 13,
+    "kind": "history",
+    "locator": "story.content[13]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629011",
+    "source_game_id": "0022300359",
+    "event_game_id": "0022300359",
+    "paragraph": 9,
+    "kind": "history",
+    "locator": "story.content[9]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1630579",
+    "source_game_id": "0022300359",
+    "event_game_id": "0022300359",
+    "paragraph": 9,
+    "kind": "acute",
+    "locator": "story.content[9]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629011",
+    "source_game_id": "0022300368",
+    "event_game_id": "0022300368",
+    "paragraph": 13,
+    "kind": "history",
+    "locator": "story.content[13]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1630579",
+    "source_game_id": "0022300368",
+    "event_game_id": "0022300368",
+    "paragraph": 13,
+    "kind": "history",
+    "locator": "story.content[13]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "202681",
+    "source_game_id": "0022300372",
+    "event_game_id": "0022300372",
+    "paragraph": 4,
+    "kind": "history",
+    "locator": "story.content[4]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "202681",
+    "source_game_id": "0022300372",
+    "event_game_id": "0022300372",
+    "paragraph": 13,
+    "kind": "history",
+    "locator": "story.content[13]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1641726",
+    "source_game_id": "0022300372",
+    "event_game_id": "0022300372",
+    "paragraph": 13,
+    "kind": "history",
+    "locator": "story.content[13]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1630182",
+    "source_game_id": "0022300372",
+    "event_game_id": "0022300372",
+    "paragraph": 13,
+    "kind": "history",
+    "locator": "story.content[13]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1630581",
+    "source_game_id": "0022300379",
+    "event_game_id": "0022300379",
+    "paragraph": 15,
+    "kind": "acute",
+    "locator": "story.content[15]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "202681",
+    "source_game_id": "0022300385",
+    "event_game_id": "0022300385",
+    "paragraph": 0,
+    "kind": "history",
+    "locator": "story.content[0]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629029",
+    "source_game_id": "0022300385",
+    "event_game_id": "0022300385",
+    "paragraph": 0,
+    "kind": "history",
+    "locator": "story.content[0]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "202681",
+    "source_game_id": "0022300385",
+    "event_game_id": "0022300385",
+    "paragraph": 1,
+    "kind": "history",
+    "locator": "story.content[1]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629029",
+    "source_game_id": "0022300385",
+    "event_game_id": "0022300385",
+    "paragraph": 1,
+    "kind": "history",
+    "locator": "story.content[1]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "203957",
+    "source_game_id": "0022300385",
+    "event_game_id": "0022300385",
+    "paragraph": 12,
+    "kind": "history",
+    "locator": "story.content[12]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629631",
+    "source_game_id": "0022300393",
+    "event_game_id": "0022300393",
+    "paragraph": 13,
+    "kind": "history",
+    "locator": "story.content[13]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "202681",
+    "source_game_id": "0022300398",
+    "event_game_id": "0022300398",
+    "paragraph": 9,
+    "kind": "history",
+    "locator": "story.content[9]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629029",
+    "source_game_id": "0022300398",
+    "event_game_id": "0022300398",
+    "paragraph": 9,
+    "kind": "history",
+    "locator": "story.content[9]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1641726",
+    "source_game_id": "0022300405",
+    "event_game_id": "0022300405",
+    "paragraph": 7,
+    "kind": "history",
+    "locator": "story.content[7]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "202681",
+    "source_game_id": "0022300405",
+    "event_game_id": "0022300405",
+    "paragraph": 7,
+    "kind": "history",
+    "locator": "story.content[7]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1630552",
+    "source_game_id": "0022300408",
+    "event_game_id": "0022300408",
+    "paragraph": 13,
+    "kind": "history",
+    "locator": "story.content[13]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "203935",
+    "source_game_id": "0022300410",
+    "event_game_id": "0022300410",
+    "paragraph": 11,
+    "kind": "history",
+    "locator": "story.content[11]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1630581",
+    "source_game_id": "0022300411",
+    "event_game_id": "0022300411",
+    "paragraph": 7,
+    "kind": "history",
+    "locator": "story.content[7]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "202681",
+    "source_game_id": "0022300420",
+    "event_game_id": "0022300420",
+    "paragraph": 7,
+    "kind": "history",
+    "locator": "story.content[7]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1630182",
+    "source_game_id": "0022300420",
+    "event_game_id": "0022300420",
+    "paragraph": 18,
+    "kind": "history",
+    "locator": "story.content[18]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "202681",
+    "source_game_id": "0022300423",
+    "event_game_id": "0022300423",
+    "paragraph": 5,
+    "kind": "history",
+    "locator": "story.content[5]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629029",
+    "source_game_id": "0022300423",
+    "event_game_id": "0022300423",
+    "paragraph": 5,
+    "kind": "history",
+    "locator": "story.content[5]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629630",
+    "source_game_id": "0022300425",
+    "event_game_id": "0022300425",
+    "paragraph": 6,
+    "kind": "history",
+    "locator": "story.content[6]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629631",
+    "source_game_id": "0022300431",
+    "event_game_id": "0022300431",
+    "paragraph": 13,
+    "kind": "history",
+    "locator": "story.content[13]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629011",
+    "source_game_id": "0022300441",
+    "event_game_id": "0022300441",
+    "paragraph": 9,
+    "kind": "history",
+    "locator": "story.content[9]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629029",
+    "source_game_id": "0022300444",
+    "event_game_id": "0022300444",
+    "paragraph": 1,
+    "kind": "history",
+    "locator": "story.content[1]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "203552",
+    "source_game_id": "0022300444",
+    "event_game_id": "0022300444",
+    "paragraph": 13,
+    "kind": "history",
+    "locator": "story.content[13]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "202681",
+    "source_game_id": "0022300444",
+    "event_game_id": "0022300444",
+    "paragraph": 13,
+    "kind": "history",
+    "locator": "story.content[13]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1628379",
+    "source_game_id": "0022300449",
+    "event_game_id": "0022300449",
+    "paragraph": 9,
+    "kind": "history",
+    "locator": "story.content[9]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "202681",
+    "source_game_id": "0022300457",
+    "event_game_id": "0022300457",
+    "paragraph": 14,
+    "kind": "history",
+    "locator": "story.content[14]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "202681",
+    "source_game_id": "0022300457",
+    "event_game_id": "0022300457",
+    "paragraph": 15,
+    "kind": "history",
+    "locator": "story.content[15]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "202681",
+    "source_game_id": "0022300472",
+    "event_game_id": "0022300472",
+    "paragraph": 0,
+    "kind": "history",
+    "locator": "story.content[0]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "202681",
+    "source_game_id": "0022300472",
+    "event_game_id": "0022300472",
+    "paragraph": 1,
+    "kind": "history",
+    "locator": "story.content[1]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1641726",
+    "source_game_id": "0022300472",
+    "event_game_id": "0022300472",
+    "paragraph": 5,
+    "kind": "acute",
+    "locator": "story.content[5]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629684",
+    "source_game_id": "0022300472",
+    "event_game_id": "0022300472",
+    "paragraph": 5,
+    "kind": "acute",
+    "locator": "story.content[5]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629029",
+    "source_game_id": "0022300487",
+    "event_game_id": "0022300487",
+    "paragraph": 0,
+    "kind": "history",
+    "locator": "story.content[0]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629029",
+    "source_game_id": "0022300487",
+    "event_game_id": "0022300487",
+    "paragraph": 2,
+    "kind": "history",
+    "locator": "story.content[2]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1641726",
+    "source_game_id": "0022300487",
+    "event_game_id": "0022300487",
+    "paragraph": 3,
+    "kind": "history",
+    "locator": "story.content[3]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629684",
+    "source_game_id": "0022300487",
+    "event_game_id": "0022300487",
+    "paragraph": 3,
+    "kind": "history",
+    "locator": "story.content[3]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "202681",
+    "source_game_id": "0022300487",
+    "event_game_id": "0022300487",
+    "paragraph": 6,
+    "kind": "history",
+    "locator": "story.content[6]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629726",
+    "source_game_id": "0022300499",
+    "event_game_id": "0022300499",
+    "paragraph": 13,
+    "kind": "acute",
+    "locator": "story.content[13]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "203957",
+    "source_game_id": "0022300501",
+    "event_game_id": "0022300501",
+    "paragraph": 14,
+    "kind": "history",
+    "locator": "story.content[14]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1628467",
+    "source_game_id": "0022300501",
+    "event_game_id": "0022300501",
+    "paragraph": 14,
+    "kind": "history",
+    "locator": "story.content[14]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1641726",
+    "source_game_id": "0022300501",
+    "event_game_id": "0022300501",
+    "paragraph": 14,
+    "kind": "history",
+    "locator": "story.content[14]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629630",
+    "source_game_id": "0022300503",
+    "event_game_id": "0022300503",
+    "paragraph": 2,
+    "kind": "history",
+    "locator": "story.content[2]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629630",
+    "source_game_id": "0022300503",
+    "event_game_id": "0022300503",
+    "paragraph": 3,
+    "kind": "history",
+    "locator": "story.content[3]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629029",
+    "source_game_id": "0022300515",
+    "event_game_id": "0022300515",
+    "paragraph": 5,
+    "kind": "acute",
+    "locator": "story.content[5]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629630",
+    "source_game_id": "0022300515",
+    "event_game_id": "0022300515",
+    "paragraph": 1,
+    "kind": "history",
+    "locator": "story.content[1]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "203935",
+    "source_game_id": "0022300515",
+    "event_game_id": "0022300515",
+    "paragraph": 2,
+    "kind": "acute",
+    "locator": "story.content[2]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1628991",
+    "source_game_id": "0022300515",
+    "event_game_id": "0022300515",
+    "paragraph": 4,
+    "kind": "history",
+    "locator": "story.content[4]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "203935",
+    "source_game_id": "0022300515",
+    "event_game_id": "0022300515",
+    "paragraph": 4,
+    "kind": "history",
+    "locator": "story.content[4]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "203991",
+    "source_game_id": "0022300521",
+    "event_game_id": "0022300521",
+    "paragraph": 12,
+    "kind": "history",
+    "locator": "story.content[12]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629631",
+    "source_game_id": "0022300521",
+    "event_game_id": "0022300521",
+    "paragraph": 12,
+    "kind": "history",
+    "locator": "story.content[12]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629029",
+    "source_game_id": "0022300530",
+    "event_game_id": "0022300530",
+    "paragraph": 12,
+    "kind": "history",
+    "locator": "story.content[12]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1641726",
+    "source_game_id": "0022300530",
+    "event_game_id": "0022300530",
+    "paragraph": 12,
+    "kind": "history",
+    "locator": "story.content[12]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "203957",
+    "source_game_id": "0022300530",
+    "event_game_id": "0022300530",
+    "paragraph": 12,
+    "kind": "history",
+    "locator": "story.content[12]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1630217",
+    "source_game_id": "0022300537",
+    "event_game_id": "0022300537",
+    "paragraph": 6,
+    "kind": "acute",
+    "locator": "story.content[6]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629630",
+    "source_game_id": "0022300537",
+    "event_game_id": "0022300537",
+    "paragraph": 11,
+    "kind": "history",
+    "locator": "story.content[11]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "203935",
+    "source_game_id": "0022300537",
+    "event_game_id": "0022300537",
+    "paragraph": 12,
+    "kind": "history",
+    "locator": "story.content[12]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1630217",
+    "source_game_id": "0022300537",
+    "event_game_id": "0022300537",
+    "paragraph": 12,
+    "kind": "history",
+    "locator": "story.content[12]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1627749",
+    "source_game_id": "0022300543",
+    "event_game_id": "0022300543",
+    "paragraph": 8,
+    "kind": "history",
+    "locator": "story.content[8]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629630",
+    "source_game_id": "0022300544",
+    "event_game_id": "0022300544",
+    "paragraph": 7,
+    "kind": "history",
+    "locator": "story.content[7]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "203935",
+    "source_game_id": "0022300544",
+    "event_game_id": "0022300544",
+    "paragraph": 7,
+    "kind": "history",
+    "locator": "story.content[7]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1630217",
+    "source_game_id": "0022300544",
+    "event_game_id": "0022300544",
+    "paragraph": 7,
+    "kind": "history",
+    "locator": "story.content[7]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1628991",
+    "source_game_id": "0022300544",
+    "event_game_id": "0022300544",
+    "paragraph": 8,
+    "kind": "history",
+    "locator": "story.content[8]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1628973",
+    "source_game_id": "0022300544",
+    "event_game_id": "0022300544",
+    "paragraph": 1,
+    "kind": "history",
+    "locator": "story.content[1]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1628973",
+    "source_game_id": "0022300544",
+    "event_game_id": "0022300544",
+    "paragraph": 10,
+    "kind": "history",
+    "locator": "story.content[10]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1631096",
+    "source_game_id": "0022300546",
+    "event_game_id": "0022300546",
+    "paragraph": 10,
+    "kind": "history",
+    "locator": "story.content[10]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629029",
+    "source_game_id": "0022300547",
+    "event_game_id": "0022300547",
+    "paragraph": 11,
+    "kind": "history",
+    "locator": "story.content[11]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "203957",
+    "source_game_id": "0022300547",
+    "event_game_id": "0022300547",
+    "paragraph": 11,
+    "kind": "history",
+    "locator": "story.content[11]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1641726",
+    "source_game_id": "0022300547",
+    "event_game_id": "0022300547",
+    "paragraph": 11,
+    "kind": "history",
+    "locator": "story.content[11]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1628467",
+    "source_game_id": "0022300547",
+    "event_game_id": "0022300547",
+    "paragraph": 15,
+    "kind": "history",
+    "locator": "story.content[15]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629029",
+    "source_game_id": "0022300556",
+    "event_game_id": "0022300556",
+    "paragraph": 1,
+    "kind": "history",
+    "locator": "story.content[1]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629029",
+    "source_game_id": "0022300556",
+    "event_game_id": "0022300556",
+    "paragraph": 3,
+    "kind": "history",
+    "locator": "story.content[3]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1641726",
+    "source_game_id": "0022300556",
+    "event_game_id": "0022300556",
+    "paragraph": 15,
+    "kind": "history",
+    "locator": "story.content[15]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1628973",
+    "source_game_id": "0022300557",
+    "event_game_id": "0022300557",
+    "paragraph": 9,
+    "kind": "history",
+    "locator": "story.content[9]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1628991",
+    "source_game_id": "0022300560",
+    "event_game_id": "0022300560",
+    "paragraph": 2,
+    "kind": "history",
+    "locator": "story.content[2]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1630583",
+    "source_game_id": "0022300560",
+    "event_game_id": "0022300560",
+    "paragraph": 2,
+    "kind": "history",
+    "locator": "story.content[2]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1628983",
+    "source_game_id": "0022300565",
+    "event_game_id": "0022300565",
+    "paragraph": 3,
+    "kind": "history",
+    "locator": "story.content[3]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1628973",
+    "source_game_id": "0022300573",
+    "event_game_id": "0022300573",
+    "paragraph": 2,
+    "kind": "history",
+    "locator": "story.content[2]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1628973",
+    "source_game_id": "0022300573",
+    "event_game_id": "0022300573",
+    "paragraph": 4,
+    "kind": "history",
+    "locator": "story.content[4]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629029",
+    "source_game_id": "0022300577",
+    "event_game_id": "0022300577",
+    "paragraph": 8,
+    "kind": "history",
+    "locator": "story.content[8]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1628973",
+    "source_game_id": "0022300579",
+    "event_game_id": "0022300579",
+    "paragraph": 7,
+    "kind": "history",
+    "locator": "story.content[7]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1628404",
+    "source_game_id": "0022300579",
+    "event_game_id": "0022300579",
+    "paragraph": 13,
+    "kind": "history",
+    "locator": "story.content[13]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629630",
+    "source_game_id": "0022300582",
+    "event_game_id": "0022300582",
+    "paragraph": 12,
+    "kind": "history",
+    "locator": "story.content[12]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "203935",
+    "source_game_id": "0022300582",
+    "event_game_id": "0022300582",
+    "paragraph": 12,
+    "kind": "history",
+    "locator": "story.content[12]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1630217",
+    "source_game_id": "0022300582",
+    "event_game_id": "0022300582",
+    "paragraph": 12,
+    "kind": "history",
+    "locator": "story.content[12]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "203500",
+    "source_game_id": "0022300582",
+    "event_game_id": "0022300582",
+    "paragraph": 12,
+    "kind": "history",
+    "locator": "story.content[12]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629634",
+    "source_game_id": "0022300582",
+    "event_game_id": "0022300582",
+    "paragraph": 12,
+    "kind": "history",
+    "locator": "story.content[12]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "201565",
+    "source_game_id": "0022300582",
+    "event_game_id": "0022300582",
+    "paragraph": 12,
+    "kind": "history",
+    "locator": "story.content[12]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1631222",
+    "source_game_id": "0022300582",
+    "event_game_id": "0022300582",
+    "paragraph": 12,
+    "kind": "history",
+    "locator": "story.content[12]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629027",
+    "source_game_id": "0022300587",
+    "event_game_id": "0022300587",
+    "paragraph": 10,
+    "kind": "history",
+    "locator": "story.content[10]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629027",
+    "source_game_id": "0022300595",
+    "event_game_id": "0022300595",
+    "paragraph": 10,
+    "kind": "acute",
+    "locator": "story.content[10]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629027",
+    "source_game_id": "0022300595",
+    "event_game_id": "0022300595",
+    "paragraph": 11,
+    "kind": "history",
+    "locator": "story.content[11]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1628392",
+    "source_game_id": "0022300596",
+    "event_game_id": "0022300596",
+    "paragraph": 8,
+    "kind": "history",
+    "locator": "story.content[8]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629011",
+    "source_game_id": "0022300596",
+    "event_game_id": "0022300596",
+    "paragraph": 8,
+    "kind": "history",
+    "locator": "story.content[8]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629630",
+    "source_game_id": "0022300597",
+    "event_game_id": "0022300597",
+    "paragraph": 11,
+    "kind": "history",
+    "locator": "story.content[11]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "203935",
+    "source_game_id": "0022300597",
+    "event_game_id": "0022300597",
+    "paragraph": 11,
+    "kind": "history",
+    "locator": "story.content[11]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1630217",
+    "source_game_id": "0022300597",
+    "event_game_id": "0022300597",
+    "paragraph": 11,
+    "kind": "history",
+    "locator": "story.content[11]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1630583",
+    "source_game_id": "0022300609",
+    "event_game_id": "0022300609",
+    "paragraph": 1,
+    "kind": "history",
+    "locator": "story.content[1]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629630",
+    "source_game_id": "0022300609",
+    "event_game_id": "0022300609",
+    "paragraph": 12,
+    "kind": "history",
+    "locator": "story.content[12]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "203935",
+    "source_game_id": "0022300609",
+    "event_game_id": "0022300609",
+    "paragraph": 12,
+    "kind": "history",
+    "locator": "story.content[12]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1630217",
+    "source_game_id": "0022300609",
+    "event_game_id": "0022300609",
+    "paragraph": 12,
+    "kind": "history",
+    "locator": "story.content[12]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "202681",
+    "source_game_id": "0022300611",
+    "event_game_id": "0022300611",
+    "paragraph": 19,
+    "kind": "acute",
+    "locator": "story.content[19]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629027",
+    "source_game_id": "0022300613",
+    "event_game_id": "0022300613",
+    "paragraph": 2,
+    "kind": "history",
+    "locator": "story.content[2]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629630",
+    "source_game_id": "0022300621",
+    "event_game_id": "0022300621",
+    "paragraph": 7,
+    "kind": "history",
+    "locator": "story.content[7]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "203500",
+    "source_game_id": "0022300621",
+    "event_game_id": "0022300621",
+    "paragraph": 7,
+    "kind": "history",
+    "locator": "story.content[7]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "202681",
+    "source_game_id": "0022300625",
+    "event_game_id": "0022300625",
+    "paragraph": 7,
+    "kind": "history",
+    "locator": "story.content[7]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629027",
+    "source_game_id": "0022300634",
+    "event_game_id": "0022300634",
+    "paragraph": 28,
+    "kind": "history",
+    "locator": "story.content[28]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "202681",
+    "source_game_id": "0022300634",
+    "event_game_id": "0022300634",
+    "paragraph": 26,
+    "kind": "history",
+    "locator": "story.content[26]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1627884",
+    "source_game_id": "0022300634",
+    "event_game_id": "0022300634",
+    "paragraph": 27,
+    "kind": "acute",
+    "locator": "story.content[27]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629630",
+    "source_game_id": "0022300638",
+    "event_game_id": "0022300638",
+    "paragraph": 12,
+    "kind": "history",
+    "locator": "story.content[12]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "203935",
+    "source_game_id": "0022300638",
+    "event_game_id": "0022300638",
+    "paragraph": 12,
+    "kind": "history",
+    "locator": "story.content[12]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "201565",
+    "source_game_id": "0022300638",
+    "event_game_id": "0022300638",
+    "paragraph": 12,
+    "kind": "history",
+    "locator": "story.content[12]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "203944",
+    "source_game_id": "0022300643",
+    "event_game_id": "0022300643",
+    "paragraph": 2,
+    "kind": "acute",
+    "locator": "story.content[2]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1628392",
+    "source_game_id": "0022300643",
+    "event_game_id": "0022300643",
+    "paragraph": 15,
+    "kind": "history",
+    "locator": "story.content[15]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "202681",
+    "source_game_id": "0022300651",
+    "event_game_id": "0022300651",
+    "paragraph": 13,
+    "kind": "history",
+    "locator": "story.content[13]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1628379",
+    "source_game_id": "0022300652",
+    "event_game_id": "0022300652",
+    "paragraph": 10,
+    "kind": "history",
+    "locator": "story.content[10]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1627749",
+    "source_game_id": "0022300653",
+    "event_game_id": "0022300653",
+    "paragraph": 13,
+    "kind": "history",
+    "locator": "story.content[13]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "203944",
+    "source_game_id": "0022300657",
+    "event_game_id": "0022300657",
+    "paragraph": 0,
+    "kind": "history",
+    "locator": "story.content[0]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "203944",
+    "source_game_id": "0022300657",
+    "event_game_id": "0022300657",
+    "paragraph": 3,
+    "kind": "history",
+    "locator": "story.content[3]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1628384",
+    "source_game_id": "0022300657",
+    "event_game_id": "0022300657",
+    "paragraph": 5,
+    "kind": "history",
+    "locator": "story.content[5]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629011",
+    "source_game_id": "0022300657",
+    "event_game_id": "0022300657",
+    "paragraph": 5,
+    "kind": "history",
+    "locator": "story.content[5]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "202681",
+    "source_game_id": "0022300666",
+    "event_game_id": "0022300666",
+    "paragraph": 14,
+    "kind": "history",
+    "locator": "story.content[14]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1627884",
+    "source_game_id": "0022300666",
+    "event_game_id": "0022300666",
+    "paragraph": 14,
+    "kind": "history",
+    "locator": "story.content[14]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "203957",
+    "source_game_id": "0022300666",
+    "event_game_id": "0022300666",
+    "paragraph": 14,
+    "kind": "history",
+    "locator": "story.content[14]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629631",
+    "source_game_id": "0022300669",
+    "event_game_id": "0022300669",
+    "paragraph": 20,
+    "kind": "history",
+    "locator": "story.content[20]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "203944",
+    "source_game_id": "0022300671",
+    "event_game_id": "0022300671",
+    "paragraph": 11,
+    "kind": "history",
+    "locator": "story.content[11]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1628384",
+    "source_game_id": "0022300671",
+    "event_game_id": "0022300671",
+    "paragraph": 11,
+    "kind": "history",
+    "locator": "story.content[11]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629011",
+    "source_game_id": "0022300671",
+    "event_game_id": "0022300671",
+    "paragraph": 13,
+    "kind": "history",
+    "locator": "story.content[13]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629029",
+    "source_game_id": "0022300680",
+    "event_game_id": "0022300680",
+    "paragraph": 3,
+    "kind": "history",
+    "locator": "story.content[3]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "202681",
+    "source_game_id": "0022300680",
+    "event_game_id": "0022300680",
+    "paragraph": 3,
+    "kind": "history",
+    "locator": "story.content[3]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629029",
+    "source_game_id": "0022300680",
+    "event_game_id": "0022300680",
+    "paragraph": 6,
+    "kind": "history",
+    "locator": "story.content[6]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "202681",
+    "source_game_id": "0022300680",
+    "event_game_id": "0022300680",
+    "paragraph": 6,
+    "kind": "history",
+    "locator": "story.content[6]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1641726",
+    "source_game_id": "0022300680",
+    "event_game_id": "0022300680",
+    "paragraph": 7,
+    "kind": "history",
+    "locator": "story.content[7]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "203957",
+    "source_game_id": "0022300680",
+    "event_game_id": "0022300680",
+    "paragraph": 7,
+    "kind": "history",
+    "locator": "story.content[7]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1627884",
+    "source_game_id": "0022300680",
+    "event_game_id": "0022300680",
+    "paragraph": 7,
+    "kind": "history",
+    "locator": "story.content[7]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629029",
+    "source_game_id": "0022300680",
+    "event_game_id": "0022300680",
+    "paragraph": 8,
+    "kind": "history",
+    "locator": "story.content[8]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "202681",
+    "source_game_id": "0022300680",
+    "event_game_id": "0022300680",
+    "paragraph": 8,
+    "kind": "history",
+    "locator": "story.content[8]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1631114",
+    "source_game_id": "0022300682",
+    "event_game_id": "0022300682",
+    "paragraph": 5,
+    "kind": "history",
+    "locator": "story.content[5]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1630198",
+    "source_game_id": "0022300682",
+    "event_game_id": "0022300682",
+    "paragraph": 5,
+    "kind": "history",
+    "locator": "story.content[5]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1628973",
+    "source_game_id": "0022300685",
+    "event_game_id": "0022300685",
+    "paragraph": 4,
+    "kind": "acute",
+    "locator": "story.content[4]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "203944",
+    "source_game_id": "0022300685",
+    "event_game_id": "0022300685",
+    "paragraph": 11,
+    "kind": "history",
+    "locator": "story.content[11]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1628384",
+    "source_game_id": "0022300685",
+    "event_game_id": "0022300685",
+    "paragraph": 11,
+    "kind": "history",
+    "locator": "story.content[11]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "203944",
+    "source_game_id": "0022300685",
+    "event_game_id": "0022300685",
+    "paragraph": 12,
+    "kind": "history",
+    "locator": "story.content[12]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1628384",
+    "source_game_id": "0022300685",
+    "event_game_id": "0022300685",
+    "paragraph": 12,
+    "kind": "history",
+    "locator": "story.content[12]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629656",
+    "source_game_id": "0022300685",
+    "event_game_id": "0022300685",
+    "paragraph": 12,
+    "kind": "history",
+    "locator": "story.content[12]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629631",
+    "source_game_id": "0022300690",
+    "event_game_id": "0022300690",
+    "paragraph": 14,
+    "kind": "history",
+    "locator": "story.content[14]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1631114",
+    "source_game_id": "0022300695",
+    "event_game_id": "0022300695",
+    "paragraph": 8,
+    "kind": "history",
+    "locator": "story.content[8]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1630198",
+    "source_game_id": "0022300695",
+    "event_game_id": "0022300695",
+    "paragraph": 8,
+    "kind": "history",
+    "locator": "story.content[8]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629029",
+    "source_game_id": "0022300702",
+    "event_game_id": "0022300702",
+    "paragraph": 9,
+    "kind": "history",
+    "locator": "story.content[9]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "202681",
+    "source_game_id": "0022300702",
+    "event_game_id": "0022300702",
+    "paragraph": 9,
+    "kind": "history",
+    "locator": "story.content[9]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "203935",
+    "source_game_id": "0022300706",
+    "event_game_id": "0022300706",
+    "paragraph": 8,
+    "kind": "history",
+    "locator": "story.content[8]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1631114",
+    "source_game_id": "0022300710",
+    "event_game_id": "0022300710",
+    "paragraph": 10,
+    "kind": "history",
+    "locator": "story.content[10]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1630198",
+    "source_game_id": "0022300710",
+    "event_game_id": "0022300710",
+    "paragraph": 10,
+    "kind": "history",
+    "locator": "story.content[10]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "202681",
+    "source_game_id": "0022300715",
+    "event_game_id": "0022300715",
+    "paragraph": 0,
+    "kind": "history",
+    "locator": "story.content[0]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629029",
+    "source_game_id": "0022300715",
+    "event_game_id": "0022300715",
+    "paragraph": 6,
+    "kind": "history",
+    "locator": "story.content[6]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "202681",
+    "source_game_id": "0022300715",
+    "event_game_id": "0022300715",
+    "paragraph": 6,
+    "kind": "history",
+    "locator": "story.content[6]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "203991",
+    "source_game_id": "0022300716",
+    "event_game_id": "0022300716",
+    "paragraph": 13,
+    "kind": "history",
+    "locator": "story.content[13]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629029",
+    "source_game_id": "0022300720",
+    "event_game_id": "0022300720",
+    "paragraph": 5,
+    "kind": "history",
+    "locator": "story.content[5]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "202681",
+    "source_game_id": "0022300720",
+    "event_game_id": "0022300720",
+    "paragraph": 8,
+    "kind": "history",
+    "locator": "story.content[8]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1628973",
+    "source_game_id": "0022300722",
+    "event_game_id": "0022300722",
+    "paragraph": 0,
+    "kind": "acute",
+    "locator": "story.content[0]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "203944",
+    "source_game_id": "0022300722",
+    "event_game_id": "0022300722",
+    "paragraph": 7,
+    "kind": "history",
+    "locator": "story.content[7]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1628384",
+    "source_game_id": "0022300722",
+    "event_game_id": "0022300722",
+    "paragraph": 7,
+    "kind": "history",
+    "locator": "story.content[7]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "203991",
+    "source_game_id": "0022300729",
+    "event_game_id": "0022300729",
+    "paragraph": 14,
+    "kind": "history",
+    "locator": "story.content[14]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1628973",
+    "source_game_id": "0022300736",
+    "event_game_id": "0022300736",
+    "paragraph": 7,
+    "kind": "history",
+    "locator": "story.content[7]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "203944",
+    "source_game_id": "0022300736",
+    "event_game_id": "0022300736",
+    "paragraph": 7,
+    "kind": "history",
+    "locator": "story.content[7]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1628384",
+    "source_game_id": "0022300736",
+    "event_game_id": "0022300736",
+    "paragraph": 7,
+    "kind": "history",
+    "locator": "story.content[7]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629011",
+    "source_game_id": "0022300736",
+    "event_game_id": "0022300736",
+    "paragraph": 7,
+    "kind": "history",
+    "locator": "story.content[7]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1628392",
+    "source_game_id": "0022300736",
+    "event_game_id": "0022300736",
+    "paragraph": 8,
+    "kind": "history",
+    "locator": "story.content[8]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "203944",
+    "source_game_id": "0022300736",
+    "event_game_id": "0022300736",
+    "paragraph": 13,
+    "kind": "history",
+    "locator": "story.content[13]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1628384",
+    "source_game_id": "0022300736",
+    "event_game_id": "0022300736",
+    "paragraph": 13,
+    "kind": "history",
+    "locator": "story.content[13]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629011",
+    "source_game_id": "0022300736",
+    "event_game_id": "0022300736",
+    "paragraph": 13,
+    "kind": "history",
+    "locator": "story.content[13]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1628991",
+    "source_game_id": "0022300737",
+    "event_game_id": "0022300737",
+    "paragraph": 13,
+    "kind": "history",
+    "locator": "story.content[13]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1641726",
+    "source_game_id": "0022300748",
+    "event_game_id": "0022300748",
+    "paragraph": 2,
+    "kind": "history",
+    "locator": "story.content[2]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "202681",
+    "source_game_id": "0022300748",
+    "event_game_id": "0022300748",
+    "paragraph": 5,
+    "kind": "history",
+    "locator": "story.content[5]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629631",
+    "source_game_id": "0022300754",
+    "event_game_id": "0022300754",
+    "paragraph": 12,
+    "kind": "history",
+    "locator": "story.content[12]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "203991",
+    "source_game_id": "0022300754",
+    "event_game_id": "0022300754",
+    "paragraph": 12,
+    "kind": "history",
+    "locator": "story.content[12]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1628973",
+    "source_game_id": "0022300755",
+    "event_game_id": "0022300755",
+    "paragraph": 4,
+    "kind": "history",
+    "locator": "story.content[4]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "203991",
+    "source_game_id": "0022300763",
+    "event_game_id": "0022300763",
+    "paragraph": 10,
+    "kind": "history",
+    "locator": "story.content[10]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1629029",
+    "source_game_id": "0022300768",
+    "event_game_id": "0022300768",
+    "paragraph": 1,
+    "kind": "acute",
+    "locator": "story.content[1]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1641726",
+    "source_game_id": "0022300768",
+    "event_game_id": "0022300768",
+    "paragraph": 14,
+    "kind": "history",
+    "locator": "story.content[14]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "203957",
+    "source_game_id": "0022300768",
+    "event_game_id": "0022300768",
+    "paragraph": 14,
+    "kind": "history",
+    "locator": "story.content[14]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "203991",
+    "source_game_id": "0022300777",
+    "event_game_id": "0022300777",
+    "paragraph": 16,
+    "kind": "history",
+    "locator": "story.content[16]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1630168",
+    "source_game_id": "0022300777",
+    "event_game_id": "0022300777",
+    "paragraph": 16,
+    "kind": "history",
+    "locator": "story.content[16]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "203991",
+    "source_game_id": "0022300777",
+    "event_game_id": "0022300777",
+    "paragraph": 17,
+    "kind": "history",
+    "locator": "story.content[17]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1630168",
+    "source_game_id": "0022300777",
+    "event_game_id": "0022300777",
+    "paragraph": 17,
+    "kind": "history",
+    "locator": "story.content[17]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "203944",
+    "source_game_id": "0022300778",
+    "event_game_id": "0022300778",
+    "paragraph": 11,
+    "kind": "history",
+    "locator": "story.content[11]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1628978",
+    "source_game_id": "0022300778",
+    "event_game_id": "0022300778",
+    "paragraph": 11,
+    "kind": "history",
+    "locator": "story.content[11]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "202711",
+    "source_game_id": "0022300778",
+    "event_game_id": "0022300778",
+    "paragraph": 11,
+    "kind": "history",
+    "locator": "story.content[11]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1628392",
+    "source_game_id": "0022300778",
+    "event_game_id": "0022300778",
+    "paragraph": 11,
+    "kind": "history",
+    "locator": "story.content[11]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1641726",
+    "source_game_id": "0022300785",
+    "event_game_id": "0022300785",
+    "paragraph": 12,
+    "kind": "history",
+    "locator": "story.content[12]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "203501",
+    "source_game_id": "0022300556",
+    "event_game_id": "0022300556",
+    "paragraph": 4,
+    "kind": "acute",
+    "locator": "story.content[4]",
+    "review_note": "Explicit mild ankle sprain with brief exit; full paragraph subject resolves missing surname suffix."
+  },
+  {
+    "player_id": "1630590",
+    "source_game_id": "0022300790",
+    "event_game_id": "0022300783",
+    "paragraph": 14,
+    "kind": "history",
+    "locator": "story.content[14]",
+    "review_note": "Team announced ongoing back condition, not an injury in the nonappearance game."
+  },
+  {
+    "player_id": "1629023",
+    "source_game_id": "0022300312",
+    "event_game_id": "0022300312",
+    "paragraph": 11,
+    "kind": "acute",
+    "locator": "story.content[11]",
+    "review_note": "Reviewed full prior-team December paragraph; direct medical attribution. Other three candidates were opponent injuries or missed shots."
+  },
+  {
+    "player_id": "1629023",
+    "source_game_id": "0022300326",
+    "event_game_id": "0022300326",
+    "paragraph": 7,
+    "kind": "history",
+    "locator": "story.content[7]",
+    "review_note": "Reviewed full prior-team December paragraph; direct medical attribution. Other three candidates were opponent injuries or missed shots."
+  },
+  {
+    "player_id": "202330",
+    "source_game_id": "0022300354",
+    "event_game_id": "0022300354",
+    "paragraph": 4,
+    "kind": "history",
+    "locator": "story.content[4]",
+    "review_note": "Reviewed full prior-team December paragraph; direct medical attribution. Other three candidates were opponent injuries or missed shots."
+  },
+  {
+    "player_id": "202330",
+    "source_game_id": "0022300428",
+    "event_game_id": "0022300428",
+    "paragraph": 10,
+    "kind": "history",
+    "locator": "story.content[10]",
+    "review_note": "Reviewed full prior-team December paragraph; direct medical attribution. Other three candidates were opponent injuries or missed shots."
+  },
+  {
+    "player_id": "202330",
+    "source_game_id": "0022300436",
+    "event_game_id": "0022300436",
+    "paragraph": 9,
+    "kind": "history",
+    "locator": "story.content[9]",
+    "review_note": "Reviewed full prior-team December paragraph; direct medical attribution. Other three candidates were opponent injuries or missed shots."
+  }
+]

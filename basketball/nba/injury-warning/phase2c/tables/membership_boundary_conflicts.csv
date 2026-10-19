@@ -1,0 +1,7 @@
+player_id,team,game_id,date,raw_roster_observed,appeared,raw_minutes,source_ids,decision,positive_appearance_outside_spell
+1629308,SAC,0022300500,2024-01-07,True,False,0,page_0022300500;book_0022300500,"Raw roster retained; outside conservative reviewed spell. Transaction-day/short-contract membership uncertain, never filled with zero or injury.",False
+203500,MEM,0022300687,2024-02-01,True,False,0,page_0022300687;book_0022300687,"Raw roster retained; outside conservative reviewed spell. Transaction-day/short-contract membership uncertain, never filled with zero or injury.",False
+1629684,DAL,0022300736,2024-02-08,True,False,0,page_0022300736;book_0022300736,"Raw roster retained; outside conservative reviewed spell. Transaction-day/short-contract membership uncertain, never filled with zero or injury.",False
+203552,DAL,0022300736,2024-02-08,True,False,0,page_0022300736;book_0022300736,"Raw roster retained; outside conservative reviewed spell. Transaction-day/short-contract membership uncertain, never filled with zero or injury.",False
+1626158,DAL,0022300736,2024-02-08,True,False,0,page_0022300736;book_0022300736,"Raw roster retained; outside conservative reviewed spell. Transaction-day/short-contract membership uncertain, never filled with zero or injury.",False
+1631223,MEM,0022300737,2024-02-08,True,False,0,page_0022300737;book_0022300737,"Raw roster retained; outside conservative reviewed spell. Transaction-day/short-contract membership uncertain, never filled with zero or injury.",False

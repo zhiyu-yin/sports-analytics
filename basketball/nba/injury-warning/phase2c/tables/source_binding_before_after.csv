@@ -1,0 +1,5 @@
+version,extra_lag_days,included,excluded,eligibility_unknown,positive,negative,outcome_unknown,missing_history
+draft_before_cache_binding_fix,0,1398,14,42,46,1288,64,43
+after_cache_binding_fix,0,1398,14,42,46,1288,64,43
+draft_before_cache_binding_fix,1,1341,27,86,41,1235,65,41
+after_cache_binding_fix,1,1341,27,86,41,1235,65,41

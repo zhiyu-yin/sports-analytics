@@ -1,0 +1,9 @@
+scope,extra_lag_days,included,positive,unknown,lower_if_unknown_negative,upper_if_unknown_positive,interpretation
+new_six_phase2c,0,1398,46,64,0.032904148783977114,0.07868383404864092,"worst-case identification range conditional on included rows; not confidence interval, estimated injury rate or annual incidence"
+new_six_phase2c,1,1341,41,65,0.030574198359433258,0.0790454884414616,"worst-case identification range conditional on included rows; not confidence interval, estimated injury rate or annual incidence"
+first_six_audited_phase2b,0,1425,11,129,0.0077192982456140355,0.09824561403508772,"worst-case identification range conditional on included rows; not confidence interval, estimated injury rate or annual incidence"
+first_six_audited_phase2b,1,1359,11,124,0.008094186902133923,0.09933774834437085,"worst-case identification range conditional on included rows; not confidence interval, estimated injury rate or annual incidence"
+Boston_prior,0,244,0,0,0.0,0.0,"worst-case identification range conditional on included rows; not confidence interval, estimated injury rate or annual incidence"
+Boston_prior,1,234,0,0,0.0,0.0,"worst-case identification range conditional on included rows; not confidence interval, estimated injury rate or annual incidence"
+combined_development,0,3067,57,193,0.018584936419954352,0.0815128790348875,"worst-case identification range conditional on included rows; not confidence interval, estimated injury rate or annual incidence"
+combined_development,1,2934,52,189,0.01772324471710975,0.08214042263122018,"worst-case identification range conditional on included rows; not confidence interval, estimated injury rate or annual incidence"

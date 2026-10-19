@@ -1,0 +1,641 @@
+[
+  {
+    "player_id": "1630201",
+    "team": "TOR",
+    "start": "2023-12-04",
+    "end": "2023-12-29",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker; game roster locators in player_games",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "1630201",
+    "team": "NYK",
+    "start": "2023-12-30",
+    "end": "2024-02-07",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker; game roster locators in player_games",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "1630201",
+    "team": "DET",
+    "start": "2024-02-08",
+    "end": "2024-04-14",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker; game roster locators in player_games",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "202692",
+    "team": "DET",
+    "start": "2023-12-04",
+    "end": "2024-02-07",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "202692",
+    "team": "NYK",
+    "start": "2024-02-08",
+    "end": "2024-04-14",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "202711",
+    "team": "DET",
+    "start": "2023-12-04",
+    "end": "2024-02-07",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "202711",
+    "team": "NYK",
+    "start": "2024-02-08",
+    "end": "2024-04-14",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "203095",
+    "team": "NYK",
+    "start": "2023-12-04",
+    "end": "2024-02-07",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "203095",
+    "team": "DET",
+    "start": "2024-02-08",
+    "end": "2024-04-14",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "1641787",
+    "team": "MEM",
+    "start": "2024-01-30",
+    "end": "2024-02-08",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "1641787",
+    "team": "DET",
+    "start": "2024-02-13",
+    "end": "2024-04-14",
+    "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+    "source_id": "p2_trade_tracker; game roster locators in player_games",
+    "historical_availability": "C; no automatic B departure exclusion"
+  },
+  {
+    "player_id": "1629656",
+    "team": "NYK",
+    "start": "2023-12-04",
+    "end": "2024-02-07",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "1629656",
+    "team": "DET",
+    "start": "2024-02-08",
+    "end": "2024-04-14",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "203500",
+    "team": "MEM",
+    "start": "2023-12-04",
+    "end": "2024-01-31",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "203500",
+    "team": "HOU",
+    "start": "2024-02-01",
+    "end": "2024-04-14",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "203506",
+    "team": "HOU",
+    "start": "2023-12-04",
+    "end": "2024-01-31",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "203506",
+    "team": "MEM",
+    "start": "2024-02-01",
+    "end": "2024-02-07",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "observed_roster;p2_trade_tracker;waiver_boundary_unverified",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "1627853",
+    "team": "NYK",
+    "start": "2023-12-04",
+    "end": "2024-02-07",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "1627853",
+    "team": "DET",
+    "start": "2024-02-08",
+    "end": "2024-02-08",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "p2_trade_tracker;waiver_boundary_unverified",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "1628384",
+    "team": "TOR",
+    "start": "2023-12-04",
+    "end": "2023-12-29",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "c_knicks_dec_trade",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "1628384",
+    "team": "NYK",
+    "start": "2023-12-30",
+    "end": "2024-04-14",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "c_knicks_dec_trade",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "1630173",
+    "team": "TOR",
+    "start": "2023-12-04",
+    "end": "2023-12-29",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "c_knicks_dec_trade",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "1630173",
+    "team": "NYK",
+    "start": "2023-12-30",
+    "end": "2024-04-14",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "c_knicks_dec_trade",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "1629023",
+    "team": "CHA",
+    "start": "2023-12-04",
+    "end": "2024-02-07",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "c_dallas_trades",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "1629023",
+    "team": "DAL",
+    "start": "2024-02-08",
+    "end": "2024-04-14",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "c_dallas_trades",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "1629655",
+    "team": "WAS",
+    "start": "2023-12-04",
+    "end": "2024-02-07",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "c_dallas_trades",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "1629655",
+    "team": "DAL",
+    "start": "2024-02-08",
+    "end": "2024-04-14",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "c_dallas_trades",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "1629684",
+    "team": "DAL",
+    "start": "2023-12-04",
+    "end": "2024-02-07",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "c_dallas_trades",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "1629684",
+    "team": "CHA",
+    "start": "2024-02-08",
+    "end": "2024-04-14",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "c_dallas_trades",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "203552",
+    "team": "DAL",
+    "start": "2023-12-04",
+    "end": "2024-02-07",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "c_dallas_trades",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "203552",
+    "team": "CHA",
+    "start": "2024-02-08",
+    "end": "2024-04-14",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "c_dallas_trades",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "1626158",
+    "team": "DAL",
+    "start": "2023-12-04",
+    "end": "2024-02-07",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "c_dallas_trades",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "1626158",
+    "team": "WAS",
+    "start": "2024-02-08",
+    "end": "2024-04-14",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "c_dallas_trades",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "1630544",
+    "team": "OKC",
+    "start": "2023-12-04",
+    "end": "2024-02-07",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "c_okc_trade",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "1630544",
+    "team": "CHA",
+    "start": "2024-02-08",
+    "end": "2024-04-14",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "c_okc_trade",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "202722",
+    "team": "OKC",
+    "start": "2023-12-04",
+    "end": "2024-02-07",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "c_okc_trade",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "202722",
+    "team": "CHA",
+    "start": "2024-02-08",
+    "end": "2024-04-14",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "c_okc_trade",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "203995",
+    "team": "OKC",
+    "start": "2023-12-04",
+    "end": "2024-02-07",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "c_okc_trade",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "203995",
+    "team": "CHA",
+    "start": "2024-02-08",
+    "end": "2024-04-14",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "c_okc_trade",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "202330",
+    "team": "CHA",
+    "start": "2023-12-04",
+    "end": "2024-02-07",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "c_okc_trade",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "202330",
+    "team": "OKC",
+    "start": "2024-02-08",
+    "end": "2024-04-14",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "c_okc_trade",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "1630214",
+    "team": "MEM",
+    "start": "2023-12-04",
+    "end": "2024-02-06",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "1630214",
+    "team": "BOS",
+    "start": "2024-02-07",
+    "end": "2024-04-14",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "1630205",
+    "team": "BOS",
+    "start": "2023-12-04",
+    "end": "2024-02-06",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "1630205",
+    "team": "MEM",
+    "start": "2024-02-07",
+    "end": "2024-04-14",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "1631223",
+    "team": "MEM",
+    "start": "2023-12-04",
+    "end": "2024-02-07",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "1631223",
+    "team": "PHX",
+    "start": "2024-02-08",
+    "end": "2024-04-14",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "1629139",
+    "team": "PHX",
+    "start": "2023-12-04",
+    "end": "2024-02-07",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "1629139",
+    "team": "MEM",
+    "start": "2024-02-08",
+    "end": "2024-04-14",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "202687",
+    "team": "MEM",
+    "start": "2023-12-04",
+    "end": "2024-01-09",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "c_biyombo_waive",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "202687",
+    "team": "OKC",
+    "start": "2024-02-10",
+    "end": "2024-04-14",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "c_biyombo_sign",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "1631367",
+    "team": "MEM",
+    "start": "2023-12-04",
+    "end": "2024-02-23",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "c_gilyard_actual",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "1631367",
+    "team": "BKN",
+    "start": "2024-03-02",
+    "end": "2024-04-14",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "c_gilyard_sign",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "1630197",
+    "team": "OKC",
+    "start": "2023-12-04",
+    "end": "2024-02-22",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "c_poku_waiver",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "1630197",
+    "team": "CHA",
+    "start": "2024-02-28",
+    "end": "2024-04-14",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "c_poku_actual",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "201988",
+    "team": "ATL",
+    "start": "2023-12-04",
+    "end": "2024-02-28",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "c_mills_waiver",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "201988",
+    "team": "MIA",
+    "start": "2024-03-06",
+    "end": "2024-04-14",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "c_mills_sign",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "1641998",
+    "team": "WAS",
+    "start": "2024-01-20",
+    "end": "2024-01-29",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "c_jemison_was",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "1641998",
+    "team": "MEM",
+    "start": "2024-01-30",
+    "end": "2024-04-14",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "c_jemison_2way",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "1630692",
+    "team": "PHX",
+    "start": "2023-12-04",
+    "end": "2024-02-07",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "1630692",
+    "team": "MEM",
+    "start": "2024-02-13",
+    "end": "2024-04-14",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "c_goodwin_10day;c_gilyard_waiver",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "1630562",
+    "team": "MEM",
+    "start": "2024-01-29",
+    "end": "2024-02-07",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "c_hurt_10day",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "1630562",
+    "team": "MEM",
+    "start": "2024-02-26",
+    "end": "2024-03-06",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "observed_roster; second10day_confirmation_pending",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "201959",
+    "team": "NYK",
+    "start": "2023-12-15",
+    "end": "2024-01-06",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "observed_roster;c_taj_waiver_REJECTED_WRONG_YEAR;last_observed_roster_only",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "201959",
+    "team": "NYK",
+    "start": "2024-01-30",
+    "end": "2024-02-08",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "c_taj_10day",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "201959",
+    "team": "NYK",
+    "start": "2024-02-10",
+    "end": "2024-02-14",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "observed_roster; second10day_end_unverified",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "201959",
+    "team": "DET",
+    "start": "2024-03-06",
+    "end": "2024-04-14",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "observed_roster; subsequent_contract_continuity_unverified",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "1629308",
+    "team": "SAC",
+    "start": "2023-12-15",
+    "end": "2024-01-06",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "observed_roster;Jan7_waiver",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "1629308",
+    "team": "SAC",
+    "start": "2024-01-09",
+    "end": "2024-01-18",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "c_toscano_10day",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "1630249",
+    "team": "ATL",
+    "start": "2023-12-22",
+    "end": "2024-04-14",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "c_krejci_sign",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "1630314",
+    "team": "DAL",
+    "start": "2023-12-28",
+    "end": "2024-04-14",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "c_brandon_actual",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  }
+]
