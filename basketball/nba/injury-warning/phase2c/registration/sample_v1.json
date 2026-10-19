@@ -1,0 +1,174 @@
+{
+  "version": "phase2c_fixed_six_v1",
+  "seed": 20240219,
+  "frame": [
+    {
+      "team_id": "1610612737",
+      "team": "ATL",
+      "name": "Atlanta Hawks"
+    },
+    {
+      "team_id": "1610612740",
+      "team": "NOP",
+      "name": "New Orleans Pelicans"
+    },
+    {
+      "team_id": "1610612741",
+      "team": "CHI",
+      "name": "Chicago Bulls"
+    },
+    {
+      "team_id": "1610612742",
+      "team": "DAL",
+      "name": "Dallas Mavericks"
+    },
+    {
+      "team_id": "1610612744",
+      "team": "GSW",
+      "name": "Golden State Warriors"
+    },
+    {
+      "team_id": "1610612745",
+      "team": "HOU",
+      "name": "Houston Rockets"
+    },
+    {
+      "team_id": "1610612746",
+      "team": "LAC",
+      "name": "LA Clippers"
+    },
+    {
+      "team_id": "1610612747",
+      "team": "LAL",
+      "name": "Los Angeles Lakers"
+    },
+    {
+      "team_id": "1610612748",
+      "team": "MIA",
+      "name": "Miami Heat"
+    },
+    {
+      "team_id": "1610612749",
+      "team": "MIL",
+      "name": "Milwaukee Bucks"
+    },
+    {
+      "team_id": "1610612750",
+      "team": "MIN",
+      "name": "Minnesota Timberwolves"
+    },
+    {
+      "team_id": "1610612751",
+      "team": "BKN",
+      "name": "Brooklyn Nets"
+    },
+    {
+      "team_id": "1610612752",
+      "team": "NYK",
+      "name": "New York Knicks"
+    },
+    {
+      "team_id": "1610612754",
+      "team": "IND",
+      "name": "Indiana Pacers"
+    },
+    {
+      "team_id": "1610612756",
+      "team": "PHX",
+      "name": "Phoenix Suns"
+    },
+    {
+      "team_id": "1610612757",
+      "team": "POR",
+      "name": "Portland Trail Blazers"
+    },
+    {
+      "team_id": "1610612758",
+      "team": "SAC",
+      "name": "Sacramento Kings"
+    },
+    {
+      "team_id": "1610612760",
+      "team": "OKC",
+      "name": "Oklahoma City Thunder"
+    },
+    {
+      "team_id": "1610612761",
+      "team": "TOR",
+      "name": "Toronto Raptors"
+    },
+    {
+      "team_id": "1610612762",
+      "team": "UTA",
+      "name": "Utah Jazz"
+    },
+    {
+      "team_id": "1610612763",
+      "team": "MEM",
+      "name": "Memphis Grizzlies"
+    },
+    {
+      "team_id": "1610612764",
+      "team": "WAS",
+      "name": "Washington Wizards"
+    },
+    {
+      "team_id": "1610612766",
+      "team": "CHA",
+      "name": "Charlotte Hornets"
+    }
+  ],
+  "excluded_prediction_team_ids": [
+    "1610612738",
+    "1610612739",
+    "1610612743",
+    "1610612753",
+    "1610612755",
+    "1610612759",
+    "1610612765"
+  ],
+  "selected": [
+    {
+      "team_id": "1610612737",
+      "team": "ATL",
+      "name": "Atlanta Hawks"
+    },
+    {
+      "team_id": "1610612742",
+      "team": "DAL",
+      "name": "Dallas Mavericks"
+    },
+    {
+      "team_id": "1610612752",
+      "team": "NYK",
+      "name": "New York Knicks"
+    },
+    {
+      "team_id": "1610612758",
+      "team": "SAC",
+      "name": "Sacramento Kings"
+    },
+    {
+      "team_id": "1610612760",
+      "team": "OKC",
+      "name": "Oklahoma City Thunder"
+    },
+    {
+      "team_id": "1610612763",
+      "team": "MEM",
+      "name": "Memphis Grizzlies"
+    }
+  ],
+  "sampling_implementation": "random.Random(20240219).sample(numerically_sorted_stable_ID_frame,6); selected output sorted by numeric ID",
+  "sampling_code_sha256": "739e37d0d5b7d4c8a733b3b2701869522492983e18792238fc4c1236efc8eaba",
+  "dates": {
+    "index_start": "2024-01-01",
+    "index_end": "2024-02-18",
+    "history_start": "2023-12-04",
+    "onset_extension_end": "2024-03-03",
+    "followup_end": "2024-04-14"
+  },
+  "prior_familiarity": "Boston and first CLE/DEN/DET/ORL/PHI/SAS cohorts excluded. Prior transfer follow-up has inspected MEM, POR, WAS, MIN, NYK, MIL, IND, UTA, OKC, TOR and selected fixtures NYK/Randle and CHA/Ball. Earlier historical cases also include PHI/Embiid, GSW/Curry, HOU/Sengun. General NBA historical familiarity exists; eligible teams are not claimed wholly unseen. No injury information enters this draw, no redraw.",
+  "scope": "development collection, not final validation; exactly6 new prediction teams, other teams only targeted actual-member followup/history",
+  "collection_spec_sha256": "079f86b9851804cc16ef0fe0bd9390631c84dffdebcf64187941b6d3199f5d05"
+}
