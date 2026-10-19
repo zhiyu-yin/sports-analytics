@@ -1,0 +1,313 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "injury_episode",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "episode_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "player_id": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Stable NBA ID, never inferred from name alone; null until mapping reviewed."
+    },
+    "team_ids": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Teams during the episode; preserve trades."
+    },
+    "season": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Onset season, not return season."
+    },
+    "diagnosis": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Source-supported description; no inferred mechanism."
+    },
+    "injury_related": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "excluded_reason": {
+      "enum": [
+        null,
+        "rest",
+        "illness",
+        "suspension",
+        "personal",
+        "coaching",
+        "other_noninjury"
+      ],
+      "description": "Sole noninjury cause; mixed causes need adjudication."
+    },
+    "onset_lower": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Inclusive earliest possible onset; null when unknown.",
+      "format": "date-time"
+    },
+    "onset_upper": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Inclusive latest possible onset; retain whole-day intervals.",
+      "format": "date-time"
+    },
+    "onset_date_precision": {
+      "enum": [
+        "instant",
+        "day",
+        "interval",
+        "unknown"
+      ],
+      "description": "No exact time invented from an event date."
+    },
+    "first_public_report_at": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Only populated when first publication is established.",
+      "format": "date-time"
+    },
+    "earliest_reviewed_report_at": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Earliest found report; not necessarily the first report.",
+      "format": "date-time"
+    },
+    "first_injury_missed_game_date": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Verified first team game missed for this injury.",
+      "format": "date"
+    },
+    "medical_clearance_at": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Explicit full competition clearance, distinct from activity clearance.",
+      "format": "date-time"
+    },
+    "activity_clearance_at": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "On-court activity clearance, not full medical clearance.",
+      "format": "date-time"
+    },
+    "first_return_appearance_at": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Appearance timestamp, not a clearance timestamp.",
+      "format": "date-time"
+    },
+    "last_confirmed_unavailable_at": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "End of observed injury unavailability; not projected recovery.",
+      "format": "date-time"
+    },
+    "unavailability_days_lower": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "minimum": 0,
+      "description": "Continuous documented calendar duration lower bound."
+    },
+    "unavailability_days_upper": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "minimum": 0,
+      "description": "Continuous documented calendar duration upper bound; null if censored."
+    },
+    "consecutive_missed_games_lower": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "minimum": 0,
+      "description": "Verified uninterrupted injury-related missed team games lower bound."
+    },
+    "consecutive_missed_games_upper": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "minimum": 0,
+      "description": "Upper bound only when absence episode closed and all games resolved."
+    },
+    "return_gap_proxy_days": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "minimum": 0,
+      "description": "Local date(return) minus local date(onset), never automatically a primary label."
+    },
+    "followup_end": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Last surveillance timestamp; does not prove continuous injury absence.",
+      "format": "date-time"
+    },
+    "label_known_at_primary": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Latest public availability time of all primary adjudication evidence.",
+      "format": "date-time"
+    },
+    "label_known_at_secondary": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Latest public availability time of all secondary adjudication evidence.",
+      "format": "date-time"
+    },
+    "censoring": {
+      "enum": [
+        "none",
+        "right",
+        "interval",
+        "season_end",
+        "lost_followup",
+        "unknown"
+      ],
+      "description": "Positive lower bounds can qualify despite right censoring."
+    },
+    "mechanism": {
+      "enum": [
+        "contact",
+        "non_contact",
+        "unknown"
+      ],
+      "description": "Requires explicit evidence."
+    },
+    "related_episode_id": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Explicit continuity/recurrence link, if supported."
+    },
+    "episode_relation": {
+      "enum": [
+        "new",
+        "same",
+        "recurrence",
+        "unresolved"
+      ],
+      "description": "Do not merge using diagnosis or date proximity alone."
+    },
+    "primary_label": {
+      "enum": [
+        "positive",
+        "negative",
+        "unknown",
+        "excluded"
+      ],
+      "description": "Strictly >28 consecutive days."
+    },
+    "secondary_label": {
+      "enum": [
+        "positive",
+        "negative",
+        "unknown",
+        "excluded"
+      ],
+      "description": "At least 10 consecutive missed team games."
+    },
+    "source_ids": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Foreign keys to source records."
+    },
+    "evidence_notes": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Paraphrase, page/paragraph locator and which assertion is supported."
+    },
+    "uncertainty_flags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Unresolved evidence issues."
+    },
+    "adjudicator": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Reviewer identity."
+    },
+    "adjudicated_at": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Actual review time.",
+      "format": "date-time"
+    },
+    "adjudication_notes": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Reason for both labels."
+    }
+  },
+  "required": [
+    "episode_id",
+    "player_id",
+    "onset_lower",
+    "onset_upper",
+    "first_public_report_at",
+    "medical_clearance_at",
+    "first_return_appearance_at",
+    "primary_label",
+    "secondary_label",
+    "source_ids",
+    "uncertainty_flags",
+    "adjudication_notes"
+  ]
+}

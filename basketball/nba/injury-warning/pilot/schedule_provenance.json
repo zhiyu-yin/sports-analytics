@@ -1,0 +1,16 @@
+{
+  "source_id": "local_2023_24_schedule",
+  "url": "https://stats.nba.com/stats/leaguegamelog?Counter=0&DateFrom=&DateTo=&Direction=ASC&LeagueID=00&PlayerOrTeam=T&Season=2023-24&SeasonType=Regular+Season&Sorter=DATE",
+  "retrieved_at": "2026-09-24T02:07:37.179423+00:00",
+  "sha256": "8a3bc942e72e06ae88efd28c17a44918de0b484b22d85aea342eb739632ad4de",
+  "publication_at": null,
+  "publication_precision": "unverified_original_availability",
+  "local_manifest": "sports-analytics/basketball/nba/game-prediction/data/raw/2023-24/leaguegamelog_full_20260924T020737Z_45ca3b50.manifest.json",
+  "fields_used": [
+    "TEAM_ID",
+    "GAME_ID",
+    "GAME_DATE",
+    "MATCHUP"
+  ],
+  "notes": "Only BOS records in registered development dates exported; no score/outcome fields retained."
+}

@@ -1,0 +1,55 @@
+{
+  "team": "Boston Celtics",
+  "prediction_start": "2024-01-01",
+  "prediction_end": "2024-02-18",
+  "players": 19,
+  "games": 23,
+  "history_games": 13,
+  "followup_games": 27,
+  "candidate_player_games": 392,
+  "roster_membership_counts": {
+    "member_verified_in_game_roster": 390,
+    "uncertain_transaction_day": 2
+  },
+  "immediate": {
+    "unknown": 392
+  },
+  "later_noon": {
+    "unknown": 392
+  },
+  "nominal_header_sensitivity": {
+    "unknown": 392
+  },
+  "appearance_only_rows": 246,
+  "report_coverage": {
+    "team_not_covered": 10,
+    "complete": 18,
+    "mixed_complete_and_unsubmitted": 5,
+    "not_yet_submitted": 36
+  },
+  "status_observations": 101,
+  "unmapped_observations": 0,
+  "unresolved_episode_leads": 28,
+  "adjudicated_new_pilot_events": 0,
+  "original_publication_verified_rows": 0,
+  "game_end_minute_available": 23,
+  "raw_sources": {
+    "access_denied": 3,
+    "obtained": 272
+  },
+  "pilot_raw_sources": {
+    "access_denied": 3,
+    "obtained": 198
+  },
+  "report_section_coverage": {
+    "complete": 23,
+    "not_yet_submitted": 41
+  },
+  "primary_label_counts": {
+    "unknown": 392
+  },
+  "secondary_label_counts": {
+    "unknown": 392
+  },
+  "gamebook_consistency_failures": 1
+}

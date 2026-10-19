@@ -1,0 +1,22 @@
+[
+  {
+    "event_id": "new_ankle_20240125_204001",
+    "player_id": "204001",
+    "onset_date": "2024-01-25",
+    "source_id": "page_0022300630",
+    "paragraph": 3,
+    "site": "ankle",
+    "side": "left",
+    "note": "New ankle sprain during the completed Miami game; explicit recap assertion."
+  },
+  {
+    "event_id": "new_ankle_20240214_204001",
+    "player_id": "204001",
+    "onset_date": "2024-02-14",
+    "source_id": "page_0022300780",
+    "paragraph": 7,
+    "site": "ankle",
+    "side": "unknown",
+    "note": "Ankle sprain during completed Brooklyn game; player reported second-half availability. New in-game injury still disqualifies this indexing row."
+  }
+]

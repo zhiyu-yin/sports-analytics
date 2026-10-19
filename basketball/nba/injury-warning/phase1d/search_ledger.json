@@ -1,0 +1,252 @@
+[
+  {
+    "date": "2023-11-11",
+    "team": "CHA",
+    "q": "LaMelo Ball Hornets injury status \"November 11, 2023\"",
+    "retrieved_at": "2026-10-19T18:20:57.583Z",
+    "status": "executed",
+    "sha256": "73a843f6d1f19141e9c5c2e3be338537d47f99841c7c1fb46210a22c88d45467",
+    "raw_file": "data/raw/phase1d/searches/batch_0.json",
+    "coverage": "bounded_dated_search; not exhaustive; results not predictors without direct review"
+  },
+  {
+    "date": "2023-11-12",
+    "team": "CHA",
+    "q": "LaMelo Ball Hornets injury status \"November 12, 2023\"",
+    "retrieved_at": "2026-10-19T18:20:57.583Z",
+    "status": "executed",
+    "sha256": "73a843f6d1f19141e9c5c2e3be338537d47f99841c7c1fb46210a22c88d45467",
+    "raw_file": "data/raw/phase1d/searches/batch_0.json",
+    "coverage": "bounded_dated_search; not exhaustive; results not predictors without direct review"
+  },
+  {
+    "date": "2023-11-13",
+    "team": "CHA",
+    "q": "LaMelo Ball Hornets injury status \"November 13, 2023\"",
+    "retrieved_at": "2026-10-19T18:20:57.583Z",
+    "status": "executed",
+    "sha256": "73a843f6d1f19141e9c5c2e3be338537d47f99841c7c1fb46210a22c88d45467",
+    "raw_file": "data/raw/phase1d/searches/batch_0.json",
+    "coverage": "bounded_dated_search; not exhaustive; results not predictors without direct review"
+  },
+  {
+    "date": "2023-11-14",
+    "team": "CHA",
+    "q": "LaMelo Ball Hornets injury status \"November 14, 2023\"",
+    "retrieved_at": "2026-10-19T18:20:57.583Z",
+    "status": "executed",
+    "sha256": "73a843f6d1f19141e9c5c2e3be338537d47f99841c7c1fb46210a22c88d45467",
+    "raw_file": "data/raw/phase1d/searches/batch_0.json",
+    "coverage": "bounded_dated_search; not exhaustive; results not predictors without direct review"
+  },
+  {
+    "date": "2023-11-24",
+    "team": "CHA",
+    "q": "LaMelo Ball Hornets injury status \"November 24, 2023\"",
+    "retrieved_at": "2026-10-19T18:21:02.423Z",
+    "status": "executed",
+    "sha256": "1c91bb386158e240706cd39586b822e4937aab4e9ab362be4979fa00b9f4b0a1",
+    "raw_file": "data/raw/phase1d/searches/batch_12.json",
+    "coverage": "bounded_dated_search; not exhaustive; results not predictors without direct review"
+  },
+  {
+    "date": "2023-11-27",
+    "team": "CHA",
+    "q": "LaMelo Ball Hornets injury status \"November 27, 2023\"",
+    "retrieved_at": "2026-10-19T18:21:02.423Z",
+    "status": "executed",
+    "sha256": "1c91bb386158e240706cd39586b822e4937aab4e9ab362be4979fa00b9f4b0a1",
+    "raw_file": "data/raw/phase1d/searches/batch_12.json",
+    "coverage": "bounded_dated_search; not exhaustive; results not predictors without direct review"
+  },
+  {
+    "date": "2023-11-28",
+    "team": "CHA",
+    "q": "LaMelo Ball Hornets injury status \"November 28, 2023\"",
+    "retrieved_at": "2026-10-19T18:21:02.423Z",
+    "status": "executed",
+    "sha256": "1c91bb386158e240706cd39586b822e4937aab4e9ab362be4979fa00b9f4b0a1",
+    "raw_file": "data/raw/phase1d/searches/batch_12.json",
+    "coverage": "bounded_dated_search; not exhaustive; results not predictors without direct review"
+  },
+  {
+    "date": "2024-01-02",
+    "team": "NYK",
+    "q": "Julius Randle Knicks injury status \"January 02, 2024\"",
+    "retrieved_at": "2026-10-19T18:21:02.423Z",
+    "status": "executed",
+    "sha256": "1c91bb386158e240706cd39586b822e4937aab4e9ab362be4979fa00b9f4b0a1",
+    "raw_file": "data/raw/phase1d/searches/batch_12.json",
+    "coverage": "bounded_dated_search; not exhaustive; results not predictors without direct review"
+  },
+  {
+    "date": "2024-01-03",
+    "team": "NYK",
+    "q": "Julius Randle Knicks injury status \"January 03, 2024\"",
+    "retrieved_at": "2026-10-19T18:21:04.098Z",
+    "status": "executed",
+    "sha256": "8cabfc56a64d14d159170c7ea62ff6a22914dda23caf1df001c54b4ed4dea143",
+    "raw_file": "data/raw/phase1d/searches/batch_16.json",
+    "coverage": "bounded_dated_search; not exhaustive; results not predictors without direct review"
+  },
+  {
+    "date": "2024-01-14",
+    "team": "NYK",
+    "q": "Julius Randle Knicks injury status \"January 14, 2024\"",
+    "retrieved_at": "2026-10-19T18:21:04.098Z",
+    "status": "executed",
+    "sha256": "8cabfc56a64d14d159170c7ea62ff6a22914dda23caf1df001c54b4ed4dea143",
+    "raw_file": "data/raw/phase1d/searches/batch_16.json",
+    "coverage": "bounded_dated_search; not exhaustive; results not predictors without direct review"
+  },
+  {
+    "date": "2024-01-15",
+    "team": "NYK",
+    "q": "Julius Randle Knicks injury status \"January 15, 2024\"",
+    "retrieved_at": "2026-10-19T18:21:04.098Z",
+    "status": "executed",
+    "sha256": "8cabfc56a64d14d159170c7ea62ff6a22914dda23caf1df001c54b4ed4dea143",
+    "raw_file": "data/raw/phase1d/searches/batch_16.json",
+    "coverage": "bounded_dated_search; not exhaustive; results not predictors without direct review"
+  },
+  {
+    "date": "2024-01-26",
+    "team": "NYK",
+    "q": "Julius Randle Knicks injury status \"January 26, 2024\"",
+    "retrieved_at": "2026-10-19T18:21:04.098Z",
+    "status": "executed",
+    "sha256": "8cabfc56a64d14d159170c7ea62ff6a22914dda23caf1df001c54b4ed4dea143",
+    "raw_file": "data/raw/phase1d/searches/batch_16.json",
+    "coverage": "bounded_dated_search; not exhaustive; results not predictors without direct review"
+  },
+  {
+    "date": "2024-01-27",
+    "team": "NYK",
+    "q": "Julius Randle Knicks injury status \"January 27, 2024\"",
+    "retrieved_at": "2026-10-19T18:21:06.008Z",
+    "status": "executed",
+    "sha256": "b0120f3dc567038484672cd54d11389fe66509c233a5706431225893f43078d9",
+    "raw_file": "data/raw/phase1d/searches/batch_20.json",
+    "coverage": "bounded_dated_search; not exhaustive; results not predictors without direct review"
+  },
+  {
+    "date": "2024-01-28",
+    "team": "NYK",
+    "q": "Julius Randle Knicks injury status \"January 28, 2024\"",
+    "retrieved_at": "2026-10-19T18:21:06.008Z",
+    "status": "executed",
+    "sha256": "b0120f3dc567038484672cd54d11389fe66509c233a5706431225893f43078d9",
+    "raw_file": "data/raw/phase1d/searches/batch_20.json",
+    "coverage": "bounded_dated_search; not exhaustive; results not predictors without direct review"
+  },
+  {
+    "date": "2024-01-29",
+    "team": "NYK",
+    "q": "Julius Randle Knicks injury status \"January 29, 2024\"",
+    "retrieved_at": "2026-10-19T18:21:06.008Z",
+    "status": "executed",
+    "sha256": "b0120f3dc567038484672cd54d11389fe66509c233a5706431225893f43078d9",
+    "raw_file": "data/raw/phase1d/searches/batch_20.json",
+    "coverage": "bounded_dated_search; not exhaustive; results not predictors without direct review"
+  },
+  {
+    "date": "2024-01-30",
+    "team": "NYK",
+    "q": "Julius Randle Knicks injury status \"January 30, 2024\"",
+    "retrieved_at": "2026-10-19T18:21:06.008Z",
+    "status": "executed",
+    "sha256": "b0120f3dc567038484672cd54d11389fe66509c233a5706431225893f43078d9",
+    "raw_file": "data/raw/phase1d/searches/batch_20.json",
+    "coverage": "bounded_dated_search; not exhaustive; results not predictors without direct review"
+  },
+  {
+    "date": "2024-01-31",
+    "team": "NYK",
+    "q": "Julius Randle Knicks injury status \"January 31, 2024\"",
+    "retrieved_at": "2026-10-19T18:21:07.542Z",
+    "status": "executed",
+    "sha256": "a55c0f87acdf1e138bc6c03caeff0409cae3dc0993f01cdfff70f1df5bc1a106",
+    "raw_file": "data/raw/phase1d/searches/batch_24.json",
+    "coverage": "bounded_dated_search; not exhaustive; results not predictors without direct review"
+  },
+  {
+    "date": "2023-11-15",
+    "team": "CHA",
+    "q": "LaMelo Ball Hornets injury status \"November 15, 2023\"",
+    "retrieved_at": "2026-10-19T18:20:59.478Z",
+    "status": "executed",
+    "sha256": "b08075e3d1e8729c713b067d3b65bd8157f3fc05943c93900d4529e39a20529f",
+    "raw_file": "data/raw/phase1d/searches/batch_4.json",
+    "coverage": "bounded_dated_search; not exhaustive; results not predictors without direct review"
+  },
+  {
+    "date": "2023-11-16",
+    "team": "CHA",
+    "q": "LaMelo Ball Hornets injury status \"November 16, 2023\"",
+    "retrieved_at": "2026-10-19T18:20:59.478Z",
+    "status": "executed",
+    "sha256": "b08075e3d1e8729c713b067d3b65bd8157f3fc05943c93900d4529e39a20529f",
+    "raw_file": "data/raw/phase1d/searches/batch_4.json",
+    "coverage": "bounded_dated_search; not exhaustive; results not predictors without direct review"
+  },
+  {
+    "date": "2023-11-18",
+    "team": "CHA",
+    "q": "LaMelo Ball Hornets injury status \"November 18, 2023\"",
+    "retrieved_at": "2026-10-19T18:20:59.478Z",
+    "status": "executed",
+    "sha256": "b08075e3d1e8729c713b067d3b65bd8157f3fc05943c93900d4529e39a20529f",
+    "raw_file": "data/raw/phase1d/searches/batch_4.json",
+    "coverage": "bounded_dated_search; not exhaustive; results not predictors without direct review"
+  },
+  {
+    "date": "2023-11-19",
+    "team": "CHA",
+    "q": "LaMelo Ball Hornets injury status \"November 19, 2023\"",
+    "retrieved_at": "2026-10-19T18:20:59.478Z",
+    "status": "executed",
+    "sha256": "b08075e3d1e8729c713b067d3b65bd8157f3fc05943c93900d4529e39a20529f",
+    "raw_file": "data/raw/phase1d/searches/batch_4.json",
+    "coverage": "bounded_dated_search; not exhaustive; results not predictors without direct review"
+  },
+  {
+    "date": "2023-11-20",
+    "team": "CHA",
+    "q": "LaMelo Ball Hornets injury status \"November 20, 2023\"",
+    "retrieved_at": "2026-10-19T18:21:00.887Z",
+    "status": "executed",
+    "sha256": "24a07aa34c6cb42dd13747fcb9c3a29ef8383afed81e2625345d86a67c82b0da",
+    "raw_file": "data/raw/phase1d/searches/batch_8.json",
+    "coverage": "bounded_dated_search; not exhaustive; results not predictors without direct review"
+  },
+  {
+    "date": "2023-11-21",
+    "team": "CHA",
+    "q": "LaMelo Ball Hornets injury status \"November 21, 2023\"",
+    "retrieved_at": "2026-10-19T18:21:00.887Z",
+    "status": "executed",
+    "sha256": "24a07aa34c6cb42dd13747fcb9c3a29ef8383afed81e2625345d86a67c82b0da",
+    "raw_file": "data/raw/phase1d/searches/batch_8.json",
+    "coverage": "bounded_dated_search; not exhaustive; results not predictors without direct review"
+  },
+  {
+    "date": "2023-11-22",
+    "team": "CHA",
+    "q": "LaMelo Ball Hornets injury status \"November 22, 2023\"",
+    "retrieved_at": "2026-10-19T18:21:00.887Z",
+    "status": "executed",
+    "sha256": "24a07aa34c6cb42dd13747fcb9c3a29ef8383afed81e2625345d86a67c82b0da",
+    "raw_file": "data/raw/phase1d/searches/batch_8.json",
+    "coverage": "bounded_dated_search; not exhaustive; results not predictors without direct review"
+  },
+  {
+    "date": "2023-11-23",
+    "team": "CHA",
+    "q": "LaMelo Ball Hornets injury status \"November 23, 2023\"",
+    "retrieved_at": "2026-10-19T18:21:00.887Z",
+    "status": "executed",
+    "sha256": "24a07aa34c6cb42dd13747fcb9c3a29ef8383afed81e2625345d86a67c82b0da",
+    "raw_file": "data/raw/phase1d/searches/batch_8.json",
+    "coverage": "bounded_dated_search; not exhaustive; results not predictors without direct review"
+  }
+]

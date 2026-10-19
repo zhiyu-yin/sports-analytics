@@ -1,0 +1,23 @@
+{
+  "selected_reviews": 6,
+  "injury_reviews": 5,
+  "independent_human_reviews": 0,
+  "primary_resolved": 2,
+  "primary_resolved_fraction": 0.4,
+  "appearance_proxy_observed": 3,
+  "appearance_proxy_fraction": 0.6,
+  "secondary_resolved": 5,
+  "primary_labels": {
+    "unknown": 3,
+    "positive": 1,
+    "negative": 1,
+    "excluded": 1
+  },
+  "secondary_labels": {
+    "positive": 4,
+    "negative": 1,
+    "excluded": 1
+  },
+  "full_medical_clearance_known": 0,
+  "original_label_availability_verified": 0
+}

@@ -1,0 +1,398 @@
+{
+  "case_assertions.csv": {
+    "rows": 137,
+    "columns": [
+      "case_id",
+      "assertion",
+      "value",
+      "source_id",
+      "evidence_locator",
+      "original_publication_at",
+      "publication_precision",
+      "evidence_role",
+      "reviewer"
+    ],
+    "missing_value": "Empty CSV cell means unknown or not applicable; consult reason/precision columns.",
+    "provenance": "source_id / source_ids joins pilot/source_manifest.jsonl; phase1: IDs join audit/sources.json; local_2023_24_schedule joins pilot/schedule_provenance.json. Derived prediction_id joins prediction_timestamps.csv."
+  },
+  "case_audits.csv": {
+    "rows": 6,
+    "columns": [
+      "case_id",
+      "player_id",
+      "player_name",
+      "cohort_role",
+      "onset_lower_date",
+      "onset_upper_date",
+      "onset_precision",
+      "first_injury_missed_game",
+      "first_injury_missed_game_verified",
+      "noninjury_absence_date",
+      "first_public_report_at",
+      "earliest_reviewed_evidence_source",
+      "medical_clearance_at",
+      "activity_clearance_date",
+      "first_return_appearance_date",
+      "noninjury_return_date",
+      "last_observed_injury_absence",
+      "injury_game_run_count",
+      "expected_team_games_in_run",
+      "individually_injury_verified_games",
+      "primary_label",
+      "secondary_label",
+      "onset_to_return_proxy_days",
+      "proxy_definition",
+      "label_known_at_primary",
+      "label_known_at_secondary",
+      "label_known_at_precision",
+      "followup_censoring",
+      "mechanism",
+      "episode_relation",
+      "continuity_and_identity_evidence",
+      "identity_source_ids",
+      "reviewer",
+      "reviewed_at",
+      "unresolved_assertions"
+    ],
+    "missing_value": "Empty CSV cell means unknown or not applicable; consult reason/precision columns.",
+    "provenance": "source_id / source_ids joins pilot/source_manifest.jsonl; phase1: IDs join audit/sources.json; local_2023_24_schedule joins pilot/schedule_provenance.json. Derived prediction_id joins prediction_timestamps.csv."
+  },
+  "case_game_evidence.csv": {
+    "rows": 116,
+    "columns": [
+      "case_id",
+      "player_id",
+      "game_id",
+      "game_date",
+      "appearance_verified",
+      "source_id",
+      "reason",
+      "reason_source_id",
+      "evidence_locator"
+    ],
+    "missing_value": "Empty CSV cell means unknown or not applicable; consult reason/precision columns.",
+    "provenance": "source_id / source_ids joins pilot/source_manifest.jsonl; phase1: IDs join audit/sources.json; local_2023_24_schedule joins pilot/schedule_provenance.json. Derived prediction_id joins prediction_timestamps.csv."
+  },
+  "eligibility_coverage.csv": {
+    "rows": 12,
+    "columns": [
+      "grouping",
+      "group",
+      "players",
+      "candidate_rows",
+      "immediate_available",
+      "later_available",
+      "later_unavailable",
+      "later_unknown",
+      "appeared_rows",
+      "nominal_header_available"
+    ],
+    "missing_value": "Empty CSV cell means unknown or not applicable; consult reason/precision columns.",
+    "provenance": "source_id / source_ids joins pilot/source_manifest.jsonl; phase1: IDs join audit/sources.json; local_2023_24_schedule joins pilot/schedule_provenance.json. Derived prediction_id joins prediction_timestamps.csv."
+  },
+  "game_timing.csv": {
+    "rows": 63,
+    "columns": [
+      "game_id",
+      "game_date",
+      "phase",
+      "scheduled_start_utc",
+      "game_end_lower",
+      "game_end_upper_exclusive",
+      "game_end_precision",
+      "end_description",
+      "source_id",
+      "evidence_locator",
+      "original_publication_at",
+      "original_publication_precision"
+    ],
+    "missing_value": "Empty CSV cell means unknown or not applicable; consult reason/precision columns.",
+    "provenance": "source_id / source_ids joins pilot/source_manifest.jsonl; phase1: IDs join audit/sources.json; local_2023_24_schedule joins pilot/schedule_provenance.json. Derived prediction_id joins prediction_timestamps.csv."
+  },
+  "gamebook_checks.csv": {
+    "rows": 63,
+    "columns": [
+      "game_id",
+      "source_id",
+      "structured_source_id",
+      "minutes_total",
+      "expected_minutes",
+      "minute_sum_ok",
+      "inactive_reasons_mapped",
+      "pdf_available",
+      "evidence_locator"
+    ],
+    "missing_value": "Empty CSV cell means unknown or not applicable; consult reason/precision columns.",
+    "provenance": "source_id / source_ids joins pilot/source_manifest.jsonl; phase1: IDs join audit/sources.json; local_2023_24_schedule joins pilot/schedule_provenance.json. Derived prediction_id joins prediction_timestamps.csv."
+  },
+  "injury_episodes.csv": {
+    "rows": 28,
+    "columns": [
+      "episode_id",
+      "record_type",
+      "player_id",
+      "observed_absence_date",
+      "reason",
+      "onset_lower",
+      "onset_upper",
+      "first_injury_missed_game",
+      "medical_clearance",
+      "first_return",
+      "episode_relation",
+      "primary_label",
+      "secondary_label",
+      "label_known_at",
+      "source_ids",
+      "evidence_locator",
+      "adjudicator",
+      "uncertainty"
+    ],
+    "missing_value": "Empty CSV cell means unknown or not applicable; consult reason/precision columns.",
+    "provenance": "source_id / source_ids joins pilot/source_manifest.jsonl; phase1: IDs join audit/sources.json; local_2023_24_schedule joins pilot/schedule_provenance.json. Derived prediction_id joins prediction_timestamps.csv."
+  },
+  "missingness.csv": {
+    "rows": 6,
+    "columns": [
+      "measure",
+      "numerator",
+      "denominator"
+    ],
+    "missing_value": "Empty CSV cell means unknown or not applicable; consult reason/precision columns.",
+    "provenance": "source_id / source_ids joins pilot/source_manifest.jsonl; phase1: IDs join audit/sources.json; local_2023_24_schedule joins pilot/schedule_provenance.json. Derived prediction_id joins prediction_timestamps.csv."
+  },
+  "player_games.csv": {
+    "rows": 1068,
+    "columns": [
+      "game_id",
+      "game_date",
+      "phase",
+      "player_id",
+      "player_name",
+      "appeared",
+      "minutes",
+      "minutes_precision",
+      "minutes_source_raw",
+      "minutes_normalization",
+      "inactive",
+      "nonappearance_reason",
+      "absence_category",
+      "source_id",
+      "reason_source_id",
+      "evidence_locator",
+      "input_publication_at",
+      "input_publication_precision"
+    ],
+    "missing_value": "Empty CSV cell means unknown or not applicable; consult reason/precision columns.",
+    "provenance": "source_id / source_ids joins pilot/source_manifest.jsonl; phase1: IDs join audit/sources.json; local_2023_24_schedule joins pilot/schedule_provenance.json. Derived prediction_id joins prediction_timestamps.csv."
+  },
+  "players.csv": {
+    "rows": 19,
+    "columns": [
+      "player_id",
+      "player_name",
+      "first_name",
+      "family_name",
+      "identity_source_id",
+      "evidence_locator"
+    ],
+    "missing_value": "Empty CSV cell means unknown or not applicable; consult reason/precision columns.",
+    "provenance": "source_id / source_ids joins pilot/source_manifest.jsonl; phase1: IDs join audit/sources.json; local_2023_24_schedule joins pilot/schedule_provenance.json. Derived prediction_id joins prediction_timestamps.csv."
+  },
+  "prediction_timestamps.csv": {
+    "rows": 392,
+    "columns": [
+      "prediction_id",
+      "game_id",
+      "game_date",
+      "player_id",
+      "player_name",
+      "roster_membership",
+      "roster_source_id",
+      "immediate_prediction_at",
+      "immediate_eligibility",
+      "immediate_blocker",
+      "later_prediction_at",
+      "later_eligibility",
+      "later_eligibility_reason",
+      "later_evidence_id",
+      "nominal_header_sensitivity_eligibility",
+      "nominal_header_sensitivity_reason",
+      "appeared_in_completed_game",
+      "appearance_only_alternative",
+      "preperiod_playing_time_group",
+      "observed_game_absence_category",
+      "primary_label",
+      "secondary_label",
+      "onset_surveillance_complete",
+      "severity_followup_complete",
+      "label_known_at_primary",
+      "label_known_at_secondary",
+      "label_known_at_precision",
+      "label_blocker",
+      "evidence_locator"
+    ],
+    "missing_value": "Empty CSV cell means unknown or not applicable; consult reason/precision columns.",
+    "provenance": "source_id / source_ids joins pilot/source_manifest.jsonl; phase1: IDs join audit/sources.json; local_2023_24_schedule joins pilot/schedule_provenance.json. Derived prediction_id joins prediction_timestamps.csv."
+  },
+  "report_coverage.csv": {
+    "rows": 69,
+    "columns": [
+      "source_id",
+      "report_at",
+      "state",
+      "listed_bos_players",
+      "retrieval_status",
+      "publication_at",
+      "publication_precision",
+      "error"
+    ],
+    "missing_value": "Empty CSV cell means unknown or not applicable; consult reason/precision columns.",
+    "provenance": "source_id / source_ids joins pilot/source_manifest.jsonl; phase1: IDs join audit/sources.json; local_2023_24_schedule joins pilot/schedule_provenance.json. Derived prediction_id joins prediction_timestamps.csv."
+  },
+  "report_player_coverage.csv": {
+    "rows": 1406,
+    "columns": [
+      "source_id",
+      "target_game_date",
+      "player_id",
+      "state",
+      "report_at",
+      "membership_at_report",
+      "evidence_locator"
+    ],
+    "missing_value": "Empty CSV cell means unknown or not applicable; consult reason/precision columns.",
+    "provenance": "source_id / source_ids joins pilot/source_manifest.jsonl; phase1: IDs join audit/sources.json; local_2023_24_schedule joins pilot/schedule_provenance.json. Derived prediction_id joins prediction_timestamps.csv."
+  },
+  "retrieval_failures.csv": {
+    "rows": 3,
+    "columns": [
+      "source_id",
+      "kind",
+      "url",
+      "state",
+      "http_status",
+      "error",
+      "retrieved_at"
+    ],
+    "missing_value": "Empty CSV cell means unknown or not applicable; consult reason/precision columns.",
+    "provenance": "source_id / source_ids joins pilot/source_manifest.jsonl; phase1: IDs join audit/sources.json; local_2023_24_schedule joins pilot/schedule_provenance.json. Derived prediction_id joins prediction_timestamps.csv."
+  },
+  "roster_membership.csv": {
+    "rows": 19,
+    "columns": [
+      "player_id",
+      "team_id",
+      "first_observed_roster_date",
+      "last_observed_roster_date",
+      "entry_lower_date",
+      "entry_upper_date",
+      "exit_lower_date",
+      "exit_upper_date",
+      "entry_left_censored",
+      "exit_right_censored",
+      "contract_type",
+      "membership_uncertainty",
+      "source_id",
+      "evidence_locator",
+      "corroborating_roster_source_id",
+      "corroborating_roster_locator"
+    ],
+    "missing_value": "Empty CSV cell means unknown or not applicable; consult reason/precision columns.",
+    "provenance": "source_id / source_ids joins pilot/source_manifest.jsonl; phase1: IDs join audit/sources.json; local_2023_24_schedule joins pilot/schedule_provenance.json. Derived prediction_id joins prediction_timestamps.csv."
+  },
+  "source_coverage.csv": {
+    "rows": 284,
+    "columns": [
+      "source_id",
+      "kind",
+      "url",
+      "requested_date",
+      "state",
+      "retrieved_at",
+      "publication_at",
+      "publication_precision",
+      "evidence_locator"
+    ],
+    "missing_value": "Empty CSV cell means unknown or not applicable; consult reason/precision columns.",
+    "provenance": "source_id / source_ids joins pilot/source_manifest.jsonl; phase1: IDs join audit/sources.json; local_2023_24_schedule joins pilot/schedule_provenance.json. Derived prediction_id joins prediction_timestamps.csv."
+  },
+  "status_observations.csv": {
+    "rows": 101,
+    "columns": [
+      "observation_id",
+      "source_id",
+      "player_id",
+      "player_name_raw",
+      "report_at",
+      "target_game_date",
+      "status",
+      "reason",
+      "category",
+      "publication_at",
+      "publication_verified",
+      "evidence_locator",
+      "identity_uncertainty"
+    ],
+    "missing_value": "Empty CSV cell means unknown or not applicable; consult reason/precision columns.",
+    "provenance": "source_id / source_ids joins pilot/source_manifest.jsonl; phase1: IDs join audit/sources.json; local_2023_24_schedule joins pilot/schedule_provenance.json. Derived prediction_id joins prediction_timestamps.csv."
+  },
+  "team_schedule.csv": {
+    "rows": 63,
+    "columns": [
+      "game_id",
+      "game_date",
+      "home",
+      "away",
+      "phase",
+      "source_id",
+      "evidence_locator"
+    ],
+    "missing_value": "Empty CSV cell means unknown or not applicable; consult reason/precision columns.",
+    "provenance": "source_id / source_ids joins pilot/source_manifest.jsonl; phase1: IDs join audit/sources.json; local_2023_24_schedule joins pilot/schedule_provenance.json. Derived prediction_id joins prediction_timestamps.csv."
+  },
+  "transactions.csv": {
+    "rows": 4,
+    "columns": [
+      "player_id",
+      "transaction",
+      "event_date",
+      "event_time_precision",
+      "source_id",
+      "evidence_locator"
+    ],
+    "missing_value": "Empty CSV cell means unknown or not applicable; consult reason/precision columns.",
+    "provenance": "source_id / source_ids joins pilot/source_manifest.jsonl; phase1: IDs join audit/sources.json; local_2023_24_schedule joins pilot/schedule_provenance.json. Derived prediction_id joins prediction_timestamps.csv."
+  },
+  "user_review_queue.csv": {
+    "rows": 25,
+    "columns": [
+      "case_id",
+      "player_name",
+      "priority",
+      "independent_human_review",
+      "prior_reviewer",
+      "phase1b_reviewer",
+      "review_task",
+      "linked_table",
+      "user_decision",
+      "user_notes"
+    ],
+    "missing_value": "Empty CSV cell means unknown or not applicable; consult reason/precision columns.",
+    "provenance": "source_id / source_ids joins pilot/source_manifest.jsonl; phase1: IDs join audit/sources.json; local_2023_24_schedule joins pilot/schedule_provenance.json. Derived prediction_id joins prediction_timestamps.csv."
+  },
+  "workload_feasibility.csv": {
+    "rows": 1176,
+    "columns": [
+      "prediction_id",
+      "player_id",
+      "window_days",
+      "retrospective_calendar_minutes",
+      "retrospective_calendar_appearances",
+      "point_in_time_feature_eligible",
+      "blocker",
+      "source_ids"
+    ],
+    "missing_value": "Empty CSV cell means unknown or not applicable; consult reason/precision columns.",
+    "provenance": "source_id / source_ids joins pilot/source_manifest.jsonl; phase1: IDs join audit/sources.json; local_2023_24_schedule joins pilot/schedule_provenance.json. Derived prediction_id joins prediction_timestamps.csv."
+  }
+}

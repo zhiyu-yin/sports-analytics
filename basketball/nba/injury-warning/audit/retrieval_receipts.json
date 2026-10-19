@@ -1,0 +1,28 @@
+[
+  {
+    "source_id": "report_jan04",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-04_06PM.pdf",
+    "retrieval_started_at": "2026-10-19T02:52:39.490887+00:00",
+    "final_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-04_06PM.pdf",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "sha256": "2ba222d2fc92c6aace84406e638a1f9074291fc35b121b29d53b7111cfde2c63",
+    "bytes": 82383,
+    "raw_file": "2ba222d2fc92c6aace84406e638a1f9074291fc35b121b29d53b7111cfde2c63.pdf",
+    "status": "obtained",
+    "retrieval_finished_at": "2026-10-19T02:52:39.620998+00:00"
+  },
+  {
+    "source_id": "report_jan28",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-28_12PM.pdf",
+    "retrieval_started_at": "2026-10-19T02:52:39.621271+00:00",
+    "final_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-28_12PM.pdf",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "sha256": "63b31f73a52dc9c5c82a3eee7c279999a9a59805b2068a4a974499dddd35a18f",
+    "bytes": 74375,
+    "raw_file": "63b31f73a52dc9c5c82a3eee7c279999a9a59805b2068a4a974499dddd35a18f.pdf",
+    "status": "obtained",
+    "retrieval_finished_at": "2026-10-19T02:52:39.699712+00:00"
+  }
+]

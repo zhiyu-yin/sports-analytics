@@ -1,0 +1,56 @@
+[
+  {
+    "case_id": "A01",
+    "team": "PHI",
+    "name": "Joel Embiid",
+    "onset": "2024-01-30",
+    "first_missed": "2024-02-01",
+    "return_date": "2024-04-02",
+    "last_missed": "2024-03-31"
+  },
+  {
+    "case_id": "A02",
+    "team": "NYK",
+    "name": "Julius Randle",
+    "onset": "2024-01-27",
+    "first_missed": "2024-01-29",
+    "return_date": "",
+    "last_missed": "2024-04-14"
+  },
+  {
+    "case_id": "A03",
+    "team": "CHA",
+    "name": "LaMelo Ball",
+    "onset": "2023-11-26",
+    "first_missed": "2023-11-28",
+    "return_date": "2024-01-12",
+    "last_missed": "2024-01-10"
+  },
+  {
+    "case_id": "A04",
+    "team": "GSW",
+    "name": "Stephen Curry",
+    "onset": "2024-03-07",
+    "first_missed": "2024-03-09",
+    "return_date": "2024-03-16",
+    "last_missed": "2024-03-13"
+  },
+  {
+    "case_id": "A22",
+    "team": "BOS",
+    "name": "Al Horford",
+    "onset": "",
+    "first_missed": "2024-01-05",
+    "return_date": "2024-01-06",
+    "last_missed": "2024-01-05"
+  },
+  {
+    "case_id": "A09",
+    "team": "HOU",
+    "name": "Alperen Sengun",
+    "onset": "2024-03-10",
+    "first_missed": "2024-03-12",
+    "return_date": "",
+    "last_missed": "2024-04-14"
+  }
+]

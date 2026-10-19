@@ -1,0 +1,71 @@
+{
+  "lag0": {
+    "candidates": 392,
+    "positive_minute_appearances": 246,
+    "B_states": {
+      "included": 244,
+      "not_in_population": 146,
+      "excluded": 2
+    },
+    "A_states": {
+      "unknown": 246,
+      "not_in_population": 146
+    },
+    "primary_ge10": {
+      "unknown": 134,
+      "negative": 110
+    },
+    "secondary_public_gt28": {
+      "unknown": 134,
+      "negative": 110
+    },
+    "original_medical_gt28": {
+      "unknown": 244
+    },
+    "symptom_informed_included": 43,
+    "features_B": 244,
+    "features_A": 0,
+    "historically_available_labels": 0
+  },
+  "lag1": {
+    "candidates": 392,
+    "positive_minute_appearances": 246,
+    "B_states": {
+      "included": 234,
+      "not_in_population": 146,
+      "excluded": 2,
+      "unknown": 10
+    },
+    "A_states": {
+      "unknown": 246,
+      "not_in_population": 146
+    },
+    "primary_ge10": {
+      "unknown": 131,
+      "negative": 103
+    },
+    "secondary_public_gt28": {
+      "unknown": 131,
+      "negative": 103
+    },
+    "original_medical_gt28": {
+      "unknown": 234
+    },
+    "symptom_informed_included": 52,
+    "features_B": 234,
+    "features_A": 0,
+    "historically_available_labels": 0
+  },
+  "original_leads": 28,
+  "reviewed_pilot_candidates": 19,
+  "all_reviewed_absence_candidates": 64,
+  "distinct_confirmed_qualifying_new_events_primary": 0,
+  "distinct_confirmed_qualifying_new_events_public_span": 0,
+  "A_verified_rows": 0,
+  "B_assumptions": "stats/recap end_upper+6h; reports header+30min; no archived publication proof",
+  "amendment_commit": "dc6dc1e3e450e038a47c509a437e31cff0753f7e",
+  "historical_files_modified": false,
+  "sensitivity_changed_eligibility": 10,
+  "sensitivity_changed_feature_inputs_among_both_included": 182,
+  "remaining_review_candidates": 9
+}

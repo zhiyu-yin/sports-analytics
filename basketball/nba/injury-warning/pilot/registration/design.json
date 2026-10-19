@@ -1,0 +1,21 @@
+{
+  "registered_at": "2026-10-19T03:06:44.571969+00:00",
+  "team_id": "1610612738",
+  "team_abbreviation": "BOS",
+  "team_name": "Boston Celtics",
+  "season": "2023-24",
+  "prediction_start": "2024-01-01",
+  "prediction_end": "2024-02-18",
+  "history_start": "2023-12-04",
+  "history_end": "2023-12-31",
+  "followup_start": "2024-02-19",
+  "followup_end": "2024-04-14",
+  "selection_rationale": "Existing development-season schedule manifest, accessible official historical gamebook and team transaction releases. No pilot injury outcomes examined or event counts used to select this interval. One fixed team and seven-week interval, never changed to enrich outcomes.",
+  "primary_timing": "immediately after verified final game event; input availability must be independently supported; otherwise blocked",
+  "separate_later_timing": "12:00 America/New_York on calendar day following team game; not the primary estimand",
+  "publication_sensitivity": "Report header time and event timeActual may describe events or document generation, not original public availability. Keep verified-publication primary eligibility separate from nominal-header sensitivity; never use future appearances.",
+  "report_sampling": "Probe official historical PDFs at 06PM on each pilot game date and 11AM and 09AM on next calendar date. Candidate paths are accessibility probes, not presumed existing reports or complete archive.",
+  "roster_policy": "Union all team boxscore listings, inactive players, two-way/assignment records and documented transactions. Preserve uncertain roster intervals; transaction-day uncertainty explicit. No inclusion based on future injury.",
+  "outcomes": "No automatic negative prediction label without full 14-day onset surveillance and candidate injury resolution. Separate severity surveillance.",
+  "guard": "Only 2023-24 development season and sources dated through 2024-06-30. No model fitting or protected holdout access."
+}

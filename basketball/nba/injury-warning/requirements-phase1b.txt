@@ -1,0 +1,3 @@
+# Used by offline PDF parsing; Phase 1 pure-function tests need only the standard library.
+pypdf==6.10.0
+pdfplumber==0.11.9

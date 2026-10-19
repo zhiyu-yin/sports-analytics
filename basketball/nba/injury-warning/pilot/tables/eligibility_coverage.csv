@@ -1,0 +1,13 @@
+grouping,group,players,candidate_rows,immediate_available,later_available,later_unavailable,later_unknown,appeared_rows,nominal_header_available
+preperiod_playing_time,depth_under10,8,176,0,0,0,176,70,0
+preperiod_playing_time,high_24plus,4,92,0,0,0,92,85,0
+preperiod_playing_time,no_preperiod_history,2,9,0,0,0,9,0,0
+preperiod_playing_time,rotation_10to24,5,115,0,0,0,115,91,0
+retrospective_completed_game_category,appeared_not_health_verified,16,246,0,0,0,246,246,0
+retrospective_completed_game_category,assignment,5,59,0,0,0,59,0,0
+retrospective_completed_game_category,coaching,8,53,0,0,0,53,0,0
+retrospective_completed_game_category,illness,1,1,0,0,0,1,0,0
+retrospective_completed_game_category,injury,11,28,0,0,0,28,0,0
+retrospective_completed_game_category,rest,1,2,0,0,0,2,0,0
+retrospective_completed_game_category,roster_listing_absent_membership_uncertain,1,1,0,0,0,1,0,0
+retrospective_completed_game_category,unknown,2,2,0,0,0,2,0,0

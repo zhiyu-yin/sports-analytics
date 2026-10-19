@@ -1,0 +1,5 @@
+player_id,transaction,event_date,event_time_precision,source_id,evidence_locator
+1630205,departure,2024-02-07,day_only; press-release metadata does not establish exact effective time,tillman_trade,official Celtics trade announcement
+1630214,arrival,2024-02-07,day_only; press-release metadata does not establish exact effective time,tillman_trade,official Celtics trade announcement
+1630531,arrival,2024-02-08,day_only; press-release metadata does not establish exact effective time,springer_trade,official Celtics trade announcement
+1630625,departure,2024-02-08,day_only; press-release metadata does not establish exact effective time,springer_trade,official Celtics trade announcement

@@ -1,0 +1,117 @@
+case_id,player_id,game_id,game_date,appearance_verified,source_id,reason,reason_source_id,evidence_locator
+A01,203954,0022300673,2024-01-30,True,page_0022300673,,,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A01,203954,0022300686,2024-02-01,False,page_0022300686,Injury/Illness - Left Knee; Injury,book_0022300686,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A01,203954,0022300698,2024-02-03,,,,,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A01,203954,0022300715,2024-02-05,,,,,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A01,203954,0022300727,2024-02-07,,,,,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A01,203954,0022300742,2024-02-09,,,,,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A01,203954,0022300753,2024-02-10,,,,,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A01,203954,0022300762,2024-02-12,,,,,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A01,203954,0022300779,2024-02-14,,,,,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A01,203954,0022300794,2024-02-22,,,Injury/Illness - Left Knee; Meniscus Procedure,book_0022300794,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A01,203954,0022300805,2024-02-23,,,,,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A01,203954,0022300817,2024-02-25,,,,,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A01,203954,0022300836,2024-02-27,False,page_0022300836,Injury/Illness - Left Knee; Meniscus procedure,book_0022300836,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A01,203954,0022300858,2024-03-01,,,,,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A01,203954,0022300871,2024-03-03,,,,,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A01,203954,0022300887,2024-03-05,,,,,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A01,203954,0022300896,2024-03-06,,,,,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A01,203954,0022300909,2024-03-08,,,,,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A01,203954,0022300927,2024-03-10,,,Injury/Illness - Left Knee; Meniscus Procedure,book_0022300927,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A01,203954,0022300939,2024-03-12,,,Injury/Illness - Left Knee; Meniscus Procedure,book_0022300939,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A01,203954,0022300958,2024-03-14,,,,,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A01,203954,0022300969,2024-03-16,,,,,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A01,203954,0022300985,2024-03-18,,,,,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A01,203954,0022301002,2024-03-20,,,,,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A01,203954,0022301018,2024-03-22,,,,,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A01,203954,0022301028,2024-03-24,,,,,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A01,203954,0022301042,2024-03-25,,,,,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A01,203954,0022301052,2024-03-27,,,,,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A01,203954,0022301067,2024-03-29,,,,,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A01,203954,0022301080,2024-03-31,,,,,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A01,203954,0022301093,2024-04-02,True,page_0022301093,,,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A02,203944,0022300643,2024-01-27,True,page_0022300643,,book_0022300643,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A02,203944,0022300657,2024-01-29,False,page_0022300657,Injury/Illness - Right Shoulder; Dislocated,book_0022300657,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A02,203944,0022300671,2024-01-30,,,Injury/Illness - Right Shoulder; Dislocated,book_0022300671,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A02,203944,0022300685,2024-02-01,,,Injury/Illness - Right Shoulder; Dislocated,book_0022300685,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A02,203944,0022300701,2024-02-03,,,Injury/Illness - Right Shoulder; Dislocated,book_0022300701,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A02,203944,0022300722,2024-02-06,,,Injury/Illness - Right Shoulder; Dislocated,book_0022300722,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A02,203944,0022300736,2024-02-08,,,DND - Injury/Illness - Right Shoulder; Dislocated,book_0022300736,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A02,203944,0022300755,2024-02-10,,,DND - Injury/Illness - Right Shoulder; Dislocated,book_0022300755,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A02,203944,0022300765,2024-02-12,,,Injury/Illness - Right Shoulder; Dislocated,book_0022300765,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A02,203944,0022300778,2024-02-14,,,Injury/Illness - Right Shoulder; Dislocated,book_0022300778,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A02,203944,0022300794,2024-02-22,,,Injury/Illness - Right Shoulder; Dislocated,book_0022300794,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A02,203944,0022300816,2024-02-24,False,page_0022300816,DND - Injury/Illness - Right Shoulder; Dislocated,book_0022300816,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A02,203944,0022300828,2024-02-26,,,Injury/Illness - Right Shoulder; Dislocated,book_0022300828,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A02,203944,0022300837,2024-02-27,,,Injury/Illness - Right Shoulder; Dislocated,book_0022300837,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A02,203944,0022300852,2024-02-29,,,Injury/Illness - Right Shoulder; Dislocated,book_0022300852,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A02,203944,0022300876,2024-03-03,,,DND - Injury/Illness - Right Shoulder; Dislocated,book_0022300876,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A02,203944,0022300889,2024-03-05,,,Injury/Illness - Right Shoulder; Dislocated,book_0022300889,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A02,203944,0022300912,2024-03-08,,,Injury/Illness - Right Shoulder; Dislocated,book_0022300912,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A02,203944,0022300927,2024-03-10,,,Injury/Illness - Right Shoulder; Dislocated,book_0022300927,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A02,203944,0022300939,2024-03-12,,,Injury/Illness - Right Shoulder; Dislocated,book_0022300939,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A02,203944,0022300960,2024-03-14,,,Injury/Illness - Right Shoulder; Dislocated,book_0022300960,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A02,203944,0022300975,2024-03-16,,,Injury/Illness - Right Shoulder; Dislocated,book_0022300975,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A02,203944,0022300988,2024-03-18,,,Injury/Illness - Right Shoulder; Dislocated,book_0022300988,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A02,203944,0022301009,2024-03-21,,,Injury/Illness - Right Shoulder; Dislocated,book_0022301009,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A02,203944,0022301019,2024-03-23,,,Injury/Illness - Dislocated Riht Shoulder,book_0022301019,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A02,203944,0022301035,2024-03-25,,,Injury/Illness - Dislocated Right Shoulder,book_0022301035,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A02,203944,0022301053,2024-03-27,,,Injury/Illness - Right Shoulder; Dislocated,book_0022301053,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A02,203944,0022301070,2024-03-29,,,Injury/Illness - Right Shoulder; Dislocated,book_0022301070,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A02,203944,0022301082,2024-03-31,,,Injury/Illness - Right Shoulder; Dislocated,book_0022301082,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A02,203944,0022301096,2024-04-02,,,Injury/Illness - Right Shoulder; Dislocated,book_0022301096,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A02,203944,0022301112,2024-04-04,,,Injury/Illness - Dislocated Right Shoulder,book_0022301112,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A02,203944,0022301119,2024-04-05,,,Injury/Illness - Right Shoulder; Dislocated,book_0022301119,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A02,203944,0022301139,2024-04-07,,,Injury/Illness - Right Shoulder; Dislocated,book_0022301139,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A02,203944,0022301149,2024-04-09,,,Injury/Illness - Right Shoulder; Dislocated,book_0022301149,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A02,203944,0022301167,2024-04-11,False,page_0022301167,Injury/Illness - Right Shoulder; Surgery,book_0022301167,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A02,203944,0022301175,2024-04-12,,,Injury/Illness - Right Shoulder; Surgery,book_0022301175,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A02,203944,0022301190,2024-04-14,,,Injury/Illness - Right Shoulder; Surgery,book_0022301190,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A03,1630163,0022300248,2023-11-26,True,page_0022300248,,,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A03,1630163,0022300057,2023-11-28,False,page_0022300057,Injury/Illness - Right Ankle; Strain,book_0022300057,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A03,1630163,0022300266,2023-11-30,,,,,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A03,1630163,0022300281,2023-12-02,,,,,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A03,1630163,0022301211,2023-12-06,,,,,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A03,1630163,0022301216,2023-12-08,,,,,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A03,1630163,0022300292,2023-12-11,,,,,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A03,1630163,0022300312,2023-12-13,,,,,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A03,1630163,0022300326,2023-12-15,,,,,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A03,1630163,0022300335,2023-12-16,,,,,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A03,1630163,0022300354,2023-12-18,,,,,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A03,1630163,0022300365,2023-12-20,,,,,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A03,1630163,0022300390,2023-12-23,,,,,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A03,1630163,0022300414,2023-12-26,,,,,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A03,1630163,0022300428,2023-12-28,,,,,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A03,1630163,0022300436,2023-12-29,,,,,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A03,1630163,0022300455,2024-01-01,,,,,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A03,1630163,0022300464,2024-01-02,,,,,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A03,1630163,0022300484,2024-01-05,,,,,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A03,1630163,0022300506,2024-01-08,,,,,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A03,1630163,0022300518,2024-01-10,,,,,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A03,1630163,0022300541,2024-01-12,True,page_0022300541,,,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A04,201939,0022300907,2024-03-07,True,page_0022300907,,book_0022300907,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A04,201939,0022300921,2024-03-09,False,page_0022300921,Injury/Illness - Right Ankle; Sprain,book_0022300921,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A04,201939,0022300936,2024-03-11,,,Injury/Illness - Right Ankle; Sprain,book_0022300936,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A04,201939,0022300952,2024-03-13,,,Injury/Illness - Right Ankle; Sprain,book_0022300952,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A04,201939,0022300973,2024-03-16,True,page_0022300973,,book_0022300973,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A22,201143,0022300479,2024-01-05,False,page_0022300479,Rest,book_0022300479,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A22,201143,0022300493,2024-01-06,True,page_0022300493,,book_0022300493,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A09,1630578,0022300929,2024-03-10,True,page_0022300929,,book_0022300929,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A09,1630578,0022300942,2024-03-12,False,page_0022300942,Injury/Illness - Right Ankle; Sprain,book_0022300942,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A09,1630578,0022300957,2024-03-14,,,Injury/Illness - Right Ankle; Sprain; Right Knee Bone Bruise,book_0022300957,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A09,1630578,0022300967,2024-03-16,,,Injury/Illness - Right Ankle; Sprain; Right Knee Bone Bruise,book_0022300967,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A09,1630578,0022300992,2024-03-19,,,Injury/Illness - Right Ankle; Sprain; Right Knee Bone Bruise,book_0022300992,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A09,1630578,0022301006,2024-03-21,,,Injury/Illness - Right Ankle; Sprain,book_0022301006,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A09,1630578,0022301024,2024-03-23,,,Injury/Illness - Right Ankle; Sprain,book_0022301024,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A09,1630578,0022301038,2024-03-25,,,Injury/Illness - Right Ankle; Sprain,book_0022301038,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A09,1630578,0022301057,2024-03-27,,,Injury/Illness - Right Ankle; Sprain,book_0022301057,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A09,1630578,0022301072,2024-03-29,,,Injury/Illness - Right Ankle; Sprain,book_0022301072,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A09,1630578,0022301083,2024-03-31,,,Injury/Illness - Right Ankle; Sprain,book_0022301083,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A09,1630578,0022301098,2024-04-02,,,Injury/Illness - Right Ankle; Sprain,book_0022301098,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A09,1630578,0022301113,2024-04-04,,,Injury/Illness - Right Ankle; Sprain,book_0022301113,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A09,1630578,0022301120,2024-04-05,,,Injury/Illness - Right Ankle; Sprain,book_0022301120,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A09,1630578,0022301131,2024-04-07,,,Injury/Illness - Right Ankle; Sprain,book_0022301131,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A09,1630578,0022301150,2024-04-09,,,Injury/Illness - Right Ankle; Sprain,book_0022301150,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A09,1630578,0022301168,2024-04-11,,,Injury/Illness - Right Ankle; Sprain,book_0022301168,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A09,1630578,0022301183,2024-04-12,,,Injury/Illness - Right Ankle; Sprain,book_0022301183,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1
+A09,1630578,0022301199,2024-04-14,,,Injury/Illness - Right Ankle; Sprain,book_0022301199,__NEXT_DATA__.game team players/inactives; FINAL BOX page 1

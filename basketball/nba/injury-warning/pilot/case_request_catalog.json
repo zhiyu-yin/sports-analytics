@@ -1,0 +1,555 @@
+[
+  {
+    "source_id": "page_0022300673",
+    "kind": "game_page",
+    "date": "2024-01-30",
+    "game_id": "0022300673",
+    "url": "https://www.nba.com/game/phi-vs-gsw-0022300673/box-score"
+  },
+  {
+    "source_id": "page_0022300686",
+    "kind": "game_page",
+    "date": "2024-02-01",
+    "game_id": "0022300686",
+    "url": "https://www.nba.com/game/phi-vs-uta-0022300686/box-score"
+  },
+  {
+    "source_id": "book_0022300686",
+    "kind": "gamebook",
+    "date": "2024-02-01",
+    "game_id": "0022300686",
+    "url": "https://statsdmz.nba.com/pdfs/20240201/20240201_PHIUTA_book.pdf"
+  },
+  {
+    "source_id": "page_0022301093",
+    "kind": "game_page",
+    "date": "2024-04-02",
+    "game_id": "0022301093",
+    "url": "https://www.nba.com/game/okc-vs-phi-0022301093/box-score"
+  },
+  {
+    "source_id": "page_0022300643",
+    "kind": "game_page",
+    "date": "2024-01-27",
+    "game_id": "0022300643",
+    "url": "https://www.nba.com/game/mia-vs-nyk-0022300643/box-score"
+  },
+  {
+    "source_id": "book_0022300643",
+    "kind": "gamebook",
+    "date": "2024-01-27",
+    "game_id": "0022300643",
+    "url": "https://statsdmz.nba.com/pdfs/20240127/20240127_MIANYK_book.pdf"
+  },
+  {
+    "source_id": "page_0022300657",
+    "kind": "game_page",
+    "date": "2024-01-29",
+    "game_id": "0022300657",
+    "url": "https://www.nba.com/game/nyk-vs-cha-0022300657/box-score"
+  },
+  {
+    "source_id": "book_0022300657",
+    "kind": "gamebook",
+    "date": "2024-01-29",
+    "game_id": "0022300657",
+    "url": "https://statsdmz.nba.com/pdfs/20240129/20240129_NYKCHA_book.pdf"
+  },
+  {
+    "source_id": "book_0022300671",
+    "kind": "gamebook",
+    "date": "2024-01-30",
+    "game_id": "0022300671",
+    "url": "https://statsdmz.nba.com/pdfs/20240130/20240130_UTANYK_book.pdf"
+  },
+  {
+    "source_id": "book_0022300685",
+    "kind": "gamebook",
+    "date": "2024-02-01",
+    "game_id": "0022300685",
+    "url": "https://statsdmz.nba.com/pdfs/20240201/20240201_INDNYK_book.pdf"
+  },
+  {
+    "source_id": "book_0022300701",
+    "kind": "gamebook",
+    "date": "2024-02-03",
+    "game_id": "0022300701",
+    "url": "https://statsdmz.nba.com/pdfs/20240203/20240203_LALNYK_book.pdf"
+  },
+  {
+    "source_id": "book_0022300722",
+    "kind": "gamebook",
+    "date": "2024-02-06",
+    "game_id": "0022300722",
+    "url": "https://statsdmz.nba.com/pdfs/20240206/20240206_MEMNYK_book.pdf"
+  },
+  {
+    "source_id": "book_0022300736",
+    "kind": "gamebook",
+    "date": "2024-02-08",
+    "game_id": "0022300736",
+    "url": "https://statsdmz.nba.com/pdfs/20240208/20240208_DALNYK_book.pdf"
+  },
+  {
+    "source_id": "book_0022300755",
+    "kind": "gamebook",
+    "date": "2024-02-10",
+    "game_id": "0022300755",
+    "url": "https://statsdmz.nba.com/pdfs/20240210/20240210_INDNYK_book.pdf"
+  },
+  {
+    "source_id": "book_0022300765",
+    "kind": "gamebook",
+    "date": "2024-02-12",
+    "game_id": "0022300765",
+    "url": "https://statsdmz.nba.com/pdfs/20240212/20240212_NYKHOU_book.pdf"
+  },
+  {
+    "source_id": "book_0022300778",
+    "kind": "gamebook",
+    "date": "2024-02-14",
+    "game_id": "0022300778",
+    "url": "https://statsdmz.nba.com/pdfs/20240214/20240214_NYKORL_book.pdf"
+  },
+  {
+    "source_id": "book_0022300794",
+    "kind": "gamebook",
+    "date": "2024-02-22",
+    "game_id": "0022300794",
+    "url": "https://statsdmz.nba.com/pdfs/20240222/20240222_NYKPHI_book.pdf"
+  },
+  {
+    "source_id": "book_0022300816",
+    "kind": "gamebook",
+    "date": "2024-02-24",
+    "game_id": "0022300816",
+    "url": "https://statsdmz.nba.com/pdfs/20240224/20240224_BOSNYK_book.pdf"
+  },
+  {
+    "source_id": "book_0022300828",
+    "kind": "gamebook",
+    "date": "2024-02-26",
+    "game_id": "0022300828",
+    "url": "https://statsdmz.nba.com/pdfs/20240226/20240226_DETNYK_book.pdf"
+  },
+  {
+    "source_id": "book_0022300837",
+    "kind": "gamebook",
+    "date": "2024-02-27",
+    "game_id": "0022300837",
+    "url": "https://statsdmz.nba.com/pdfs/20240227/20240227_NOPNYK_book.pdf"
+  },
+  {
+    "source_id": "book_0022300852",
+    "kind": "gamebook",
+    "date": "2024-02-29",
+    "game_id": "0022300852",
+    "url": "https://statsdmz.nba.com/pdfs/20240229/20240229_GSWNYK_book.pdf"
+  },
+  {
+    "source_id": "book_0022300876",
+    "kind": "gamebook",
+    "date": "2024-03-03",
+    "game_id": "0022300876",
+    "url": "https://statsdmz.nba.com/pdfs/20240303/20240303_NYKCLE_book.pdf"
+  },
+  {
+    "source_id": "book_0022300889",
+    "kind": "gamebook",
+    "date": "2024-03-05",
+    "game_id": "0022300889",
+    "url": "https://statsdmz.nba.com/pdfs/20240305/20240305_ATLNYK_book.pdf"
+  },
+  {
+    "source_id": "book_0022300912",
+    "kind": "gamebook",
+    "date": "2024-03-08",
+    "game_id": "0022300912",
+    "url": "https://statsdmz.nba.com/pdfs/20240308/20240308_ORLNYK_book.pdf"
+  },
+  {
+    "source_id": "book_0022300927",
+    "kind": "gamebook",
+    "date": "2024-03-10",
+    "game_id": "0022300927",
+    "url": "https://statsdmz.nba.com/pdfs/20240310/20240310_PHINYK_book.pdf"
+  },
+  {
+    "source_id": "book_0022300939",
+    "kind": "gamebook",
+    "date": "2024-03-12",
+    "game_id": "0022300939",
+    "url": "https://statsdmz.nba.com/pdfs/20240312/20240312_PHINYK_book.pdf"
+  },
+  {
+    "source_id": "book_0022300960",
+    "kind": "gamebook",
+    "date": "2024-03-14",
+    "game_id": "0022300960",
+    "url": "https://statsdmz.nba.com/pdfs/20240314/20240314_NYKPOR_book.pdf"
+  },
+  {
+    "source_id": "book_0022300975",
+    "kind": "gamebook",
+    "date": "2024-03-16",
+    "game_id": "0022300975",
+    "url": "https://statsdmz.nba.com/pdfs/20240316/20240316_NYKSAC_book.pdf"
+  },
+  {
+    "source_id": "book_0022300988",
+    "kind": "gamebook",
+    "date": "2024-03-18",
+    "game_id": "0022300988",
+    "url": "https://statsdmz.nba.com/pdfs/20240318/20240318_NYKGSW_book.pdf"
+  },
+  {
+    "source_id": "book_0022301009",
+    "kind": "gamebook",
+    "date": "2024-03-21",
+    "game_id": "0022301009",
+    "url": "https://statsdmz.nba.com/pdfs/20240321/20240321_NYKDEN_book.pdf"
+  },
+  {
+    "source_id": "book_0022301019",
+    "kind": "gamebook",
+    "date": "2024-03-23",
+    "game_id": "0022301019",
+    "url": "https://statsdmz.nba.com/pdfs/20240323/20240323_BKNNYK_book.pdf"
+  },
+  {
+    "source_id": "book_0022301035",
+    "kind": "gamebook",
+    "date": "2024-03-25",
+    "game_id": "0022301035",
+    "url": "https://statsdmz.nba.com/pdfs/20240325/20240325_DETNYK_book.pdf"
+  },
+  {
+    "source_id": "book_0022301053",
+    "kind": "gamebook",
+    "date": "2024-03-27",
+    "game_id": "0022301053",
+    "url": "https://statsdmz.nba.com/pdfs/20240327/20240327_NYKTOR_book.pdf"
+  },
+  {
+    "source_id": "book_0022301070",
+    "kind": "gamebook",
+    "date": "2024-03-29",
+    "game_id": "0022301070",
+    "url": "https://statsdmz.nba.com/pdfs/20240329/20240329_NYKSAS_book.pdf"
+  },
+  {
+    "source_id": "book_0022301082",
+    "kind": "gamebook",
+    "date": "2024-03-31",
+    "game_id": "0022301082",
+    "url": "https://statsdmz.nba.com/pdfs/20240331/20240331_OKCNYK_book.pdf"
+  },
+  {
+    "source_id": "book_0022301096",
+    "kind": "gamebook",
+    "date": "2024-04-02",
+    "game_id": "0022301096",
+    "url": "https://statsdmz.nba.com/pdfs/20240402/20240402_NYKMIA_book.pdf"
+  },
+  {
+    "source_id": "book_0022301112",
+    "kind": "gamebook",
+    "date": "2024-04-04",
+    "game_id": "0022301112",
+    "url": "https://statsdmz.nba.com/pdfs/20240404/20240404_SACNYK_book.pdf"
+  },
+  {
+    "source_id": "book_0022301119",
+    "kind": "gamebook",
+    "date": "2024-04-05",
+    "game_id": "0022301119",
+    "url": "https://statsdmz.nba.com/pdfs/20240405/20240405_NYKCHI_book.pdf"
+  },
+  {
+    "source_id": "book_0022301139",
+    "kind": "gamebook",
+    "date": "2024-04-07",
+    "game_id": "0022301139",
+    "url": "https://statsdmz.nba.com/pdfs/20240407/20240407_NYKMIL_book.pdf"
+  },
+  {
+    "source_id": "book_0022301149",
+    "kind": "gamebook",
+    "date": "2024-04-09",
+    "game_id": "0022301149",
+    "url": "https://statsdmz.nba.com/pdfs/20240409/20240409_NYKCHI_book.pdf"
+  },
+  {
+    "source_id": "book_0022301167",
+    "kind": "gamebook",
+    "date": "2024-04-11",
+    "game_id": "0022301167",
+    "url": "https://statsdmz.nba.com/pdfs/20240411/20240411_NYKBOS_book.pdf"
+  },
+  {
+    "source_id": "book_0022301175",
+    "kind": "gamebook",
+    "date": "2024-04-12",
+    "game_id": "0022301175",
+    "url": "https://statsdmz.nba.com/pdfs/20240412/20240412_BKNNYK_book.pdf"
+  },
+  {
+    "source_id": "book_0022301190",
+    "kind": "gamebook",
+    "date": "2024-04-14",
+    "game_id": "0022301190",
+    "url": "https://statsdmz.nba.com/pdfs/20240414/20240414_CHINYK_book.pdf"
+  },
+  {
+    "source_id": "page_0022300248",
+    "kind": "game_page",
+    "date": "2023-11-26",
+    "game_id": "0022300248",
+    "url": "https://www.nba.com/game/cha-vs-orl-0022300248/box-score"
+  },
+  {
+    "source_id": "page_0022300057",
+    "kind": "game_page",
+    "date": "2023-11-28",
+    "game_id": "0022300057",
+    "url": "https://www.nba.com/game/cha-vs-nyk-0022300057/box-score"
+  },
+  {
+    "source_id": "book_0022300057",
+    "kind": "gamebook",
+    "date": "2023-11-28",
+    "game_id": "0022300057",
+    "url": "https://statsdmz.nba.com/pdfs/20231128/20231128_CHANYK_book.pdf"
+  },
+  {
+    "source_id": "page_0022300541",
+    "kind": "game_page",
+    "date": "2024-01-12",
+    "game_id": "0022300541",
+    "url": "https://www.nba.com/game/cha-vs-sas-0022300541/box-score"
+  },
+  {
+    "source_id": "page_0022300907",
+    "kind": "game_page",
+    "date": "2024-03-07",
+    "game_id": "0022300907",
+    "url": "https://www.nba.com/game/chi-vs-gsw-0022300907/box-score"
+  },
+  {
+    "source_id": "book_0022300907",
+    "kind": "gamebook",
+    "date": "2024-03-07",
+    "game_id": "0022300907",
+    "url": "https://statsdmz.nba.com/pdfs/20240307/20240307_CHIGSW_book.pdf"
+  },
+  {
+    "source_id": "page_0022300921",
+    "kind": "game_page",
+    "date": "2024-03-09",
+    "game_id": "0022300921",
+    "url": "https://www.nba.com/game/sas-vs-gsw-0022300921/box-score"
+  },
+  {
+    "source_id": "book_0022300921",
+    "kind": "gamebook",
+    "date": "2024-03-09",
+    "game_id": "0022300921",
+    "url": "https://statsdmz.nba.com/pdfs/20240309/20240309_SASGSW_book.pdf"
+  },
+  {
+    "source_id": "book_0022300936",
+    "kind": "gamebook",
+    "date": "2024-03-11",
+    "game_id": "0022300936",
+    "url": "https://statsdmz.nba.com/pdfs/20240311/20240311_GSWSAS_book.pdf"
+  },
+  {
+    "source_id": "book_0022300952",
+    "kind": "gamebook",
+    "date": "2024-03-13",
+    "game_id": "0022300952",
+    "url": "https://statsdmz.nba.com/pdfs/20240313/20240313_GSWDAL_book.pdf"
+  },
+  {
+    "source_id": "page_0022300973",
+    "kind": "game_page",
+    "date": "2024-03-16",
+    "game_id": "0022300973",
+    "url": "https://www.nba.com/game/gsw-vs-lal-0022300973/box-score"
+  },
+  {
+    "source_id": "book_0022300973",
+    "kind": "gamebook",
+    "date": "2024-03-16",
+    "game_id": "0022300973",
+    "url": "https://statsdmz.nba.com/pdfs/20240316/20240316_GSWLAL_book.pdf"
+  },
+  {
+    "source_id": "page_0022300479",
+    "kind": "game_page",
+    "date": "2024-01-05",
+    "game_id": "0022300479",
+    "url": "https://www.nba.com/game/uta-vs-bos-0022300479/box-score"
+  },
+  {
+    "source_id": "book_0022300479",
+    "kind": "gamebook",
+    "date": "2024-01-05",
+    "game_id": "0022300479",
+    "url": "https://statsdmz.nba.com/pdfs/20240105/20240105_UTABOS_book.pdf"
+  },
+  {
+    "source_id": "page_0022300493",
+    "kind": "game_page",
+    "date": "2024-01-06",
+    "game_id": "0022300493",
+    "url": "https://www.nba.com/game/bos-vs-ind-0022300493/box-score"
+  },
+  {
+    "source_id": "page_0022300929",
+    "kind": "game_page",
+    "date": "2024-03-10",
+    "game_id": "0022300929",
+    "url": "https://www.nba.com/game/hou-vs-sac-0022300929/box-score"
+  },
+  {
+    "source_id": "book_0022300929",
+    "kind": "gamebook",
+    "date": "2024-03-10",
+    "game_id": "0022300929",
+    "url": "https://statsdmz.nba.com/pdfs/20240310/20240310_HOUSAC_book.pdf"
+  },
+  {
+    "source_id": "page_0022300942",
+    "kind": "game_page",
+    "date": "2024-03-12",
+    "game_id": "0022300942",
+    "url": "https://www.nba.com/game/hou-vs-sas-0022300942/box-score"
+  },
+  {
+    "source_id": "book_0022300942",
+    "kind": "gamebook",
+    "date": "2024-03-12",
+    "game_id": "0022300942",
+    "url": "https://statsdmz.nba.com/pdfs/20240312/20240312_HOUSAS_book.pdf"
+  },
+  {
+    "source_id": "book_0022300957",
+    "kind": "gamebook",
+    "date": "2024-03-14",
+    "game_id": "0022300957",
+    "url": "https://statsdmz.nba.com/pdfs/20240314/20240314_WASHOU_book.pdf"
+  },
+  {
+    "source_id": "book_0022300967",
+    "kind": "gamebook",
+    "date": "2024-03-16",
+    "game_id": "0022300967",
+    "url": "https://statsdmz.nba.com/pdfs/20240316/20240316_CLEHOU_book.pdf"
+  },
+  {
+    "source_id": "book_0022300992",
+    "kind": "gamebook",
+    "date": "2024-03-19",
+    "game_id": "0022300992",
+    "url": "https://statsdmz.nba.com/pdfs/20240319/20240319_HOUWAS_book.pdf"
+  },
+  {
+    "source_id": "book_0022301006",
+    "kind": "gamebook",
+    "date": "2024-03-21",
+    "game_id": "0022301006",
+    "url": "https://statsdmz.nba.com/pdfs/20240321/20240321_CHIHOU_book.pdf"
+  },
+  {
+    "source_id": "book_0022301024",
+    "kind": "gamebook",
+    "date": "2024-03-23",
+    "game_id": "0022301024",
+    "url": "https://statsdmz.nba.com/pdfs/20240323/20240323_UTAHOU_book.pdf"
+  },
+  {
+    "source_id": "book_0022301038",
+    "kind": "gamebook",
+    "date": "2024-03-25",
+    "game_id": "0022301038",
+    "url": "https://statsdmz.nba.com/pdfs/20240325/20240325_PORHOU_book.pdf"
+  },
+  {
+    "source_id": "book_0022301057",
+    "kind": "gamebook",
+    "date": "2024-03-27",
+    "game_id": "0022301057",
+    "url": "https://statsdmz.nba.com/pdfs/20240327/20240327_HOUOKC_book.pdf"
+  },
+  {
+    "source_id": "book_0022301072",
+    "kind": "gamebook",
+    "date": "2024-03-29",
+    "game_id": "0022301072",
+    "url": "https://statsdmz.nba.com/pdfs/20240329/20240329_HOUUTA_book.pdf"
+  },
+  {
+    "source_id": "book_0022301083",
+    "kind": "gamebook",
+    "date": "2024-03-31",
+    "game_id": "0022301083",
+    "url": "https://statsdmz.nba.com/pdfs/20240331/20240331_DALHOU_book.pdf"
+  },
+  {
+    "source_id": "book_0022301098",
+    "kind": "gamebook",
+    "date": "2024-04-02",
+    "game_id": "0022301098",
+    "url": "https://statsdmz.nba.com/pdfs/20240402/20240402_HOUMIN_book.pdf"
+  },
+  {
+    "source_id": "book_0022301113",
+    "kind": "gamebook",
+    "date": "2024-04-04",
+    "game_id": "0022301113",
+    "url": "https://statsdmz.nba.com/pdfs/20240404/20240404_GSWHOU_book.pdf"
+  },
+  {
+    "source_id": "book_0022301120",
+    "kind": "gamebook",
+    "date": "2024-04-05",
+    "game_id": "0022301120",
+    "url": "https://statsdmz.nba.com/pdfs/20240405/20240405_MIAHOU_book.pdf"
+  },
+  {
+    "source_id": "book_0022301131",
+    "kind": "gamebook",
+    "date": "2024-04-07",
+    "game_id": "0022301131",
+    "url": "https://statsdmz.nba.com/pdfs/20240407/20240407_HOUDAL_book.pdf"
+  },
+  {
+    "source_id": "book_0022301150",
+    "kind": "gamebook",
+    "date": "2024-04-09",
+    "game_id": "0022301150",
+    "url": "https://statsdmz.nba.com/pdfs/20240409/20240409_ORLHOU_book.pdf"
+  },
+  {
+    "source_id": "book_0022301168",
+    "kind": "gamebook",
+    "date": "2024-04-11",
+    "game_id": "0022301168",
+    "url": "https://statsdmz.nba.com/pdfs/20240411/20240411_HOUUTA_book.pdf"
+  },
+  {
+    "source_id": "book_0022301183",
+    "kind": "gamebook",
+    "date": "2024-04-12",
+    "game_id": "0022301183",
+    "url": "https://statsdmz.nba.com/pdfs/20240412/20240412_HOUPOR_book.pdf"
+  },
+  {
+    "source_id": "book_0022301199",
+    "kind": "gamebook",
+    "date": "2024-04-14",
+    "game_id": "0022301199",
+    "url": "https://statsdmz.nba.com/pdfs/20240414/20240414_HOULAC_book.pdf"
+  }
+]

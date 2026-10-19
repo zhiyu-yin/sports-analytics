@@ -1,0 +1,97 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "source_provenance",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "source_id": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "final_url": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Resolved URL; preserve redirects."
+    },
+    "retrieved_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "retrieval_method": {
+      "type": "string"
+    },
+    "source_type": {
+      "type": "string"
+    },
+    "publication_value": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Original date/time text; never silently add a timezone."
+    },
+    "publication_precision": {
+      "type": "string"
+    },
+    "first_publication_verified": {
+      "type": "boolean"
+    },
+    "evidence_role": {
+      "type": "string"
+    },
+    "cache_policy": {
+      "type": "string"
+    },
+    "raw_sha256": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "SHA256 of original locally cached bytes, null for web-only evidence."
+    },
+    "notes": {
+      "type": "string"
+    },
+    "coverage_start": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Verified historical start, null if unknown.",
+      "format": "date"
+    },
+    "coverage_end": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Verified historical end, null if unknown.",
+      "format": "date"
+    },
+    "supporting_evidence": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Short paraphrases and page/paragraph locators; do not redistribute articles."
+    }
+  },
+  "required": [
+    "source_id",
+    "url",
+    "retrieved_at",
+    "retrieval_method",
+    "publication_value",
+    "publication_precision",
+    "first_publication_verified",
+    "evidence_role",
+    "cache_policy",
+    "raw_sha256",
+    "notes"
+  ]
+}

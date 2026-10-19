@@ -1,0 +1,20 @@
+{
+  "A02": {
+    "common_episode_supported": true,
+    "injury_event_evidence": "page_0022300643#story.content[2,3]",
+    "continuity_source": "d_randle_update",
+    "continuity_locator": "article paragraph beginning What happened; Jan27 shoulder event to continued sidelining",
+    "attribution_review": "All 36 scheduled misses individually medically attributed in prior PDF assertions; specific shoulder reasons and continuous narrative support identity, including generic DND rows.",
+    "newness": "documented acute trauma; biological first symptom date not asserted",
+    "reviewer": "Codex same agent, not independent"
+  },
+  "A03": {
+    "common_episode_supported": true,
+    "injury_event_evidence": "page_0022300248#story.content[2]",
+    "continuity_source": "d_ball_return",
+    "continuity_locator": "article opening historical return narrative, Jan12 return and Nov26 ankle event",
+    "attribution_review": "Twenty consecutive schedule-reconciled medical nonappearances; named right-ankle reasons except one generic medical DND. Independent return narrative supplies episode continuity.",
+    "newness": "documented acute injury/recurrence; prior right-ankle surgery retained, no first lifetime onset claim",
+    "reviewer": "Codex same agent, not independent"
+  }
+}

@@ -1,0 +1,5036 @@
+[
+  {
+    "source_id": "report_2024-01-03_11AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-03_11AM.pdf",
+    "report_at": "2024-01-03T11:30:00-05:00",
+    "state": "team_not_covered",
+    "sections": [],
+    "observations": [],
+    "all_team_count": 26,
+    "assumed_available_at": "2024-01-03T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-02_06PM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-02_06PM.pdf",
+    "report_at": "2024-01-02T18:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-01-02",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-02",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-02T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=236, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-02",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-02T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=258, player Peterson, Drew"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-02",
+        "player_name_raw": "Walsh, Jordan",
+        "status": "Out",
+        "reason": "G League - On Assignment",
+        "report_at": "2024-01-02T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=280, player Walsh, Jordan"
+      }
+    ],
+    "all_team_count": 28,
+    "assumed_available_at": "2024-01-02T19:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-03_09AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-03_09AM.pdf",
+    "report_at": "2024-01-03T09:30:00-05:00",
+    "state": "team_not_covered",
+    "sections": [],
+    "observations": [],
+    "all_team_count": 26,
+    "assumed_available_at": "2024-01-03T10:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-05_06PM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-05_06PM.pdf",
+    "report_at": "2024-01-05T18:30:00-05:00",
+    "state": "mixed_complete_and_unsubmitted",
+    "sections": [
+      {
+        "target_game_date": "2024-01-05",
+        "state": "complete"
+      },
+      {
+        "target_game_date": "2024-01-06",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-05",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-05T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=496, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-05",
+        "player_name_raw": "Horford, Al",
+        "status": "Out",
+        "reason": "Rest",
+        "report_at": "2024-01-05T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=82, player Horford, Al"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-05",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-05T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=104, player Peterson, Drew"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-05",
+        "player_name_raw": "Walsh, Jordan",
+        "status": "Out",
+        "reason": "G League - On Assignment",
+        "report_at": "2024-01-05T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=126, player Walsh, Jordan"
+      }
+    ],
+    "all_team_count": 28,
+    "assumed_available_at": "2024-01-05T19:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-06_11AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-06_11AM.pdf",
+    "report_at": "2024-01-06T11:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2024-01-06",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 25,
+    "assumed_available_at": "2024-01-06T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-06_09AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-06_09AM.pdf",
+    "report_at": "2024-01-06T09:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2024-01-06",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 25,
+    "assumed_available_at": "2024-01-06T10:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-06_06PM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-06_06PM.pdf",
+    "report_at": "2024-01-06T18:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-01-06",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-06",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-06T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=128, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-06",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-06T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=150, player Peterson, Drew"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-06",
+        "player_name_raw": "Walsh, Jordan",
+        "status": "Out",
+        "reason": "G League - On Assignment",
+        "report_at": "2024-01-06T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=174, player Walsh, Jordan"
+      }
+    ],
+    "all_team_count": 25,
+    "assumed_available_at": "2024-01-06T19:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-07_11AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-07_11AM.pdf",
+    "report_at": "2024-01-07T11:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2024-01-08",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 28,
+    "assumed_available_at": "2024-01-07T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-07_09AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-07_09AM.pdf",
+    "report_at": "2024-01-07T09:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2024-01-08",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 28,
+    "assumed_available_at": "2024-01-07T10:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-08_06PM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-08_06PM.pdf",
+    "report_at": "2024-01-08T18:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-01-08",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-08",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-08T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=128, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-08",
+        "player_name_raw": "Hauser, Sam",
+        "status": "Out",
+        "reason": "Injury/Illness - Right Shoulder; Impingement",
+        "report_at": "2024-01-08T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=158, player Hauser, Sam"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-08",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-08T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=188, player Peterson, Drew"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-08",
+        "player_name_raw": "Porzingis, Kristaps",
+        "status": "Available",
+        "reason": "Injury/Illness - Right Eye; Irritation",
+        "report_at": "2024-01-08T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=210, player Porzingis, Kristaps"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-08",
+        "player_name_raw": "Tatum, Jayson",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Ankle; Sprain Management",
+        "report_at": "2024-01-08T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=238, player Tatum, Jayson"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-08",
+        "player_name_raw": "Walsh, Jordan",
+        "status": "Out",
+        "reason": "G League - On Assignment",
+        "report_at": "2024-01-08T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=268, player Walsh, Jordan"
+      }
+    ],
+    "all_team_count": 22,
+    "assumed_available_at": "2024-01-08T19:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-09_11AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-09_11AM.pdf",
+    "report_at": "2024-01-09T11:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2024-01-10",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 25,
+    "assumed_available_at": "2024-01-09T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-09_09AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-09_09AM.pdf",
+    "report_at": "2024-01-09T09:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2024-01-10",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 25,
+    "assumed_available_at": "2024-01-09T10:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-10_06PM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-10_06PM.pdf",
+    "report_at": "2024-01-10T18:30:00-05:00",
+    "state": "mixed_complete_and_unsubmitted",
+    "sections": [
+      {
+        "target_game_date": "2024-01-10",
+        "state": "complete"
+      },
+      {
+        "target_game_date": "2024-01-11",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-10",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-10T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=210, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-10",
+        "player_name_raw": "Holiday, Jrue",
+        "status": "Available",
+        "reason": "Injury/Illness - Right Elbow Sprain; Injury Management",
+        "report_at": "2024-01-10T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=240, player Holiday, Jrue"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-10",
+        "player_name_raw": "Horford, Al",
+        "status": "Available",
+        "reason": "Injury/Illness - Illness; Non-Covid",
+        "report_at": "2024-01-10T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=268, player Horford, Al"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-10",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-10T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=290, player Peterson, Drew"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-10",
+        "player_name_raw": "Porzingis, Kristaps",
+        "status": "Out",
+        "reason": "Injury/Illness - Right Knee; Contusion",
+        "report_at": "2024-01-10T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=312, player Porzingis, Kristaps"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-10",
+        "player_name_raw": "Walsh, Jordan",
+        "status": "Out",
+        "reason": "G League - On Assignment",
+        "report_at": "2024-01-10T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=334, player Walsh, Jordan"
+      }
+    ],
+    "all_team_count": 27,
+    "assumed_available_at": "2024-01-10T19:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-11_11AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-11_11AM.pdf",
+    "report_at": "2024-01-11T11:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2024-01-11",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 28,
+    "assumed_available_at": "2024-01-11T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-11_09AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-11_09AM.pdf",
+    "report_at": "2024-01-11T09:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2024-01-11",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 28,
+    "assumed_available_at": "2024-01-11T10:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-11_06PM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-11_06PM.pdf",
+    "report_at": "2024-01-11T18:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-01-11",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-11",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-11T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=402, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-11",
+        "player_name_raw": "Horford, Al",
+        "status": "Out",
+        "reason": "Injury/Illness - Illness; Non-Covid",
+        "report_at": "2024-01-11T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=424, player Horford, Al"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-11",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-11T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=446, player Peterson, Drew"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-11",
+        "player_name_raw": "Walsh, Jordan",
+        "status": "Out",
+        "reason": "G League - On Assignment",
+        "report_at": "2024-01-11T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=468, player Walsh, Jordan"
+      }
+    ],
+    "all_team_count": 28,
+    "assumed_available_at": "2024-01-11T19:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-12_11AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-12_11AM.pdf",
+    "report_at": "2024-01-12T11:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2024-01-13",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 26,
+    "assumed_available_at": "2024-01-12T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-12_09AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-12_09AM.pdf",
+    "report_at": "2024-01-12T09:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2024-01-13",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 26,
+    "assumed_available_at": "2024-01-12T10:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-13_06PM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-13_06PM.pdf",
+    "report_at": "2024-01-13T18:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-01-13",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-13",
+        "player_name_raw": "Banton, Dalano",
+        "status": "Out",
+        "reason": "G League - On Assignment",
+        "report_at": "2024-01-13T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=290, player Banton, Dalano"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-13",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-13T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=312, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-13",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-13T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=334, player Peterson, Drew"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-13",
+        "player_name_raw": "Queta, Neemias",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-13T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=356, player Queta, Neemias"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-13",
+        "player_name_raw": "Walsh, Jordan",
+        "status": "Out",
+        "reason": "G League - On Assignment",
+        "report_at": "2024-01-13T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=378, player Walsh, Jordan"
+      }
+    ],
+    "all_team_count": 25,
+    "assumed_available_at": "2024-01-13T19:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-14_11AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-14_11AM.pdf",
+    "report_at": "2024-01-14T11:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2024-01-15",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 29,
+    "assumed_available_at": "2024-01-14T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-14_09AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-14_09AM.pdf",
+    "report_at": "2024-01-14T09:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2024-01-15",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 29,
+    "assumed_available_at": "2024-01-14T10:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-15_06PM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-15_06PM.pdf",
+    "report_at": "2024-01-15T18:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-01-15",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-15",
+        "player_name_raw": "Brown, Jaylen",
+        "status": "Out",
+        "reason": "Injury/Illness - Right Knee; Hyperextension",
+        "report_at": "2024-01-15T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 6, y=156, player Brown, Jaylen"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-15",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-15T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 6, y=186, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-15",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-15T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 6, y=208, player Peterson, Drew"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-15",
+        "player_name_raw": "Walsh, Jordan",
+        "status": "Out",
+        "reason": "G League - On Assignment",
+        "report_at": "2024-01-15T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 6, y=230, player Walsh, Jordan"
+      }
+    ],
+    "all_team_count": 25,
+    "assumed_available_at": "2024-01-15T19:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-16_11AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-16_11AM.pdf",
+    "report_at": "2024-01-16T11:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2024-01-17",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 25,
+    "assumed_available_at": "2024-01-16T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-16_09AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-16_09AM.pdf",
+    "report_at": "2024-01-16T09:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2024-01-17",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 25,
+    "assumed_available_at": "2024-01-16T10:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-17_06PM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-17_06PM.pdf",
+    "report_at": "2024-01-17T18:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-01-17",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-17",
+        "player_name_raw": "Davison, JD",
+        "status": "Available",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-17T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 4, y=216, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-17",
+        "player_name_raw": "Holiday, Jrue",
+        "status": "Available",
+        "reason": "Injury/Illness - Right Elbow; Sprain",
+        "report_at": "2024-01-17T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 4, y=238, player Holiday, Jrue"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-17",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-17T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 4, y=260, player Peterson, Drew"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-17",
+        "player_name_raw": "Porzingis, Kristaps",
+        "status": "Out",
+        "reason": "Injury/Illness - Right Knee; Inflammation",
+        "report_at": "2024-01-17T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 4, y=290, player Porzingis, Kristaps"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-17",
+        "player_name_raw": "Walsh, Jordan",
+        "status": "Available",
+        "reason": "-",
+        "report_at": "2024-01-17T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 4, y=320, player Walsh, Jordan"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-17",
+        "player_name_raw": "White, Derrick",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Ankle; Sprain",
+        "report_at": "2024-01-17T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 4, y=342, player White, Derrick"
+      }
+    ],
+    "all_team_count": 26,
+    "assumed_available_at": "2024-01-17T19:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-18_11AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-18_11AM.pdf",
+    "report_at": "2024-01-18T11:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2024-01-19",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 22,
+    "assumed_available_at": "2024-01-18T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-18_09AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-18_09AM.pdf",
+    "report_at": "2024-01-18T09:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2024-01-19",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 22,
+    "assumed_available_at": "2024-01-18T10:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-19_06PM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-19_06PM.pdf",
+    "report_at": "2024-01-19T18:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-01-19",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-19",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-19T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=288, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-19",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-19T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=312, player Peterson, Drew"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-19",
+        "player_name_raw": "Walsh, Jordan",
+        "status": "Out",
+        "reason": "G League - On Assignment",
+        "report_at": "2024-01-19T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=334, player Walsh, Jordan"
+      }
+    ],
+    "all_team_count": 27,
+    "assumed_available_at": "2024-01-19T19:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-20_11AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-20_11AM.pdf",
+    "report_at": "2024-01-20T11:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2024-01-21",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 25,
+    "assumed_available_at": "2024-01-20T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-20_09AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-20_09AM.pdf",
+    "report_at": "2024-01-20T09:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2024-01-21",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 25,
+    "assumed_available_at": "2024-01-20T10:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-21_06PM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-21_06PM.pdf",
+    "report_at": "2024-01-21T18:30:00-05:00",
+    "state": "mixed_complete_and_unsubmitted",
+    "sections": [
+      {
+        "target_game_date": "2024-01-21",
+        "state": "complete"
+      },
+      {
+        "target_game_date": "2024-01-22",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-21",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-21T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=284, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-21",
+        "player_name_raw": "Holiday, Jrue",
+        "status": "Out",
+        "reason": "Injury/Illness - Right Elbow; Sprain",
+        "report_at": "2024-01-21T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=306, player Holiday, Jrue"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-21",
+        "player_name_raw": "Horford, Al",
+        "status": "Out",
+        "reason": "Rest",
+        "report_at": "2024-01-21T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=330, player Horford, Al"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-21",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-21T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=352, player Peterson, Drew"
+      }
+    ],
+    "all_team_count": 24,
+    "assumed_available_at": "2024-01-21T19:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-22_11AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-22_11AM.pdf",
+    "report_at": "2024-01-22T11:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2024-01-22",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 25,
+    "assumed_available_at": "2024-01-22T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-22_09AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-22_09AM.pdf",
+    "report_at": "2024-01-22T09:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2024-01-22",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 25,
+    "assumed_available_at": "2024-01-22T10:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-22_06PM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-22_06PM.pdf",
+    "report_at": "2024-01-22T18:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-01-22",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-22",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-22T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 4, y=228, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-22",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-22T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 4, y=250, player Peterson, Drew"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-22",
+        "player_name_raw": "Porzingis, Kristaps",
+        "status": "Out",
+        "reason": "Injury/Illness - Right Knee; Inflammation",
+        "report_at": "2024-01-22T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 4, y=280, player Porzingis, Kristaps"
+      }
+    ],
+    "all_team_count": 25,
+    "assumed_available_at": "2024-01-22T19:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-23_11AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-23_11AM.pdf",
+    "report_at": "2024-01-23T11:30:00-05:00",
+    "state": "team_not_covered",
+    "sections": [],
+    "observations": [],
+    "all_team_count": 24,
+    "assumed_available_at": "2024-01-23T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-23_09AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-23_09AM.pdf",
+    "report_at": "2024-01-23T09:30:00-05:00",
+    "state": "team_not_covered",
+    "sections": [],
+    "observations": [],
+    "all_team_count": 24,
+    "assumed_available_at": "2024-01-23T10:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-25_06PM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-25_06PM.pdf",
+    "report_at": "2024-01-25T18:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-01-25",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-25",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-25T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=164, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-25",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-25T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=186, player Peterson, Drew"
+      }
+    ],
+    "all_team_count": 28,
+    "assumed_available_at": "2024-01-25T19:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-26_11AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-26_11AM.pdf",
+    "report_at": "2024-01-26T11:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2024-01-27",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 28,
+    "assumed_available_at": "2024-01-26T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-26_09AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-26_09AM.pdf",
+    "report_at": "2024-01-26T09:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2024-01-27",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 28,
+    "assumed_available_at": "2024-01-26T10:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-27_06PM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-27_06PM.pdf",
+    "report_at": "2024-01-27T18:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-01-27",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-27",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-27T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=148, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-27",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-27T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=170, player Peterson, Drew"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-27",
+        "player_name_raw": "Porzingis, Kristaps",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Ankle; Sprain",
+        "report_at": "2024-01-27T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=192, player Porzingis, Kristaps"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-27",
+        "player_name_raw": "Walsh, Jordan",
+        "status": "Out",
+        "reason": "G League - On Assignment",
+        "report_at": "2024-01-27T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=214, player Walsh, Jordan"
+      }
+    ],
+    "all_team_count": 28,
+    "assumed_available_at": "2024-01-27T19:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-28_11AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-28_11AM.pdf",
+    "report_at": "2024-01-28T11:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2024-01-29",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 28,
+    "assumed_available_at": "2024-01-28T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-28_09AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-28_09AM.pdf",
+    "report_at": "2024-01-28T09:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2024-01-29",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 28,
+    "assumed_available_at": "2024-01-28T10:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-29_06PM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-29_06PM.pdf",
+    "report_at": "2024-01-29T18:30:00-05:00",
+    "state": "mixed_complete_and_unsubmitted",
+    "sections": [
+      {
+        "target_game_date": "2024-01-29",
+        "state": "complete"
+      },
+      {
+        "target_game_date": "2024-01-30",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-29",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-29T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=208, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-29",
+        "player_name_raw": "Horford, Al",
+        "status": "Available",
+        "reason": "Injury/Illness - Left Neck; Sprain",
+        "report_at": "2024-01-29T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=230, player Horford, Al"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-29",
+        "player_name_raw": "Kornet, Luke",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Hamstring; Tightness",
+        "report_at": "2024-01-29T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=260, player Kornet, Luke"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-29",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-29T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=288, player Peterson, Drew"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-29",
+        "player_name_raw": "Porzingis, Kristaps",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Ankle; Sprain",
+        "report_at": "2024-01-29T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=312, player Porzingis, Kristaps"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-29",
+        "player_name_raw": "Walsh, Jordan",
+        "status": "Out",
+        "reason": "G League - On Assignment",
+        "report_at": "2024-01-29T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=334, player Walsh, Jordan"
+      }
+    ],
+    "all_team_count": 28,
+    "assumed_available_at": "2024-01-29T19:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-30_11AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-30_11AM.pdf",
+    "report_at": "2024-01-30T11:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2024-01-30",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 28,
+    "assumed_available_at": "2024-01-30T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-30_09AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-30_09AM.pdf",
+    "report_at": "2024-01-30T09:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2024-01-30",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 28,
+    "assumed_available_at": "2024-01-30T10:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-30_06PM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-30_06PM.pdf",
+    "report_at": "2024-01-30T18:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-01-30",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-30",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-30T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=334, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-30",
+        "player_name_raw": "Horford, Al",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Neck; Sprain",
+        "report_at": "2024-01-30T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=356, player Horford, Al"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-30",
+        "player_name_raw": "Kornet, Luke",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Hamstring; Tightness",
+        "report_at": "2024-01-30T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=386, player Kornet, Luke"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-30",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-30T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=414, player Peterson, Drew"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-30",
+        "player_name_raw": "Porzingis, Kristaps",
+        "status": "Available",
+        "reason": "Injury/Illness - Left Ankle; Sprain",
+        "report_at": "2024-01-30T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=436, player Porzingis, Kristaps"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-30",
+        "player_name_raw": "Walsh, Jordan",
+        "status": "Out",
+        "reason": "G League - On Assignment",
+        "report_at": "2024-01-30T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=458, player Walsh, Jordan"
+      }
+    ],
+    "all_team_count": 28,
+    "assumed_available_at": "2024-01-30T19:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-31_11AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-31_11AM.pdf",
+    "report_at": "2024-01-31T11:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2024-02-01",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 26,
+    "assumed_available_at": "2024-01-31T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-31_09AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-31_09AM.pdf",
+    "report_at": "2024-01-31T09:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2024-02-01",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 26,
+    "assumed_available_at": "2024-01-31T10:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-02-01_06PM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-01_06PM.pdf",
+    "report_at": "2024-02-01T18:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-02-01",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-01",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-02-01T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=106, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-01",
+        "player_name_raw": "Kornet, Luke",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Hamstring; Strain",
+        "report_at": "2024-02-01T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=128, player Kornet, Luke"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-01",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-02-01T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=150, player Peterson, Drew"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-01",
+        "player_name_raw": "Walsh, Jordan",
+        "status": "Out",
+        "reason": "G League - On Assignment",
+        "report_at": "2024-02-01T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=172, player Walsh, Jordan"
+      }
+    ],
+    "all_team_count": 25,
+    "assumed_available_at": "2024-02-01T19:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-02-02_11AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-02_11AM.pdf",
+    "report_at": "2024-02-02T11:30:00-05:00",
+    "state": "team_not_covered",
+    "sections": [],
+    "observations": [],
+    "all_team_count": 27,
+    "assumed_available_at": "2024-02-02T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-02-02_09AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-02_09AM.pdf",
+    "report_at": "2024-02-02T09:30:00-05:00",
+    "state": "team_not_covered",
+    "sections": [],
+    "observations": [],
+    "all_team_count": 27,
+    "assumed_available_at": "2024-02-02T10:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-02-04_06PM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-04_06PM.pdf",
+    "report_at": "2024-02-04T18:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-02-04",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-04",
+        "player_name_raw": "Brown, Jaylen",
+        "status": "Out",
+        "reason": "Injury/Illness - Low Back; Tightness",
+        "report_at": "2024-02-04T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 4, y=236, player Brown, Jaylen"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-04",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-02-04T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 4, y=258, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-04",
+        "player_name_raw": "Kornet, Luke",
+        "status": "Available",
+        "reason": "Injury/Illness - Left Hamstring; Strain",
+        "report_at": "2024-02-04T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 4, y=280, player Kornet, Luke"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-04",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-02-04T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 4, y=302, player Peterson, Drew"
+      }
+    ],
+    "all_team_count": 26,
+    "assumed_available_at": "2024-02-04T19:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-02-05_11AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-05_11AM.pdf",
+    "report_at": "2024-02-05T11:30:00-05:00",
+    "state": "team_not_covered",
+    "sections": [],
+    "observations": [],
+    "all_team_count": 23,
+    "assumed_available_at": "2024-02-05T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-02-05_09AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-05_09AM.pdf",
+    "report_at": "2024-02-05T09:30:00-05:00",
+    "state": "team_not_covered",
+    "sections": [],
+    "observations": [],
+    "all_team_count": 23,
+    "assumed_available_at": "2024-02-05T10:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-02-07_06PM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-07_06PM.pdf",
+    "report_at": "2024-02-07T18:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-02-07",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-07",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-02-07T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=324, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-07",
+        "player_name_raw": "Holiday, Jrue",
+        "status": "Out",
+        "reason": "Injury/Illness - Right Elbow; Sprain",
+        "report_at": "2024-02-07T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=346, player Holiday, Jrue"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-07",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-02-07T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=368, player Peterson, Drew"
+      }
+    ],
+    "all_team_count": 27,
+    "assumed_available_at": "2024-02-07T19:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-02-08_11AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-08_11AM.pdf",
+    "report_at": "2024-02-08T11:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2024-02-09",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 26,
+    "assumed_available_at": "2024-02-08T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-02-08_09AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-08_09AM.pdf",
+    "report_at": "2024-02-08T09:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2024-02-09",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 26,
+    "assumed_available_at": "2024-02-08T10:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-02-09_06PM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-09_06PM.pdf",
+    "report_at": "2024-02-09T18:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-02-09",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-09",
+        "player_name_raw": "Davison, JD",
+        "status": "Available",
+        "reason": "-",
+        "report_at": "2024-02-09T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=444, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-09",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Available",
+        "reason": "-",
+        "report_at": "2024-02-09T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=466, player Peterson, Drew"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-09",
+        "player_name_raw": "Springer, Jaden",
+        "status": "Out",
+        "reason": "Injury/Illness - Right Ankle; Impingement",
+        "report_at": "2024-02-09T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=494, player Springer, Jaden"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-09",
+        "player_name_raw": "Tatum, Jayson",
+        "status": "Available",
+        "reason": "Injury/Illness - Illness; Non-Covid",
+        "report_at": "2024-02-09T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=82, player Tatum, Jayson"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-09",
+        "player_name_raw": "Tillman, Xavier",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Knee; Soreness",
+        "report_at": "2024-02-09T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=104, player Tillman, Xavier"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-09",
+        "player_name_raw": "Walsh, Jordan",
+        "status": "Available",
+        "reason": "-",
+        "report_at": "2024-02-09T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=126, player Walsh, Jordan"
+      }
+    ],
+    "all_team_count": 26,
+    "assumed_available_at": "2024-02-09T19:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-02-10_11AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-10_11AM.pdf",
+    "report_at": "2024-02-10T11:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2024-02-11",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 23,
+    "assumed_available_at": "2024-02-10T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-02-10_09AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-10_09AM.pdf",
+    "report_at": "2024-02-10T09:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2024-02-11",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 23,
+    "assumed_available_at": "2024-02-10T10:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-02-11_06PM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-11_06PM.pdf",
+    "report_at": "2024-02-11T18:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-02-11",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-11",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-02-11T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=128, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-11",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-02-11T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=150, player Peterson, Drew"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-11",
+        "player_name_raw": "Springer, Jaden",
+        "status": "Out",
+        "reason": "Injury/Illness - Right Ankle; Impingement",
+        "report_at": "2024-02-11T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=180, player Springer, Jaden"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-11",
+        "player_name_raw": "Tillman, Xavier",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Knee; Soreness",
+        "report_at": "2024-02-11T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=210, player Tillman, Xavier"
+      }
+    ],
+    "all_team_count": 23,
+    "assumed_available_at": "2024-02-11T19:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-02-12_11AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-12_11AM.pdf",
+    "report_at": "2024-02-12T11:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2024-02-13",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 28,
+    "assumed_available_at": "2024-02-12T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-02-12_09AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-12_09AM.pdf",
+    "report_at": "2024-02-12T09:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2024-02-13",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 28,
+    "assumed_available_at": "2024-02-12T10:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-02-13_06PM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-13_06PM.pdf",
+    "report_at": "2024-02-13T18:30:00-05:00",
+    "state": "mixed_complete_and_unsubmitted",
+    "sections": [
+      {
+        "target_game_date": "2024-02-13",
+        "state": "complete"
+      },
+      {
+        "target_game_date": "2024-02-14",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-13",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-02-13T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=128, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-13",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-02-13T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=150, player Peterson, Drew"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-13",
+        "player_name_raw": "Porzingis, Kristaps",
+        "status": "Out",
+        "reason": "Injury/Illness - Low Back; Contusion",
+        "report_at": "2024-02-13T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=174, player Porzingis, Kristaps"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-13",
+        "player_name_raw": "Springer, Jaden",
+        "status": "Out",
+        "reason": "Injury/Illness - Right Ankle; Impingement",
+        "report_at": "2024-02-13T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=202, player Springer, Jaden"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-13",
+        "player_name_raw": "Tillman, Xavier",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Knee; Injury Management",
+        "report_at": "2024-02-13T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=238, player Tillman, Xavier"
+      }
+    ],
+    "all_team_count": 29,
+    "assumed_available_at": "2024-02-13T19:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-02-14_11AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-14_11AM.pdf",
+    "report_at": "2024-02-14T11:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2024-02-14",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 28,
+    "assumed_available_at": "2024-02-14T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-02-14_09AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-14_09AM.pdf",
+    "report_at": "2024-02-14T09:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2024-02-14",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 28,
+    "assumed_available_at": "2024-02-14T10:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-02-14_06PM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-14_06PM.pdf",
+    "report_at": "2024-02-14T18:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-02-14",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-14",
+        "player_name_raw": "Brown, Jaylen",
+        "status": "Out",
+        "reason": "Injury/Illness - Right Shoulder; Contusion",
+        "report_at": "2024-02-14T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=208, player Brown, Jaylen"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-14",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-02-14T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=236, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-14",
+        "player_name_raw": "Horford, Al",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Big Toe; Sprain",
+        "report_at": "2024-02-14T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=258, player Horford, Al"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-14",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-02-14T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=280, player Peterson, Drew"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-14",
+        "player_name_raw": "Springer, Jaden",
+        "status": "Out",
+        "reason": "Injury/Illness - Right Ankle; Impingement",
+        "report_at": "2024-02-14T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=310, player Springer, Jaden"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-14",
+        "player_name_raw": "Tillman, Xavier",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Knee; Injury Management",
+        "report_at": "2024-02-14T18:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=346, player Tillman, Xavier"
+      }
+    ],
+    "all_team_count": 28,
+    "assumed_available_at": "2024-02-14T19:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-02-15_11AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-15_11AM.pdf",
+    "report_at": "2024-02-15T11:30:00-05:00",
+    "state": "team_not_covered",
+    "sections": [],
+    "observations": [],
+    "all_team_count": 6,
+    "assumed_available_at": "2024-02-15T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-02-15_09AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-15_09AM.pdf",
+    "report_at": "2024-02-15T09:30:00-05:00",
+    "state": "team_not_covered",
+    "sections": [],
+    "observations": [],
+    "all_team_count": 6,
+    "assumed_available_at": "2024-02-15T10:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-02_11PM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-02_11PM.pdf",
+    "report_at": "2024-01-02T23:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-01-02",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-02",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-02T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=236, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-02",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-02T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=258, player Peterson, Drew"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-02",
+        "player_name_raw": "Walsh, Jordan",
+        "status": "Out",
+        "reason": "G League - On Assignment",
+        "report_at": "2024-01-02T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=280, player Walsh, Jordan"
+      }
+    ],
+    "all_team_count": 27,
+    "assumed_available_at": "2024-01-03T00:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-05_11PM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-05_11PM.pdf",
+    "report_at": "2024-01-05T23:30:00-05:00",
+    "state": "mixed_complete_and_unsubmitted",
+    "sections": [
+      {
+        "target_game_date": "2024-01-05",
+        "state": "complete"
+      },
+      {
+        "target_game_date": "2024-01-06",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-05",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-05T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=496, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-05",
+        "player_name_raw": "Horford, Al",
+        "status": "Out",
+        "reason": "Rest",
+        "report_at": "2024-01-05T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=82, player Horford, Al"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-05",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-05T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=104, player Peterson, Drew"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-05",
+        "player_name_raw": "Walsh, Jordan",
+        "status": "Out",
+        "reason": "G League - On Assignment",
+        "report_at": "2024-01-05T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=126, player Walsh, Jordan"
+      }
+    ],
+    "all_team_count": 28,
+    "assumed_available_at": "2024-01-06T00:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-06_11PM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-06_11PM.pdf",
+    "report_at": "2024-01-06T23:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-01-06",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-06",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-06T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=128, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-06",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-06T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=150, player Peterson, Drew"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-06",
+        "player_name_raw": "Walsh, Jordan",
+        "status": "Out",
+        "reason": "G League - On Assignment",
+        "report_at": "2024-01-06T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=174, player Walsh, Jordan"
+      }
+    ],
+    "all_team_count": 25,
+    "assumed_available_at": "2024-01-07T00:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-08_11PM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-08_11PM.pdf",
+    "report_at": "2024-01-08T23:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-01-08",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-08",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-08T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=128, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-08",
+        "player_name_raw": "Hauser, Sam",
+        "status": "Out",
+        "reason": "Injury/Illness - Right Shoulder; Impingement",
+        "report_at": "2024-01-08T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=158, player Hauser, Sam"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-08",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-08T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=188, player Peterson, Drew"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-08",
+        "player_name_raw": "Porzingis, Kristaps",
+        "status": "Available",
+        "reason": "Injury/Illness - Right Eye; Irritation",
+        "report_at": "2024-01-08T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=210, player Porzingis, Kristaps"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-08",
+        "player_name_raw": "Tatum, Jayson",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Ankle; Sprain Management",
+        "report_at": "2024-01-08T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=238, player Tatum, Jayson"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-08",
+        "player_name_raw": "Walsh, Jordan",
+        "status": "Out",
+        "reason": "G League - On Assignment",
+        "report_at": "2024-01-08T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=268, player Walsh, Jordan"
+      }
+    ],
+    "all_team_count": 22,
+    "assumed_available_at": "2024-01-09T00:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-10_11PM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-10_11PM.pdf",
+    "report_at": "2024-01-10T23:30:00-05:00",
+    "state": "mixed_complete_and_unsubmitted",
+    "sections": [
+      {
+        "target_game_date": "2024-01-10",
+        "state": "complete"
+      },
+      {
+        "target_game_date": "2024-01-11",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-10",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-10T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=210, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-10",
+        "player_name_raw": "Holiday, Jrue",
+        "status": "Available",
+        "reason": "Injury/Illness - Right Elbow Sprain; Injury Management",
+        "report_at": "2024-01-10T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=240, player Holiday, Jrue"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-10",
+        "player_name_raw": "Horford, Al",
+        "status": "Available",
+        "reason": "Injury/Illness - Illness; Non-Covid",
+        "report_at": "2024-01-10T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=268, player Horford, Al"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-10",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-10T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=290, player Peterson, Drew"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-10",
+        "player_name_raw": "Porzingis, Kristaps",
+        "status": "Out",
+        "reason": "Injury/Illness - Right Knee; Contusion",
+        "report_at": "2024-01-10T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=312, player Porzingis, Kristaps"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-10",
+        "player_name_raw": "Walsh, Jordan",
+        "status": "Out",
+        "reason": "G League - On Assignment",
+        "report_at": "2024-01-10T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=334, player Walsh, Jordan"
+      }
+    ],
+    "all_team_count": 27,
+    "assumed_available_at": "2024-01-11T00:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-11_11PM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-11_11PM.pdf",
+    "report_at": "2024-01-11T23:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-01-11",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-11",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-11T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=402, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-11",
+        "player_name_raw": "Horford, Al",
+        "status": "Out",
+        "reason": "Injury/Illness - Illness; Non-Covid",
+        "report_at": "2024-01-11T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=424, player Horford, Al"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-11",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-11T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=446, player Peterson, Drew"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-11",
+        "player_name_raw": "Walsh, Jordan",
+        "status": "Out",
+        "reason": "G League - On Assignment",
+        "report_at": "2024-01-11T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=468, player Walsh, Jordan"
+      }
+    ],
+    "all_team_count": 28,
+    "assumed_available_at": "2024-01-12T00:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-13_11PM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-13_11PM.pdf",
+    "report_at": "2024-01-13T23:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-01-13",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-13",
+        "player_name_raw": "Banton, Dalano",
+        "status": "Out",
+        "reason": "G League - On Assignment",
+        "report_at": "2024-01-13T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=290, player Banton, Dalano"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-13",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-13T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=312, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-13",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-13T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=334, player Peterson, Drew"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-13",
+        "player_name_raw": "Queta, Neemias",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-13T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=356, player Queta, Neemias"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-13",
+        "player_name_raw": "Walsh, Jordan",
+        "status": "Out",
+        "reason": "G League - On Assignment",
+        "report_at": "2024-01-13T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=378, player Walsh, Jordan"
+      }
+    ],
+    "all_team_count": 25,
+    "assumed_available_at": "2024-01-14T00:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-15_11PM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-15_11PM.pdf",
+    "report_at": "2024-01-15T23:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-01-15",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-15",
+        "player_name_raw": "Brown, Jaylen",
+        "status": "Out",
+        "reason": "Injury/Illness - Right Knee; Hyperextension",
+        "report_at": "2024-01-15T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 6, y=156, player Brown, Jaylen"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-15",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-15T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 6, y=186, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-15",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-15T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 6, y=208, player Peterson, Drew"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-15",
+        "player_name_raw": "Walsh, Jordan",
+        "status": "Out",
+        "reason": "G League - On Assignment",
+        "report_at": "2024-01-15T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 6, y=230, player Walsh, Jordan"
+      }
+    ],
+    "all_team_count": 25,
+    "assumed_available_at": "2024-01-16T00:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-17_11PM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-17_11PM.pdf",
+    "report_at": "2024-01-17T23:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-01-17",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-17",
+        "player_name_raw": "Davison, JD",
+        "status": "Available",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-17T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 4, y=236, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-17",
+        "player_name_raw": "Holiday, Jrue",
+        "status": "Available",
+        "reason": "Injury/Illness - Right Elbow; Sprain",
+        "report_at": "2024-01-17T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 4, y=258, player Holiday, Jrue"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-17",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-17T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 4, y=280, player Peterson, Drew"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-17",
+        "player_name_raw": "Porzingis, Kristaps",
+        "status": "Out",
+        "reason": "Injury/Illness - Right Knee; Inflammation",
+        "report_at": "2024-01-17T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 4, y=310, player Porzingis, Kristaps"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-17",
+        "player_name_raw": "Walsh, Jordan",
+        "status": "Available",
+        "reason": "-",
+        "report_at": "2024-01-17T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 4, y=340, player Walsh, Jordan"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-17",
+        "player_name_raw": "White, Derrick",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Ankle; Sprain",
+        "report_at": "2024-01-17T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 4, y=362, player White, Derrick"
+      }
+    ],
+    "all_team_count": 24,
+    "assumed_available_at": "2024-01-18T00:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-19_11PM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-19_11PM.pdf",
+    "report_at": "2024-01-19T23:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-01-19",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-19",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-19T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=288, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-19",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-19T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=312, player Peterson, Drew"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-19",
+        "player_name_raw": "Walsh, Jordan",
+        "status": "Out",
+        "reason": "G League - On Assignment",
+        "report_at": "2024-01-19T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=334, player Walsh, Jordan"
+      }
+    ],
+    "all_team_count": 27,
+    "assumed_available_at": "2024-01-20T00:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-21_11PM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-21_11PM.pdf",
+    "report_at": "2024-01-21T23:30:00-05:00",
+    "state": "mixed_complete_and_unsubmitted",
+    "sections": [
+      {
+        "target_game_date": "2024-01-21",
+        "state": "complete"
+      },
+      {
+        "target_game_date": "2024-01-22",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-21",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-21T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=284, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-21",
+        "player_name_raw": "Holiday, Jrue",
+        "status": "Out",
+        "reason": "Injury/Illness - Right Elbow; Sprain",
+        "report_at": "2024-01-21T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=306, player Holiday, Jrue"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-21",
+        "player_name_raw": "Horford, Al",
+        "status": "Out",
+        "reason": "Rest",
+        "report_at": "2024-01-21T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=330, player Horford, Al"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-21",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-21T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=352, player Peterson, Drew"
+      }
+    ],
+    "all_team_count": 24,
+    "assumed_available_at": "2024-01-22T00:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-22_11PM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-22_11PM.pdf",
+    "report_at": "2024-01-22T23:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-01-22",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-22",
+        "player_name_raw": "Brissett, Oshae",
+        "status": "Out",
+        "reason": "Injury/Illness - Low Back; Strain",
+        "report_at": "2024-01-22T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 4, y=244, player Brissett, Oshae"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-22",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-22T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 4, y=266, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-22",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-22T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 4, y=288, player Peterson, Drew"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-22",
+        "player_name_raw": "Porzingis, Kristaps",
+        "status": "Out",
+        "reason": "Injury/Illness - Right Knee; Inflammation",
+        "report_at": "2024-01-22T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 4, y=318, player Porzingis, Kristaps"
+      }
+    ],
+    "all_team_count": 25,
+    "assumed_available_at": "2024-01-23T00:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-25_11PM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-25_11PM.pdf",
+    "report_at": "2024-01-25T23:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-01-25",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-25",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-25T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=164, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-25",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-25T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=186, player Peterson, Drew"
+      }
+    ],
+    "all_team_count": 28,
+    "assumed_available_at": "2024-01-26T00:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-27_11PM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-27_11PM.pdf",
+    "report_at": "2024-01-27T23:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-01-27",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-27",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-27T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=148, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-27",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-27T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=170, player Peterson, Drew"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-27",
+        "player_name_raw": "Porzingis, Kristaps",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Ankle; Sprain",
+        "report_at": "2024-01-27T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=192, player Porzingis, Kristaps"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-27",
+        "player_name_raw": "Walsh, Jordan",
+        "status": "Out",
+        "reason": "G League - On Assignment",
+        "report_at": "2024-01-27T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=214, player Walsh, Jordan"
+      }
+    ],
+    "all_team_count": 28,
+    "assumed_available_at": "2024-01-28T00:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-29_11PM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-29_11PM.pdf",
+    "report_at": "2024-01-29T23:30:00-05:00",
+    "state": "mixed_complete_and_unsubmitted",
+    "sections": [
+      {
+        "target_game_date": "2024-01-29",
+        "state": "complete"
+      },
+      {
+        "target_game_date": "2024-01-30",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-29",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-29T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=208, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-29",
+        "player_name_raw": "Horford, Al",
+        "status": "Available",
+        "reason": "Injury/Illness - Left Neck; Sprain",
+        "report_at": "2024-01-29T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=230, player Horford, Al"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-29",
+        "player_name_raw": "Kornet, Luke",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Hamstring; Tightness",
+        "report_at": "2024-01-29T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=260, player Kornet, Luke"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-29",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-29T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=288, player Peterson, Drew"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-29",
+        "player_name_raw": "Porzingis, Kristaps",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Ankle; Sprain",
+        "report_at": "2024-01-29T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=312, player Porzingis, Kristaps"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-29",
+        "player_name_raw": "Walsh, Jordan",
+        "status": "Out",
+        "reason": "G League - On Assignment",
+        "report_at": "2024-01-29T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=334, player Walsh, Jordan"
+      }
+    ],
+    "all_team_count": 28,
+    "assumed_available_at": "2024-01-30T00:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-30_11PM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-30_11PM.pdf",
+    "report_at": "2024-01-30T23:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-01-30",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-30",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-30T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=334, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-30",
+        "player_name_raw": "Horford, Al",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Neck; Sprain",
+        "report_at": "2024-01-30T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=356, player Horford, Al"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-30",
+        "player_name_raw": "Kornet, Luke",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Hamstring; Tightness",
+        "report_at": "2024-01-30T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=386, player Kornet, Luke"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-30",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-30T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=414, player Peterson, Drew"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-30",
+        "player_name_raw": "Porzingis, Kristaps",
+        "status": "Available",
+        "reason": "Injury/Illness - Left Ankle; Sprain",
+        "report_at": "2024-01-30T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=436, player Porzingis, Kristaps"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-30",
+        "player_name_raw": "Walsh, Jordan",
+        "status": "Out",
+        "reason": "G League - On Assignment",
+        "report_at": "2024-01-30T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=458, player Walsh, Jordan"
+      }
+    ],
+    "all_team_count": 28,
+    "assumed_available_at": "2024-01-31T00:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-02-01_11PM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-01_11PM.pdf",
+    "report_at": "2024-02-01T23:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-02-01",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-01",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-02-01T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=106, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-01",
+        "player_name_raw": "Kornet, Luke",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Hamstring; Strain",
+        "report_at": "2024-02-01T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=128, player Kornet, Luke"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-01",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-02-01T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=150, player Peterson, Drew"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-01",
+        "player_name_raw": "Walsh, Jordan",
+        "status": "Out",
+        "reason": "G League - On Assignment",
+        "report_at": "2024-02-01T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=172, player Walsh, Jordan"
+      }
+    ],
+    "all_team_count": 25,
+    "assumed_available_at": "2024-02-02T00:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-02-04_11PM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-04_11PM.pdf",
+    "report_at": "2024-02-04T23:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-02-04",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-04",
+        "player_name_raw": "Brown, Jaylen",
+        "status": "Out",
+        "reason": "Injury/Illness - Low Back; Tightness",
+        "report_at": "2024-02-04T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 4, y=236, player Brown, Jaylen"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-04",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-02-04T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 4, y=258, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-04",
+        "player_name_raw": "Kornet, Luke",
+        "status": "Available",
+        "reason": "Injury/Illness - Left Hamstring; Strain",
+        "report_at": "2024-02-04T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 4, y=280, player Kornet, Luke"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-04",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-02-04T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 4, y=302, player Peterson, Drew"
+      }
+    ],
+    "all_team_count": 26,
+    "assumed_available_at": "2024-02-05T00:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-02-07_11PM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-07_11PM.pdf",
+    "report_at": "2024-02-07T23:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-02-07",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-07",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-02-07T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=324, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-07",
+        "player_name_raw": "Holiday, Jrue",
+        "status": "Out",
+        "reason": "Injury/Illness - Right Elbow; Sprain",
+        "report_at": "2024-02-07T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=346, player Holiday, Jrue"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-07",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-02-07T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=368, player Peterson, Drew"
+      }
+    ],
+    "all_team_count": 27,
+    "assumed_available_at": "2024-02-08T00:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-02-09_11PM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-09_11PM.pdf",
+    "report_at": "2024-02-09T23:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-02-09",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-09",
+        "player_name_raw": "Davison, JD",
+        "status": "Available",
+        "reason": "-",
+        "report_at": "2024-02-09T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=444, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-09",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Available",
+        "reason": "-",
+        "report_at": "2024-02-09T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=466, player Peterson, Drew"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-09",
+        "player_name_raw": "Springer, Jaden",
+        "status": "Out",
+        "reason": "Injury/Illness - Right Ankle; Impingement",
+        "report_at": "2024-02-09T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=494, player Springer, Jaden"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-09",
+        "player_name_raw": "Tatum, Jayson",
+        "status": "Available",
+        "reason": "Injury/Illness - Illness; Non-Covid",
+        "report_at": "2024-02-09T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=82, player Tatum, Jayson"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-09",
+        "player_name_raw": "Tillman, Xavier",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Knee; Soreness",
+        "report_at": "2024-02-09T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=104, player Tillman, Xavier"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-09",
+        "player_name_raw": "Walsh, Jordan",
+        "status": "Available",
+        "reason": "-",
+        "report_at": "2024-02-09T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=126, player Walsh, Jordan"
+      }
+    ],
+    "all_team_count": 25,
+    "assumed_available_at": "2024-02-10T00:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-02-11_11PM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-11_11PM.pdf",
+    "report_at": "2024-02-11T23:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-02-11",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-11",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-02-11T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=128, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-11",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-02-11T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=150, player Peterson, Drew"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-11",
+        "player_name_raw": "Springer, Jaden",
+        "status": "Out",
+        "reason": "Injury/Illness - Right Ankle; Impingement",
+        "report_at": "2024-02-11T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=180, player Springer, Jaden"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-11",
+        "player_name_raw": "Tillman, Xavier",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Knee; Soreness",
+        "report_at": "2024-02-11T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=210, player Tillman, Xavier"
+      }
+    ],
+    "all_team_count": 22,
+    "assumed_available_at": "2024-02-12T00:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-02-13_11PM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-13_11PM.pdf",
+    "report_at": "2024-02-13T23:30:00-05:00",
+    "state": "mixed_complete_and_unsubmitted",
+    "sections": [
+      {
+        "target_game_date": "2024-02-13",
+        "state": "complete"
+      },
+      {
+        "target_game_date": "2024-02-14",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-13",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-02-13T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=128, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-13",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-02-13T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=150, player Peterson, Drew"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-13",
+        "player_name_raw": "Porzingis, Kristaps",
+        "status": "Out",
+        "reason": "Injury/Illness - Low Back; Contusion",
+        "report_at": "2024-02-13T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=174, player Porzingis, Kristaps"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-13",
+        "player_name_raw": "Springer, Jaden",
+        "status": "Out",
+        "reason": "Injury/Illness - Right Ankle; Impingement",
+        "report_at": "2024-02-13T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=202, player Springer, Jaden"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-13",
+        "player_name_raw": "Tillman, Xavier",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Knee; Injury Management",
+        "report_at": "2024-02-13T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=238, player Tillman, Xavier"
+      }
+    ],
+    "all_team_count": 29,
+    "assumed_available_at": "2024-02-14T00:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-02-14_11PM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-14_11PM.pdf",
+    "report_at": "2024-02-14T23:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-02-14",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-14",
+        "player_name_raw": "Brown, Jaylen",
+        "status": "Out",
+        "reason": "Injury/Illness - Right Shoulder; Contusion",
+        "report_at": "2024-02-14T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=208, player Brown, Jaylen"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-14",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-02-14T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=236, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-14",
+        "player_name_raw": "Horford, Al",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Big Toe; Sprain",
+        "report_at": "2024-02-14T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=258, player Horford, Al"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-14",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-02-14T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=280, player Peterson, Drew"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-14",
+        "player_name_raw": "Springer, Jaden",
+        "status": "Out",
+        "reason": "Injury/Illness - Right Ankle; Impingement",
+        "report_at": "2024-02-14T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=310, player Springer, Jaden"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-14",
+        "player_name_raw": "Tillman, Xavier",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Knee; Injury Management",
+        "report_at": "2024-02-14T23:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=346, player Tillman, Xavier"
+      }
+    ],
+    "all_team_count": 28,
+    "assumed_available_at": "2024-02-15T00:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-01_11AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-01_11AM.pdf",
+    "report_at": "2024-01-01T11:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2024-01-02",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 26,
+    "assumed_available_at": "2024-01-01T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-02_11AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-02_11AM.pdf",
+    "report_at": "2024-01-02T11:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-01-02",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-02",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-02T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=194, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-02",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-02T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=216, player Peterson, Drew"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-02",
+        "player_name_raw": "Walsh, Jordan",
+        "status": "Out",
+        "reason": "G League - On Assignment",
+        "report_at": "2024-01-02T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=238, player Walsh, Jordan"
+      }
+    ],
+    "all_team_count": 28,
+    "assumed_available_at": "2024-01-02T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-04_11AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-04_11AM.pdf",
+    "report_at": "2024-01-04T11:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2024-01-05",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 29,
+    "assumed_available_at": "2024-01-04T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-05_11AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-05_11AM.pdf",
+    "report_at": "2024-01-05T11:30:00-05:00",
+    "state": "mixed_complete_and_unsubmitted",
+    "sections": [
+      {
+        "target_game_date": "2024-01-05",
+        "state": "complete"
+      },
+      {
+        "target_game_date": "2024-01-06",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-05",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-05T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=496, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-05",
+        "player_name_raw": "Horford, Al",
+        "status": "Questionable",
+        "reason": "Rest",
+        "report_at": "2024-01-05T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=82, player Horford, Al"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-05",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-05T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=104, player Peterson, Drew"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-05",
+        "player_name_raw": "Walsh, Jordan",
+        "status": "Out",
+        "reason": "G League - On Assignment",
+        "report_at": "2024-01-05T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=126, player Walsh, Jordan"
+      }
+    ],
+    "all_team_count": 28,
+    "assumed_available_at": "2024-01-05T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-08_11AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-08_11AM.pdf",
+    "report_at": "2024-01-08T11:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-01-08",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-08",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-08T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=128, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-08",
+        "player_name_raw": "Hauser, Sam",
+        "status": "Questionable",
+        "reason": "Injury/Illness - Right Shoulder; Impingement",
+        "report_at": "2024-01-08T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=158, player Hauser, Sam"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-08",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-08T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=188, player Peterson, Drew"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-08",
+        "player_name_raw": "Porzingis, Kristaps",
+        "status": "Questionable",
+        "reason": "Injury/Illness - Right Eye; Irritation",
+        "report_at": "2024-01-08T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=210, player Porzingis, Kristaps"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-08",
+        "player_name_raw": "Tatum, Jayson",
+        "status": "Questionable",
+        "reason": "Injury/Illness - Left Ankle; Sprain Management",
+        "report_at": "2024-01-08T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=238, player Tatum, Jayson"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-08",
+        "player_name_raw": "Walsh, Jordan",
+        "status": "Out",
+        "reason": "G League - On Assignment",
+        "report_at": "2024-01-08T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=268, player Walsh, Jordan"
+      }
+    ],
+    "all_team_count": 22,
+    "assumed_available_at": "2024-01-08T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-10_11AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-10_11AM.pdf",
+    "report_at": "2024-01-10T11:30:00-05:00",
+    "state": "mixed_complete_and_unsubmitted",
+    "sections": [
+      {
+        "target_game_date": "2024-01-10",
+        "state": "complete"
+      },
+      {
+        "target_game_date": "2024-01-11",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-10",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-10T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=152, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-10",
+        "player_name_raw": "Holiday, Jrue",
+        "status": "Questionable",
+        "reason": "Injury/Illness - Right Elbow Sprain; Injury Management",
+        "report_at": "2024-01-10T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=182, player Holiday, Jrue"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-10",
+        "player_name_raw": "Horford, Al",
+        "status": "Questionable",
+        "reason": "Injury/Illness - Illness; Non-Covid",
+        "report_at": "2024-01-10T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=210, player Horford, Al"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-10",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-10T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=232, player Peterson, Drew"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-10",
+        "player_name_raw": "Porzingis, Kristaps",
+        "status": "Questionable",
+        "reason": "Injury/Illness - Right Knee; Contusion",
+        "report_at": "2024-01-10T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=254, player Porzingis, Kristaps"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-10",
+        "player_name_raw": "Walsh, Jordan",
+        "status": "Out",
+        "reason": "G League - On Assignment",
+        "report_at": "2024-01-10T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=276, player Walsh, Jordan"
+      }
+    ],
+    "all_team_count": 27,
+    "assumed_available_at": "2024-01-10T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-13_11AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-13_11AM.pdf",
+    "report_at": "2024-01-13T11:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-01-13",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-13",
+        "player_name_raw": "Banton, Dalano",
+        "status": "Questionable",
+        "reason": "G League - On Assignment",
+        "report_at": "2024-01-13T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=152, player Banton, Dalano"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-13",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-13T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=174, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-13",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-13T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=196, player Peterson, Drew"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-13",
+        "player_name_raw": "Queta, Neemias",
+        "status": "Questionable",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-13T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=218, player Queta, Neemias"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-13",
+        "player_name_raw": "Walsh, Jordan",
+        "status": "Out",
+        "reason": "G League - On Assignment",
+        "report_at": "2024-01-13T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=240, player Walsh, Jordan"
+      }
+    ],
+    "all_team_count": 24,
+    "assumed_available_at": "2024-01-13T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-15_11AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-15_11AM.pdf",
+    "report_at": "2024-01-15T11:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-01-15",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-15",
+        "player_name_raw": "Brown, Jaylen",
+        "status": "Questionable",
+        "reason": "Injury/Illness - Right Knee; Hyperextension",
+        "report_at": "2024-01-15T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 6, y=90, player Brown, Jaylen"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-15",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-15T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 6, y=120, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-15",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-15T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 6, y=142, player Peterson, Drew"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-15",
+        "player_name_raw": "Walsh, Jordan",
+        "status": "Out",
+        "reason": "G League - On Assignment",
+        "report_at": "2024-01-15T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 6, y=164, player Walsh, Jordan"
+      }
+    ],
+    "all_team_count": 25,
+    "assumed_available_at": "2024-01-15T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-17_11AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-17_11AM.pdf",
+    "report_at": "2024-01-17T11:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-01-17",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-17",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-17T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 4, y=128, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-17",
+        "player_name_raw": "Holiday, Jrue",
+        "status": "Questionable",
+        "reason": "Injury/Illness - Right Elbow; Sprain",
+        "report_at": "2024-01-17T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 4, y=150, player Holiday, Jrue"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-17",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-17T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 4, y=172, player Peterson, Drew"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-17",
+        "player_name_raw": "Porzingis, Kristaps",
+        "status": "Questionable",
+        "reason": "Injury/Illness - Right Knee; Inflammation",
+        "report_at": "2024-01-17T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 4, y=200, player Porzingis, Kristaps"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-17",
+        "player_name_raw": "Walsh, Jordan",
+        "status": "Available",
+        "reason": "-",
+        "report_at": "2024-01-17T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 4, y=230, player Walsh, Jordan"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-17",
+        "player_name_raw": "White, Derrick",
+        "status": "Questionable",
+        "reason": "Injury/Illness - Left Ankle; Sprain",
+        "report_at": "2024-01-17T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 4, y=252, player White, Derrick"
+      }
+    ],
+    "all_team_count": 26,
+    "assumed_available_at": "2024-01-17T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-19_11AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-19_11AM.pdf",
+    "report_at": "2024-01-19T11:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-01-19",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-19",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-19T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=288, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-19",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-19T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=312, player Peterson, Drew"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-19",
+        "player_name_raw": "Walsh, Jordan",
+        "status": "Out",
+        "reason": "G League - On Assignment",
+        "report_at": "2024-01-19T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=334, player Walsh, Jordan"
+      }
+    ],
+    "all_team_count": 27,
+    "assumed_available_at": "2024-01-19T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-21_11AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-21_11AM.pdf",
+    "report_at": "2024-01-21T11:30:00-05:00",
+    "state": "mixed_complete_and_unsubmitted",
+    "sections": [
+      {
+        "target_game_date": "2024-01-21",
+        "state": "complete"
+      },
+      {
+        "target_game_date": "2024-01-22",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-21",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-21T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=238, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-21",
+        "player_name_raw": "Holiday, Jrue",
+        "status": "Questionable",
+        "reason": "Injury/Illness - Right Elbow; Sprain",
+        "report_at": "2024-01-21T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=260, player Holiday, Jrue"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-21",
+        "player_name_raw": "Horford, Al",
+        "status": "Questionable",
+        "reason": "Rest",
+        "report_at": "2024-01-21T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=282, player Horford, Al"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-21",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-21T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=304, player Peterson, Drew"
+      }
+    ],
+    "all_team_count": 24,
+    "assumed_available_at": "2024-01-21T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-24_11AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-24_11AM.pdf",
+    "report_at": "2024-01-24T11:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2024-01-25",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 25,
+    "assumed_available_at": "2024-01-24T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-25_11AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-25_11AM.pdf",
+    "report_at": "2024-01-25T11:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-01-25",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-25",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-25T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=150, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-25",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-25T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=172, player Peterson, Drew"
+      }
+    ],
+    "all_team_count": 28,
+    "assumed_available_at": "2024-01-25T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-27_11AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-27_11AM.pdf",
+    "report_at": "2024-01-27T11:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-01-27",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-27",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-27T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=400, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-27",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-27T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=422, player Peterson, Drew"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-27",
+        "player_name_raw": "Porzingis, Kristaps",
+        "status": "Doubtful",
+        "reason": "Injury/Illness - Left Ankle; Sprain",
+        "report_at": "2024-01-27T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=444, player Porzingis, Kristaps"
+      }
+    ],
+    "all_team_count": 28,
+    "assumed_available_at": "2024-01-27T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-01-29_11AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-29_11AM.pdf",
+    "report_at": "2024-01-29T11:30:00-05:00",
+    "state": "mixed_complete_and_unsubmitted",
+    "sections": [
+      {
+        "target_game_date": "2024-01-29",
+        "state": "complete"
+      },
+      {
+        "target_game_date": "2024-01-30",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-29",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-29T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=106, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-29",
+        "player_name_raw": "Horford, Al",
+        "status": "Questionable",
+        "reason": "Injury/Illness - Left Neck; Sprain",
+        "report_at": "2024-01-29T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=128, player Horford, Al"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-29",
+        "player_name_raw": "Kornet, Luke",
+        "status": "Doubtful",
+        "reason": "Injury/Illness - Left Hamstring; Tightness",
+        "report_at": "2024-01-29T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=156, player Kornet, Luke"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-29",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-01-29T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=186, player Peterson, Drew"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-29",
+        "player_name_raw": "Porzingis, Kristaps",
+        "status": "Questionable",
+        "reason": "Injury/Illness - Left Ankle; Sprain",
+        "report_at": "2024-01-29T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=208, player Porzingis, Kristaps"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-01-29",
+        "player_name_raw": "Walsh, Jordan",
+        "status": "Out",
+        "reason": "G League - On Assignment",
+        "report_at": "2024-01-29T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=230, player Walsh, Jordan"
+      }
+    ],
+    "all_team_count": 28,
+    "assumed_available_at": "2024-01-29T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-02-01_11AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-01_11AM.pdf",
+    "report_at": "2024-02-01T11:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-02-01",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-01",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-02-01T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=106, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-01",
+        "player_name_raw": "Kornet, Luke",
+        "status": "Questionable",
+        "reason": "Injury/Illness - Left Hamstring; Strain",
+        "report_at": "2024-02-01T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=128, player Kornet, Luke"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-01",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-02-01T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=150, player Peterson, Drew"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-01",
+        "player_name_raw": "Walsh, Jordan",
+        "status": "Out",
+        "reason": "G League - On Assignment",
+        "report_at": "2024-02-01T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=172, player Walsh, Jordan"
+      }
+    ],
+    "all_team_count": 25,
+    "assumed_available_at": "2024-02-01T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-02-03_11AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-03_11AM.pdf",
+    "report_at": "2024-02-03T11:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2024-02-04",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 28,
+    "assumed_available_at": "2024-02-03T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-02-04_11AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-04_11AM.pdf",
+    "report_at": "2024-02-04T11:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-02-04",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-04",
+        "player_name_raw": "Brown, Jaylen",
+        "status": "Questionable",
+        "reason": "Injury/Illness - Low Back; Tightness",
+        "report_at": "2024-02-04T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 4, y=120, player Brown, Jaylen"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-04",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-02-04T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 4, y=142, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-04",
+        "player_name_raw": "Kornet, Luke",
+        "status": "Probable",
+        "reason": "Injury/Illness - Left Hamstring; Strain",
+        "report_at": "2024-02-04T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 4, y=164, player Kornet, Luke"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-04",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-02-04T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 4, y=186, player Peterson, Drew"
+      }
+    ],
+    "all_team_count": 26,
+    "assumed_available_at": "2024-02-04T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-02-06_11AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-06_11AM.pdf",
+    "report_at": "2024-02-06T11:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2024-02-07",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 26,
+    "assumed_available_at": "2024-02-06T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-02-07_11AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-07_11AM.pdf",
+    "report_at": "2024-02-07T11:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-02-07",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-07",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-02-07T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=280, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-07",
+        "player_name_raw": "Holiday, Jrue",
+        "status": "Questionable",
+        "reason": "Injury/Illness - Right Elbow; Sprain",
+        "report_at": "2024-02-07T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=304, player Holiday, Jrue"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-07",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-02-07T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=326, player Peterson, Drew"
+      }
+    ],
+    "all_team_count": 27,
+    "assumed_available_at": "2024-02-07T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-02-09_11AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-09_11AM.pdf",
+    "report_at": "2024-02-09T11:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-02-09",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-09",
+        "player_name_raw": "Davison, JD",
+        "status": "Available",
+        "reason": "-",
+        "report_at": "2024-02-09T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=406, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-09",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Available",
+        "reason": "-",
+        "report_at": "2024-02-09T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=428, player Peterson, Drew"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-09",
+        "player_name_raw": "Tatum, Jayson",
+        "status": "Questionable",
+        "reason": "Injury/Illness - Illness; Non-Covid",
+        "report_at": "2024-02-09T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=450, player Tatum, Jayson"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-09",
+        "player_name_raw": "Walsh, Jordan",
+        "status": "Available",
+        "reason": "-",
+        "report_at": "2024-02-09T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=472, player Walsh, Jordan"
+      }
+    ],
+    "all_team_count": 26,
+    "assumed_available_at": "2024-02-09T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-02-11_11AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-11_11AM.pdf",
+    "report_at": "2024-02-11T11:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-02-11",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-11",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-02-11T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=128, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-11",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-02-11T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=150, player Peterson, Drew"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-11",
+        "player_name_raw": "Springer, Jaden",
+        "status": "Out",
+        "reason": "Injury/Illness - Right Ankle; Impingement",
+        "report_at": "2024-02-11T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=180, player Springer, Jaden"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-11",
+        "player_name_raw": "Tillman, Xavier",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Knee; Soreness",
+        "report_at": "2024-02-11T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=210, player Tillman, Xavier"
+      }
+    ],
+    "all_team_count": 23,
+    "assumed_available_at": "2024-02-11T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-02-13_11AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-13_11AM.pdf",
+    "report_at": "2024-02-13T11:30:00-05:00",
+    "state": "mixed_complete_and_unsubmitted",
+    "sections": [
+      {
+        "target_game_date": "2024-02-13",
+        "state": "complete"
+      },
+      {
+        "target_game_date": "2024-02-14",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-13",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-02-13T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=128, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-13",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-02-13T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=150, player Peterson, Drew"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-13",
+        "player_name_raw": "Porzingis, Kristaps",
+        "status": "Questionable",
+        "reason": "Injury/Illness - Low Back; Contusion",
+        "report_at": "2024-02-13T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=174, player Porzingis, Kristaps"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-13",
+        "player_name_raw": "Springer, Jaden",
+        "status": "Out",
+        "reason": "Injury/Illness - Right Ankle; Impingement",
+        "report_at": "2024-02-13T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=202, player Springer, Jaden"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-13",
+        "player_name_raw": "Tillman, Xavier",
+        "status": "Out",
+        "reason": "Injury/Illness - Left Knee; Injury Management",
+        "report_at": "2024-02-13T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=238, player Tillman, Xavier"
+      }
+    ],
+    "all_team_count": 29,
+    "assumed_available_at": "2024-02-13T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-02-16_11AM",
+    "retrieval_status": "access_denied",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-16_11AM.pdf",
+    "state": "missing_report",
+    "observations": [],
+    "sections": []
+  },
+  {
+    "source_id": "report_2024-02-17_11AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-17_11AM.pdf",
+    "report_at": "2024-02-17T11:30:00-05:00",
+    "state": "team_not_covered",
+    "sections": [],
+    "observations": [],
+    "all_team_count": 1,
+    "assumed_available_at": "2024-02-17T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-02-18_11AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-18_11AM.pdf",
+    "report_at": "2024-02-18T11:30:00-05:00",
+    "state": "team_not_covered",
+    "sections": [],
+    "observations": [],
+    "all_team_count": 1,
+    "assumed_available_at": "2024-02-18T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-02-19_11AM",
+    "retrieval_status": "access_denied",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-19_11AM.pdf",
+    "state": "missing_report",
+    "observations": [],
+    "sections": []
+  },
+  {
+    "source_id": "report_2024-02-20_11AM",
+    "retrieval_status": "access_denied",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-20_11AM.pdf",
+    "state": "missing_report",
+    "observations": [],
+    "sections": []
+  },
+  {
+    "source_id": "report_2024-02-21_11AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-21_11AM.pdf",
+    "report_at": "2024-02-21T11:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2024-02-22",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 23,
+    "assumed_available_at": "2024-02-21T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-02-22_11AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-22_11AM.pdf",
+    "report_at": "2024-02-22T11:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-02-22",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-22",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-02-22T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=446, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-22",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-02-22T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=468, player Peterson, Drew"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-22",
+        "player_name_raw": "Springer, Jaden",
+        "status": "Questionable",
+        "reason": "Injury/Illness - Right Ankle; Impingement",
+        "report_at": "2024-02-22T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=496, player Springer, Jaden"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-22",
+        "player_name_raw": "Walsh, Jordan",
+        "status": "Out",
+        "reason": "G League - On Assignment",
+        "report_at": "2024-02-22T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 4, y=82, player Walsh, Jordan"
+      }
+    ],
+    "all_team_count": 29,
+    "assumed_available_at": "2024-02-22T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-02-23_11AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-23_11AM.pdf",
+    "report_at": "2024-02-23T11:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2024-02-24",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 24,
+    "assumed_available_at": "2024-02-23T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-02-24_11AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-24_11AM.pdf",
+    "report_at": "2024-02-24T11:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-02-24",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-24",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-02-24T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=344, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-24",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-02-24T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=366, player Peterson, Drew"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-24",
+        "player_name_raw": "Queta, Neemias",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-02-24T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=388, player Queta, Neemias"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-24",
+        "player_name_raw": "Walsh, Jordan",
+        "status": "Out",
+        "reason": "G League - On Assignment",
+        "report_at": "2024-02-24T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 1, y=410, player Walsh, Jordan"
+      }
+    ],
+    "all_team_count": 26,
+    "assumed_available_at": "2024-02-24T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-02-25_11AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-25_11AM.pdf",
+    "report_at": "2024-02-25T11:30:00-05:00",
+    "state": "team_not_covered",
+    "sections": [],
+    "observations": [],
+    "all_team_count": 27,
+    "assumed_available_at": "2024-02-25T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-02-26_11AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-26_11AM.pdf",
+    "report_at": "2024-02-26T11:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2024-02-27",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 25,
+    "assumed_available_at": "2024-02-26T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-02-27_11AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-27_11AM.pdf",
+    "report_at": "2024-02-27T11:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-02-27",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-27",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-02-27T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=246, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-02-27",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-02-27T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 3, y=268, player Peterson, Drew"
+      }
+    ],
+    "all_team_count": 28,
+    "assumed_available_at": "2024-02-27T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-02-28_11AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-28_11AM.pdf",
+    "report_at": "2024-02-28T11:30:00-05:00",
+    "state": "team_not_covered",
+    "sections": [],
+    "observations": [],
+    "all_team_count": 26,
+    "assumed_available_at": "2024-02-28T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-02-29_11AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-29_11AM.pdf",
+    "report_at": "2024-02-29T11:30:00-05:00",
+    "state": "not_yet_submitted",
+    "sections": [
+      {
+        "target_game_date": "2024-03-01",
+        "state": "not_yet_submitted"
+      }
+    ],
+    "observations": [],
+    "all_team_count": 29,
+    "assumed_available_at": "2024-02-29T12:00:00-05:00"
+  },
+  {
+    "source_id": "report_2024-03-01_11AM",
+    "retrieval_status": "obtained",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-03-01_11AM.pdf",
+    "report_at": "2024-03-01T11:30:00-05:00",
+    "state": "complete",
+    "sections": [
+      {
+        "target_game_date": "2024-03-01",
+        "state": "complete"
+      }
+    ],
+    "observations": [
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-03-01",
+        "player_name_raw": "Davison, JD",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-03-01T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=320, player Davison, JD"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-03-01",
+        "player_name_raw": "Peterson, Drew",
+        "status": "Out",
+        "reason": "G League - Two-Way",
+        "report_at": "2024-03-01T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=342, player Peterson, Drew"
+      },
+      {
+        "team": "BostonCeltics",
+        "target_game_date": "2024-03-01",
+        "player_name_raw": "Walsh, Jordan",
+        "status": "Out",
+        "reason": "G League - On Assignment",
+        "report_at": "2024-03-01T11:30:00-05:00",
+        "publication_verified": false,
+        "evidence_locator": "PDF page 2, y=364, player Walsh, Jordan"
+      }
+    ],
+    "all_team_count": 25,
+    "assumed_available_at": "2024-03-01T12:00:00-05:00"
+  }
+]

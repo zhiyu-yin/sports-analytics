@@ -1,0 +1,4 @@
+source_id,kind,url,state,http_status,error,retrieved_at
+box_0022301202,boxscore,https://cdn.nba.com/static/json/liveData/boxscore/boxscore_0022301202.json,access_denied,403,HTTP Error 403: Forbidden,2026-10-19T03:07:39.783958+00:00
+box_0022300462,boxscore,https://cdn.nba.com/static/json/liveData/boxscore/boxscore_0022300462.json,access_denied,403,HTTP Error 403: Forbidden,2026-10-19T03:07:39.784362+00:00
+pbp_0022300462,playbyplay,https://cdn.nba.com/static/json/liveData/playbyplay/playbyplay_0022300462.json,access_denied,403,HTTP Error 403: Forbidden,2026-10-19T03:07:39.784467+00:00

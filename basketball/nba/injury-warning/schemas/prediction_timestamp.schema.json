@@ -1,0 +1,187 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "prediction_timestamp",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "prediction_id": {
+      "type": "string"
+    },
+    "player_id": {
+      "type": "string"
+    },
+    "team_id": {
+      "type": "string"
+    },
+    "game_id": {
+      "type": "string"
+    },
+    "season": {
+      "type": "string"
+    },
+    "season_type": {
+      "const": "Regular Season"
+    },
+    "game_ended_at": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Verified completed-game time.",
+      "format": "date-time"
+    },
+    "prediction_at": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "After completion; latency includes publication availability of inputs.",
+      "format": "date-time"
+    },
+    "availability_status": {
+      "enum": [
+        "available",
+        "unavailable",
+        "unknown",
+        "excluded_noninjury"
+      ],
+      "description": "Known at t. Probable/questionable and not listed are not automatically available."
+    },
+    "availability_known_at": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Public time of status evidence.",
+      "format": "date-time"
+    },
+    "availability_source_ids": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Status evidence."
+    },
+    "active_injury_episode_ids": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Point-in-time known ongoing injuries."
+    },
+    "eligible": {
+      "type": "boolean"
+    },
+    "symptom_informed": {
+      "type": "boolean"
+    },
+    "window_end": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Exactly t+14 elapsed days.",
+      "format": "date-time"
+    },
+    "features": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "object",
+        "required": [
+          "value",
+          "max_input_known_at",
+          "evidence_role"
+        ],
+        "properties": {
+          "value": {},
+          "max_input_known_at": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "evidence_role": {
+            "const": "predictor"
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "primary_label": {
+      "enum": [
+        "positive",
+        "negative",
+        "unknown",
+        "excluded"
+      ],
+      "description": "Separate future event outcome."
+    },
+    "secondary_label": {
+      "enum": [
+        "positive",
+        "negative",
+        "unknown",
+        "excluded"
+      ],
+      "description": "Separate future event outcome."
+    },
+    "outcome_episode_ids": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Outcome-only; forbidden as predictor."
+    },
+    "label_known_at_primary": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Outcome ascertainment cutoff.",
+      "format": "date-time"
+    },
+    "label_known_at_secondary": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Outcome ascertainment cutoff.",
+      "format": "date-time"
+    },
+    "complete_onset_surveillance": {
+      "type": "boolean"
+    },
+    "followup_end": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Coverage of actual surveillance.",
+      "format": "date-time"
+    },
+    "split": {
+      "enum": [
+        "unassigned",
+        "train",
+        "validation",
+        "test_sealed"
+      ],
+      "description": "No test opening capability supplied."
+    }
+  },
+  "required": [
+    "prediction_id",
+    "player_id",
+    "game_id",
+    "season_type",
+    "game_ended_at",
+    "prediction_at",
+    "availability_status",
+    "availability_known_at",
+    "eligible",
+    "window_end",
+    "features",
+    "primary_label",
+    "secondary_label",
+    "complete_onset_surveillance",
+    "split"
+  ]
+}

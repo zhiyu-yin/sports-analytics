@@ -1,0 +1,7 @@
+{
+  "recorded_at": "2026-10-19T03:09:05.373336+00:00",
+  "design_unchanged": true,
+  "public_alternative": "Public NBA historical box-score HTML embeds structured game and play-by-play data. Direct CDN boxscore/playbyplay addresses returned 403 and were not bypassed. Do not repeat other games against those rejected endpoints.",
+  "all_gamebooks": "Acquire all 63 history/pilot/follow-up books, replacing unavailable CDN JSON; no team/date switching.",
+  "timing": "Recover documented end-minute interval; seconds and original publication remain unverified. Later-noon rule remains separate."
+}
