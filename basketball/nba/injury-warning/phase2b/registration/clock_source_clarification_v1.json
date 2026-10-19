@@ -1,0 +1,6 @@
+{
+  "reason": "Raw audit refutes literal EST offset interpretation for this NBA historical-page format after DST. Correct source semantics must precede regeneration.",
+  "evidence": "708 official gamebooks; 704 extracted starts and 708 ends. Eastern seasonal interpretation matches every comparable venue-local clock within 0-1 minute. Literal EST yields a systematic 60-minute mismatch after March 10. Schedule independently matches seasonal Eastern with normal start delay.",
+  "override": "For this verified NBA __NEXT_DATA__ period-description format only, EST is a stale display label for America/New_York seasonal wall clock. Preserve original ZoneInfo interpretation. Other explicit UTC/numeric clocks retain their own semantics; no timezone inference from plausibility alone.",
+  "finding": "No demonstrated clock conversion bug in historical output. Named unusual January clocks are supported; upper end is minute plus one, not exact horn time."
+}
