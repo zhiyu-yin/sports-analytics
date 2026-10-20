@@ -1,0 +1,12 @@
+{
+  "phase2b/tables/events.csv": "f528dc91786f3fed69e464326e7f06b78fabc298bf5e3f5194d55a59030c66a7",
+  "phase2b/tables/event_game_evidence.csv": "fad5c7af26a1ad95eb198575581c1ca91e58c31b928cee20c523fb880f023aa5",
+  "phase2b/tables/row_outcomes.csv": "8f15e08001d1925eda21260b8080399c9a2e0254a9d295fa721ff3a9358d0e4e",
+  "phase2b/tables/cohort_all_roster_candidates.csv": "7956eaf49a8ef876b8ecc01ee3bea4dda3eea023eddd265cde98a41114c871e6",
+  "phase2b/tables/features_B.csv": "2b200cc558b30b0aa31c33e8ed8ca8a44ca56212be65e537c50efbda7494e1d8",
+  "phase2c/tables/events.csv": "a88872f12cd47dade72e1a588349e5b9d8f30f32b0159842ca96e3521c402c71",
+  "phase2c/tables/event_game_evidence.csv": "180d8f859a8c27b3d9642958d37f1454a736bf80f44e10141ebd717137949e54",
+  "phase2c/tables/row_outcomes.csv": "fb67c9951c2b6f09d792976f9cb21c258e6f9d0cff8db2407764035068da84e3",
+  "phase2c/tables/cohort_all_roster_candidates.csv": "759143f24aa9ba041eb0fce28f35de01327e0302f9a072f3fede9402ec8e4671",
+  "phase2c/tables/features_B.csv": "23e14b308b6dcb95fc8e542267187ecd644c2d1614a48a28e158769af95e169a"
+}

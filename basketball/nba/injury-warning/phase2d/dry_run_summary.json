@@ -1,0 +1,14 @@
+{
+  "raw_catalog_entries": 2238,
+  "deduplicated_catalog_entries": 1648,
+  "duplicate_requests_removed": 590,
+  "states": {
+    "cached_usable": 1520,
+    "genuinely_new_request": 125,
+    "previously_failed_or_invalid": 3
+  },
+  "cached_needing_scope_reparse": 106,
+  "global_receipts": 2857,
+  "prior_failure_with_valid_success": 0,
+  "policy": "Use earliest hash-verified success for canonical URL, retain all historical receipts and hashes. Failure never overrides legitimate later success. Previously denied/failed URLs with no valid success are not automatically retried. New data is C until registered B availability. No modification of historical batch source selection."
+}

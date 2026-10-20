@@ -1,0 +1,15 @@
+player_id,record1,record2,batch1,batch2,shared_games,same_episode,basis,severity1,severity2
+203095,nba2324_run_203095_0022301128,nba2324_run_203095_0022301128,phase2b,phase2c,1,True,Actual same-player overlapping nonappearance game evidence; common anchor and actual-team chronology inspected,negative,negative
+202711,nba2324_run_202711_0022300534,nba2324_run_202711_0022300534,phase2b,phase2c,2,True,Actual same-player overlapping nonappearance game evidence; common anchor and actual-team chronology inspected,negative,negative
+202711,nba2324_run_202711_0022300732,nba2324_run_202711_0022300732,phase2b,phase2c,2,True,Actual same-player overlapping nonappearance game evidence; common anchor and actual-team chronology inspected,negative,negative
+202711,nba2324_run_202711_0022300778,nba2324_run_202711_0022300778,phase2b,phase2c,1,True,Actual same-player overlapping nonappearance game evidence; common anchor and actual-team chronology inspected,negative,negative
+202692,nba2324_run_202692_0022300736,nba2324_run_202692_0022300736,phase2b,phase2c,1,True,Actual same-player overlapping nonappearance game evidence; common anchor and actual-team chronology inspected,negative,negative
+202692,nba2324_run_202692_0022301035,nba2324_run_202692_0022301035,phase2b,phase2c,3,True,Actual same-player overlapping nonappearance game evidence; common anchor and actual-team chronology inspected,negative,negative
+1630201,nba2324_run_1630201_0022300441,nba2324_run_1630201_0022300441,phase2b,phase2c,3,True,Actual same-player overlapping nonappearance game evidence; common anchor and actual-team chronology inspected,negative,negative
+1641787,nba2324_run_1641787_0022300933,nba2324_run_1641787_0022300933,phase2b,phase2c,2,True,Actual same-player overlapping nonappearance game evidence; common anchor and actual-team chronology inspected,negative,negative
+1641787,nba2324_run_1641787_0022301145,nba2324_run_1641787_0022301145,phase2b,phase2c,4,True,Actual same-player overlapping nonappearance game evidence; common anchor and actual-team chronology inspected,unknown,unknown
+1629656,nba2324_run_1629656_0022300776,nba2324_run_1629656_0022300685,phase2b,phase2c,3,True,Actual same-player overlapping nonappearance game evidence; common anchor and actual-team chronology inspected,negative,negative
+1629656,nba2324_run_1629656_0022300874,nba2324_run_1629656_0022300874,phase2b,phase2c,4,True,Actual same-player overlapping nonappearance game evidence; common anchor and actual-team chronology inspected,negative,negative
+1629656,nba2324_run_1629656_0022300962,nba2324_run_1629656_0022300962,phase2b,phase2c,17,True,Actual same-player overlapping nonappearance game evidence; common anchor and actual-team chronology inspected,unknown,unknown
+201959,nba2324_run_201959_0022300997,nba2324_run_201959_0022300997,phase2b,phase2c,9,True,Actual same-player overlapping nonappearance game evidence; common anchor and actual-team chronology inspected,negative,negative
+201565,nba2324_run_201565_0022300470,nba2324_run_201565_0022300861,phase2c,phase2c,0,False,Distinct hamstring and later back run separated by 7 actual NBA appearances; diagnosis alone not used,positive,positive

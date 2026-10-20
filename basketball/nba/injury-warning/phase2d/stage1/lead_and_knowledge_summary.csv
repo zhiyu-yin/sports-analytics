@@ -1,0 +1,13 @@
+extra_lag_days,dimension,value,rows,distinct_events,event_counts_overlap_when_decisions_differ
+0,opportunity_bin,>0-3d,13,11,True
+0,opportunity_bin,>3-7d,19,12,True
+0,opportunity_bin,>7-14d,25,9,True
+0,knowledge_group_B,no_signal_found_under_bounded_search,32,8,True
+0,knowledge_group_B,recent_symptoms_or_injury_evidence,25,9,True
+1,opportunity_bin,>0-3d,13,11,True
+1,opportunity_bin,>3-7d,13,10,True
+1,opportunity_bin,>7-14d,26,9,True
+1,knowledge_group_B,no_signal_found_under_bounded_search,29,7,True
+1,knowledge_group_B,prior_acquired_history_without_recent_evidence,1,1,True
+1,knowledge_group_B,recent_symptoms_or_injury_evidence,21,8,True
+1,knowledge_group_B,same_acute_event_disclosed,1,1,True

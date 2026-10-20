@@ -1,0 +1,12 @@
+{
+  "events": 19,
+  "event_players": 18,
+  "events_with_main_opportunities": 17,
+  "events_with_extra_day_opportunities": 16,
+  "positive_main_rows": 57,
+  "positive_extra_day_rows": 52,
+  "counts_reconciled": true,
+  "historical_outputs_modified": false,
+  "material_unresolved_defect": false,
+  "independent_human_adjudication": false
+}
