@@ -1,0 +1,1262 @@
+[
+  {
+    "player_id": "101108",
+    "team": "GSW",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301214;page_0022301198",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1626159",
+    "team": "TOR",
+    "start": "2024-02-10",
+    "end": "2024-02-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022300756;page_0022300782",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1626164",
+    "team": "PHX",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301203;page_0022301194",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1626172",
+    "team": "GSW",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301214;page_0022301198",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1626220",
+    "team": "PHX",
+    "start": "2024-02-10",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022300757;page_0022301194",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1626220",
+    "team": "BKN",
+    "start": "2023-12-04",
+    "end": "2024-02-08",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301209;page_0022300735",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1626246",
+    "team": "HOU",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301212;page_0022301199",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1627732",
+    "team": "BKN",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301209;page_0022301192",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1627751",
+    "team": "TOR",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301207;page_0022301189",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1627780",
+    "team": "GSW",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301214;page_0022301198",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1627783",
+    "team": "TOR",
+    "start": "2023-12-04",
+    "end": "2024-01-17",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301207;page_0022300574",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1627783",
+    "team": "IND",
+    "start": "2024-01-18",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022300583;page_0022301188",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1627814",
+    "team": "PHX",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301203;page_0022301194",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1627827",
+    "team": "BKN",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301209;page_0022301192",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1627832",
+    "team": "HOU",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301212;page_0022301199",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1627936",
+    "team": "CHI",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301211;page_0022301190",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1628366",
+    "team": "CHI",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301211;page_0022301190",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1628372",
+    "team": "BKN",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301209;page_0022301192",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1628385",
+    "team": "LAL",
+    "start": "2024-03-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022300884;page_0022301195",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1628385",
+    "team": "BKN",
+    "start": "2023-12-04",
+    "end": "2024-02-06",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301209;page_0022300720",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1628415",
+    "team": "HOU",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301212;page_0022301199",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1628449",
+    "team": "TOR",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301207;page_0022301189",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1628470",
+    "team": "CHI",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301211;page_0022301190",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1628960",
+    "team": "PHX",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301203;page_0022301194",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1628962",
+    "team": "PHX",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301203;page_0022301194",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1628966",
+    "team": "BKN",
+    "start": "2024-02-10",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022300750;page_0022301192",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1628966",
+    "team": "PHX",
+    "start": "2023-12-04",
+    "end": "2024-02-08",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301203;page_0022300739",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1628969",
+    "team": "BKN",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301209;page_0022301192",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1628971",
+    "team": "IND",
+    "start": "2023-12-04",
+    "end": "2024-01-15",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301202;page_0022300564",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1628971",
+    "team": "TOR",
+    "start": "2024-01-18",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022300580;page_0022301189",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1628975",
+    "team": "CHI",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301211;page_0022301190",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1628988",
+    "team": "HOU",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301212;page_0022301199",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1629002",
+    "team": "DET",
+    "start": "2024-03-20",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022300997;page_0022301197",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1629002",
+    "team": "PHX",
+    "start": "2023-12-04",
+    "end": "2024-02-08",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301203;page_0022300739",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1629006",
+    "team": "PHX",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301203;page_0022301194",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1629007",
+    "team": "TOR",
+    "start": "2023-12-11",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022300297;page_0022301189",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1629010",
+    "team": "GSW",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301214;page_0022301198",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1629018",
+    "team": "TOR",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301207;page_0022301189",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1629022",
+    "team": "BKN",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301209;page_0022301192",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1629111",
+    "team": "HOU",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301212;page_0022301199",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1629139",
+    "team": "PHX",
+    "start": "2023-12-04",
+    "end": "2024-02-07",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "1629139",
+    "team": "MEM",
+    "start": "2024-02-08",
+    "end": "2024-04-14",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "1629234",
+    "team": "PHX",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301203;page_0022301194",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1629626",
+    "team": "PHX",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301203;page_0022301194",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1629628",
+    "team": "NYK",
+    "start": "2023-12-04",
+    "end": "2023-12-29",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301201;page_0022300429",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1629628",
+    "team": "TOR",
+    "start": "2023-12-30",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022300440;page_0022301189",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1629632",
+    "team": "CHI",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301211;page_0022301190",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1629642",
+    "team": "PHX",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301203;page_0022301194",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1629651",
+    "team": "BKN",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301209;page_0022301192",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1629661",
+    "team": "BKN",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301209;page_0022301192",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1629667",
+    "team": "TOR",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301207;page_0022301189",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1629670",
+    "team": "IND",
+    "start": "2023-12-04",
+    "end": "2024-01-15",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301202;page_0022300564",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1629670",
+    "team": "TOR",
+    "start": "2024-01-18",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022300580;page_0022301189",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1629717",
+    "team": "BKN",
+    "start": "2023-12-04",
+    "end": "2024-01-05",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301209;page_0022300481",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1630172",
+    "team": "CHI",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301211;page_0022301190",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1630177",
+    "team": "CHA",
+    "start": "2023-12-04",
+    "end": "2023-12-15",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301211;page_0022300326",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1630177",
+    "team": "PHX",
+    "start": "2023-12-17",
+    "end": "2024-03-03",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022300347;page_0022300878",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1630184",
+    "team": "UTA",
+    "start": "2024-02-08",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022300739;page_0022301198",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1630184",
+    "team": "NOP",
+    "start": "2023-12-04",
+    "end": "2024-01-17",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301204;page_0022300575",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1630184",
+    "team": "TOR",
+    "start": "2024-01-18",
+    "end": "2024-02-07",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022300580;page_0022300726",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1630193",
+    "team": "NYK",
+    "start": "2023-12-04",
+    "end": "2023-12-29",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301201;page_0022300429",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1630193",
+    "team": "TOR",
+    "start": "2023-12-30",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022300440;page_0022301189",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1630207",
+    "team": "HOU",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301212;page_0022301199",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1630224",
+    "team": "HOU",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301212;page_0022301199",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1630228",
+    "team": "GSW",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301214;page_0022301198",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1630240",
+    "team": "PHX",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301203;page_0022301194",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1630245",
+    "team": "CHI",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301211;page_0022301190",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1630256",
+    "team": "HOU",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301212;page_0022301199",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1630534",
+    "team": "UTA",
+    "start": "2023-12-04",
+    "end": "2024-02-06",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301213;page_0022300724",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1630534",
+    "team": "TOR",
+    "start": "2024-02-09",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022300744;page_0022301189",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1630541",
+    "team": "GSW",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301214;page_0022301198",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1630549",
+    "team": "BKN",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301209;page_0022301192",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1630553",
+    "team": "BKN",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301209;page_0022301192",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1630560",
+    "team": "BKN",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301209;page_0022301192",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1630567",
+    "team": "TOR",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301207;page_0022301189",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1630570",
+    "team": "BKN",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301209;page_0022301192",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1630578",
+    "team": "HOU",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301212;page_0022301199",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1630586",
+    "team": "GSW",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301214;page_0022301198",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1630592",
+    "team": "BKN",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301209;page_0022301192",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1630611",
+    "team": "GSW",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301214;page_0022301198",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1630678",
+    "team": "CHI",
+    "start": "2023-12-04",
+    "end": "2024-04-01",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301211;page_0022301091",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1630692",
+    "team": "PHX",
+    "start": "2023-12-04",
+    "end": "2024-02-07",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "1630692",
+    "team": "MEM",
+    "start": "2024-02-13",
+    "end": "2024-04-14",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "c_goodwin_10day;c_gilyard_waiver",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "1630929",
+    "team": "CHI",
+    "start": "2023-12-16",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022300337;page_0022301190",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1631095",
+    "team": "HOU",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301212;page_0022301199",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1631106",
+    "team": "HOU",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301212;page_0022301199",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1631132",
+    "team": "TOR",
+    "start": "2023-12-04",
+    "end": "2024-01-17",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301207;page_0022300574",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1631207",
+    "team": "CHI",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301211;page_0022301190",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1631218",
+    "team": "GSW",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301214;page_0022301198",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1631223",
+    "team": "MEM",
+    "start": "2023-12-04",
+    "end": "2024-02-07",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "1631223",
+    "team": "PHX",
+    "start": "2024-02-08",
+    "end": "2024-04-14",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "1631241",
+    "team": "TOR",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301207;page_0022301189",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1631257",
+    "team": "HOU",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301212;page_0022301199",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1631311",
+    "team": "GSW",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301214;page_0022301198",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1631338",
+    "team": "TOR",
+    "start": "2024-02-10",
+    "end": "2024-02-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022300756;page_0022300782",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1631338",
+    "team": "TOR",
+    "start": "2024-03-05",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022300890;page_0022301189",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1631466",
+    "team": "HOU",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301212;page_0022301199",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1641708",
+    "team": "HOU",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301212;page_0022301199",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1641711",
+    "team": "TOR",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301207;page_0022301189",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1641715",
+    "team": "HOU",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301212;page_0022301199",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1641727",
+    "team": "BKN",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301209;page_0022301192",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1641730",
+    "team": "BKN",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301209;page_0022301192",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1641763",
+    "team": "CHI",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301211;page_0022301190",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1641764",
+    "team": "GSW",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301214;page_0022301198",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1641766",
+    "team": "CHI",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301211;page_0022301190",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1641806",
+    "team": "TOR",
+    "start": "2023-12-04",
+    "end": "2024-03-03",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301207;page_0022300875",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "1641931",
+    "team": "CHI",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301211;page_0022301190",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "201142",
+    "team": "PHX",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301203;page_0022301194",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "201145",
+    "team": "HOU",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301212;page_0022301199",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "201152",
+    "team": "TOR",
+    "start": "2023-12-04",
+    "end": "2024-02-07",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301207;page_0022300726",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "201152",
+    "team": "PHX",
+    "start": "2024-02-22",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022300796;page_0022301194",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "201152",
+    "team": "BKN",
+    "start": "2024-02-08",
+    "end": "2024-02-08",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022300735;page_0022300735",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "201569",
+    "team": "PHX",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301203;page_0022301194",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "201939",
+    "team": "GSW",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301214;page_0022301198",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "201942",
+    "team": "CHI",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301211;page_0022301190",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "202066",
+    "team": "TOR",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301207;page_0022301189",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "202691",
+    "team": "GSW",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301214;page_0022301198",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "202696",
+    "team": "CHI",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301211;page_0022301190",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "202709",
+    "team": "GSW",
+    "start": "2023-12-04",
+    "end": "2024-02-07",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301214;page_0022300727",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "202709",
+    "team": "IND",
+    "start": "2024-02-08",
+    "end": "2024-02-08",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022300733;page_0022300733",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "203078",
+    "team": "PHX",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301203;page_0022301194",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "203083",
+    "team": "CHI",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301211;page_0022301190",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "203110",
+    "team": "GSW",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301214;page_0022301198",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "203471",
+    "team": "BKN",
+    "start": "2024-02-08",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022300735;page_0022301192",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "203471",
+    "team": "TOR",
+    "start": "2023-12-04",
+    "end": "2024-02-07",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301207;page_0022300726",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "203482",
+    "team": "UTA",
+    "start": "2023-12-04",
+    "end": "2024-02-06",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301213;page_0022300724",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "203482",
+    "team": "TOR",
+    "start": "2024-02-09",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022300744;page_0022301189",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "203490",
+    "team": "TOR",
+    "start": "2023-12-04",
+    "end": "2024-02-07",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301207;page_0022300726",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "203490",
+    "team": "UTA",
+    "start": "2024-02-08",
+    "end": "2024-03-09",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022300739;page_0022300922",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "203493",
+    "team": "HOU",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301212;page_0022301199",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "203500",
+    "team": "MEM",
+    "start": "2023-12-04",
+    "end": "2024-01-31",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "203500",
+    "team": "HOU",
+    "start": "2024-02-01",
+    "end": "2024-04-14",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "203506",
+    "team": "HOU",
+    "start": "2023-12-04",
+    "end": "2024-01-31",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "p2_trade_tracker",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "203506",
+    "team": "MEM",
+    "start": "2024-02-01",
+    "end": "2024-02-07",
+    "date_basis": "reviewed dated trade/signing/waiver; observed endpoints and unverified short-contract gaps explicitly indicated",
+    "source_id": "observed_roster;p2_trade_tracker;waiver_boundary_unverified",
+    "historical_availability": "C membership adjudication; no retroactive B eligibility exclusion"
+  },
+  {
+    "player_id": "203897",
+    "team": "CHI",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301211;page_0022301190",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "203915",
+    "team": "LAL",
+    "start": "2024-02-13",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022300776;page_0022301195",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "203915",
+    "team": "BKN",
+    "start": "2023-12-04",
+    "end": "2024-02-06",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301209;page_0022300720",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "203952",
+    "team": "GSW",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301214;page_0022301198",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "203967",
+    "team": "GSW",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301214;page_0022301198",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  },
+  {
+    "player_id": "203994",
+    "team": "PHX",
+    "start": "2023-12-04",
+    "end": "2024-04-14",
+    "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+    "source_id": "page_0022301203;page_0022301194",
+    "historical_availability": "C observed membership bounds; no B prospective exclusion"
+  }
+]

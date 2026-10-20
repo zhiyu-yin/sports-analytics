@@ -1,0 +1,22 @@
+{
+  "phase2b/tables/events.csv": "f528dc91786f3fed69e464326e7f06b78fabc298bf5e3f5194d55a59030c66a7",
+  "phase2b/tables/row_outcomes.csv": "8f15e08001d1925eda21260b8080399c9a2e0254a9d295fa721ff3a9358d0e4e",
+  "phase2b/tables/cohort_all_roster_candidates.csv": "7956eaf49a8ef876b8ecc01ee3bea4dda3eea023eddd265cde98a41114c871e6",
+  "phase2b/tables/features_B.csv": "2b200cc558b30b0aa31c33e8ed8ca8a44ca56212be65e537c50efbda7494e1d8",
+  "phase2c/tables/events.csv": "a88872f12cd47dade72e1a588349e5b9d8f30f32b0159842ca96e3521c402c71",
+  "phase2c/tables/row_outcomes.csv": "fb67c9951c2b6f09d792976f9cb21c258e6f9d0cff8db2407764035068da84e3",
+  "phase2c/tables/cohort_all_roster_candidates.csv": "759143f24aa9ba041eb0fce28f35de01327e0302f9a072f3fede9402ec8e4671",
+  "phase2c/tables/features_B.csv": "23e14b308b6dcb95fc8e542267187ecd644c2d1614a48a28e158769af95e169a",
+  "phase2d/batch1/tables/events.csv": "9bcbc48403b39b8c296854cfbcdb47e614482b217e084f4a2ef536adf7b8bc89",
+  "phase2d/batch1/tables/row_outcomes.csv": "352d8ebe6f9fae4f7f4e6ed24de881f842885e7facb92a6a89fbe06213fb129d",
+  "phase2d/batch1/tables/cohort_all_roster_candidates.csv": "ecd8bd89aa614c2c82baf00ebdf2404d8230f2e09f57b27d40168f04a07059b8",
+  "phase2d/batch1/tables/features_B.csv": "142eb69acb08254837339e37005298b9823a84657c244d4cf443339fd339441f",
+  "phase2d/batch2/tables/events.csv": "5aafca82a37be17f2d9c083945240268e3c5f27575b1ba364c2ec823bd0828e5",
+  "phase2d/batch2/tables/row_outcomes.csv": "2ab72c6e64f50ee92323d53b8e51000b1b9b2e549e7b1d13c098c03a79c22a0d",
+  "phase2d/batch2/tables/cohort_all_roster_candidates.csv": "6753d3ec167cdf015f9570313ee23fc4288b285900074c8ba4e8c5eb8d270d3a",
+  "phase2d/batch2/tables/features_B.csv": "5b95304ad8f503c4fdfcc822a8659b05cc358be35ae1a30208cc757b592b923a",
+  "phase2d/batch3/tables/events.csv": "41462fc4867d80b74b84c62e917df3615d822d36520733446445db2a2dd94217",
+  "phase2d/batch3/tables/row_outcomes.csv": "f281da09d302372f4af16a32224ccacefe83f7f732cc1a311cfb1429e853c695",
+  "phase2d/batch3/tables/cohort_all_roster_candidates.csv": "4d115e9fded990c612477e2d66b972d8d948a80216f60d91fb380bd9161051cb",
+  "phase2d/batch3/tables/features_B.csv": "e2050f6531552777e7438f787fb4dbc6547595c0af9a9d2eb675dad5d931e198"
+}

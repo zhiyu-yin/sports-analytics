@@ -1,0 +1,15 @@
+scope,dimension,value,events,fraction
+phase2d_batch3,team,LAC,1,0.16666666666666666
+phase2d_batch3,team,LAL,3,0.5
+phase2d_batch3,team,MIA,1,0.16666666666666666
+phase2d_batch3,team,NOP,1,0.16666666666666666
+phase2d_batch3,collection_origin_team,LAC,1,0.16666666666666666
+phase2d_batch3,collection_origin_team,LAL,3,0.5
+phase2d_batch3,collection_origin_team,MIA,1,0.16666666666666666
+phase2d_batch3,collection_origin_team,NOP,1,0.16666666666666666
+phase2d_batch3,player,1626174,1,0.16666666666666666
+phase2d_batch3,player,1626196,1,0.16666666666666666
+phase2d_batch3,player,1629020,1,0.16666666666666666
+phase2d_batch3,player,1629629,1,0.16666666666666666
+phase2d_batch3,player,1630700,1,0.16666666666666666
+phase2d_batch3,player,201566,1,0.16666666666666666

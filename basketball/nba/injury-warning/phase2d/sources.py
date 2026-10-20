@@ -19,6 +19,10 @@ def historical_receipts():
             if isinstance(rr,dict):rr=list(rr.values())
             out.extend(dict(r,receipt_ledger=str(p.relative_to(ROOT)),receipt_line=i+1) for i,r in enumerate(rr))
     return out
+def choose_usable(receipts):
+    valid=sorted([r for r in receipts if r['usable']],key=lambda r:(r.get('retrieved_at',''),r['receipt_id']))
+    return valid[0] if valid else None
+
 def build_index():
     receipts=historical_receipts();hashed={};records=[];byurl=defaultdict(list);byid=defaultdict(list)
     for r in receipts:
@@ -33,7 +37,7 @@ def build_index():
         valid=sorted([r for r in rr if r['usable']],key=lambda r:(r.get('retrieved_at',''),r['receipt_id']))
         # Earliest hash-verified success is stable. A prior failed receipt does
         # not suppress a later legitimate obtained version. All receipts remain.
-        chosen=valid[0] if valid else None
+        chosen=choose_usable(rr)
         index.append(dict(canonical_url=url,source_ids=';'.join(sorted({r['source_id'] for r in rr})),receipt_ids=';'.join(r['receipt_id'] for r in rr),receipt_count=len(rr),versions=';'.join(sorted({r.get('sha256','') for r in valid})),selected_receipt_id=chosen['receipt_id'] if chosen else '',selected_source_id=chosen['source_id'] if chosen else '',raw_file=chosen['raw_file'] if chosen else '',sha256=chosen['sha256'] if chosen else '',state='cached_usable' if chosen else 'previously_failed_or_invalid',failed_before_valid_success=bool(chosen and any(not r['usable'] and r.get('retrieved_at','')<chosen.get('retrieved_at','') for r in rr))))
     (D/'global_receipts.json').write_text(json.dumps(records,indent=2)+'\n');write(D/'global_source_index.csv',index)
     return records,index

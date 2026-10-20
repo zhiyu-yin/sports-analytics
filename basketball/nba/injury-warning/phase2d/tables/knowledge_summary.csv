@@ -1,0 +1,11 @@
+extra_lag_days,group_B,positive_rows,events,event_counts_overlap_when_decisions_differ,A_timing_unresolved_rows
+0,same_acute_event_disclosed,0,0,True,0
+0,recent_symptoms_or_injury_evidence,63,20,True,63
+0,prior_acquired_history_without_recent_evidence,3,2,True,3
+0,no_signal_found_under_bounded_search,49,13,True,49
+0,unresolved_timing,0,0,True,0
+1,same_acute_event_disclosed,2,2,True,2
+1,recent_symptoms_or_injury_evidence,58,20,True,58
+1,prior_acquired_history_without_recent_evidence,5,3,True,5
+1,no_signal_found_under_bounded_search,44,11,True,44
+1,unresolved_timing,0,0,True,0

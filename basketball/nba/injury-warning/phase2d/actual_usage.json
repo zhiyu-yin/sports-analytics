@@ -1,0 +1,32 @@
+{
+  "actual_http_requests": 137,
+  "core_requests": 125,
+  "supplement_requests": 12,
+  "http_status": {
+    "obtained": 136,
+    "failed": 1
+  },
+  "response_bytes": 40949351,
+  "new_dated_queries": 804,
+  "new_dated_calls": 201,
+  "reused_dated_queries": 267,
+  "continuity_queries_with_saved_bodies": 18,
+  "additional_interactive_continuity_queries_without_saved_body": 4,
+  "final_distinct_negative_traces": 170,
+  "negative_source_reread_operations": 5,
+  "machine_activity_seconds_sum": 1060.8280000000002,
+  "activity_entries": 35,
+  "activity_durations_overlap_and_are_not_agent_labor": true,
+  "agent_activity_time": "Not exclusively instrumented; operation/source-review wall intervals and counts only",
+  "independent_human_reviews": 0,
+  "independent_human_seconds": 0,
+  "budgets": {
+    "core_new_http": 125,
+    "supplement_new_http": 100,
+    "new_dated_search_queries": 1071,
+    "continuity_membership_search_queries": 100,
+    "per_response_bytes": 12000000,
+    "paid_cost": 0
+  },
+  "duplicate_new_http_requests": 0
+}

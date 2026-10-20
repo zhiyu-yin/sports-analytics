@@ -1,0 +1,3 @@
+batch,extra_lag_days,games,team_games,players,candidate_appearances,included,excluded,eligibility_unknown,positive,negative,outcome_unknown,distinct_events,event_players,events_with_eligible_prediction,missing_workload,surveillance_gap,followup_gap,A_verified,B_feature_rows
+1,0,128,140,127,1536,1485,6,45,17,1327,141,5,5,4,20,85,72,0,1485
+1,1,128,140,127,1536,1484,16,36,17,1330,137,5,5,4,23,82,72,0,1484

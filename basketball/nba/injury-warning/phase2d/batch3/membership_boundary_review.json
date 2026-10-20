@@ -1,0 +1,2023 @@
+[
+  {
+    "player_id": "1626156",
+    "player_name": "D'Angelo Russell",
+    "teams": [
+      "LAL"
+    ],
+    "spells": [
+      {
+        "player_id": "1626156",
+        "team": "LAL",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301203;page_0022301195",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1626167",
+    "player_name": "Myles Turner",
+    "teams": [
+      "IND"
+    ],
+    "spells": [
+      {
+        "player_id": "1626167",
+        "team": "IND",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301202;page_0022301188",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1626174",
+    "player_name": "Christian Wood",
+    "teams": [
+      "LAL"
+    ],
+    "spells": [
+      {
+        "player_id": "1626174",
+        "team": "LAL",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301203;page_0022301195",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1626179",
+    "player_name": "Terry Rozier",
+    "teams": [
+      "CHA",
+      "MIA"
+    ],
+    "spells": [
+      {
+        "player_id": "1626179",
+        "team": "MIA",
+        "start": "2024-01-24",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022300621;page_0022301189",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      },
+      {
+        "player_id": "1626179",
+        "team": "CHA",
+        "start": "2023-12-04",
+        "end": "2024-01-22",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301211;page_0022300610",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1626181",
+    "player_name": "Norman Powell",
+    "teams": [
+      "LAC"
+    ],
+    "spells": [
+      {
+        "player_id": "1626181",
+        "team": "LAC",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301215;page_0022301199",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1626196",
+    "player_name": "Josh Richardson",
+    "teams": [
+      "MIA"
+    ],
+    "spells": [
+      {
+        "player_id": "1626196",
+        "team": "MIA",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301207;page_0022301189",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1626204",
+    "player_name": "Larry Nance Jr.",
+    "teams": [
+      "NOP"
+    ],
+    "spells": [
+      {
+        "player_id": "1626204",
+        "team": "NOP",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301204;page_0022301195",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1627741",
+    "player_name": "Buddy Hield",
+    "teams": [
+      "IND",
+      "PHI"
+    ],
+    "spells": [
+      {
+        "player_id": "1627741",
+        "team": "IND",
+        "start": "2023-12-04",
+        "end": "2024-02-07",
+        "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+        "source_id": "p2_trade_tracker",
+        "historical_availability": "C; no automatic B departure exclusion"
+      },
+      {
+        "player_id": "1627741",
+        "team": "PHI",
+        "start": "2024-02-08",
+        "end": "2024-04-14",
+        "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+        "source_id": "p2_trade_tracker",
+        "historical_availability": "C; no automatic B departure exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1627742",
+    "player_name": "Brandon Ingram",
+    "teams": [
+      "NOP"
+    ],
+    "spells": [
+      {
+        "player_id": "1627742",
+        "team": "NOP",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301204;page_0022301195",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1627752",
+    "player_name": "Taurean Prince",
+    "teams": [
+      "LAL"
+    ],
+    "spells": [
+      {
+        "player_id": "1627752",
+        "team": "LAL",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301203;page_0022301195",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1627783",
+    "player_name": "Pascal Siakam",
+    "teams": [
+      "IND",
+      "TOR"
+    ],
+    "spells": [
+      {
+        "player_id": "1627783",
+        "team": "TOR",
+        "start": "2023-12-04",
+        "end": "2024-01-17",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301207;page_0022300574",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      },
+      {
+        "player_id": "1627783",
+        "team": "IND",
+        "start": "2024-01-18",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022300583;page_0022301188",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1627826",
+    "player_name": "Ivica Zubac",
+    "teams": [
+      "LAC"
+    ],
+    "spells": [
+      {
+        "player_id": "1627826",
+        "team": "LAC",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301215;page_0022301199",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1628389",
+    "player_name": "Bam Adebayo",
+    "teams": [
+      "MIA"
+    ],
+    "spells": [
+      {
+        "player_id": "1628389",
+        "team": "MIA",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301207;page_0022301189",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1628418",
+    "player_name": "Thomas Bryant",
+    "teams": [
+      "MIA"
+    ],
+    "spells": [
+      {
+        "player_id": "1628418",
+        "team": "MIA",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301207;page_0022301189",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1628464",
+    "player_name": "Daniel Theis",
+    "teams": [
+      "LAC"
+    ],
+    "spells": [
+      {
+        "player_id": "1628464",
+        "team": "LAC",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301215;page_0022301199",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1628971",
+    "player_name": "Bruce Brown",
+    "teams": [
+      "IND",
+      "TOR"
+    ],
+    "spells": [
+      {
+        "player_id": "1628971",
+        "team": "IND",
+        "start": "2023-12-04",
+        "end": "2024-01-15",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301202;page_0022300564",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      },
+      {
+        "player_id": "1628971",
+        "team": "TOR",
+        "start": "2024-01-18",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022300580;page_0022301189",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1628997",
+    "player_name": "Caleb Martin",
+    "teams": [
+      "MIA"
+    ],
+    "spells": [
+      {
+        "player_id": "1628997",
+        "team": "MIA",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301207;page_0022301189",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1629020",
+    "player_name": "Jarred Vanderbilt",
+    "teams": [
+      "LAL"
+    ],
+    "spells": [
+      {
+        "player_id": "1629020",
+        "team": "LAL",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301203;page_0022301195",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1629060",
+    "player_name": "Rui Hachimura",
+    "teams": [
+      "LAL"
+    ],
+    "spells": [
+      {
+        "player_id": "1629060",
+        "team": "LAL",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301203;page_0022301195",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1629130",
+    "player_name": "Duncan Robinson",
+    "teams": [
+      "MIA"
+    ],
+    "spells": [
+      {
+        "player_id": "1629130",
+        "team": "MIA",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301207;page_0022301189",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1629216",
+    "player_name": "Gabe Vincent",
+    "teams": [
+      "LAL"
+    ],
+    "spells": [
+      {
+        "player_id": "1629216",
+        "team": "LAL",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301203;page_0022301195",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1629312",
+    "player_name": "Haywood Highsmith",
+    "teams": [
+      "MIA"
+    ],
+    "spells": [
+      {
+        "player_id": "1629312",
+        "team": "MIA",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301207;page_0022301189",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1629599",
+    "player_name": "Amir Coffey",
+    "teams": [
+      "LAC"
+    ],
+    "spells": [
+      {
+        "player_id": "1629599",
+        "team": "LAC",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301215;page_0022301199",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1629611",
+    "player_name": "Terance Mann",
+    "teams": [
+      "LAC"
+    ],
+    "spells": [
+      {
+        "player_id": "1629611",
+        "team": "LAC",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301215;page_0022301199",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1629614",
+    "player_name": "Andrew Nembhard",
+    "teams": [
+      "IND"
+    ],
+    "spells": [
+      {
+        "player_id": "1629614",
+        "team": "IND",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301202;page_0022301188",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1629627",
+    "player_name": "Zion Williamson",
+    "teams": [
+      "NOP"
+    ],
+    "spells": [
+      {
+        "player_id": "1629627",
+        "team": "NOP",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301204;page_0022301195",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1629629",
+    "player_name": "Cam Reddish",
+    "teams": [
+      "LAL"
+    ],
+    "spells": [
+      {
+        "player_id": "1629629",
+        "team": "LAL",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301203;page_0022301195",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1629637",
+    "player_name": "Jaxson Hayes",
+    "teams": [
+      "LAL"
+    ],
+    "spells": [
+      {
+        "player_id": "1629637",
+        "team": "LAL",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301203;page_0022301195",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1629639",
+    "player_name": "Tyler Herro",
+    "teams": [
+      "MIA"
+    ],
+    "spells": [
+      {
+        "player_id": "1629639",
+        "team": "MIA",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301207;page_0022301189",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1629670",
+    "player_name": "Jordan Nwora",
+    "teams": [
+      "IND",
+      "TOR"
+    ],
+    "spells": [
+      {
+        "player_id": "1629670",
+        "team": "IND",
+        "start": "2023-12-04",
+        "end": "2024-01-15",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301202;page_0022300564",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      },
+      {
+        "player_id": "1629670",
+        "team": "TOR",
+        "start": "2024-01-18",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022300580;page_0022301189",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1629685",
+    "player_name": "Dylan Windler",
+    "teams": [
+      "ATL",
+      "LAL",
+      "NYK"
+    ],
+    "spells": [
+      {
+        "player_id": "1629685",
+        "team": "NYK",
+        "start": "2023-12-04",
+        "end": "2023-12-11",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301201;page_0022300297",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      },
+      {
+        "player_id": "1629685",
+        "team": "LAL",
+        "start": "2024-01-07",
+        "end": "2024-02-29",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022300505;page_0022300856",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      },
+      {
+        "player_id": "1629685",
+        "team": "ATL",
+        "start": "2024-03-05",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022300889;page_0022301188",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1629875",
+    "player_name": "Xavier Moon",
+    "teams": [
+      "LAC"
+    ],
+    "spells": [
+      {
+        "player_id": "1629875",
+        "team": "LAC",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301215;page_0022301199",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1630167",
+    "player_name": "Obi Toppin",
+    "teams": [
+      "IND"
+    ],
+    "spells": [
+      {
+        "player_id": "1630167",
+        "team": "IND",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301202;page_0022301188",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1630169",
+    "player_name": "Tyrese Haliburton",
+    "teams": [
+      "IND"
+    ],
+    "spells": [
+      {
+        "player_id": "1630169",
+        "team": "IND",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301202;page_0022301188",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1630174",
+    "player_name": "Aaron Nesmith",
+    "teams": [
+      "IND"
+    ],
+    "spells": [
+      {
+        "player_id": "1630174",
+        "team": "IND",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301202;page_0022301188",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1630181",
+    "player_name": "R.J. Hampton",
+    "teams": [
+      "MIA",
+      "WAS"
+    ],
+    "spells": [
+      {
+        "player_id": "1630181",
+        "team": "MIA",
+        "start": "2023-12-04",
+        "end": "2024-02-07",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301207;page_0022300730",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      },
+      {
+        "player_id": "1630181",
+        "team": "WAS",
+        "start": "2024-03-04",
+        "end": "2024-03-12",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022300882;page_0022300940",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1630184",
+    "player_name": "Kira Lewis Jr.",
+    "teams": [
+      "NOP",
+      "TOR",
+      "UTA"
+    ],
+    "spells": [
+      {
+        "player_id": "1630184",
+        "team": "UTA",
+        "start": "2024-02-08",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022300739;page_0022301198",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      },
+      {
+        "player_id": "1630184",
+        "team": "NOP",
+        "start": "2023-12-04",
+        "end": "2024-01-17",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301204;page_0022300575",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      },
+      {
+        "player_id": "1630184",
+        "team": "TOR",
+        "start": "2024-01-18",
+        "end": "2024-02-07",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022300580;page_0022300726",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1630188",
+    "player_name": "Jalen Smith",
+    "teams": [
+      "IND"
+    ],
+    "spells": [
+      {
+        "player_id": "1630188",
+        "team": "IND",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301202;page_0022301188",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1630219",
+    "player_name": "Skylar Mays",
+    "teams": [
+      "LAL",
+      "POR"
+    ],
+    "spells": [
+      {
+        "player_id": "1630219",
+        "team": "LAL",
+        "start": "2024-01-09",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022300516;page_0022301195",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      },
+      {
+        "player_id": "1630219",
+        "team": "POR",
+        "start": "2023-12-04",
+        "end": "2024-01-05",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301214;page_0022300487",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1630230",
+    "player_name": "Naji Marshall",
+    "teams": [
+      "NOP"
+    ],
+    "spells": [
+      {
+        "player_id": "1630230",
+        "team": "NOP",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301204;page_0022301195",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1630346",
+    "player_name": "Matt Ryan",
+    "teams": [
+      "NOP"
+    ],
+    "spells": [
+      {
+        "player_id": "1630346",
+        "team": "NOP",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301204;page_0022301195",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1630526",
+    "player_name": "Jeremiah Robinson-Earl",
+    "teams": [
+      "NOP"
+    ],
+    "spells": [
+      {
+        "player_id": "1630526",
+        "team": "NOP",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301204;page_0022301195",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1630527",
+    "player_name": "Brandon Boston",
+    "teams": [
+      "LAC"
+    ],
+    "spells": [
+      {
+        "player_id": "1630527",
+        "team": "LAC",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301215;page_0022301199",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1630529",
+    "player_name": "Herbert Jones",
+    "teams": [
+      "NOP"
+    ],
+    "spells": [
+      {
+        "player_id": "1630529",
+        "team": "NOP",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301204;page_0022301195",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1630530",
+    "player_name": "Trey Murphy III",
+    "teams": [
+      "NOP"
+    ],
+    "spells": [
+      {
+        "player_id": "1630530",
+        "team": "NOP",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301204;page_0022301195",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1630538",
+    "player_name": "Bones Hyland",
+    "teams": [
+      "LAC"
+    ],
+    "spells": [
+      {
+        "player_id": "1630538",
+        "team": "LAC",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301215;page_0022301199",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1630543",
+    "player_name": "Isaiah Jackson",
+    "teams": [
+      "IND"
+    ],
+    "spells": [
+      {
+        "player_id": "1630543",
+        "team": "IND",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301202;page_0022301188",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1630559",
+    "player_name": "Austin Reaves",
+    "teams": [
+      "LAL"
+    ],
+    "spells": [
+      {
+        "player_id": "1630559",
+        "team": "LAL",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301203;page_0022301195",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1630563",
+    "player_name": "Joshua Primo",
+    "teams": [
+      "LAC"
+    ],
+    "spells": [
+      {
+        "player_id": "1630563",
+        "team": "LAC",
+        "start": "2023-12-04",
+        "end": "2024-04-12",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301215;page_0022301184",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1630604",
+    "player_name": "E.J. Liddell",
+    "teams": [
+      "NOP"
+    ],
+    "spells": [
+      {
+        "player_id": "1630604",
+        "team": "NOP",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301204;page_0022301195",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1630631",
+    "player_name": "Jose Alvarado",
+    "teams": [
+      "NOP"
+    ],
+    "spells": [
+      {
+        "player_id": "1630631",
+        "team": "NOP",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301204;page_0022301195",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1630658",
+    "player_name": "Colin Castleton",
+    "teams": [
+      "LAL"
+    ],
+    "spells": [
+      {
+        "player_id": "1630658",
+        "team": "LAL",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301203;page_0022301195",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1630696",
+    "player_name": "Dru Smith",
+    "teams": [
+      "MIA"
+    ],
+    "spells": [
+      {
+        "player_id": "1630696",
+        "team": "MIA",
+        "start": "2023-12-04",
+        "end": "2024-03-05",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301207;page_0022300888",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1630700",
+    "player_name": "Dyson Daniels",
+    "teams": [
+      "NOP"
+    ],
+    "spells": [
+      {
+        "player_id": "1630700",
+        "team": "NOP",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301204;page_0022301195",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1630792",
+    "player_name": "Malcolm Hill",
+    "teams": [
+      "NOP"
+    ],
+    "spells": [
+      {
+        "player_id": "1630792",
+        "team": "NOP",
+        "start": "2024-01-27",
+        "end": "2024-02-05",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022300648;page_0022300718",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      },
+      {
+        "player_id": "1630792",
+        "team": "NOP",
+        "start": "2024-02-22",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022300798;page_0022301195",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1631097",
+    "player_name": "Bennedict Mathurin",
+    "teams": [
+      "IND"
+    ],
+    "spells": [
+      {
+        "player_id": "1631097",
+        "team": "IND",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301202;page_0022301188",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1631107",
+    "player_name": "Nikola Jovi\u0107",
+    "teams": [
+      "MIA"
+    ],
+    "spells": [
+      {
+        "player_id": "1631107",
+        "team": "MIA",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301207;page_0022301189",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1631108",
+    "player_name": "Max Christie",
+    "teams": [
+      "LAL"
+    ],
+    "spells": [
+      {
+        "player_id": "1631108",
+        "team": "LAL",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301203;page_0022301195",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1631112",
+    "player_name": "Kendall Brown",
+    "teams": [
+      "IND"
+    ],
+    "spells": [
+      {
+        "player_id": "1631112",
+        "team": "IND",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301202;page_0022301188",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1631115",
+    "player_name": "Orlando Robinson",
+    "teams": [
+      "MIA"
+    ],
+    "spells": [
+      {
+        "player_id": "1631115",
+        "team": "MIA",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301207;page_0022301189",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1631131",
+    "player_name": "Oscar Tshiebwe",
+    "teams": [
+      "IND"
+    ],
+    "spells": [
+      {
+        "player_id": "1631131",
+        "team": "IND",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301202;page_0022301188",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1631170",
+    "player_name": "Jaime Jaquez Jr.",
+    "teams": [
+      "MIA"
+    ],
+    "spells": [
+      {
+        "player_id": "1631170",
+        "team": "MIA",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301207;page_0022301189",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1631209",
+    "player_name": "Isaiah Wong",
+    "teams": [
+      "IND"
+    ],
+    "spells": [
+      {
+        "player_id": "1631209",
+        "team": "IND",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301202;page_0022301188",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1631214",
+    "player_name": "Alondes Williams",
+    "teams": [
+      "MIA"
+    ],
+    "spells": [
+      {
+        "player_id": "1631214",
+        "team": "MIA",
+        "start": "2024-02-11",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022300759;page_0022301189",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1631217",
+    "player_name": "Moussa Diabate",
+    "teams": [
+      "LAC"
+    ],
+    "spells": [
+      {
+        "player_id": "1631217",
+        "team": "LAC",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301215;page_0022301199",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1631220",
+    "player_name": "Dereon Seabron",
+    "teams": [
+      "NOP"
+    ],
+    "spells": [
+      {
+        "player_id": "1631220",
+        "team": "NOP",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301204;page_0022301195",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1631288",
+    "player_name": "Jamal Cain",
+    "teams": [
+      "MIA"
+    ],
+    "spells": [
+      {
+        "player_id": "1631288",
+        "team": "MIA",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301207;page_0022301189",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1631306",
+    "player_name": "Cole Swider",
+    "teams": [
+      "MIA"
+    ],
+    "spells": [
+      {
+        "player_id": "1631306",
+        "team": "MIA",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301207;page_0022301189",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1641716",
+    "player_name": "Jarace Walker",
+    "teams": [
+      "IND"
+    ],
+    "spells": [
+      {
+        "player_id": "1641716",
+        "team": "IND",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301202;page_0022301188",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1641720",
+    "player_name": "Jalen Hood-Schifino",
+    "teams": [
+      "LAL"
+    ],
+    "spells": [
+      {
+        "player_id": "1641720",
+        "team": "LAL",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301203;page_0022301195",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1641721",
+    "player_name": "Maxwell Lewis",
+    "teams": [
+      "LAL"
+    ],
+    "spells": [
+      {
+        "player_id": "1641721",
+        "team": "LAL",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301203;page_0022301195",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1641722",
+    "player_name": "Jordan Hawkins",
+    "teams": [
+      "NOP"
+    ],
+    "spells": [
+      {
+        "player_id": "1641722",
+        "team": "NOP",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301204;page_0022301195",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1641738",
+    "player_name": "Kobe Brown",
+    "teams": [
+      "LAC"
+    ],
+    "spells": [
+      {
+        "player_id": "1641738",
+        "team": "LAC",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301215;page_0022301199",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1641757",
+    "player_name": "Jordan Miller",
+    "teams": [
+      "LAC"
+    ],
+    "spells": [
+      {
+        "player_id": "1641757",
+        "team": "LAC",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301215;page_0022301199",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1641767",
+    "player_name": "Ben Sheppard",
+    "teams": [
+      "IND"
+    ],
+    "spells": [
+      {
+        "player_id": "1641767",
+        "team": "IND",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301202;page_0022301188",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1641788",
+    "player_name": "Alex Fudge",
+    "teams": [
+      "DAL",
+      "LAL"
+    ],
+    "spells": [
+      {
+        "player_id": "1641788",
+        "team": "LAL",
+        "start": "2023-12-04",
+        "end": "2024-01-05",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301203;page_0022300491",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      },
+      {
+        "player_id": "1641788",
+        "team": "DAL",
+        "start": "2024-03-05",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022300892;page_0022301196",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "1641793",
+    "player_name": "D'Moi Hodge",
+    "teams": [
+      "LAL"
+    ],
+    "spells": [
+      {
+        "player_id": "1641793",
+        "team": "LAL",
+        "start": "2023-12-04",
+        "end": "2024-01-05",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301203;page_0022300491",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "200768",
+    "player_name": "Kyle Lowry",
+    "teams": [
+      "CHA",
+      "MIA",
+      "PHI"
+    ],
+    "spells": [
+      {
+        "player_id": "200768",
+        "team": "PHI",
+        "start": "2024-02-14",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022300779;page_0022301192",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      },
+      {
+        "player_id": "200768",
+        "team": "CHA",
+        "start": "2024-01-24",
+        "end": "2024-02-10",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022300619;page_0022300751",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      },
+      {
+        "player_id": "200768",
+        "team": "MIA",
+        "start": "2023-12-04",
+        "end": "2024-01-21",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301207;page_0022300601",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "200782",
+    "player_name": "P.J. Tucker",
+    "teams": [
+      "LAC"
+    ],
+    "spells": [
+      {
+        "player_id": "200782",
+        "team": "LAC",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301215;page_0022301199",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "201566",
+    "player_name": "Russell Westbrook",
+    "teams": [
+      "LAC"
+    ],
+    "spells": [
+      {
+        "player_id": "201566",
+        "team": "LAC",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301215;page_0022301199",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "201567",
+    "player_name": "Kevin Love",
+    "teams": [
+      "MIA"
+    ],
+    "spells": [
+      {
+        "player_id": "201567",
+        "team": "MIA",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301207;page_0022301189",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "201935",
+    "player_name": "James Harden",
+    "teams": [
+      "LAC"
+    ],
+    "spells": [
+      {
+        "player_id": "201935",
+        "team": "LAC",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301215;page_0022301199",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "201949",
+    "player_name": "James Johnson",
+    "teams": [
+      "IND"
+    ],
+    "spells": [
+      {
+        "player_id": "201949",
+        "team": "IND",
+        "start": "2023-12-15",
+        "end": "2024-01-15",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022300328;page_0022300564",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      },
+      {
+        "player_id": "201949",
+        "team": "IND",
+        "start": "2024-01-19",
+        "end": "2024-02-06",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022300590;page_0022300719",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      },
+      {
+        "player_id": "201949",
+        "team": "IND",
+        "start": "2024-02-10",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022300755;page_0022301188",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "202331",
+    "player_name": "Paul George",
+    "teams": [
+      "LAC"
+    ],
+    "spells": [
+      {
+        "player_id": "202331",
+        "team": "LAC",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301215;page_0022301199",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "202685",
+    "player_name": "Jonas Valan\u010di\u016bnas",
+    "teams": [
+      "NOP"
+    ],
+    "spells": [
+      {
+        "player_id": "202685",
+        "team": "NOP",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301204;page_0022301195",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "202695",
+    "player_name": "Kawhi Leonard",
+    "teams": [
+      "LAC"
+    ],
+    "spells": [
+      {
+        "player_id": "202695",
+        "team": "LAC",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301215;page_0022301199",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "202709",
+    "player_name": "Cory Joseph",
+    "teams": [
+      "GSW",
+      "IND"
+    ],
+    "spells": [
+      {
+        "player_id": "202709",
+        "team": "GSW",
+        "start": "2023-12-04",
+        "end": "2024-02-07",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301214;page_0022300727",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      },
+      {
+        "player_id": "202709",
+        "team": "IND",
+        "start": "2024-02-08",
+        "end": "2024-02-08",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022300733;page_0022300733",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "202710",
+    "player_name": "Jimmy Butler III",
+    "teams": [
+      "MIA"
+    ],
+    "spells": [
+      {
+        "player_id": "202710",
+        "team": "MIA",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301207;page_0022301189",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "203076",
+    "player_name": "Anthony Davis",
+    "teams": [
+      "LAL"
+    ],
+    "spells": [
+      {
+        "player_id": "203076",
+        "team": "LAL",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301203;page_0022301195",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "203468",
+    "player_name": "CJ McCollum",
+    "teams": [
+      "NOP"
+    ],
+    "spells": [
+      {
+        "player_id": "203468",
+        "team": "NOP",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301204;page_0022301195",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "203469",
+    "player_name": "Cody Zeller",
+    "teams": [
+      "NOP"
+    ],
+    "spells": [
+      {
+        "player_id": "203469",
+        "team": "NOP",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301204;page_0022301195",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "203486",
+    "player_name": "Mason Plumlee",
+    "teams": [
+      "LAC"
+    ],
+    "spells": [
+      {
+        "player_id": "203486",
+        "team": "LAC",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301215;page_0022301199",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "203915",
+    "player_name": "Spencer Dinwiddie",
+    "teams": [
+      "BKN",
+      "LAL"
+    ],
+    "spells": [
+      {
+        "player_id": "203915",
+        "team": "LAL",
+        "start": "2024-02-13",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022300776;page_0022301195",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      },
+      {
+        "player_id": "203915",
+        "team": "BKN",
+        "start": "2023-12-04",
+        "end": "2024-02-06",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301209;page_0022300720",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "203926",
+    "player_name": "Doug McDermott",
+    "teams": [
+      "IND",
+      "SAS"
+    ],
+    "spells": [
+      {
+        "player_id": "203926",
+        "team": "SAS",
+        "start": "2023-12-04",
+        "end": "2024-02-07",
+        "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+        "source_id": "p2_trade_tracker",
+        "historical_availability": "C; no automatic B departure exclusion"
+      },
+      {
+        "player_id": "203926",
+        "team": "IND",
+        "start": "2024-02-08",
+        "end": "2024-04-14",
+        "date_basis": "official trade day plus observed roster bounds; later signing/waiver gaps not assumed complete",
+        "source_id": "p2_trade_tracker",
+        "historical_availability": "C; no automatic B departure exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "204456",
+    "player_name": "T.J. McConnell",
+    "teams": [
+      "IND"
+    ],
+    "spells": [
+      {
+        "player_id": "204456",
+        "team": "IND",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301202;page_0022301188",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  },
+  {
+    "player_id": "2544",
+    "player_name": "LeBron James",
+    "teams": [
+      "LAL"
+    ],
+    "spells": [
+      {
+        "player_id": "2544",
+        "team": "LAL",
+        "start": "2023-12-04",
+        "end": "2024-04-14",
+        "date_basis": "continuous actual observed game-roster block; split at missing roster; unverified inter-block contract/intraday boundary; no extrapolation",
+        "source_id": "page_0022301203;page_0022301195",
+        "historical_availability": "C observed membership bounds; no B prospective exclusion"
+      }
+    ],
+    "boundary_review": "Explicit prior dated evidence reused where available; otherwise conservative raw-roster blocks. Short/waiver/contract gaps retained unverified, not zero workload."
+  }
+]

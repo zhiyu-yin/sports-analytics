@@ -1,0 +1,15 @@
+scope,extra_lag_days,included,positive,unknown,lower,upper,interpretation
+Boston_prior,0,244,0,0,0.0,0.0,worst-case positive-label identification range among included rows; not confidence interval or annual injury rate
+Boston_prior,1,234,0,0,0.0,0.0,worst-case positive-label identification range among included rows; not confidence interval or annual injury rate
+first_six_phase2b,0,1425,11,129,0.0077192982456140355,0.09824561403508772,worst-case positive-label identification range among included rows; not confidence interval or annual injury rate
+first_six_phase2b,1,1359,11,124,0.008094186902133923,0.09933774834437085,worst-case positive-label identification range among included rows; not confidence interval or annual injury rate
+second_six_phase2c,0,1398,46,64,0.032904148783977114,0.07868383404864092,worst-case positive-label identification range among included rows; not confidence interval or annual injury rate
+second_six_phase2c,1,1341,41,65,0.030574198359433258,0.0790454884414616,worst-case positive-label identification range among included rows; not confidence interval or annual injury rate
+phase2d_batch1,0,1485,17,141,0.011447811447811448,0.1063973063973064,worst-case positive-label identification range among included rows; not confidence interval or annual injury rate
+phase2d_batch1,1,1484,17,137,0.011455525606469003,0.10377358490566038,worst-case positive-label identification range among included rows; not confidence interval or annual injury rate
+phase2d_batch2,0,1380,16,73,0.011594202898550725,0.0644927536231884,worst-case positive-label identification range among included rows; not confidence interval or annual injury rate
+phase2d_batch2,1,1319,15,74,0.011372251705837756,0.06747536012130402,worst-case positive-label identification range among included rows; not confidence interval or annual injury rate
+phase2d_batch3,0,1176,25,26,0.021258503401360544,0.04336734693877551,worst-case positive-label identification range among included rows; not confidence interval or annual injury rate
+phase2d_batch3,1,1125,25,24,0.022222222222222223,0.043555555555555556,worst-case positive-label identification range among included rows; not confidence interval or annual injury rate
+combined_30_team_development,0,7108,115,433,0.016178953292065278,0.07709622960045019,worst-case positive-label identification range among included rows; not confidence interval or annual injury rate
+combined_30_team_development,1,6862,109,424,0.0158845817545905,0.07767414747886914,worst-case positive-label identification range among included rows; not confidence interval or annual injury rate

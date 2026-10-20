@@ -1,0 +1,11 @@
+extra_lag_days,group_B,positive_rows,events,A_original_publication_unresolved
+0,same_acute_event_disclosed,0,0,0
+0,recent_symptoms_or_injury_evidence,8,4,8
+0,prior_acquired_history_without_recent_evidence,0,0,0
+0,no_signal_found_under_bounded_search,8,2,8
+0,unresolved_timing,0,0,0
+1,same_acute_event_disclosed,1,1,1
+1,recent_symptoms_or_injury_evidence,7,4,7
+1,prior_acquired_history_without_recent_evidence,0,0,0
+1,no_signal_found_under_bounded_search,7,2,7
+1,unresolved_timing,0,0,0

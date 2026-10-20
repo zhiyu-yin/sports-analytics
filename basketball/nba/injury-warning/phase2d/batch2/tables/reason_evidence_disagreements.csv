@@ -1,0 +1,2 @@
+player_id,game_id,game_date,team,report_reason,report_category,report_source,final_reason,final_category,final_reason_source,review,evidence_role
+1628470,0022300823,2024-02-25,CHI,Injury/Illness - Right Knee; Sprain,injury,report_2024-02-25_11AM,"NWT - Not With Team - NWT, Right Knee Sprain",unknown,book_0022300823,status-to-final reason disagreement; not silently resolved or used to infer health,C_quality_review_only

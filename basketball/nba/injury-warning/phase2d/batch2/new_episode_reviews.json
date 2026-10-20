@@ -1,0 +1,70 @@
+{
+  "1627751_2024-01-09": {
+    "common_episode_supported": true,
+    "supported_through": "2024-01-30",
+    "source_ids": "page_0022300516;page_0022300609;page_0022300672;book_0022300692",
+    "locator": "Jan9 story.content[14]; Jan22 story.content[17]; Jan30 story; Feb2 actual return",
+    "note": "Serial ankle-injury narrative and clearance expectation link11 medical misses; actual return closes the run.",
+    "acute_event_game_ids": []
+  },
+  "1630549_2024-01-11": {
+    "common_episode_supported": true,
+    "supported_through": "2024-02-10",
+    "source_ids": "page_0022300771;book_0022300750",
+    "locator": "Feb13 story.content[10] explicit15-game knee return; all15 individual reasons",
+    "note": "Explicit15-game knee-return narrative and individual games establish common episode; unrelated later wrist absence remains separate.",
+    "acute_event_game_ids": []
+  },
+  "1630172_2024-01-28": {
+    "common_episode_supported": true,
+    "supported_through": "2024-04-14",
+    "source_ids": "d_patrick_surgery;page_0022300672;page_0022300781",
+    "locator": "Feb23 release: progression on subsequent imaging; Jan30 story.content[16]; Feb14 story.content[10]",
+    "note": "Subsequent imaging links the sustained foot condition to surgery.36 actual medical misses; January ankle run was closed by appearances.",
+    "acute_event_game_ids": []
+  },
+  "1631106_2024-01-03": {
+    "common_episode_supported": true,
+    "supported_through": "2024-04-14",
+    "source_ids": "d_eason_coach;page_0022300469",
+    "locator": "Mar3 coach explanation: pre-existing leg condition aggravated by contact, subsequent surgery; Jan3 story.content[11]",
+    "note": "Coach treatment chronology supports the ongoing lower-leg episode across51 medical misses; Jan3 absence anchor is not biological onset.",
+    "acute_event_game_ids": []
+  },
+  "101108_2024-01-07": {
+    "common_episode_supported": true,
+    "supported_through": "2024-02-25",
+    "source_ids": "page_0022300490;page_0022300834;page_0022300673",
+    "locator": "Jan5 acute fracture paragraphs; Feb27 story.content[12] explicit21-game return; Jan30 story.content[15]",
+    "note": "Fracture, surgery, staged rehabilitation and explicit21-game return identify the same episode.",
+    "acute_event_game_ids": [
+      "0022300490"
+    ]
+  },
+  "1627780_2024-01-04": {
+    "common_episode_supported": true,
+    "supported_through": "2024-02-08",
+    "source_ids": "page_0022300463;page_0022300757;page_0022300478",
+    "locator": "Jan2 acute hamstring paragraph; Feb10 story.content[19] explicit16-game return; Jan4 story.content[20]",
+    "note": "Acute hamstring account and explicit16-game return identify this episode; prior calf and later illness runs remain separate.",
+    "acute_event_game_ids": [
+      "0022300463"
+    ]
+  },
+  "1627732_2024-02-27": {
+    "common_episode_supported": true,
+    "supported_through": "2024-04-14",
+    "source_ids": "d_simmons_surgery;page_0022300879",
+    "locator": "Mar14 surgery and season-end treatment account; Mar4 story.content[13]",
+    "note": "Continued back nerve treatment/surgery supports the sustained25-game episode; intervening appearances separate the earlier back absence.",
+    "acute_event_game_ids": []
+  },
+  "1630567_2024-03-03": {
+    "common_episode_supported": true,
+    "supported_through": "2024-04-14",
+    "source_ids": "page_0022300890;page_0022300905",
+    "locator": "Mar5 story.content[11] March1 fracture and surgery; Mar7 story.content[13]",
+    "note": "Acute hand fracture, treatment and continuous individual medical sequence support22 misses. No pre-index acute evidence fabricated.",
+    "acute_event_game_ids": []
+  }
+}

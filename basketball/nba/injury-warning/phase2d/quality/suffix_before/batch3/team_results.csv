@@ -1,0 +1,11 @@
+scope,team,extra_lag_days,games,roster_players,candidate_appearances,included,excluded,eligibility_unknown,positive,negative,outcome_unknown,qualifying_events_broad_onset_period,affected_event_players,events_with_eligible_prediction,missing_history,A_verified_rows,B_feature_rows,acute_known_positive_rows,symptom_known_positive_rows,no_signal_positive_rows,A_positive_knowledge_unresolved,transfer_surveillance_gaps
+sampled_six,IND,0,25,21,277,274,3,0,0,258,16,0,0,0,4,0,274,0,0,0,0,13
+sampled_six,LAC,0,22,18,230,199,1,30,0,198,1,1,1,0,0,0,199,0,0,0,0,0
+sampled_six,LAL,0,22,20,231,228,3,0,13,213,2,3,3,3,7,0,228,0,12,1,13,0
+sampled_six,MIA,0,23,19,237,232,5,0,5,220,7,1,1,1,10,0,232,0,5,0,5,5
+sampled_six,NOP,0,22,18,246,243,3,0,7,236,0,1,1,1,0,0,243,0,0,7,7,0
+sampled_six,IND,1,25,21,277,264,4,9,0,249,15,0,0,0,3,0,264,0,0,0,0,13
+sampled_six,LAC,1,22,18,230,190,2,38,0,189,1,1,1,0,0,0,190,0,0,0,0,0
+sampled_six,LAL,1,22,20,231,215,5,11,12,202,1,3,3,3,5,0,215,0,11,1,12,0
+sampled_six,MIA,1,23,19,237,222,6,9,6,209,7,1,1,1,10,0,222,0,6,0,6,5
+sampled_six,NOP,1,22,18,246,234,3,9,7,227,0,1,1,1,0,0,234,0,0,7,7,0

@@ -1,0 +1,1802 @@
+[
+  {
+    "player_id": "1630193",
+    "source_game_id": "0022300297",
+    "event_game_id": "0022300297",
+    "paragraph": 6,
+    "kind": "history",
+    "locator": "story.content[6]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "203500",
+    "source_game_id": "0022300582",
+    "event_game_id": "0022300582",
+    "paragraph": 12,
+    "kind": "history",
+    "locator": "story.content[12]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "203500",
+    "source_game_id": "0022300621",
+    "event_game_id": "0022300621",
+    "paragraph": 7,
+    "kind": "history",
+    "locator": "story.content[7]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1628384",
+    "source_game_id": "0022300671",
+    "event_game_id": "0022300671",
+    "paragraph": 11,
+    "kind": "history",
+    "locator": "story.content[11]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1628384",
+    "source_game_id": "0022300685",
+    "event_game_id": "0022300685",
+    "paragraph": 11,
+    "kind": "history",
+    "locator": "story.content[11]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1628384",
+    "source_game_id": "0022300685",
+    "event_game_id": "0022300685",
+    "paragraph": 12,
+    "kind": "history",
+    "locator": "story.content[12]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "1628384",
+    "source_game_id": "0022300722",
+    "event_game_id": "0022300722",
+    "paragraph": 7,
+    "kind": "history",
+    "locator": "story.content[7]",
+    "review_note": "Explicit source-attributed medical history/symptom or new indexed-game injury; other named players not assumed injured. Same-agent original paragraph review."
+  },
+  {
+    "player_id": "203078",
+    "source_game_id": "0022301203",
+    "event_game_id": "0022301203",
+    "paragraph": 17,
+    "kind": "history",
+    "locator": "story.content[17]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "203897",
+    "source_game_id": "0022301211",
+    "event_game_id": "0022301211",
+    "paragraph": 7,
+    "kind": "history",
+    "locator": "story.content[7]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "203952",
+    "source_game_id": "0022301214",
+    "event_game_id": "0022301214",
+    "paragraph": 8,
+    "kind": "history",
+    "locator": "story.content[8]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "101108",
+    "source_game_id": "0022301214",
+    "event_game_id": "0022301214",
+    "paragraph": 8,
+    "kind": "history",
+    "locator": "story.content[8]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "201142",
+    "source_game_id": "0022301228",
+    "event_game_id": "0022301228",
+    "paragraph": 6,
+    "kind": "history",
+    "locator": "story.content[6]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "203078",
+    "source_game_id": "0022301228",
+    "event_game_id": "0022301228",
+    "paragraph": 6,
+    "kind": "history",
+    "locator": "story.content[6]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1641708",
+    "source_game_id": "0022300298",
+    "event_game_id": "0022300298",
+    "paragraph": 19,
+    "kind": "history",
+    "locator": "story.content[19]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1627936",
+    "source_game_id": "0022300307",
+    "event_game_id": "0022300307",
+    "paragraph": 19,
+    "kind": "history",
+    "locator": "story.content[19]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "203897",
+    "source_game_id": "0022300307",
+    "event_game_id": "0022300307",
+    "paragraph": 19,
+    "kind": "history",
+    "locator": "story.content[19]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "203078",
+    "source_game_id": "0022300308",
+    "event_game_id": "0022300308",
+    "paragraph": 2,
+    "kind": "history",
+    "locator": "story.content[2]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "203078",
+    "source_game_id": "0022300308",
+    "event_game_id": "0022300308",
+    "paragraph": 17,
+    "kind": "history",
+    "locator": "story.content[17]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "201142",
+    "source_game_id": "0022300308",
+    "event_game_id": "0022300308",
+    "paragraph": 18,
+    "kind": "history",
+    "locator": "story.content[18]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "203078",
+    "source_game_id": "0022300317",
+    "event_game_id": "0022300317",
+    "paragraph": 9,
+    "kind": "history",
+    "locator": "story.content[9]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1627936",
+    "source_game_id": "0022300320",
+    "event_game_id": "0022300320",
+    "paragraph": 13,
+    "kind": "acute",
+    "locator": "story.content[13]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1627936",
+    "source_game_id": "0022300320",
+    "event_game_id": "0022300320",
+    "paragraph": 14,
+    "kind": "history",
+    "locator": "story.content[14]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1627936",
+    "source_game_id": "0022300320",
+    "event_game_id": "0022300320",
+    "paragraph": 14,
+    "kind": "acute",
+    "locator": "story.content[14]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1628372",
+    "source_game_id": "0022300322",
+    "event_game_id": "0022300322",
+    "paragraph": 5,
+    "kind": "history",
+    "locator": "story.content[5]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "203078",
+    "source_game_id": "0022300333",
+    "event_game_id": "0022300333",
+    "paragraph": 6,
+    "kind": "acute",
+    "locator": "story.content[6]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "203078",
+    "source_game_id": "0022300333",
+    "event_game_id": "0022300333",
+    "paragraph": 13,
+    "kind": "acute",
+    "locator": "story.content[13]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "203078",
+    "source_game_id": "0022300333",
+    "event_game_id": "0022300333",
+    "paragraph": 15,
+    "kind": "history",
+    "locator": "story.content[15]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1627936",
+    "source_game_id": "0022300337",
+    "event_game_id": "0022300337",
+    "paragraph": 11,
+    "kind": "history",
+    "locator": "story.content[11]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1628470",
+    "source_game_id": "0022300337",
+    "event_game_id": "0022300337",
+    "paragraph": 11,
+    "kind": "acute",
+    "locator": "story.content[11]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1627780",
+    "source_game_id": "0022300339",
+    "event_game_id": "0022300339",
+    "paragraph": 0,
+    "kind": "history",
+    "locator": "story.content[0]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "203078",
+    "source_game_id": "0022300347",
+    "event_game_id": "0022300347",
+    "paragraph": 15,
+    "kind": "history",
+    "locator": "story.content[15]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "201569",
+    "source_game_id": "0022300347",
+    "event_game_id": "0022300347",
+    "paragraph": 16,
+    "kind": "history",
+    "locator": "story.content[16]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "203897",
+    "source_game_id": "0022300351",
+    "event_game_id": "0022300351",
+    "paragraph": 3,
+    "kind": "history",
+    "locator": "story.content[3]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1641764",
+    "source_game_id": "0022300362",
+    "event_game_id": "0022300362",
+    "paragraph": 15,
+    "kind": "acute",
+    "locator": "story.content[15]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "101108",
+    "source_game_id": "0022300362",
+    "event_game_id": "0022300362",
+    "paragraph": 16,
+    "kind": "history",
+    "locator": "story.content[16]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1628372",
+    "source_game_id": "0022300368",
+    "event_game_id": "0022300368",
+    "paragraph": 16,
+    "kind": "history",
+    "locator": "story.content[16]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1629022",
+    "source_game_id": "0022300368",
+    "event_game_id": "0022300368",
+    "paragraph": 16,
+    "kind": "history",
+    "locator": "story.content[16]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1628470",
+    "source_game_id": "0022300370",
+    "event_game_id": "0022300370",
+    "paragraph": 3,
+    "kind": "history",
+    "locator": "story.content[3]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "203897",
+    "source_game_id": "0022300370",
+    "event_game_id": "0022300370",
+    "paragraph": 3,
+    "kind": "history",
+    "locator": "story.content[3]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "203897",
+    "source_game_id": "0022300370",
+    "event_game_id": "0022300370",
+    "paragraph": 4,
+    "kind": "history",
+    "locator": "story.content[4]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "203897",
+    "source_game_id": "0022300376",
+    "event_game_id": "0022300376",
+    "paragraph": 8,
+    "kind": "history",
+    "locator": "story.content[8]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "203897",
+    "source_game_id": "0022300376",
+    "event_game_id": "0022300376",
+    "paragraph": 14,
+    "kind": "history",
+    "locator": "story.content[14]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1628470",
+    "source_game_id": "0022300376",
+    "event_game_id": "0022300376",
+    "paragraph": 15,
+    "kind": "history",
+    "locator": "story.content[15]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1629022",
+    "source_game_id": "0022300383",
+    "event_game_id": "0022300383",
+    "paragraph": 11,
+    "kind": "history",
+    "locator": "story.content[11]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1627732",
+    "source_game_id": "0022300383",
+    "event_game_id": "0022300383",
+    "paragraph": 11,
+    "kind": "history",
+    "locator": "story.content[11]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1631106",
+    "source_game_id": "0022300385",
+    "event_game_id": "0022300385",
+    "paragraph": 12,
+    "kind": "history",
+    "locator": "story.content[12]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1641764",
+    "source_game_id": "0022300386",
+    "event_game_id": "0022300386",
+    "paragraph": 12,
+    "kind": "history",
+    "locator": "story.content[12]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "203952",
+    "source_game_id": "0022300386",
+    "event_game_id": "0022300386",
+    "paragraph": 13,
+    "kind": "history",
+    "locator": "story.content[13]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "203078",
+    "source_game_id": "0022300387",
+    "event_game_id": "0022300387",
+    "paragraph": 6,
+    "kind": "history",
+    "locator": "story.content[6]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1629006",
+    "source_game_id": "0022300387",
+    "event_game_id": "0022300387",
+    "paragraph": 6,
+    "kind": "history",
+    "locator": "story.content[6]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "203897",
+    "source_game_id": "0022300396",
+    "event_game_id": "0022300396",
+    "paragraph": 1,
+    "kind": "history",
+    "locator": "story.content[1]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "203952",
+    "source_game_id": "0022300402",
+    "event_game_id": "0022300402",
+    "paragraph": 4,
+    "kind": "history",
+    "locator": "story.content[4]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "202696",
+    "source_game_id": "0022300408",
+    "event_game_id": "0022300408",
+    "paragraph": 3,
+    "kind": "history",
+    "locator": "story.content[3]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "203897",
+    "source_game_id": "0022300408",
+    "event_game_id": "0022300408",
+    "paragraph": 3,
+    "kind": "history",
+    "locator": "story.content[3]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "202696",
+    "source_game_id": "0022300408",
+    "event_game_id": "0022300408",
+    "paragraph": 15,
+    "kind": "history",
+    "locator": "story.content[15]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "202696",
+    "source_game_id": "0022300408",
+    "event_game_id": "0022300408",
+    "paragraph": 16,
+    "kind": "history",
+    "locator": "story.content[16]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1628415",
+    "source_game_id": "0022300409",
+    "event_game_id": "0022300409",
+    "paragraph": 11,
+    "kind": "acute",
+    "locator": "story.content[11]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1628415",
+    "source_game_id": "0022300418",
+    "event_game_id": "0022300418",
+    "paragraph": 9,
+    "kind": "history",
+    "locator": "story.content[9]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1631095",
+    "source_game_id": "0022300418",
+    "event_game_id": "0022300418",
+    "paragraph": 9,
+    "kind": "acute",
+    "locator": "story.content[9]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "203897",
+    "source_game_id": "0022300422",
+    "event_game_id": "0022300422",
+    "paragraph": 10,
+    "kind": "history",
+    "locator": "story.content[10]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1628415",
+    "source_game_id": "0022300434",
+    "event_game_id": "0022300434",
+    "paragraph": 13,
+    "kind": "history",
+    "locator": "story.content[13]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1631095",
+    "source_game_id": "0022300434",
+    "event_game_id": "0022300434",
+    "paragraph": 13,
+    "kind": "history",
+    "locator": "story.content[13]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "203078",
+    "source_game_id": "0022300436",
+    "event_game_id": "0022300436",
+    "paragraph": 3,
+    "kind": "history",
+    "locator": "story.content[3]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "203078",
+    "source_game_id": "0022300436",
+    "event_game_id": "0022300436",
+    "paragraph": 8,
+    "kind": "history",
+    "locator": "story.content[8]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "203078",
+    "source_game_id": "0022300436",
+    "event_game_id": "0022300436",
+    "paragraph": 12,
+    "kind": "history",
+    "locator": "story.content[12]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1629006",
+    "source_game_id": "0022300436",
+    "event_game_id": "0022300436",
+    "paragraph": 13,
+    "kind": "history",
+    "locator": "story.content[13]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "202696",
+    "source_game_id": "0022300442",
+    "event_game_id": "0022300442",
+    "paragraph": 6,
+    "kind": "history",
+    "locator": "story.content[6]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "203897",
+    "source_game_id": "0022300442",
+    "event_game_id": "0022300442",
+    "paragraph": 12,
+    "kind": "history",
+    "locator": "story.content[12]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1627780",
+    "source_game_id": "0022300444",
+    "event_game_id": "0022300444",
+    "paragraph": 14,
+    "kind": "history",
+    "locator": "story.content[14]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "203078",
+    "source_game_id": "0022300450",
+    "event_game_id": "0022300450",
+    "paragraph": 4,
+    "kind": "history",
+    "locator": "story.content[4]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1629006",
+    "source_game_id": "0022300450",
+    "event_game_id": "0022300450",
+    "paragraph": 15,
+    "kind": "history",
+    "locator": "story.content[15]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "201142",
+    "source_game_id": "0022300456",
+    "event_game_id": "0022300456",
+    "paragraph": 1,
+    "kind": "history",
+    "locator": "story.content[1]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "203078",
+    "source_game_id": "0022300456",
+    "event_game_id": "0022300456",
+    "paragraph": 2,
+    "kind": "history",
+    "locator": "story.content[2]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "201142",
+    "source_game_id": "0022300456",
+    "event_game_id": "0022300456",
+    "paragraph": 4,
+    "kind": "history",
+    "locator": "story.content[4]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "203897",
+    "source_game_id": "0022300459",
+    "event_game_id": "0022300459",
+    "paragraph": 5,
+    "kind": "history",
+    "locator": "story.content[5]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1630172",
+    "source_game_id": "0022300459",
+    "event_game_id": "0022300459",
+    "paragraph": 7,
+    "kind": "acute",
+    "locator": "story.content[7]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1627780",
+    "source_game_id": "0022300463",
+    "event_game_id": "0022300463",
+    "paragraph": 13,
+    "kind": "acute",
+    "locator": "story.content[13]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "202696",
+    "source_game_id": "0022300468",
+    "event_game_id": "0022300468",
+    "paragraph": 4,
+    "kind": "history",
+    "locator": "story.content[4]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "203897",
+    "source_game_id": "0022300468",
+    "event_game_id": "0022300468",
+    "paragraph": 4,
+    "kind": "history",
+    "locator": "story.content[4]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1631106",
+    "source_game_id": "0022300469",
+    "event_game_id": "0022300469",
+    "paragraph": 11,
+    "kind": "history",
+    "locator": "story.content[11]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1628415",
+    "source_game_id": "0022300469",
+    "event_game_id": "0022300469",
+    "paragraph": 11,
+    "kind": "history",
+    "locator": "story.content[11]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "201142",
+    "source_game_id": "0022300473",
+    "event_game_id": "0022300473",
+    "paragraph": 10,
+    "kind": "history",
+    "locator": "story.content[10]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1627780",
+    "source_game_id": "0022300478",
+    "event_game_id": "0022300478",
+    "paragraph": 20,
+    "kind": "history",
+    "locator": "story.content[20]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1629022",
+    "source_game_id": "0022300481",
+    "event_game_id": "0022300481",
+    "paragraph": 15,
+    "kind": "history",
+    "locator": "story.content[15]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1629661",
+    "source_game_id": "0022300481",
+    "event_game_id": "0022300481",
+    "paragraph": 15,
+    "kind": "acute",
+    "locator": "story.content[15]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "203897",
+    "source_game_id": "0022300484",
+    "event_game_id": "0022300484",
+    "paragraph": 3,
+    "kind": "history",
+    "locator": "story.content[3]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "202696",
+    "source_game_id": "0022300484",
+    "event_game_id": "0022300484",
+    "paragraph": 3,
+    "kind": "history",
+    "locator": "story.content[3]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1627936",
+    "source_game_id": "0022300484",
+    "event_game_id": "0022300484",
+    "paragraph": 7,
+    "kind": "history",
+    "locator": "story.content[7]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1630172",
+    "source_game_id": "0022300484",
+    "event_game_id": "0022300484",
+    "paragraph": 7,
+    "kind": "history",
+    "locator": "story.content[7]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1628415",
+    "source_game_id": "0022300485",
+    "event_game_id": "0022300485",
+    "paragraph": 9,
+    "kind": "history",
+    "locator": "story.content[9]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "201142",
+    "source_game_id": "0022300489",
+    "event_game_id": "0022300489",
+    "paragraph": 11,
+    "kind": "history",
+    "locator": "story.content[11]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "101108",
+    "source_game_id": "0022300490",
+    "event_game_id": "0022300490",
+    "paragraph": 1,
+    "kind": "acute",
+    "locator": "story.content[1]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "101108",
+    "source_game_id": "0022300490",
+    "event_game_id": "0022300490",
+    "paragraph": 4,
+    "kind": "acute",
+    "locator": "story.content[4]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "101108",
+    "source_game_id": "0022300490",
+    "event_game_id": "0022300490",
+    "paragraph": 5,
+    "kind": "history",
+    "locator": "story.content[5]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1629018",
+    "source_game_id": "0022300492",
+    "event_game_id": "0022300492",
+    "paragraph": 18,
+    "kind": "history",
+    "locator": "story.content[18]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1628415",
+    "source_game_id": "0022300496",
+    "event_game_id": "0022300496",
+    "paragraph": 13,
+    "kind": "history",
+    "locator": "story.content[13]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "201142",
+    "source_game_id": "0022300503",
+    "event_game_id": "0022300503",
+    "paragraph": 9,
+    "kind": "history",
+    "locator": "story.content[9]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "201569",
+    "source_game_id": "0022300503",
+    "event_game_id": "0022300503",
+    "paragraph": 12,
+    "kind": "history",
+    "locator": "story.content[12]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1629626",
+    "source_game_id": "0022300503",
+    "event_game_id": "0022300503",
+    "paragraph": 12,
+    "kind": "history",
+    "locator": "story.content[12]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "101108",
+    "source_game_id": "0022300504",
+    "event_game_id": "0022300504",
+    "paragraph": 8,
+    "kind": "history",
+    "locator": "story.content[8]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "202696",
+    "source_game_id": "0022300506",
+    "event_game_id": "0022300506",
+    "paragraph": 1,
+    "kind": "history",
+    "locator": "story.content[1]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1628415",
+    "source_game_id": "0022300509",
+    "event_game_id": "0022300509",
+    "paragraph": 8,
+    "kind": "history",
+    "locator": "story.content[8]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1627751",
+    "source_game_id": "0022300516",
+    "event_game_id": "0022300516",
+    "paragraph": 4,
+    "kind": "history",
+    "locator": "story.content[4]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1627751",
+    "source_game_id": "0022300516",
+    "event_game_id": "0022300516",
+    "paragraph": 14,
+    "kind": "history",
+    "locator": "story.content[14]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "202696",
+    "source_game_id": "0022300523",
+    "event_game_id": "0022300523",
+    "paragraph": 3,
+    "kind": "history",
+    "locator": "story.content[3]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "203897",
+    "source_game_id": "0022300523",
+    "event_game_id": "0022300523",
+    "paragraph": 3,
+    "kind": "history",
+    "locator": "story.content[3]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1630541",
+    "source_game_id": "0022300525",
+    "event_game_id": "0022300525",
+    "paragraph": 17,
+    "kind": "acute",
+    "locator": "story.content[17]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "101108",
+    "source_game_id": "0022300525",
+    "event_game_id": "0022300525",
+    "paragraph": 22,
+    "kind": "history",
+    "locator": "story.content[22]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1627783",
+    "source_game_id": "0022300526",
+    "event_game_id": "0022300526",
+    "paragraph": 9,
+    "kind": "history",
+    "locator": "story.content[9]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "203078",
+    "source_game_id": "0022300531",
+    "event_game_id": "0022300531",
+    "paragraph": 5,
+    "kind": "history",
+    "locator": "story.content[5]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "201145",
+    "source_game_id": "0022300534",
+    "event_game_id": "0022300534",
+    "paragraph": 18,
+    "kind": "acute",
+    "locator": "story.content[18]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1630541",
+    "source_game_id": "0022300536",
+    "event_game_id": "0022300536",
+    "paragraph": 10,
+    "kind": "history",
+    "locator": "story.content[10]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "101108",
+    "source_game_id": "0022300536",
+    "event_game_id": "0022300536",
+    "paragraph": 10,
+    "kind": "history",
+    "locator": "story.content[10]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1627780",
+    "source_game_id": "0022300536",
+    "event_game_id": "0022300536",
+    "paragraph": 10,
+    "kind": "history",
+    "locator": "story.content[10]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "203897",
+    "source_game_id": "0022300536",
+    "event_game_id": "0022300536",
+    "paragraph": 5,
+    "kind": "history",
+    "locator": "story.content[5]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1627783",
+    "source_game_id": "0022300540",
+    "event_game_id": "0022300540",
+    "paragraph": 4,
+    "kind": "history",
+    "locator": "story.content[4]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1629626",
+    "source_game_id": "0022300554",
+    "event_game_id": "0022300554",
+    "paragraph": 12,
+    "kind": "history",
+    "locator": "story.content[12]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1630172",
+    "source_game_id": "0022300561",
+    "event_game_id": "0022300561",
+    "paragraph": 9,
+    "kind": "history",
+    "locator": "story.content[9]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1627751",
+    "source_game_id": "0022300563",
+    "event_game_id": "0022300563",
+    "paragraph": 8,
+    "kind": "history",
+    "locator": "story.content[8]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1629018",
+    "source_game_id": "0022300563",
+    "event_game_id": "0022300563",
+    "paragraph": 8,
+    "kind": "history",
+    "locator": "story.content[8]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1627751",
+    "source_game_id": "0022300574",
+    "event_game_id": "0022300574",
+    "paragraph": 20,
+    "kind": "history",
+    "locator": "story.content[20]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1628969",
+    "source_game_id": "0022300578",
+    "event_game_id": "0022300578",
+    "paragraph": 14,
+    "kind": "acute",
+    "locator": "story.content[14]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1627751",
+    "source_game_id": "0022300580",
+    "event_game_id": "0022300580",
+    "paragraph": 16,
+    "kind": "history",
+    "locator": "story.content[16]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "203897",
+    "source_game_id": "0022300580",
+    "event_game_id": "0022300580",
+    "paragraph": 4,
+    "kind": "acute",
+    "locator": "story.content[4]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "203897",
+    "source_game_id": "0022300580",
+    "event_game_id": "0022300580",
+    "paragraph": 6,
+    "kind": "history",
+    "locator": "story.content[6]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "203897",
+    "source_game_id": "0022300597",
+    "event_game_id": "0022300597",
+    "paragraph": 3,
+    "kind": "history",
+    "locator": "story.content[3]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "203897",
+    "source_game_id": "0022300597",
+    "event_game_id": "0022300597",
+    "paragraph": 4,
+    "kind": "history",
+    "locator": "story.content[4]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1627832",
+    "source_game_id": "0022300603",
+    "event_game_id": "0022300603",
+    "paragraph": 6,
+    "kind": "history",
+    "locator": "story.content[6]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1631095",
+    "source_game_id": "0022300603",
+    "event_game_id": "0022300603",
+    "paragraph": 6,
+    "kind": "history",
+    "locator": "story.content[6]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "201145",
+    "source_game_id": "0022300603",
+    "event_game_id": "0022300603",
+    "paragraph": 6,
+    "kind": "history",
+    "locator": "story.content[6]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1631106",
+    "source_game_id": "0022300603",
+    "event_game_id": "0022300603",
+    "paragraph": 6,
+    "kind": "history",
+    "locator": "story.content[6]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "203078",
+    "source_game_id": "0022300604",
+    "event_game_id": "0022300604",
+    "paragraph": 9,
+    "kind": "history",
+    "locator": "story.content[9]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "201142",
+    "source_game_id": "0022300604",
+    "event_game_id": "0022300604",
+    "paragraph": 9,
+    "kind": "history",
+    "locator": "story.content[9]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1626164",
+    "source_game_id": "0022300604",
+    "event_game_id": "0022300604",
+    "paragraph": 9,
+    "kind": "history",
+    "locator": "story.content[9]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1627751",
+    "source_game_id": "0022300609",
+    "event_game_id": "0022300609",
+    "paragraph": 17,
+    "kind": "history",
+    "locator": "story.content[17]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "203897",
+    "source_game_id": "0022300612",
+    "event_game_id": "0022300612",
+    "paragraph": 11,
+    "kind": "history",
+    "locator": "story.content[11]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1627832",
+    "source_game_id": "0022300623",
+    "event_game_id": "0022300623",
+    "paragraph": 17,
+    "kind": "history",
+    "locator": "story.content[17]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1631095",
+    "source_game_id": "0022300623",
+    "event_game_id": "0022300623",
+    "paragraph": 17,
+    "kind": "history",
+    "locator": "story.content[17]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1627780",
+    "source_game_id": "0022300626",
+    "event_game_id": "0022300626",
+    "paragraph": 7,
+    "kind": "history",
+    "locator": "story.content[7]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "101108",
+    "source_game_id": "0022300626",
+    "event_game_id": "0022300626",
+    "paragraph": 7,
+    "kind": "history",
+    "locator": "story.content[7]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "203897",
+    "source_game_id": "0022300633",
+    "event_game_id": "0022300633",
+    "paragraph": 11,
+    "kind": "history",
+    "locator": "story.content[11]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "203078",
+    "source_game_id": "0022300636",
+    "event_game_id": "0022300636",
+    "paragraph": 16,
+    "kind": "acute",
+    "locator": "story.content[16]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1630193",
+    "source_game_id": "0022300637",
+    "event_game_id": "0022300637",
+    "paragraph": 18,
+    "kind": "history",
+    "locator": "story.content[18]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1627751",
+    "source_game_id": "0022300637",
+    "event_game_id": "0022300637",
+    "paragraph": 19,
+    "kind": "history",
+    "locator": "story.content[19]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1629007",
+    "source_game_id": "0022300637",
+    "event_game_id": "0022300637",
+    "paragraph": 19,
+    "kind": "acute",
+    "locator": "story.content[19]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1627827",
+    "source_game_id": "0022300645",
+    "event_game_id": "0022300645",
+    "paragraph": 7,
+    "kind": "acute",
+    "locator": "story.content[7]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1627751",
+    "source_game_id": "0022300653",
+    "event_game_id": "0022300653",
+    "paragraph": 8,
+    "kind": "history",
+    "locator": "story.content[8]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1630193",
+    "source_game_id": "0022300653",
+    "event_game_id": "0022300653",
+    "paragraph": 8,
+    "kind": "history",
+    "locator": "story.content[8]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1629628",
+    "source_game_id": "0022300653",
+    "event_game_id": "0022300653",
+    "paragraph": 8,
+    "kind": "history",
+    "locator": "story.content[8]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "203994",
+    "source_game_id": "0022300655",
+    "event_game_id": "0022300655",
+    "paragraph": 17,
+    "kind": "history",
+    "locator": "story.content[17]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1630172",
+    "source_game_id": "0022300656",
+    "event_game_id": "0022300656",
+    "paragraph": 10,
+    "kind": "history",
+    "locator": "story.content[10]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1627732",
+    "source_game_id": "0022300660",
+    "event_game_id": "0022300660",
+    "paragraph": 2,
+    "kind": "history",
+    "locator": "story.content[2]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1627827",
+    "source_game_id": "0022300660",
+    "event_game_id": "0022300660",
+    "paragraph": 18,
+    "kind": "history",
+    "locator": "story.content[18]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "203078",
+    "source_game_id": "0022300661",
+    "event_game_id": "0022300661",
+    "paragraph": 8,
+    "kind": "history",
+    "locator": "story.content[8]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1628960",
+    "source_game_id": "0022300661",
+    "event_game_id": "0022300661",
+    "paragraph": 8,
+    "kind": "acute",
+    "locator": "story.content[8]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1631095",
+    "source_game_id": "0022300662",
+    "event_game_id": "0022300662",
+    "paragraph": 6,
+    "kind": "history",
+    "locator": "story.content[6]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1630193",
+    "source_game_id": "0022300672",
+    "event_game_id": "0022300672",
+    "paragraph": 14,
+    "kind": "history",
+    "locator": "story.content[14]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1629628",
+    "source_game_id": "0022300672",
+    "event_game_id": "0022300672",
+    "paragraph": 14,
+    "kind": "history",
+    "locator": "story.content[14]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1627751",
+    "source_game_id": "0022300672",
+    "event_game_id": "0022300672",
+    "paragraph": 14,
+    "kind": "history",
+    "locator": "story.content[14]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1630172",
+    "source_game_id": "0022300672",
+    "event_game_id": "0022300672",
+    "paragraph": 16,
+    "kind": "history",
+    "locator": "story.content[16]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "202691",
+    "source_game_id": "0022300673",
+    "event_game_id": "0022300673",
+    "paragraph": 2,
+    "kind": "history",
+    "locator": "story.content[2]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "101108",
+    "source_game_id": "0022300673",
+    "event_game_id": "0022300673",
+    "paragraph": 15,
+    "kind": "history",
+    "locator": "story.content[15]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1630541",
+    "source_game_id": "0022300673",
+    "event_game_id": "0022300673",
+    "paragraph": 15,
+    "kind": "history",
+    "locator": "story.content[15]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "201142",
+    "source_game_id": "0022300677",
+    "event_game_id": "0022300677",
+    "paragraph": 12,
+    "kind": "history",
+    "locator": "story.content[12]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1628960",
+    "source_game_id": "0022300677",
+    "event_game_id": "0022300677",
+    "paragraph": 17,
+    "kind": "history",
+    "locator": "story.content[17]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1627732",
+    "source_game_id": "0022300677",
+    "event_game_id": "0022300677",
+    "paragraph": 14,
+    "kind": "history",
+    "locator": "story.content[14]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1631095",
+    "source_game_id": "0022300679",
+    "event_game_id": "0022300679",
+    "paragraph": 18,
+    "kind": "history",
+    "locator": "story.content[18]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "203967",
+    "source_game_id": "0022300699",
+    "event_game_id": "0022300699",
+    "paragraph": 16,
+    "kind": "history",
+    "locator": "story.content[16]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "203952",
+    "source_game_id": "0022300699",
+    "event_game_id": "0022300699",
+    "paragraph": 16,
+    "kind": "acute",
+    "locator": "story.content[16]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1641764",
+    "source_game_id": "0022300699",
+    "event_game_id": "0022300699",
+    "paragraph": 21,
+    "kind": "acute",
+    "locator": "story.content[21]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1628470",
+    "source_game_id": "0022300700",
+    "event_game_id": "0022300700",
+    "paragraph": 9,
+    "kind": "history",
+    "locator": "story.content[9]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "203897",
+    "source_game_id": "0022300700",
+    "event_game_id": "0022300700",
+    "paragraph": 9,
+    "kind": "history",
+    "locator": "story.content[9]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1630172",
+    "source_game_id": "0022300700",
+    "event_game_id": "0022300700",
+    "paragraph": 9,
+    "kind": "history",
+    "locator": "story.content[9]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1631207",
+    "source_game_id": "0022300700",
+    "event_game_id": "0022300700",
+    "paragraph": 9,
+    "kind": "history",
+    "locator": "story.content[9]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "203897",
+    "source_game_id": "0022300723",
+    "event_game_id": "0022300723",
+    "paragraph": 7,
+    "kind": "history",
+    "locator": "story.content[7]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1630172",
+    "source_game_id": "0022300723",
+    "event_game_id": "0022300723",
+    "paragraph": 7,
+    "kind": "history",
+    "locator": "story.content[7]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "202691",
+    "source_game_id": "0022300727",
+    "event_game_id": "0022300727",
+    "paragraph": 12,
+    "kind": "history",
+    "locator": "story.content[12]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "201939",
+    "source_game_id": "0022300727",
+    "event_game_id": "0022300727",
+    "paragraph": 12,
+    "kind": "history",
+    "locator": "story.content[12]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1626164",
+    "source_game_id": "0022300739",
+    "event_game_id": "0022300739",
+    "paragraph": 0,
+    "kind": "history",
+    "locator": "story.content[0]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1641715",
+    "source_game_id": "0022300744",
+    "event_game_id": "0022300744",
+    "paragraph": 8,
+    "kind": "acute",
+    "locator": "story.content[8]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1627832",
+    "source_game_id": "0022300744",
+    "event_game_id": "0022300744",
+    "paragraph": 11,
+    "kind": "history",
+    "locator": "story.content[11]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1641715",
+    "source_game_id": "0022300754",
+    "event_game_id": "0022300754",
+    "paragraph": 11,
+    "kind": "history",
+    "locator": "story.content[11]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1627832",
+    "source_game_id": "0022300754",
+    "event_game_id": "0022300754",
+    "paragraph": 11,
+    "kind": "history",
+    "locator": "story.content[11]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1630578",
+    "source_game_id": "0022300754",
+    "event_game_id": "0022300754",
+    "paragraph": 11,
+    "kind": "history",
+    "locator": "story.content[11]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1627936",
+    "source_game_id": "0022300763",
+    "event_game_id": "0022300763",
+    "paragraph": 11,
+    "kind": "history",
+    "locator": "story.content[11]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1627832",
+    "source_game_id": "0022300765",
+    "event_game_id": "0022300765",
+    "paragraph": 24,
+    "kind": "history",
+    "locator": "story.content[24]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1641715",
+    "source_game_id": "0022300765",
+    "event_game_id": "0022300765",
+    "paragraph": 24,
+    "kind": "history",
+    "locator": "story.content[24]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1630549",
+    "source_game_id": "0022300771",
+    "event_game_id": "0022300771",
+    "paragraph": 10,
+    "kind": "history",
+    "locator": "story.content[10]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1629661",
+    "source_game_id": "0022300771",
+    "event_game_id": "0022300771",
+    "paragraph": 10,
+    "kind": "history",
+    "locator": "story.content[10]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "203078",
+    "source_game_id": "0022300774",
+    "event_game_id": "0022300774",
+    "paragraph": 1,
+    "kind": "acute",
+    "locator": "story.content[1]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "203078",
+    "source_game_id": "0022300774",
+    "event_game_id": "0022300774",
+    "paragraph": 10,
+    "kind": "acute",
+    "locator": "story.content[10]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1629661",
+    "source_game_id": "0022300780",
+    "event_game_id": "0022300780",
+    "paragraph": 13,
+    "kind": "history",
+    "locator": "story.content[13]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1630172",
+    "source_game_id": "0022300781",
+    "event_game_id": "0022300781",
+    "paragraph": 10,
+    "kind": "history",
+    "locator": "story.content[10]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "203482",
+    "source_game_id": "0022300782",
+    "event_game_id": "0022300782",
+    "paragraph": 19,
+    "kind": "acute",
+    "locator": "story.content[19]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "203078",
+    "source_game_id": "0022300787",
+    "event_game_id": "0022300787",
+    "paragraph": 6,
+    "kind": "history",
+    "locator": "story.content[6]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "203110",
+    "source_game_id": "0022300789",
+    "event_game_id": "0022300789",
+    "paragraph": 10,
+    "kind": "acute",
+    "locator": "story.content[10]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "101108",
+    "source_game_id": "0022300789",
+    "event_game_id": "0022300789",
+    "paragraph": 18,
+    "kind": "history",
+    "locator": "story.content[18]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "203493",
+    "source_game_id": "0022300603",
+    "event_game_id": "0022300603",
+    "paragraph": 6,
+    "kind": "history",
+    "locator": "story.content[6]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1631095",
+    "source_game_id": "0022300635",
+    "event_game_id": "0022300635",
+    "paragraph": 14,
+    "kind": "history",
+    "locator": "story.content[14]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  },
+  {
+    "player_id": "1627780",
+    "source_game_id": "0022300757",
+    "event_game_id": "0022300757",
+    "paragraph": 19,
+    "kind": "history",
+    "locator": "story.content[19]",
+    "review_note": "Explicit same-agent medical assertion review; canonical player disambiguated; no retrospective C news used."
+  }
+]

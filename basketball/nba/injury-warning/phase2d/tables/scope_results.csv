@@ -1,0 +1,15 @@
+scope,extra_lag_days,team_count,team_game_exposures,physical_index_games,distinct_roster_players,distinct_recently_active_players,candidate_appearances,included,excluded,eligibility_unknown,positive,negative,outcome_unknown,distinct_qualifying_events,distinct_event_players,events_with_eligible_prediction,missing_workload,onset_surveillance_gaps,severity_followup_gaps,A_verified_rows,B_feature_rows,A_original_publication_unresolved
+Boston_prior,0,1,23,23,19,16,246,244,2,0,0,244,0,0,0,0,0,0,0,0,244,244
+Boston_prior,1,1,23,23,19,16,246,234,2,10,0,234,0,0,0,0,0,0,0,0,234,234
+first_six_phase2b,0,6,132,117,122,108,1452,1425,12,15,11,1285,129,6,6,5,13,60,82,0,1425,1425
+first_six_phase2b,1,6,132,117,122,108,1452,1359,13,80,11,1224,124,6,6,5,13,57,83,0,1359,1359
+second_six_phase2c,0,6,138,126,124,112,1454,1398,14,42,46,1288,64,13,12,12,43,40,35,0,1398,1398
+second_six_phase2c,1,6,138,126,124,112,1454,1341,27,86,41,1235,65,13,12,11,41,42,34,0,1341,1341
+phase2d_batch1,0,6,140,128,127,113,1536,1485,6,45,17,1327,141,5,5,4,20,85,72,0,1485,1485
+phase2d_batch1,1,6,140,128,127,113,1536,1484,16,36,17,1330,137,5,5,4,23,82,72,0,1484,1484
+phase2d_batch2,0,6,133,120,114,102,1409,1380,18,11,16,1291,73,8,8,6,34,52,17,0,1380,1380
+phase2d_batch2,1,6,133,120,114,102,1409,1319,23,67,15,1230,74,8,8,6,30,55,17,0,1319,1319
+phase2d_batch3,0,5,114,106,96,85,1221,1176,15,30,25,1125,26,6,6,5,21,20,0,0,1176,1176
+phase2d_batch3,1,5,114,106,96,85,1221,1125,20,76,25,1076,24,6,6,5,18,20,0,0,1125,1125
+combined_30_team_development,0,30,680,340,549,497,7318,7108,67,143,115,6560,433,37,36,32,131,257,206,0,7108,7108
+combined_30_team_development,1,30,680,340,549,497,7318,6862,101,355,109,6329,424,37,36,31,125,256,206,0,6862,6862

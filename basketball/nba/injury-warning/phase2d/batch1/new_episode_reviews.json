@@ -1,0 +1,36 @@
+{
+  "203114_2024-02-08": {
+    "common_episode_supported": true,
+    "supported_through": "2024-03-14",
+    "source_ids": "page_0022300976;page_0022300915;page_0022300725",
+    "locator": "Mar17 story: first return after16 ankle games; Mar8 story.content[16]; Feb6 acute paragraph",
+    "note": "Return account explicitly links16 medical misses to ankle trauma; actual first miss and intervening absence sequence verified.",
+    "acute_event_game_ids": [
+      "0022300725"
+    ]
+  },
+  "1630163_2024-01-27": {
+    "common_episode_supported": true,
+    "supported_through": "2024-04-14",
+    "source_ids": "d_ball_shutdown;page_0022300695;page_0022300647",
+    "locator": "Mar28 shutdown release: continued right-ankle rehabilitation; Feb2 story.content[9]; Jan27 story.content[14]",
+    "note": "Continued rehabilitation/shutdown account supports the sustained right-ankle episode. Original first-miss Jan27 retained despite narrative last-played date imprecision; prior return separates November run.",
+    "acute_event_game_ids": []
+  },
+  "1631101_2024-01-12": {
+    "common_episode_supported": true,
+    "supported_through": "2024-03-14",
+    "source_ids": "d_sharpe_surgery;page_0022300578;page_0022300953",
+    "locator": "Feb6 release: return ramp-up worsened same symptoms requiring core surgery; Jan17 story.content[11]; Mar13 story.content[13]",
+    "note": "Treatment/failed return progression links January strain to core surgery.29 individual medical games establish segment; later assignment/unknown adds no injury games.",
+    "acute_event_game_ids": []
+  },
+  "1629650_2024-01-03": {
+    "common_episode_supported": true,
+    "supported_through": "2024-02-27",
+    "source_ids": "d_brown_surgery;page_0022300861",
+    "locator": "Jan10 official left-wrist surgery release; Mar1 story.content[14] first return",
+    "note": "Surgical treatment and first-return account support the25-game left-wrist episode; actual Jan3 anchor retained, surgery date not substituted.",
+    "acute_event_game_ids": []
+  }
+}

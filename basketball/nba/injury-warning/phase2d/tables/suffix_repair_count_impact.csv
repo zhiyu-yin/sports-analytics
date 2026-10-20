@@ -1,0 +1,13 @@
+batch,extra_lag_days,version,positive,negative,outcome_unknown,included
+1,0,before,17,1327,141,1485
+1,0,after,17,1327,141,1485
+1,1,before,17,1330,137,1484
+1,1,after,17,1330,137,1484
+2,0,before,16,1291,73,1380
+2,0,after,16,1291,73,1380
+2,1,before,15,1230,74,1319
+2,1,after,15,1230,74,1319
+3,0,before,25,1125,26,1176
+3,0,after,25,1125,26,1176
+3,1,before,25,1076,24,1125
+3,1,after,25,1076,24,1125

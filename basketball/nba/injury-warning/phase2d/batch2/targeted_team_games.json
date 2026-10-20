@@ -1,0 +1,2851 @@
+[
+  {
+    "game_id": "0022300583",
+    "game_date": "2024-01-18",
+    "team": "IND",
+    "matchup": "IND @ SAC",
+    "player_ids": [
+      "1627783"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300590",
+    "game_date": "2024-01-19",
+    "team": "IND",
+    "matchup": "IND @ POR",
+    "player_ids": [
+      "1627783"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300604",
+    "game_date": "2024-01-21",
+    "team": "IND",
+    "matchup": "IND @ PHX",
+    "player_ids": [
+      "1627783"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300614",
+    "game_date": "2024-01-23",
+    "team": "IND",
+    "matchup": "IND vs. DEN",
+    "player_ids": [
+      "1627783"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300627",
+    "game_date": "2024-01-25",
+    "team": "IND",
+    "matchup": "IND vs. PHI",
+    "player_ids": [
+      "1627783"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300636",
+    "game_date": "2024-01-26",
+    "team": "IND",
+    "matchup": "IND vs. PHX",
+    "player_ids": [
+      "1627783"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300652",
+    "game_date": "2024-01-28",
+    "team": "IND",
+    "matchup": "IND vs. MEM",
+    "player_ids": [
+      "1627783"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300670",
+    "game_date": "2024-01-30",
+    "team": "IND",
+    "matchup": "IND @ BOS",
+    "player_ids": [
+      "1627783"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300685",
+    "game_date": "2024-02-01",
+    "team": "IND",
+    "matchup": "IND @ NYK",
+    "player_ids": [
+      "1627783"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300691",
+    "game_date": "2024-02-02",
+    "team": "IND",
+    "matchup": "IND vs. SAC",
+    "player_ids": [
+      "1627783"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300707",
+    "game_date": "2024-02-04",
+    "team": "IND",
+    "matchup": "IND @ CHA",
+    "player_ids": [
+      "1627783"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300719",
+    "game_date": "2024-02-06",
+    "team": "IND",
+    "matchup": "IND vs. HOU",
+    "player_ids": [
+      "1627783"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300733",
+    "game_date": "2024-02-08",
+    "team": "IND",
+    "matchup": "IND vs. GSW",
+    "player_ids": [
+      "1627783",
+      "202709"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300755",
+    "game_date": "2024-02-10",
+    "team": "IND",
+    "matchup": "IND @ NYK",
+    "player_ids": [
+      "1627783"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300761",
+    "game_date": "2024-02-12",
+    "team": "IND",
+    "matchup": "IND @ CHA",
+    "player_ids": [
+      "1627783"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300782",
+    "game_date": "2024-02-14",
+    "team": "IND",
+    "matchup": "IND @ TOR",
+    "player_ids": [
+      "1627783"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300793",
+    "game_date": "2024-02-22",
+    "team": "IND",
+    "matchup": "IND vs. DET",
+    "player_ids": [
+      "1627783"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300819",
+    "game_date": "2024-02-25",
+    "team": "IND",
+    "matchup": "IND vs. DAL",
+    "player_ids": [
+      "1627783"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300829",
+    "game_date": "2024-02-26",
+    "team": "IND",
+    "matchup": "IND vs. TOR",
+    "player_ids": [
+      "1627783"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300843",
+    "game_date": "2024-02-28",
+    "team": "IND",
+    "matchup": "IND vs. NOP",
+    "player_ids": [
+      "1627783"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300863",
+    "game_date": "2024-03-01",
+    "team": "IND",
+    "matchup": "IND @ NOP",
+    "player_ids": [
+      "1627783"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300877",
+    "game_date": "2024-03-03",
+    "team": "IND",
+    "matchup": "IND @ SAS",
+    "player_ids": [
+      "1627783"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300892",
+    "game_date": "2024-03-05",
+    "team": "IND",
+    "matchup": "IND @ DAL",
+    "player_ids": [
+      "1627783"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300903",
+    "game_date": "2024-03-07",
+    "team": "IND",
+    "matchup": "IND vs. MIN",
+    "player_ids": [
+      "1627783"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300928",
+    "game_date": "2024-03-10",
+    "team": "IND",
+    "matchup": "IND @ ORL",
+    "player_ids": [
+      "1627783"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300941",
+    "game_date": "2024-03-12",
+    "team": "IND",
+    "matchup": "IND @ OKC",
+    "player_ids": [
+      "1627783"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300948",
+    "game_date": "2024-03-13",
+    "team": "IND",
+    "matchup": "IND vs. CHI",
+    "player_ids": [
+      "1627783"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300968",
+    "game_date": "2024-03-16",
+    "team": "IND",
+    "matchup": "IND vs. BKN",
+    "player_ids": [
+      "1627783"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300983",
+    "game_date": "2024-03-18",
+    "team": "IND",
+    "matchup": "IND vs. CLE",
+    "player_ids": [
+      "1627783"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300997",
+    "game_date": "2024-03-20",
+    "team": "IND",
+    "matchup": "IND @ DET",
+    "player_ids": [
+      "1627783"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301016",
+    "game_date": "2024-03-22",
+    "team": "IND",
+    "matchup": "IND @ GSW",
+    "player_ids": [
+      "1627783"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301032",
+    "game_date": "2024-03-24",
+    "team": "IND",
+    "matchup": "IND @ LAL",
+    "player_ids": [
+      "1627783"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301043",
+    "game_date": "2024-03-25",
+    "team": "IND",
+    "matchup": "IND @ LAC",
+    "player_ids": [
+      "1627783"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301054",
+    "game_date": "2024-03-27",
+    "team": "IND",
+    "matchup": "IND @ CHI",
+    "player_ids": [
+      "1627783"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301063",
+    "game_date": "2024-03-29",
+    "team": "IND",
+    "matchup": "IND vs. LAL",
+    "player_ids": [
+      "1627783"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301089",
+    "game_date": "2024-04-01",
+    "team": "IND",
+    "matchup": "IND vs. BKN",
+    "player_ids": [
+      "1627783"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301106",
+    "game_date": "2024-04-03",
+    "team": "IND",
+    "matchup": "IND @ BKN",
+    "player_ids": [
+      "1627783"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301116",
+    "game_date": "2024-04-05",
+    "team": "IND",
+    "matchup": "IND vs. OKC",
+    "player_ids": [
+      "1627783"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301133",
+    "game_date": "2024-04-07",
+    "team": "IND",
+    "matchup": "IND vs. MIA",
+    "player_ids": [
+      "1627783"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301146",
+    "game_date": "2024-04-09",
+    "team": "IND",
+    "matchup": "IND @ TOR",
+    "player_ids": [
+      "1627783"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301174",
+    "game_date": "2024-04-12",
+    "team": "IND",
+    "matchup": "IND @ CLE",
+    "player_ids": [
+      "1627783"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301188",
+    "game_date": "2024-04-14",
+    "team": "IND",
+    "matchup": "IND vs. ATL",
+    "player_ids": [
+      "1627783"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300884",
+    "game_date": "2024-03-04",
+    "team": "LAL",
+    "matchup": "LAL vs. OKC",
+    "player_ids": [
+      "1628385",
+      "203915"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300901",
+    "game_date": "2024-03-06",
+    "team": "LAL",
+    "matchup": "LAL vs. SAC",
+    "player_ids": [
+      "1628385",
+      "203915"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300915",
+    "game_date": "2024-03-08",
+    "team": "LAL",
+    "matchup": "LAL vs. MIL",
+    "player_ids": [
+      "1628385",
+      "203915"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300932",
+    "game_date": "2024-03-10",
+    "team": "LAL",
+    "matchup": "LAL vs. MIN",
+    "player_ids": [
+      "1628385",
+      "203915"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300954",
+    "game_date": "2024-03-13",
+    "team": "LAL",
+    "matchup": "LAL @ SAC",
+    "player_ids": [
+      "1628385",
+      "203915"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300973",
+    "game_date": "2024-03-16",
+    "team": "LAL",
+    "matchup": "LAL vs. GSW",
+    "player_ids": [
+      "1628385",
+      "203915"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300990",
+    "game_date": "2024-03-18",
+    "team": "LAL",
+    "matchup": "LAL vs. ATL",
+    "player_ids": [
+      "1628385",
+      "203915"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301018",
+    "game_date": "2024-03-22",
+    "team": "LAL",
+    "matchup": "LAL vs. PHI",
+    "player_ids": [
+      "1628385",
+      "203915"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301032",
+    "game_date": "2024-03-24",
+    "team": "LAL",
+    "matchup": "LAL vs. IND",
+    "player_ids": [
+      "1628385",
+      "203915"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301045",
+    "game_date": "2024-03-26",
+    "team": "LAL",
+    "matchup": "LAL @ MIL",
+    "player_ids": [
+      "1628385",
+      "203915"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301055",
+    "game_date": "2024-03-27",
+    "team": "LAL",
+    "matchup": "LAL @ MEM",
+    "player_ids": [
+      "1628385",
+      "203915"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301063",
+    "game_date": "2024-03-29",
+    "team": "LAL",
+    "matchup": "LAL @ IND",
+    "player_ids": [
+      "1628385",
+      "203915"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301078",
+    "game_date": "2024-03-31",
+    "team": "LAL",
+    "matchup": "LAL @ BKN",
+    "player_ids": [
+      "1628385",
+      "203915"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301094",
+    "game_date": "2024-04-02",
+    "team": "LAL",
+    "matchup": "LAL @ TOR",
+    "player_ids": [
+      "1628385",
+      "203915"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301103",
+    "game_date": "2024-04-03",
+    "team": "LAL",
+    "matchup": "LAL @ WAS",
+    "player_ids": [
+      "1628385",
+      "203915"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301127",
+    "game_date": "2024-04-06",
+    "team": "LAL",
+    "matchup": "LAL vs. CLE",
+    "player_ids": [
+      "1628385",
+      "203915"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301143",
+    "game_date": "2024-04-07",
+    "team": "LAL",
+    "matchup": "LAL vs. MIN",
+    "player_ids": [
+      "1628385",
+      "203915"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301155",
+    "game_date": "2024-04-09",
+    "team": "LAL",
+    "matchup": "LAL vs. GSW",
+    "player_ids": [
+      "1628385",
+      "203915"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301177",
+    "game_date": "2024-04-12",
+    "team": "LAL",
+    "matchup": "LAL @ MEM",
+    "player_ids": [
+      "1628385",
+      "203915"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301195",
+    "game_date": "2024-04-14",
+    "team": "LAL",
+    "matchup": "LAL @ NOP",
+    "player_ids": [
+      "1628385",
+      "203915"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301202",
+    "game_date": "2023-12-04",
+    "team": "IND",
+    "matchup": "IND vs. BOS",
+    "player_ids": [
+      "1628971",
+      "1629670"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301229",
+    "game_date": "2023-12-07",
+    "team": "IND",
+    "matchup": "IND @ MIL",
+    "player_ids": [
+      "1628971",
+      "1629670"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300293",
+    "game_date": "2023-12-11",
+    "team": "IND",
+    "matchup": "IND @ DET",
+    "player_ids": [
+      "1628971",
+      "1629670"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300315",
+    "game_date": "2023-12-13",
+    "team": "IND",
+    "matchup": "IND @ MIL",
+    "player_ids": [
+      "1628971",
+      "1629670"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300328",
+    "game_date": "2023-12-15",
+    "team": "IND",
+    "matchup": "IND @ WAS",
+    "player_ids": [
+      "1628971",
+      "1629670"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300338",
+    "game_date": "2023-12-16",
+    "team": "IND",
+    "matchup": "IND @ MIN",
+    "player_ids": [
+      "1628971",
+      "1629670"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300350",
+    "game_date": "2023-12-18",
+    "team": "IND",
+    "matchup": "IND vs. LAC",
+    "player_ids": [
+      "1628971",
+      "1629670"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300365",
+    "game_date": "2023-12-20",
+    "team": "IND",
+    "matchup": "IND vs. CHA",
+    "player_ids": [
+      "1628971",
+      "1629670"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300377",
+    "game_date": "2023-12-21",
+    "team": "IND",
+    "matchup": "IND @ MEM",
+    "player_ids": [
+      "1628971",
+      "1629670"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300391",
+    "game_date": "2023-12-23",
+    "team": "IND",
+    "matchup": "IND vs. ORL",
+    "player_ids": [
+      "1628971",
+      "1629670"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300409",
+    "game_date": "2023-12-26",
+    "team": "IND",
+    "matchup": "IND @ HOU",
+    "player_ids": [
+      "1628971",
+      "1629670"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300422",
+    "game_date": "2023-12-28",
+    "team": "IND",
+    "matchup": "IND @ CHI",
+    "player_ids": [
+      "1628971",
+      "1629670"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300441",
+    "game_date": "2023-12-30",
+    "team": "IND",
+    "matchup": "IND vs. NYK",
+    "player_ids": [
+      "1628971",
+      "1629670"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300454",
+    "game_date": "2024-01-01",
+    "team": "IND",
+    "matchup": "IND @ MIL",
+    "player_ids": [
+      "1628971",
+      "1629670"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300466",
+    "game_date": "2024-01-03",
+    "team": "IND",
+    "matchup": "IND vs. MIL",
+    "player_ids": [
+      "1628971",
+      "1629670"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300480",
+    "game_date": "2024-01-05",
+    "team": "IND",
+    "matchup": "IND vs. ATL",
+    "player_ids": [
+      "1628971",
+      "1629670"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300493",
+    "game_date": "2024-01-06",
+    "team": "IND",
+    "matchup": "IND vs. BOS",
+    "player_ids": [
+      "1628971",
+      "1629670"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300507",
+    "game_date": "2024-01-08",
+    "team": "IND",
+    "matchup": "IND vs. BOS",
+    "player_ids": [
+      "1628971",
+      "1629670"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300520",
+    "game_date": "2024-01-10",
+    "team": "IND",
+    "matchup": "IND vs. WAS",
+    "player_ids": [
+      "1628971",
+      "1629670"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300533",
+    "game_date": "2024-01-12",
+    "team": "IND",
+    "matchup": "IND @ ATL",
+    "player_ids": [
+      "1628971",
+      "1629670"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300550",
+    "game_date": "2024-01-14",
+    "team": "IND",
+    "matchup": "IND @ DEN",
+    "player_ids": [
+      "1628971",
+      "1629670"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300564",
+    "game_date": "2024-01-15",
+    "team": "IND",
+    "matchup": "IND @ UTA",
+    "player_ids": [
+      "1628971",
+      "1629670"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300997",
+    "game_date": "2024-03-20",
+    "team": "DET",
+    "matchup": "DET vs. IND",
+    "player_ids": [
+      "1629002"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301011",
+    "game_date": "2024-03-22",
+    "team": "DET",
+    "matchup": "DET vs. BOS",
+    "player_ids": [
+      "1629002"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301027",
+    "game_date": "2024-03-24",
+    "team": "DET",
+    "matchup": "DET vs. NOP",
+    "player_ids": [
+      "1629002"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301035",
+    "game_date": "2024-03-25",
+    "team": "DET",
+    "matchup": "DET @ NYK",
+    "player_ids": [
+      "1629002"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301056",
+    "game_date": "2024-03-27",
+    "team": "DET",
+    "matchup": "DET @ MIN",
+    "player_ids": [
+      "1629002"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301065",
+    "game_date": "2024-03-29",
+    "team": "DET",
+    "matchup": "DET @ WAS",
+    "player_ids": [
+      "1629002"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301088",
+    "game_date": "2024-04-01",
+    "team": "DET",
+    "matchup": "DET vs. MEM",
+    "player_ids": [
+      "1629002"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301104",
+    "game_date": "2024-04-03",
+    "team": "DET",
+    "matchup": "DET @ ATL",
+    "player_ids": [
+      "1629002"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301121",
+    "game_date": "2024-04-05",
+    "team": "DET",
+    "matchup": "DET @ MEM",
+    "player_ids": [
+      "1629002"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301128",
+    "game_date": "2024-04-06",
+    "team": "DET",
+    "matchup": "DET @ BKN",
+    "player_ids": [
+      "1629002"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301145",
+    "game_date": "2024-04-09",
+    "team": "DET",
+    "matchup": "DET @ PHI",
+    "player_ids": [
+      "1629002"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301166",
+    "game_date": "2024-04-11",
+    "team": "DET",
+    "matchup": "DET vs. CHI",
+    "player_ids": [
+      "1629002"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301181",
+    "game_date": "2024-04-12",
+    "team": "DET",
+    "matchup": "DET @ DAL",
+    "player_ids": [
+      "1629002"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301197",
+    "game_date": "2024-04-14",
+    "team": "DET",
+    "matchup": "DET @ SAS",
+    "player_ids": [
+      "1629002"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300751",
+    "game_date": "2024-02-10",
+    "team": "MEM",
+    "matchup": "MEM @ CHA",
+    "player_ids": [
+      "1629139"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300766",
+    "game_date": "2024-02-12",
+    "team": "MEM",
+    "matchup": "MEM vs. NOP",
+    "player_ids": [
+      "1629139"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300783",
+    "game_date": "2024-02-14",
+    "team": "MEM",
+    "matchup": "MEM vs. HOU",
+    "player_ids": [
+      "1629139",
+      "1630692"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300790",
+    "game_date": "2024-02-15",
+    "team": "MEM",
+    "matchup": "MEM vs. MIL",
+    "player_ids": [
+      "1629139",
+      "1630692"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300807",
+    "game_date": "2024-02-23",
+    "team": "MEM",
+    "matchup": "MEM vs. LAC",
+    "player_ids": [
+      "1629139",
+      "1630692"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300830",
+    "game_date": "2024-02-26",
+    "team": "MEM",
+    "matchup": "MEM vs. BKN",
+    "player_ids": [
+      "1629139",
+      "1630692"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300845",
+    "game_date": "2024-02-28",
+    "team": "MEM",
+    "matchup": "MEM @ MIN",
+    "player_ids": [
+      "1629139",
+      "1630692"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300861",
+    "game_date": "2024-03-01",
+    "team": "MEM",
+    "matchup": "MEM vs. POR",
+    "player_ids": [
+      "1629139",
+      "1630692"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300868",
+    "game_date": "2024-03-02",
+    "team": "MEM",
+    "matchup": "MEM vs. POR",
+    "player_ids": [
+      "1629139",
+      "1630692"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300879",
+    "game_date": "2024-03-04",
+    "team": "MEM",
+    "matchup": "MEM @ BKN",
+    "player_ids": [
+      "1629139",
+      "1630692"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300896",
+    "game_date": "2024-03-06",
+    "team": "MEM",
+    "matchup": "MEM @ PHI",
+    "player_ids": [
+      "1629139",
+      "1630692"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300913",
+    "game_date": "2024-03-08",
+    "team": "MEM",
+    "matchup": "MEM vs. ATL",
+    "player_ids": [
+      "1629139",
+      "1630692"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300931",
+    "game_date": "2024-03-10",
+    "team": "MEM",
+    "matchup": "MEM @ OKC",
+    "player_ids": [
+      "1629139",
+      "1630692"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300940",
+    "game_date": "2024-03-12",
+    "team": "MEM",
+    "matchup": "MEM vs. WAS",
+    "player_ids": [
+      "1629139",
+      "1630692"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300950",
+    "game_date": "2024-03-13",
+    "team": "MEM",
+    "matchup": "MEM vs. CHA",
+    "player_ids": [
+      "1629139",
+      "1630692"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300972",
+    "game_date": "2024-03-16",
+    "team": "MEM",
+    "matchup": "MEM vs. OKC",
+    "player_ids": [
+      "1629139",
+      "1630692"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300989",
+    "game_date": "2024-03-18",
+    "team": "MEM",
+    "matchup": "MEM @ SAC",
+    "player_ids": [
+      "1629139",
+      "1630692"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301001",
+    "game_date": "2024-03-20",
+    "team": "MEM",
+    "matchup": "MEM @ GSW",
+    "player_ids": [
+      "1629139",
+      "1630692"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301015",
+    "game_date": "2024-03-22",
+    "team": "MEM",
+    "matchup": "MEM @ SAS",
+    "player_ids": [
+      "1629139",
+      "1630692"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301040",
+    "game_date": "2024-03-25",
+    "team": "MEM",
+    "matchup": "MEM @ DEN",
+    "player_ids": [
+      "1629139",
+      "1630692"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301055",
+    "game_date": "2024-03-27",
+    "team": "MEM",
+    "matchup": "MEM vs. LAL",
+    "player_ids": [
+      "1629139",
+      "1630692"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301075",
+    "game_date": "2024-03-30",
+    "team": "MEM",
+    "matchup": "MEM @ ORL",
+    "player_ids": [
+      "1629139",
+      "1630692"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301088",
+    "game_date": "2024-04-01",
+    "team": "MEM",
+    "matchup": "MEM @ DET",
+    "player_ids": [
+      "1629139",
+      "1630692"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301107",
+    "game_date": "2024-04-03",
+    "team": "MEM",
+    "matchup": "MEM @ MIL",
+    "player_ids": [
+      "1629139",
+      "1630692"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301121",
+    "game_date": "2024-04-05",
+    "team": "MEM",
+    "matchup": "MEM vs. DET",
+    "player_ids": [
+      "1629139",
+      "1630692"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301129",
+    "game_date": "2024-04-06",
+    "team": "MEM",
+    "matchup": "MEM vs. PHI",
+    "player_ids": [
+      "1629139",
+      "1630692"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301151",
+    "game_date": "2024-04-09",
+    "team": "MEM",
+    "matchup": "MEM vs. SAS",
+    "player_ids": [
+      "1629139",
+      "1630692"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301158",
+    "game_date": "2024-04-10",
+    "team": "MEM",
+    "matchup": "MEM @ CLE",
+    "player_ids": [
+      "1629139",
+      "1630692"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301177",
+    "game_date": "2024-04-12",
+    "team": "MEM",
+    "matchup": "MEM vs. LAL",
+    "player_ids": [
+      "1629139",
+      "1630692"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301193",
+    "game_date": "2024-04-14",
+    "team": "MEM",
+    "matchup": "MEM vs. DEN",
+    "player_ids": [
+      "1629139",
+      "1630692"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301201",
+    "game_date": "2023-12-05",
+    "team": "NYK",
+    "matchup": "NYK @ MIL",
+    "player_ids": [
+      "1629628",
+      "1630193"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301227",
+    "game_date": "2023-12-08",
+    "team": "NYK",
+    "matchup": "NYK @ BOS",
+    "player_ids": [
+      "1629628",
+      "1630193"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300297",
+    "game_date": "2023-12-11",
+    "team": "NYK",
+    "matchup": "NYK vs. TOR",
+    "player_ids": [
+      "1629628",
+      "1630193"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300318",
+    "game_date": "2023-12-13",
+    "team": "NYK",
+    "matchup": "NYK @ UTA",
+    "player_ids": [
+      "1629628",
+      "1630193"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300333",
+    "game_date": "2023-12-15",
+    "team": "NYK",
+    "matchup": "NYK @ PHX",
+    "player_ids": [
+      "1629628",
+      "1630193"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300343",
+    "game_date": "2023-12-16",
+    "team": "NYK",
+    "matchup": "NYK @ LAC",
+    "player_ids": [
+      "1629628",
+      "1630193"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300359",
+    "game_date": "2023-12-18",
+    "team": "NYK",
+    "matchup": "NYK @ LAL",
+    "player_ids": [
+      "1629628",
+      "1630193"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300368",
+    "game_date": "2023-12-20",
+    "team": "NYK",
+    "matchup": "NYK @ BKN",
+    "player_ids": [
+      "1629628",
+      "1630193"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300388",
+    "game_date": "2023-12-23",
+    "team": "NYK",
+    "matchup": "NYK vs. MIL",
+    "player_ids": [
+      "1629628",
+      "1630193"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300401",
+    "game_date": "2023-12-25",
+    "team": "NYK",
+    "matchup": "NYK vs. MIL",
+    "player_ids": [
+      "1629628",
+      "1630193"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300419",
+    "game_date": "2023-12-27",
+    "team": "NYK",
+    "matchup": "NYK @ OKC",
+    "player_ids": [
+      "1629628",
+      "1630193"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300429",
+    "game_date": "2023-12-29",
+    "team": "NYK",
+    "matchup": "NYK @ ORL",
+    "player_ids": [
+      "1629628",
+      "1630193"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301211",
+    "game_date": "2023-12-06",
+    "team": "CHA",
+    "matchup": "CHA @ CHI",
+    "player_ids": [
+      "1630177"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301216",
+    "game_date": "2023-12-08",
+    "team": "CHA",
+    "matchup": "CHA vs. TOR",
+    "player_ids": [
+      "1630177"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300292",
+    "game_date": "2023-12-11",
+    "team": "CHA",
+    "matchup": "CHA vs. MIA",
+    "player_ids": [
+      "1630177"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300312",
+    "game_date": "2023-12-13",
+    "team": "CHA",
+    "matchup": "CHA @ MIA",
+    "player_ids": [
+      "1630177"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300326",
+    "game_date": "2023-12-15",
+    "team": "CHA",
+    "matchup": "CHA vs. NOP",
+    "player_ids": [
+      "1630177"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300739",
+    "game_date": "2024-02-08",
+    "team": "UTA",
+    "matchup": "UTA @ PHX",
+    "player_ids": [
+      "1630184",
+      "203490"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300769",
+    "game_date": "2024-02-12",
+    "team": "UTA",
+    "matchup": "UTA vs. GSW",
+    "player_ids": [
+      "1630184",
+      "203490"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300788",
+    "game_date": "2024-02-14",
+    "team": "UTA",
+    "matchup": "UTA vs. LAL",
+    "player_ids": [
+      "1630184",
+      "203490"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300576",
+    "game_date": "2024-02-15",
+    "team": "UTA",
+    "matchup": "UTA vs. GSW",
+    "player_ids": [
+      "1630184",
+      "203490"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300801",
+    "game_date": "2024-02-22",
+    "team": "UTA",
+    "matchup": "UTA vs. CHA",
+    "player_ids": [
+      "1630184",
+      "203490"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300825",
+    "game_date": "2024-02-25",
+    "team": "UTA",
+    "matchup": "UTA vs. SAS",
+    "player_ids": [
+      "1630184",
+      "203490"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300835",
+    "game_date": "2024-02-27",
+    "team": "UTA",
+    "matchup": "UTA @ ATL",
+    "player_ids": [
+      "1630184",
+      "203490"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300850",
+    "game_date": "2024-02-29",
+    "team": "UTA",
+    "matchup": "UTA @ ORL",
+    "player_ids": [
+      "1630184",
+      "203490"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300867",
+    "game_date": "2024-03-02",
+    "team": "UTA",
+    "matchup": "UTA @ MIA",
+    "player_ids": [
+      "1630184",
+      "203490"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300882",
+    "game_date": "2024-03-04",
+    "team": "UTA",
+    "matchup": "UTA vs. WAS",
+    "player_ids": [
+      "1630184",
+      "203490"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300898",
+    "game_date": "2024-03-06",
+    "team": "UTA",
+    "matchup": "UTA vs. CHI",
+    "player_ids": [
+      "1630184",
+      "203490"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300922",
+    "game_date": "2024-03-09",
+    "team": "UTA",
+    "matchup": "UTA @ DEN",
+    "player_ids": [
+      "1630184",
+      "203490"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300943",
+    "game_date": "2024-03-12",
+    "team": "UTA",
+    "matchup": "UTA vs. BOS",
+    "player_ids": [
+      "1630184"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300966",
+    "game_date": "2024-03-15",
+    "team": "UTA",
+    "matchup": "UTA vs. ATL",
+    "player_ids": [
+      "1630184"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300974",
+    "game_date": "2024-03-16",
+    "team": "UTA",
+    "matchup": "UTA vs. MIN",
+    "player_ids": [
+      "1630184"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300987",
+    "game_date": "2024-03-18",
+    "team": "UTA",
+    "matchup": "UTA vs. MIN",
+    "player_ids": [
+      "1630184"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301000",
+    "game_date": "2024-03-20",
+    "team": "UTA",
+    "matchup": "UTA @ OKC",
+    "player_ids": [
+      "1630184"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301008",
+    "game_date": "2024-03-21",
+    "team": "UTA",
+    "matchup": "UTA @ DAL",
+    "player_ids": [
+      "1630184"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301024",
+    "game_date": "2024-03-23",
+    "team": "UTA",
+    "matchup": "UTA @ HOU",
+    "player_ids": [
+      "1630184"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301041",
+    "game_date": "2024-03-25",
+    "team": "UTA",
+    "matchup": "UTA vs. DAL",
+    "player_ids": [
+      "1630184"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301058",
+    "game_date": "2024-03-27",
+    "team": "UTA",
+    "matchup": "UTA vs. SAS",
+    "player_ids": [
+      "1630184"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301072",
+    "game_date": "2024-03-29",
+    "team": "UTA",
+    "matchup": "UTA vs. HOU",
+    "player_ids": [
+      "1630184"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301086",
+    "game_date": "2024-03-31",
+    "team": "UTA",
+    "matchup": "UTA @ SAC",
+    "player_ids": [
+      "1630184"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301100",
+    "game_date": "2024-04-02",
+    "team": "UTA",
+    "matchup": "UTA vs. CLE",
+    "player_ids": [
+      "1630184"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301126",
+    "game_date": "2024-04-05",
+    "team": "UTA",
+    "matchup": "UTA @ LAC",
+    "player_ids": [
+      "1630184"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301142",
+    "game_date": "2024-04-07",
+    "team": "UTA",
+    "matchup": "UTA @ GSW",
+    "player_ids": [
+      "1630184"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301154",
+    "game_date": "2024-04-09",
+    "team": "UTA",
+    "matchup": "UTA vs. DEN",
+    "player_ids": [
+      "1630184"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301168",
+    "game_date": "2024-04-11",
+    "team": "UTA",
+    "matchup": "UTA vs. HOU",
+    "player_ids": [
+      "1630184"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301184",
+    "game_date": "2024-04-12",
+    "team": "UTA",
+    "matchup": "UTA @ LAC",
+    "player_ids": [
+      "1630184"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301198",
+    "game_date": "2024-04-14",
+    "team": "UTA",
+    "matchup": "UTA @ GSW",
+    "player_ids": [
+      "1630184"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301204",
+    "game_date": "2023-12-04",
+    "team": "NOP",
+    "matchup": "NOP @ SAC",
+    "player_ids": [
+      "1630184"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301230",
+    "game_date": "2023-12-07",
+    "team": "NOP",
+    "matchup": "NOP @ LAL",
+    "player_ids": [
+      "1630184"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300301",
+    "game_date": "2023-12-11",
+    "team": "NOP",
+    "matchup": "NOP vs. MIN",
+    "player_ids": [
+      "1630184"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300311",
+    "game_date": "2023-12-13",
+    "team": "NOP",
+    "matchup": "NOP @ WAS",
+    "player_ids": [
+      "1630184"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300326",
+    "game_date": "2023-12-15",
+    "team": "NOP",
+    "matchup": "NOP @ CHA",
+    "player_ids": [
+      "1630184"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300345",
+    "game_date": "2023-12-17",
+    "team": "NOP",
+    "matchup": "NOP @ SAS",
+    "player_ids": [
+      "1630184"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300360",
+    "game_date": "2023-12-19",
+    "team": "NOP",
+    "matchup": "NOP vs. MEM",
+    "player_ids": [
+      "1630184"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300375",
+    "game_date": "2023-12-21",
+    "team": "NOP",
+    "matchup": "NOP @ CLE",
+    "player_ids": [
+      "1630184"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300392",
+    "game_date": "2023-12-23",
+    "team": "NOP",
+    "matchup": "NOP vs. HOU",
+    "player_ids": [
+      "1630184"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300410",
+    "game_date": "2023-12-26",
+    "team": "NOP",
+    "matchup": "NOP vs. MEM",
+    "player_ids": [
+      "1630184"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300424",
+    "game_date": "2023-12-28",
+    "team": "NOP",
+    "matchup": "NOP vs. UTA",
+    "player_ids": [
+      "1630184"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300446",
+    "game_date": "2023-12-31",
+    "team": "NOP",
+    "matchup": "NOP vs. LAL",
+    "player_ids": [
+      "1630184"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300461",
+    "game_date": "2024-01-02",
+    "team": "NOP",
+    "matchup": "NOP vs. BKN",
+    "player_ids": [
+      "1630184"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300471",
+    "game_date": "2024-01-03",
+    "team": "NOP",
+    "matchup": "NOP @ MIN",
+    "player_ids": [
+      "1630184"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300486",
+    "game_date": "2024-01-05",
+    "team": "NOP",
+    "matchup": "NOP vs. LAC",
+    "player_ids": [
+      "1630184"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300500",
+    "game_date": "2024-01-07",
+    "team": "NOP",
+    "matchup": "NOP @ SAC",
+    "player_ids": [
+      "1630184"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300525",
+    "game_date": "2024-01-10",
+    "team": "NOP",
+    "matchup": "NOP @ GSW",
+    "player_ids": [
+      "1630184"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300539",
+    "game_date": "2024-01-12",
+    "team": "NOP",
+    "matchup": "NOP @ DEN",
+    "player_ids": [
+      "1630184"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300547",
+    "game_date": "2024-01-13",
+    "team": "NOP",
+    "matchup": "NOP @ DAL",
+    "player_ids": [
+      "1630184"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300556",
+    "game_date": "2024-01-15",
+    "team": "NOP",
+    "matchup": "NOP @ DAL",
+    "player_ids": [
+      "1630184"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300575",
+    "game_date": "2024-01-17",
+    "team": "NOP",
+    "matchup": "NOP vs. CHA",
+    "player_ids": [
+      "1630184"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301213",
+    "game_date": "2023-12-06",
+    "team": "UTA",
+    "matchup": "UTA @ DAL",
+    "player_ids": [
+      "1630534",
+      "203482"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301225",
+    "game_date": "2023-12-08",
+    "team": "UTA",
+    "matchup": "UTA vs. LAC",
+    "player_ids": [
+      "1630534",
+      "203482"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300302",
+    "game_date": "2023-12-11",
+    "team": "UTA",
+    "matchup": "UTA @ OKC",
+    "player_ids": [
+      "1630534",
+      "203482"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300318",
+    "game_date": "2023-12-13",
+    "team": "UTA",
+    "matchup": "UTA vs. NYK",
+    "player_ids": [
+      "1630534",
+      "203482"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300323",
+    "game_date": "2023-12-14",
+    "team": "UTA",
+    "matchup": "UTA @ POR",
+    "player_ids": [
+      "1630534",
+      "203482"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300342",
+    "game_date": "2023-12-16",
+    "team": "UTA",
+    "matchup": "UTA @ SAC",
+    "player_ids": [
+      "1630534",
+      "203482"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300357",
+    "game_date": "2023-12-18",
+    "team": "UTA",
+    "matchup": "UTA vs. BKN",
+    "player_ids": [
+      "1630534",
+      "203482"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300364",
+    "game_date": "2023-12-20",
+    "team": "UTA",
+    "matchup": "UTA @ CLE",
+    "player_ids": [
+      "1630534",
+      "203482"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300374",
+    "game_date": "2023-12-21",
+    "team": "UTA",
+    "matchup": "UTA @ DET",
+    "player_ids": [
+      "1630534",
+      "203482"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300395",
+    "game_date": "2023-12-23",
+    "team": "UTA",
+    "matchup": "UTA @ TOR",
+    "player_ids": [
+      "1630534",
+      "203482"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300412",
+    "game_date": "2023-12-26",
+    "team": "UTA",
+    "matchup": "UTA @ SAS",
+    "player_ids": [
+      "1630534",
+      "203482"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300424",
+    "game_date": "2023-12-28",
+    "team": "UTA",
+    "matchup": "UTA @ NOP",
+    "player_ids": [
+      "1630534",
+      "203482"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300439",
+    "game_date": "2023-12-30",
+    "team": "UTA",
+    "matchup": "UTA vs. MIA",
+    "player_ids": [
+      "1630534",
+      "203482"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300457",
+    "game_date": "2024-01-01",
+    "team": "UTA",
+    "matchup": "UTA vs. DAL",
+    "player_ids": [
+      "1630534",
+      "203482"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300474",
+    "game_date": "2024-01-03",
+    "team": "UTA",
+    "matchup": "UTA vs. DET",
+    "player_ids": [
+      "1630534",
+      "203482"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300479",
+    "game_date": "2024-01-05",
+    "team": "UTA",
+    "matchup": "UTA @ BOS",
+    "player_ids": [
+      "1630534",
+      "203482"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300495",
+    "game_date": "2024-01-06",
+    "team": "UTA",
+    "matchup": "UTA @ PHI",
+    "player_ids": [
+      "1630534",
+      "203482"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300510",
+    "game_date": "2024-01-08",
+    "team": "UTA",
+    "matchup": "UTA @ MIL",
+    "player_ids": [
+      "1630534",
+      "203482"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300524",
+    "game_date": "2024-01-10",
+    "team": "UTA",
+    "matchup": "UTA vs. DEN",
+    "player_ids": [
+      "1630534",
+      "203482"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300540",
+    "game_date": "2024-01-12",
+    "team": "UTA",
+    "matchup": "UTA vs. TOR",
+    "player_ids": [
+      "1630534",
+      "203482"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300549",
+    "game_date": "2024-01-13",
+    "team": "UTA",
+    "matchup": "UTA vs. LAL",
+    "player_ids": [
+      "1630534",
+      "203482"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300564",
+    "game_date": "2024-01-15",
+    "team": "UTA",
+    "matchup": "UTA vs. IND",
+    "player_ids": [
+      "1630534",
+      "203482"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300581",
+    "game_date": "2024-01-18",
+    "team": "UTA",
+    "matchup": "UTA vs. OKC",
+    "player_ids": [
+      "1630534",
+      "203482"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300598",
+    "game_date": "2024-01-20",
+    "team": "UTA",
+    "matchup": "UTA @ HOU",
+    "player_ids": [
+      "1630534",
+      "203482"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300616",
+    "game_date": "2024-01-23",
+    "team": "UTA",
+    "matchup": "UTA @ NOP",
+    "player_ids": [
+      "1630534",
+      "203482"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300628",
+    "game_date": "2024-01-25",
+    "team": "UTA",
+    "matchup": "UTA @ WAS",
+    "player_ids": [
+      "1630534",
+      "203482"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300647",
+    "game_date": "2024-01-27",
+    "team": "UTA",
+    "matchup": "UTA @ CHA",
+    "player_ids": [
+      "1630534",
+      "203482"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300660",
+    "game_date": "2024-01-29",
+    "team": "UTA",
+    "matchup": "UTA @ BKN",
+    "player_ids": [
+      "1630534",
+      "203482"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300671",
+    "game_date": "2024-01-30",
+    "team": "UTA",
+    "matchup": "UTA @ NYK",
+    "player_ids": [
+      "1630534",
+      "203482"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300686",
+    "game_date": "2024-02-01",
+    "team": "UTA",
+    "matchup": "UTA vs. PHI",
+    "player_ids": [
+      "1630534",
+      "203482"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300711",
+    "game_date": "2024-02-04",
+    "team": "UTA",
+    "matchup": "UTA vs. MIL",
+    "player_ids": [
+      "1630534",
+      "203482"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300724",
+    "game_date": "2024-02-06",
+    "team": "UTA",
+    "matchup": "UTA vs. OKC",
+    "player_ids": [
+      "1630534",
+      "203482"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301206",
+    "game_date": "2023-12-06",
+    "team": "MEM",
+    "matchup": "MEM @ DET",
+    "player_ids": [
+      "1631223",
+      "203500"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022301221",
+    "game_date": "2023-12-08",
+    "team": "MEM",
+    "matchup": "MEM vs. MIN",
+    "player_ids": [
+      "1631223",
+      "203500"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300299",
+    "game_date": "2023-12-11",
+    "team": "MEM",
+    "matchup": "MEM vs. DAL",
+    "player_ids": [
+      "1631223",
+      "203500"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300314",
+    "game_date": "2023-12-13",
+    "team": "MEM",
+    "matchup": "MEM @ HOU",
+    "player_ids": [
+      "1631223",
+      "203500"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300332",
+    "game_date": "2023-12-15",
+    "team": "MEM",
+    "matchup": "MEM vs. HOU",
+    "player_ids": [
+      "1631223",
+      "203500"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300355",
+    "game_date": "2023-12-18",
+    "team": "MEM",
+    "matchup": "MEM @ OKC",
+    "player_ids": [
+      "1631223",
+      "203500"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300360",
+    "game_date": "2023-12-19",
+    "team": "MEM",
+    "matchup": "MEM @ NOP",
+    "player_ids": [
+      "1631223",
+      "203500"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300377",
+    "game_date": "2023-12-21",
+    "team": "MEM",
+    "matchup": "MEM vs. IND",
+    "player_ids": [
+      "1631223",
+      "203500"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300393",
+    "game_date": "2023-12-23",
+    "team": "MEM",
+    "matchup": "MEM @ ATL",
+    "player_ids": [
+      "1631223",
+      "203500"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300410",
+    "game_date": "2023-12-26",
+    "team": "MEM",
+    "matchup": "MEM @ NOP",
+    "player_ids": [
+      "1631223",
+      "203500"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300425",
+    "game_date": "2023-12-28",
+    "team": "MEM",
+    "matchup": "MEM @ DEN",
+    "player_ids": [
+      "1631223",
+      "203500"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300438",
+    "game_date": "2023-12-29",
+    "team": "MEM",
+    "matchup": "MEM @ LAC",
+    "player_ids": [
+      "1631223",
+      "203500"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300449",
+    "game_date": "2023-12-31",
+    "team": "MEM",
+    "matchup": "MEM vs. SAC",
+    "player_ids": [
+      "1631223",
+      "203500"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300460",
+    "game_date": "2024-01-02",
+    "team": "MEM",
+    "matchup": "MEM vs. SAS",
+    "player_ids": [
+      "1631223",
+      "203500"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300470",
+    "game_date": "2024-01-03",
+    "team": "MEM",
+    "matchup": "MEM vs. TOR",
+    "player_ids": [
+      "1631223",
+      "203500"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300491",
+    "game_date": "2024-01-05",
+    "team": "MEM",
+    "matchup": "MEM @ LAL",
+    "player_ids": [
+      "1631223",
+      "203500"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300503",
+    "game_date": "2024-01-07",
+    "team": "MEM",
+    "matchup": "MEM @ PHX",
+    "player_ids": [
+      "1631223",
+      "203500"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300515",
+    "game_date": "2024-01-09",
+    "team": "MEM",
+    "matchup": "MEM @ DAL",
+    "player_ids": [
+      "1631223",
+      "203500"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300537",
+    "game_date": "2024-01-12",
+    "team": "MEM",
+    "matchup": "MEM vs. LAC",
+    "player_ids": [
+      "1631223",
+      "203500"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300544",
+    "game_date": "2024-01-13",
+    "team": "MEM",
+    "matchup": "MEM vs. NYK",
+    "player_ids": [
+      "1631223",
+      "203500"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300560",
+    "game_date": "2024-01-15",
+    "team": "MEM",
+    "matchup": "MEM vs. GSW",
+    "player_ids": [
+      "1631223",
+      "203500"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300582",
+    "game_date": "2024-01-18",
+    "team": "MEM",
+    "matchup": "MEM @ MIN",
+    "player_ids": [
+      "1631223",
+      "203500"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300597",
+    "game_date": "2024-01-20",
+    "team": "MEM",
+    "matchup": "MEM @ CHI",
+    "player_ids": [
+      "1631223",
+      "203500"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300609",
+    "game_date": "2024-01-22",
+    "team": "MEM",
+    "matchup": "MEM @ TOR",
+    "player_ids": [
+      "1631223",
+      "203500"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300621",
+    "game_date": "2024-01-24",
+    "team": "MEM",
+    "matchup": "MEM @ MIA",
+    "player_ids": [
+      "1631223",
+      "203500"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300638",
+    "game_date": "2024-01-26",
+    "team": "MEM",
+    "matchup": "MEM vs. ORL",
+    "player_ids": [
+      "1631223",
+      "203500"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300652",
+    "game_date": "2024-01-28",
+    "team": "MEM",
+    "matchup": "MEM @ IND",
+    "player_ids": [
+      "1631223",
+      "203500"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300663",
+    "game_date": "2024-01-29",
+    "team": "MEM",
+    "matchup": "MEM vs. SAC",
+    "player_ids": [
+      "1631223",
+      "203500"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300687",
+    "game_date": "2024-02-01",
+    "team": "MEM",
+    "matchup": "MEM vs. CLE",
+    "player_ids": [
+      "1631223",
+      "203500"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300693",
+    "game_date": "2024-02-02",
+    "team": "MEM",
+    "matchup": "MEM vs. GSW",
+    "player_ids": [
+      "1631223",
+      "203506"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300706",
+    "game_date": "2024-02-04",
+    "team": "MEM",
+    "matchup": "MEM @ BOS",
+    "player_ids": [
+      "1631223",
+      "203506"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300722",
+    "game_date": "2024-02-06",
+    "team": "MEM",
+    "matchup": "MEM @ NYK",
+    "player_ids": [
+      "1631223",
+      "203506"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300737",
+    "game_date": "2024-02-08",
+    "team": "MEM",
+    "matchup": "MEM vs. CHI",
+    "player_ids": [
+      "1631223"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300776",
+    "game_date": "2024-02-13",
+    "team": "LAL",
+    "matchup": "LAL vs. DET",
+    "player_ids": [
+      "203915"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300788",
+    "game_date": "2024-02-14",
+    "team": "LAL",
+    "matchup": "LAL @ UTA",
+    "player_ids": [
+      "203915"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300802",
+    "game_date": "2024-02-22",
+    "team": "LAL",
+    "matchup": "LAL @ GSW",
+    "player_ids": [
+      "203915"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300813",
+    "game_date": "2024-02-23",
+    "team": "LAL",
+    "matchup": "LAL vs. SAS",
+    "player_ids": [
+      "203915"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300818",
+    "game_date": "2024-02-25",
+    "team": "LAL",
+    "matchup": "LAL @ PHX",
+    "player_ids": [
+      "203915"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300848",
+    "game_date": "2024-02-28",
+    "team": "LAL",
+    "matchup": "LAL @ LAC",
+    "player_ids": [
+      "203915"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300856",
+    "game_date": "2024-02-29",
+    "team": "LAL",
+    "matchup": "LAL vs. WAS",
+    "player_ids": [
+      "203915"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  },
+  {
+    "game_id": "0022300869",
+    "game_date": "2024-03-02",
+    "team": "LAL",
+    "matchup": "LAL vs. DEN",
+    "player_ids": [
+      "203915"
+    ],
+    "scope": "targeted_actual_player_roster_only"
+  }
+]

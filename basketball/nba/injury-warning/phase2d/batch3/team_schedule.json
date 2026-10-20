@@ -1,0 +1,1868 @@
+[
+  {
+    "game_id": "0022301202",
+    "game_date": "2023-12-04",
+    "team": "IND",
+    "matchup": "IND vs. BOS"
+  },
+  {
+    "game_id": "0022301204",
+    "game_date": "2023-12-04",
+    "team": "NOP",
+    "matchup": "NOP @ SAC"
+  },
+  {
+    "game_id": "0022301203",
+    "game_date": "2023-12-05",
+    "team": "LAL",
+    "matchup": "LAL vs. PHX"
+  },
+  {
+    "game_id": "0022301215",
+    "game_date": "2023-12-06",
+    "team": "LAC",
+    "matchup": "LAC vs. DEN"
+  },
+  {
+    "game_id": "0022301207",
+    "game_date": "2023-12-06",
+    "team": "MIA",
+    "matchup": "MIA @ TOR"
+  },
+  {
+    "game_id": "0022301230",
+    "game_date": "2023-12-07",
+    "team": "LAL",
+    "matchup": "LAL vs. NOP"
+  },
+  {
+    "game_id": "0022301230",
+    "game_date": "2023-12-07",
+    "team": "NOP",
+    "matchup": "NOP @ LAL"
+  },
+  {
+    "game_id": "0022301229",
+    "game_date": "2023-12-07",
+    "team": "IND",
+    "matchup": "IND @ MIL"
+  },
+  {
+    "game_id": "0022301220",
+    "game_date": "2023-12-08",
+    "team": "MIA",
+    "matchup": "MIA vs. CLE"
+  },
+  {
+    "game_id": "0022301225",
+    "game_date": "2023-12-08",
+    "team": "LAC",
+    "matchup": "LAC @ UTA"
+  },
+  {
+    "game_id": "0022300301",
+    "game_date": "2023-12-11",
+    "team": "NOP",
+    "matchup": "NOP vs. MIN"
+  },
+  {
+    "game_id": "0022300304",
+    "game_date": "2023-12-11",
+    "team": "LAC",
+    "matchup": "LAC vs. POR"
+  },
+  {
+    "game_id": "0022300293",
+    "game_date": "2023-12-11",
+    "team": "IND",
+    "matchup": "IND @ DET"
+  },
+  {
+    "game_id": "0022300292",
+    "game_date": "2023-12-11",
+    "team": "MIA",
+    "matchup": "MIA @ CHA"
+  },
+  {
+    "game_id": "0022300306",
+    "game_date": "2023-12-12",
+    "team": "LAL",
+    "matchup": "LAL @ DAL"
+  },
+  {
+    "game_id": "0022300309",
+    "game_date": "2023-12-12",
+    "team": "LAC",
+    "matchup": "LAC vs. SAC"
+  },
+  {
+    "game_id": "0022300315",
+    "game_date": "2023-12-13",
+    "team": "IND",
+    "matchup": "IND @ MIL"
+  },
+  {
+    "game_id": "0022300316",
+    "game_date": "2023-12-13",
+    "team": "LAL",
+    "matchup": "LAL @ SAS"
+  },
+  {
+    "game_id": "0022300311",
+    "game_date": "2023-12-13",
+    "team": "NOP",
+    "matchup": "NOP @ WAS"
+  },
+  {
+    "game_id": "0022300312",
+    "game_date": "2023-12-13",
+    "team": "MIA",
+    "matchup": "MIA vs. CHA"
+  },
+  {
+    "game_id": "0022300320",
+    "game_date": "2023-12-14",
+    "team": "MIA",
+    "matchup": "MIA vs. CHI"
+  },
+  {
+    "game_id": "0022300325",
+    "game_date": "2023-12-14",
+    "team": "LAC",
+    "matchup": "LAC vs. GSW"
+  },
+  {
+    "game_id": "0022300331",
+    "game_date": "2023-12-15",
+    "team": "LAL",
+    "matchup": "LAL @ SAS"
+  },
+  {
+    "game_id": "0022300328",
+    "game_date": "2023-12-15",
+    "team": "IND",
+    "matchup": "IND @ WAS"
+  },
+  {
+    "game_id": "0022300326",
+    "game_date": "2023-12-15",
+    "team": "NOP",
+    "matchup": "NOP @ CHA"
+  },
+  {
+    "game_id": "0022300337",
+    "game_date": "2023-12-16",
+    "team": "MIA",
+    "matchup": "MIA vs. CHI"
+  },
+  {
+    "game_id": "0022300338",
+    "game_date": "2023-12-16",
+    "team": "IND",
+    "matchup": "IND @ MIN"
+  },
+  {
+    "game_id": "0022300343",
+    "game_date": "2023-12-16",
+    "team": "LAC",
+    "matchup": "LAC vs. NYK"
+  },
+  {
+    "game_id": "0022300345",
+    "game_date": "2023-12-17",
+    "team": "NOP",
+    "matchup": "NOP @ SAS"
+  },
+  {
+    "game_id": "0022300350",
+    "game_date": "2023-12-18",
+    "team": "IND",
+    "matchup": "IND vs. LAC"
+  },
+  {
+    "game_id": "0022300353",
+    "game_date": "2023-12-18",
+    "team": "MIA",
+    "matchup": "MIA vs. MIN"
+  },
+  {
+    "game_id": "0022300359",
+    "game_date": "2023-12-18",
+    "team": "LAL",
+    "matchup": "LAL vs. NYK"
+  },
+  {
+    "game_id": "0022300350",
+    "game_date": "2023-12-18",
+    "team": "LAC",
+    "matchup": "LAC @ IND"
+  },
+  {
+    "game_id": "0022300360",
+    "game_date": "2023-12-19",
+    "team": "NOP",
+    "matchup": "NOP vs. MEM"
+  },
+  {
+    "game_id": "0022300370",
+    "game_date": "2023-12-20",
+    "team": "LAL",
+    "matchup": "LAL @ CHI"
+  },
+  {
+    "game_id": "0022300372",
+    "game_date": "2023-12-20",
+    "team": "LAC",
+    "matchup": "LAC @ DAL"
+  },
+  {
+    "game_id": "0022300366",
+    "game_date": "2023-12-20",
+    "team": "MIA",
+    "matchup": "MIA @ ORL"
+  },
+  {
+    "game_id": "0022300365",
+    "game_date": "2023-12-20",
+    "team": "IND",
+    "matchup": "IND vs. CHA"
+  },
+  {
+    "game_id": "0022300375",
+    "game_date": "2023-12-21",
+    "team": "NOP",
+    "matchup": "NOP @ CLE"
+  },
+  {
+    "game_id": "0022300380",
+    "game_date": "2023-12-21",
+    "team": "LAL",
+    "matchup": "LAL @ MIN"
+  },
+  {
+    "game_id": "0022300379",
+    "game_date": "2023-12-21",
+    "team": "LAC",
+    "matchup": "LAC @ OKC"
+  },
+  {
+    "game_id": "0022300377",
+    "game_date": "2023-12-21",
+    "team": "IND",
+    "matchup": "IND @ MEM"
+  },
+  {
+    "game_id": "0022300384",
+    "game_date": "2023-12-22",
+    "team": "MIA",
+    "matchup": "MIA vs. ATL"
+  },
+  {
+    "game_id": "0022300389",
+    "game_date": "2023-12-23",
+    "team": "LAC",
+    "matchup": "LAC vs. BOS"
+  },
+  {
+    "game_id": "0022300392",
+    "game_date": "2023-12-23",
+    "team": "NOP",
+    "matchup": "NOP vs. HOU"
+  },
+  {
+    "game_id": "0022300391",
+    "game_date": "2023-12-23",
+    "team": "IND",
+    "matchup": "IND vs. ORL"
+  },
+  {
+    "game_id": "0022300397",
+    "game_date": "2023-12-23",
+    "team": "LAL",
+    "matchup": "LAL @ OKC"
+  },
+  {
+    "game_id": "0022300403",
+    "game_date": "2023-12-25",
+    "team": "LAL",
+    "matchup": "LAL vs. BOS"
+  },
+  {
+    "game_id": "0022300404",
+    "game_date": "2023-12-25",
+    "team": "MIA",
+    "matchup": "MIA vs. PHI"
+  },
+  {
+    "game_id": "0022300409",
+    "game_date": "2023-12-26",
+    "team": "IND",
+    "matchup": "IND @ HOU"
+  },
+  {
+    "game_id": "0022300410",
+    "game_date": "2023-12-26",
+    "team": "NOP",
+    "matchup": "NOP vs. MEM"
+  },
+  {
+    "game_id": "0022300414",
+    "game_date": "2023-12-26",
+    "team": "LAC",
+    "matchup": "LAC vs. CHA"
+  },
+  {
+    "game_id": "0022300422",
+    "game_date": "2023-12-28",
+    "team": "IND",
+    "matchup": "IND @ CHI"
+  },
+  {
+    "game_id": "0022300426",
+    "game_date": "2023-12-28",
+    "team": "MIA",
+    "matchup": "MIA @ GSW"
+  },
+  {
+    "game_id": "0022300424",
+    "game_date": "2023-12-28",
+    "team": "NOP",
+    "matchup": "NOP vs. UTA"
+  },
+  {
+    "game_id": "0022300428",
+    "game_date": "2023-12-28",
+    "team": "LAL",
+    "matchup": "LAL vs. CHA"
+  },
+  {
+    "game_id": "0022300438",
+    "game_date": "2023-12-29",
+    "team": "LAC",
+    "matchup": "LAC vs. MEM"
+  },
+  {
+    "game_id": "0022300443",
+    "game_date": "2023-12-30",
+    "team": "LAL",
+    "matchup": "LAL @ MIN"
+  },
+  {
+    "game_id": "0022300441",
+    "game_date": "2023-12-30",
+    "team": "IND",
+    "matchup": "IND vs. NYK"
+  },
+  {
+    "game_id": "0022300439",
+    "game_date": "2023-12-30",
+    "team": "MIA",
+    "matchup": "MIA @ UTA"
+  },
+  {
+    "game_id": "0022300446",
+    "game_date": "2023-12-31",
+    "team": "LAL",
+    "matchup": "LAL @ NOP"
+  },
+  {
+    "game_id": "0022300446",
+    "game_date": "2023-12-31",
+    "team": "NOP",
+    "matchup": "NOP vs. LAL"
+  },
+  {
+    "game_id": "0022300458",
+    "game_date": "2024-01-01",
+    "team": "MIA",
+    "matchup": "MIA @ LAC"
+  },
+  {
+    "game_id": "0022300458",
+    "game_date": "2024-01-01",
+    "team": "LAC",
+    "matchup": "LAC vs. MIA"
+  },
+  {
+    "game_id": "0022300454",
+    "game_date": "2024-01-01",
+    "team": "IND",
+    "matchup": "IND @ MIL"
+  },
+  {
+    "game_id": "0022300461",
+    "game_date": "2024-01-02",
+    "team": "NOP",
+    "matchup": "NOP vs. BKN"
+  },
+  {
+    "game_id": "0022300475",
+    "game_date": "2024-01-03",
+    "team": "MIA",
+    "matchup": "MIA @ LAL"
+  },
+  {
+    "game_id": "0022300475",
+    "game_date": "2024-01-03",
+    "team": "LAL",
+    "matchup": "LAL vs. MIA"
+  },
+  {
+    "game_id": "0022300466",
+    "game_date": "2024-01-03",
+    "team": "IND",
+    "matchup": "IND vs. MIL"
+  },
+  {
+    "game_id": "0022300471",
+    "game_date": "2024-01-03",
+    "team": "NOP",
+    "matchup": "NOP @ MIN"
+  },
+  {
+    "game_id": "0022300473",
+    "game_date": "2024-01-03",
+    "team": "LAC",
+    "matchup": "LAC @ PHX"
+  },
+  {
+    "game_id": "0022300480",
+    "game_date": "2024-01-05",
+    "team": "IND",
+    "matchup": "IND vs. ATL"
+  },
+  {
+    "game_id": "0022300486",
+    "game_date": "2024-01-05",
+    "team": "LAC",
+    "matchup": "LAC @ NOP"
+  },
+  {
+    "game_id": "0022300486",
+    "game_date": "2024-01-05",
+    "team": "NOP",
+    "matchup": "NOP vs. LAC"
+  },
+  {
+    "game_id": "0022300489",
+    "game_date": "2024-01-05",
+    "team": "MIA",
+    "matchup": "MIA @ PHX"
+  },
+  {
+    "game_id": "0022300491",
+    "game_date": "2024-01-05",
+    "team": "LAL",
+    "matchup": "LAL vs. MEM"
+  },
+  {
+    "game_id": "0022300493",
+    "game_date": "2024-01-06",
+    "team": "IND",
+    "matchup": "IND vs. BOS"
+  },
+  {
+    "game_id": "0022300505",
+    "game_date": "2024-01-07",
+    "team": "LAL",
+    "matchup": "LAL vs. LAC"
+  },
+  {
+    "game_id": "0022300505",
+    "game_date": "2024-01-07",
+    "team": "LAC",
+    "matchup": "LAC @ LAL"
+  },
+  {
+    "game_id": "0022300500",
+    "game_date": "2024-01-07",
+    "team": "NOP",
+    "matchup": "NOP @ SAC"
+  },
+  {
+    "game_id": "0022300507",
+    "game_date": "2024-01-08",
+    "team": "IND",
+    "matchup": "IND vs. BOS"
+  },
+  {
+    "game_id": "0022300509",
+    "game_date": "2024-01-08",
+    "team": "MIA",
+    "matchup": "MIA vs. HOU"
+  },
+  {
+    "game_id": "0022300511",
+    "game_date": "2024-01-08",
+    "team": "LAC",
+    "matchup": "LAC vs. PHX"
+  },
+  {
+    "game_id": "0022300516",
+    "game_date": "2024-01-09",
+    "team": "LAL",
+    "matchup": "LAL vs. TOR"
+  },
+  {
+    "game_id": "0022300525",
+    "game_date": "2024-01-10",
+    "team": "NOP",
+    "matchup": "NOP @ GSW"
+  },
+  {
+    "game_id": "0022300522",
+    "game_date": "2024-01-10",
+    "team": "MIA",
+    "matchup": "MIA vs. OKC"
+  },
+  {
+    "game_id": "0022300526",
+    "game_date": "2024-01-10",
+    "team": "LAC",
+    "matchup": "LAC vs. TOR"
+  },
+  {
+    "game_id": "0022300520",
+    "game_date": "2024-01-10",
+    "team": "IND",
+    "matchup": "IND vs. WAS"
+  },
+  {
+    "game_id": "0022300531",
+    "game_date": "2024-01-11",
+    "team": "LAL",
+    "matchup": "LAL vs. PHX"
+  },
+  {
+    "game_id": "0022300533",
+    "game_date": "2024-01-12",
+    "team": "IND",
+    "matchup": "IND @ ATL"
+  },
+  {
+    "game_id": "0022300539",
+    "game_date": "2024-01-12",
+    "team": "NOP",
+    "matchup": "NOP @ DEN"
+  },
+  {
+    "game_id": "0022300535",
+    "game_date": "2024-01-12",
+    "team": "MIA",
+    "matchup": "MIA vs. ORL"
+  },
+  {
+    "game_id": "0022300537",
+    "game_date": "2024-01-12",
+    "team": "LAC",
+    "matchup": "LAC @ MEM"
+  },
+  {
+    "game_id": "0022300547",
+    "game_date": "2024-01-13",
+    "team": "NOP",
+    "matchup": "NOP @ DAL"
+  },
+  {
+    "game_id": "0022300549",
+    "game_date": "2024-01-13",
+    "team": "LAL",
+    "matchup": "LAL @ UTA"
+  },
+  {
+    "game_id": "0022300550",
+    "game_date": "2024-01-14",
+    "team": "IND",
+    "matchup": "IND @ DEN"
+  },
+  {
+    "game_id": "0022300553",
+    "game_date": "2024-01-14",
+    "team": "LAC",
+    "matchup": "LAC @ MIN"
+  },
+  {
+    "game_id": "0022300551",
+    "game_date": "2024-01-14",
+    "team": "MIA",
+    "matchup": "MIA vs. CHA"
+  },
+  {
+    "game_id": "0022300556",
+    "game_date": "2024-01-15",
+    "team": "NOP",
+    "matchup": "NOP @ DAL"
+  },
+  {
+    "game_id": "0022300562",
+    "game_date": "2024-01-15",
+    "team": "MIA",
+    "matchup": "MIA @ BKN"
+  },
+  {
+    "game_id": "0022300565",
+    "game_date": "2024-01-15",
+    "team": "LAL",
+    "matchup": "LAL vs. OKC"
+  },
+  {
+    "game_id": "0022300564",
+    "game_date": "2024-01-15",
+    "team": "IND",
+    "matchup": "IND @ UTA"
+  },
+  {
+    "game_id": "0022300568",
+    "game_date": "2024-01-16",
+    "team": "LAC",
+    "matchup": "LAC vs. OKC"
+  },
+  {
+    "game_id": "0022300577",
+    "game_date": "2024-01-17",
+    "team": "LAL",
+    "matchup": "LAL vs. DAL"
+  },
+  {
+    "game_id": "0022300574",
+    "game_date": "2024-01-17",
+    "team": "MIA",
+    "matchup": "MIA @ TOR"
+  },
+  {
+    "game_id": "0022300575",
+    "game_date": "2024-01-17",
+    "team": "NOP",
+    "matchup": "NOP vs. CHA"
+  },
+  {
+    "game_id": "0022300583",
+    "game_date": "2024-01-18",
+    "team": "IND",
+    "matchup": "IND @ SAC"
+  },
+  {
+    "game_id": "0022300587",
+    "game_date": "2024-01-19",
+    "team": "MIA",
+    "matchup": "MIA vs. ATL"
+  },
+  {
+    "game_id": "0022300591",
+    "game_date": "2024-01-19",
+    "team": "LAL",
+    "matchup": "LAL vs. BKN"
+  },
+  {
+    "game_id": "0022300588",
+    "game_date": "2024-01-19",
+    "team": "NOP",
+    "matchup": "NOP vs. PHX"
+  },
+  {
+    "game_id": "0022300590",
+    "game_date": "2024-01-19",
+    "team": "IND",
+    "matchup": "IND @ POR"
+  },
+  {
+    "game_id": "0022300600",
+    "game_date": "2024-01-21",
+    "team": "LAC",
+    "matchup": "LAC vs. BKN"
+  },
+  {
+    "game_id": "0022300601",
+    "game_date": "2024-01-21",
+    "team": "MIA",
+    "matchup": "MIA @ ORL"
+  },
+  {
+    "game_id": "0022300604",
+    "game_date": "2024-01-21",
+    "team": "IND",
+    "matchup": "IND @ PHX"
+  },
+  {
+    "game_id": "0022300605",
+    "game_date": "2024-01-21",
+    "team": "LAL",
+    "matchup": "LAL vs. POR"
+  },
+  {
+    "game_id": "0022300614",
+    "game_date": "2024-01-23",
+    "team": "IND",
+    "matchup": "IND vs. DEN"
+  },
+  {
+    "game_id": "0022300618",
+    "game_date": "2024-01-23",
+    "team": "LAL",
+    "matchup": "LAL @ LAC"
+  },
+  {
+    "game_id": "0022300618",
+    "game_date": "2024-01-23",
+    "team": "LAC",
+    "matchup": "LAC vs. LAL"
+  },
+  {
+    "game_id": "0022300616",
+    "game_date": "2024-01-23",
+    "team": "NOP",
+    "matchup": "NOP vs. UTA"
+  },
+  {
+    "game_id": "0022300621",
+    "game_date": "2024-01-24",
+    "team": "MIA",
+    "matchup": "MIA vs. MEM"
+  },
+  {
+    "game_id": "0022300630",
+    "game_date": "2024-01-25",
+    "team": "MIA",
+    "matchup": "MIA vs. BOS"
+  },
+  {
+    "game_id": "0022300633",
+    "game_date": "2024-01-25",
+    "team": "LAL",
+    "matchup": "LAL vs. CHI"
+  },
+  {
+    "game_id": "0022300627",
+    "game_date": "2024-01-25",
+    "team": "IND",
+    "matchup": "IND vs. PHI"
+  },
+  {
+    "game_id": "0022300636",
+    "game_date": "2024-01-26",
+    "team": "IND",
+    "matchup": "IND vs. PHX"
+  },
+  {
+    "game_id": "0022300640",
+    "game_date": "2024-01-26",
+    "team": "NOP",
+    "matchup": "NOP vs. OKC"
+  },
+  {
+    "game_id": "0022300637",
+    "game_date": "2024-01-26",
+    "team": "LAC",
+    "matchup": "LAC @ TOR"
+  },
+  {
+    "game_id": "0022300646",
+    "game_date": "2024-01-27",
+    "team": "LAC",
+    "matchup": "LAC @ BOS"
+  },
+  {
+    "game_id": "0022300650",
+    "game_date": "2024-01-27",
+    "team": "LAL",
+    "matchup": "LAL @ GSW"
+  },
+  {
+    "game_id": "0022300648",
+    "game_date": "2024-01-27",
+    "team": "NOP",
+    "matchup": "NOP @ MIL"
+  },
+  {
+    "game_id": "0022300643",
+    "game_date": "2024-01-27",
+    "team": "MIA",
+    "matchup": "MIA @ NYK"
+  },
+  {
+    "game_id": "0022300652",
+    "game_date": "2024-01-28",
+    "team": "IND",
+    "matchup": "IND vs. MEM"
+  },
+  {
+    "game_id": "0022300659",
+    "game_date": "2024-01-29",
+    "team": "NOP",
+    "matchup": "NOP @ BOS"
+  },
+  {
+    "game_id": "0022300658",
+    "game_date": "2024-01-29",
+    "team": "LAC",
+    "matchup": "LAC @ CLE"
+  },
+  {
+    "game_id": "0022300662",
+    "game_date": "2024-01-29",
+    "team": "LAL",
+    "matchup": "LAL @ HOU"
+  },
+  {
+    "game_id": "0022300661",
+    "game_date": "2024-01-29",
+    "team": "MIA",
+    "matchup": "MIA vs. PHX"
+  },
+  {
+    "game_id": "0022300669",
+    "game_date": "2024-01-30",
+    "team": "LAL",
+    "matchup": "LAL @ ATL"
+  },
+  {
+    "game_id": "0022300670",
+    "game_date": "2024-01-30",
+    "team": "IND",
+    "matchup": "IND @ BOS"
+  },
+  {
+    "game_id": "0022300679",
+    "game_date": "2024-01-31",
+    "team": "NOP",
+    "matchup": "NOP @ HOU"
+  },
+  {
+    "game_id": "0022300678",
+    "game_date": "2024-01-31",
+    "team": "MIA",
+    "matchup": "MIA vs. SAC"
+  },
+  {
+    "game_id": "0022300676",
+    "game_date": "2024-01-31",
+    "team": "LAC",
+    "matchup": "LAC @ WAS"
+  },
+  {
+    "game_id": "0022300684",
+    "game_date": "2024-02-01",
+    "team": "LAL",
+    "matchup": "LAL @ BOS"
+  },
+  {
+    "game_id": "0022300685",
+    "game_date": "2024-02-01",
+    "team": "IND",
+    "matchup": "IND @ NYK"
+  },
+  {
+    "game_id": "0022300691",
+    "game_date": "2024-02-02",
+    "team": "IND",
+    "matchup": "IND vs. SAC"
+  },
+  {
+    "game_id": "0022300696",
+    "game_date": "2024-02-02",
+    "team": "NOP",
+    "matchup": "NOP @ SAS"
+  },
+  {
+    "game_id": "0022300689",
+    "game_date": "2024-02-02",
+    "team": "MIA",
+    "matchup": "MIA @ WAS"
+  },
+  {
+    "game_id": "0022300688",
+    "game_date": "2024-02-02",
+    "team": "LAC",
+    "matchup": "LAC @ DET"
+  },
+  {
+    "game_id": "0022300701",
+    "game_date": "2024-02-03",
+    "team": "LAL",
+    "matchup": "LAL @ NYK"
+  },
+  {
+    "game_id": "0022300708",
+    "game_date": "2024-02-04",
+    "team": "MIA",
+    "matchup": "MIA vs. LAC"
+  },
+  {
+    "game_id": "0022300708",
+    "game_date": "2024-02-04",
+    "team": "LAC",
+    "matchup": "LAC @ MIA"
+  },
+  {
+    "game_id": "0022300707",
+    "game_date": "2024-02-04",
+    "team": "IND",
+    "matchup": "IND @ CHA"
+  },
+  {
+    "game_id": "0022300716",
+    "game_date": "2024-02-05",
+    "team": "LAC",
+    "matchup": "LAC @ ATL"
+  },
+  {
+    "game_id": "0022300718",
+    "game_date": "2024-02-05",
+    "team": "NOP",
+    "matchup": "NOP vs. TOR"
+  },
+  {
+    "game_id": "0022300713",
+    "game_date": "2024-02-05",
+    "team": "LAL",
+    "matchup": "LAL @ CHA"
+  },
+  {
+    "game_id": "0022300719",
+    "game_date": "2024-02-06",
+    "team": "IND",
+    "matchup": "IND vs. HOU"
+  },
+  {
+    "game_id": "0022300721",
+    "game_date": "2024-02-06",
+    "team": "MIA",
+    "matchup": "MIA vs. ORL"
+  },
+  {
+    "game_id": "0022300731",
+    "game_date": "2024-02-07",
+    "team": "LAC",
+    "matchup": "LAC vs. NOP"
+  },
+  {
+    "game_id": "0022300731",
+    "game_date": "2024-02-07",
+    "team": "NOP",
+    "matchup": "NOP @ LAC"
+  },
+  {
+    "game_id": "0022300730",
+    "game_date": "2024-02-07",
+    "team": "MIA",
+    "matchup": "MIA vs. SAS"
+  },
+  {
+    "game_id": "0022300740",
+    "game_date": "2024-02-08",
+    "team": "LAL",
+    "matchup": "LAL vs. DEN"
+  },
+  {
+    "game_id": "0022300733",
+    "game_date": "2024-02-08",
+    "team": "IND",
+    "matchup": "IND vs. GSW"
+  },
+  {
+    "game_id": "0022300747",
+    "game_date": "2024-02-09",
+    "team": "LAL",
+    "matchup": "LAL vs. NOP"
+  },
+  {
+    "game_id": "0022300747",
+    "game_date": "2024-02-09",
+    "team": "NOP",
+    "matchup": "NOP @ LAL"
+  },
+  {
+    "game_id": "0022300755",
+    "game_date": "2024-02-10",
+    "team": "IND",
+    "matchup": "IND @ NYK"
+  },
+  {
+    "game_id": "0022300758",
+    "game_date": "2024-02-10",
+    "team": "NOP",
+    "matchup": "NOP @ POR"
+  },
+  {
+    "game_id": "0022300749",
+    "game_date": "2024-02-10",
+    "team": "LAC",
+    "matchup": "LAC vs. DET"
+  },
+  {
+    "game_id": "0022300759",
+    "game_date": "2024-02-11",
+    "team": "MIA",
+    "matchup": "MIA vs. BOS"
+  },
+  {
+    "game_id": "0022300770",
+    "game_date": "2024-02-12",
+    "team": "LAC",
+    "matchup": "LAC vs. MIN"
+  },
+  {
+    "game_id": "0022300766",
+    "game_date": "2024-02-12",
+    "team": "NOP",
+    "matchup": "NOP @ MEM"
+  },
+  {
+    "game_id": "0022300761",
+    "game_date": "2024-02-12",
+    "team": "IND",
+    "matchup": "IND @ CHA"
+  },
+  {
+    "game_id": "0022300773",
+    "game_date": "2024-02-13",
+    "team": "MIA",
+    "matchup": "MIA @ MIL"
+  },
+  {
+    "game_id": "0022300776",
+    "game_date": "2024-02-13",
+    "team": "LAL",
+    "matchup": "LAL vs. DET"
+  },
+  {
+    "game_id": "0022300789",
+    "game_date": "2024-02-14",
+    "team": "LAC",
+    "matchup": "LAC @ GSW"
+  },
+  {
+    "game_id": "0022300779",
+    "game_date": "2024-02-14",
+    "team": "MIA",
+    "matchup": "MIA @ PHI"
+  },
+  {
+    "game_id": "0022300782",
+    "game_date": "2024-02-14",
+    "team": "IND",
+    "matchup": "IND @ TOR"
+  },
+  {
+    "game_id": "0022300788",
+    "game_date": "2024-02-14",
+    "team": "LAL",
+    "matchup": "LAL @ UTA"
+  },
+  {
+    "game_id": "0022300784",
+    "game_date": "2024-02-14",
+    "team": "NOP",
+    "matchup": "NOP vs. WAS"
+  },
+  {
+    "game_id": "0022300802",
+    "game_date": "2024-02-22",
+    "team": "LAL",
+    "matchup": "LAL @ GSW"
+  },
+  {
+    "game_id": "0022300798",
+    "game_date": "2024-02-22",
+    "team": "NOP",
+    "matchup": "NOP vs. HOU"
+  },
+  {
+    "game_id": "0022300799",
+    "game_date": "2024-02-22",
+    "team": "LAC",
+    "matchup": "LAC @ OKC"
+  },
+  {
+    "game_id": "0022300793",
+    "game_date": "2024-02-22",
+    "team": "IND",
+    "matchup": "IND vs. DET"
+  },
+  {
+    "game_id": "0022300810",
+    "game_date": "2024-02-23",
+    "team": "MIA",
+    "matchup": "MIA @ NOP"
+  },
+  {
+    "game_id": "0022300810",
+    "game_date": "2024-02-23",
+    "team": "NOP",
+    "matchup": "NOP vs. MIA"
+  },
+  {
+    "game_id": "0022300813",
+    "game_date": "2024-02-23",
+    "team": "LAL",
+    "matchup": "LAL vs. SAS"
+  },
+  {
+    "game_id": "0022300807",
+    "game_date": "2024-02-23",
+    "team": "LAC",
+    "matchup": "LAC @ MEM"
+  },
+  {
+    "game_id": "0022300823",
+    "game_date": "2024-02-25",
+    "team": "NOP",
+    "matchup": "NOP vs. CHI"
+  },
+  {
+    "game_id": "0022300819",
+    "game_date": "2024-02-25",
+    "team": "IND",
+    "matchup": "IND vs. DAL"
+  },
+  {
+    "game_id": "0022300818",
+    "game_date": "2024-02-25",
+    "team": "LAL",
+    "matchup": "LAL @ PHX"
+  },
+  {
+    "game_id": "0022300827",
+    "game_date": "2024-02-25",
+    "team": "LAC",
+    "matchup": "LAC vs. SAC"
+  },
+  {
+    "game_id": "0022300831",
+    "game_date": "2024-02-26",
+    "team": "MIA",
+    "matchup": "MIA @ SAC"
+  },
+  {
+    "game_id": "0022300829",
+    "game_date": "2024-02-26",
+    "team": "IND",
+    "matchup": "IND vs. TOR"
+  },
+  {
+    "game_id": "0022300837",
+    "game_date": "2024-02-27",
+    "team": "NOP",
+    "matchup": "NOP @ NYK"
+  },
+  {
+    "game_id": "0022300842",
+    "game_date": "2024-02-27",
+    "team": "MIA",
+    "matchup": "MIA @ POR"
+  },
+  {
+    "game_id": "0022300843",
+    "game_date": "2024-02-28",
+    "team": "IND",
+    "matchup": "IND vs. NOP"
+  },
+  {
+    "game_id": "0022300848",
+    "game_date": "2024-02-28",
+    "team": "LAL",
+    "matchup": "LAL @ LAC"
+  },
+  {
+    "game_id": "0022300848",
+    "game_date": "2024-02-28",
+    "team": "LAC",
+    "matchup": "LAC vs. LAL"
+  },
+  {
+    "game_id": "0022300843",
+    "game_date": "2024-02-28",
+    "team": "NOP",
+    "matchup": "NOP @ IND"
+  },
+  {
+    "game_id": "0022300855",
+    "game_date": "2024-02-29",
+    "team": "MIA",
+    "matchup": "MIA @ DEN"
+  },
+  {
+    "game_id": "0022300856",
+    "game_date": "2024-02-29",
+    "team": "LAL",
+    "matchup": "LAL vs. WAS"
+  },
+  {
+    "game_id": "0022300863",
+    "game_date": "2024-03-01",
+    "team": "IND",
+    "matchup": "IND @ NOP"
+  },
+  {
+    "game_id": "0022300863",
+    "game_date": "2024-03-01",
+    "team": "NOP",
+    "matchup": "NOP vs. IND"
+  },
+  {
+    "game_id": "0022300865",
+    "game_date": "2024-03-01",
+    "team": "LAC",
+    "matchup": "LAC vs. WAS"
+  },
+  {
+    "game_id": "0022300869",
+    "game_date": "2024-03-02",
+    "team": "LAL",
+    "matchup": "LAL vs. DEN"
+  },
+  {
+    "game_id": "0022300867",
+    "game_date": "2024-03-02",
+    "team": "MIA",
+    "matchup": "MIA vs. UTA"
+  },
+  {
+    "game_id": "0022300873",
+    "game_date": "2024-03-03",
+    "team": "LAC",
+    "matchup": "LAC @ MIN"
+  },
+  {
+    "game_id": "0022300877",
+    "game_date": "2024-03-03",
+    "team": "IND",
+    "matchup": "IND @ SAS"
+  },
+  {
+    "game_id": "0022300880",
+    "game_date": "2024-03-04",
+    "team": "LAC",
+    "matchup": "LAC @ MIL"
+  },
+  {
+    "game_id": "0022300884",
+    "game_date": "2024-03-04",
+    "team": "LAL",
+    "matchup": "LAL vs. OKC"
+  },
+  {
+    "game_id": "0022300892",
+    "game_date": "2024-03-05",
+    "team": "IND",
+    "matchup": "IND @ DAL"
+  },
+  {
+    "game_id": "0022300890",
+    "game_date": "2024-03-05",
+    "team": "NOP",
+    "matchup": "NOP @ TOR"
+  },
+  {
+    "game_id": "0022300888",
+    "game_date": "2024-03-05",
+    "team": "MIA",
+    "matchup": "MIA vs. DET"
+  },
+  {
+    "game_id": "0022300897",
+    "game_date": "2024-03-06",
+    "team": "LAC",
+    "matchup": "LAC @ HOU"
+  },
+  {
+    "game_id": "0022300901",
+    "game_date": "2024-03-06",
+    "team": "LAL",
+    "matchup": "LAL vs. SAC"
+  },
+  {
+    "game_id": "0022300904",
+    "game_date": "2024-03-07",
+    "team": "MIA",
+    "matchup": "MIA @ DAL"
+  },
+  {
+    "game_id": "0022300903",
+    "game_date": "2024-03-07",
+    "team": "IND",
+    "matchup": "IND vs. MIN"
+  },
+  {
+    "game_id": "0022300915",
+    "game_date": "2024-03-08",
+    "team": "LAL",
+    "matchup": "LAL vs. MIL"
+  },
+  {
+    "game_id": "0022300909",
+    "game_date": "2024-03-08",
+    "team": "NOP",
+    "matchup": "NOP @ PHI"
+  },
+  {
+    "game_id": "0022300914",
+    "game_date": "2024-03-08",
+    "team": "MIA",
+    "matchup": "MIA @ OKC"
+  },
+  {
+    "game_id": "0022300917",
+    "game_date": "2024-03-09",
+    "team": "LAC",
+    "matchup": "LAC vs. CHI"
+  },
+  {
+    "game_id": "0022300925",
+    "game_date": "2024-03-10",
+    "team": "NOP",
+    "matchup": "NOP @ ATL"
+  },
+  {
+    "game_id": "0022300924",
+    "game_date": "2024-03-10",
+    "team": "LAC",
+    "matchup": "LAC vs. MIL"
+  },
+  {
+    "game_id": "0022300932",
+    "game_date": "2024-03-10",
+    "team": "LAL",
+    "matchup": "LAL vs. MIN"
+  },
+  {
+    "game_id": "0022300928",
+    "game_date": "2024-03-10",
+    "team": "IND",
+    "matchup": "IND @ ORL"
+  },
+  {
+    "game_id": "0022300926",
+    "game_date": "2024-03-10",
+    "team": "MIA",
+    "matchup": "MIA vs. WAS"
+  },
+  {
+    "game_id": "0022300944",
+    "game_date": "2024-03-12",
+    "team": "LAC",
+    "matchup": "LAC vs. MIN"
+  },
+  {
+    "game_id": "0022300941",
+    "game_date": "2024-03-12",
+    "team": "IND",
+    "matchup": "IND @ OKC"
+  },
+  {
+    "game_id": "0022300951",
+    "game_date": "2024-03-13",
+    "team": "NOP",
+    "matchup": "NOP vs. CLE"
+  },
+  {
+    "game_id": "0022300948",
+    "game_date": "2024-03-13",
+    "team": "IND",
+    "matchup": "IND vs. CHI"
+  },
+  {
+    "game_id": "0022300949",
+    "game_date": "2024-03-13",
+    "team": "MIA",
+    "matchup": "MIA vs. DEN"
+  },
+  {
+    "game_id": "0022300954",
+    "game_date": "2024-03-13",
+    "team": "LAL",
+    "matchup": "LAL @ SAC"
+  },
+  {
+    "game_id": "0022300956",
+    "game_date": "2024-03-14",
+    "team": "LAC",
+    "matchup": "LAC @ CHI"
+  },
+  {
+    "game_id": "0022300964",
+    "game_date": "2024-03-15",
+    "team": "LAC",
+    "matchup": "LAC @ NOP"
+  },
+  {
+    "game_id": "0022300964",
+    "game_date": "2024-03-15",
+    "team": "NOP",
+    "matchup": "NOP vs. LAC"
+  },
+  {
+    "game_id": "0022300962",
+    "game_date": "2024-03-15",
+    "team": "MIA",
+    "matchup": "MIA @ DET"
+  },
+  {
+    "game_id": "0022300973",
+    "game_date": "2024-03-16",
+    "team": "LAL",
+    "matchup": "LAL vs. GSW"
+  },
+  {
+    "game_id": "0022300968",
+    "game_date": "2024-03-16",
+    "team": "IND",
+    "matchup": "IND vs. BKN"
+  },
+  {
+    "game_id": "0022300970",
+    "game_date": "2024-03-16",
+    "team": "NOP",
+    "matchup": "NOP vs. POR"
+  },
+  {
+    "game_id": "0022300982",
+    "game_date": "2024-03-17",
+    "team": "LAC",
+    "matchup": "LAC vs. ATL"
+  },
+  {
+    "game_id": "0022300977",
+    "game_date": "2024-03-17",
+    "team": "MIA",
+    "matchup": "MIA @ DET"
+  },
+  {
+    "game_id": "0022300990",
+    "game_date": "2024-03-18",
+    "team": "LAL",
+    "matchup": "LAL vs. ATL"
+  },
+  {
+    "game_id": "0022300983",
+    "game_date": "2024-03-18",
+    "team": "IND",
+    "matchup": "IND vs. CLE"
+  },
+  {
+    "game_id": "0022300985",
+    "game_date": "2024-03-18",
+    "team": "MIA",
+    "matchup": "MIA @ PHI"
+  },
+  {
+    "game_id": "0022300993",
+    "game_date": "2024-03-19",
+    "team": "NOP",
+    "matchup": "NOP @ BKN"
+  },
+  {
+    "game_id": "0022300996",
+    "game_date": "2024-03-20",
+    "team": "MIA",
+    "matchup": "MIA @ CLE"
+  },
+  {
+    "game_id": "0022301003",
+    "game_date": "2024-03-20",
+    "team": "LAC",
+    "matchup": "LAC @ POR"
+  },
+  {
+    "game_id": "0022300997",
+    "game_date": "2024-03-20",
+    "team": "IND",
+    "matchup": "IND @ DET"
+  },
+  {
+    "game_id": "0022301004",
+    "game_date": "2024-03-21",
+    "team": "NOP",
+    "matchup": "NOP @ ORL"
+  },
+  {
+    "game_id": "0022301013",
+    "game_date": "2024-03-22",
+    "team": "MIA",
+    "matchup": "MIA vs. NOP"
+  },
+  {
+    "game_id": "0022301016",
+    "game_date": "2024-03-22",
+    "team": "IND",
+    "matchup": "IND @ GSW"
+  },
+  {
+    "game_id": "0022301013",
+    "game_date": "2024-03-22",
+    "team": "NOP",
+    "matchup": "NOP @ MIA"
+  },
+  {
+    "game_id": "0022301018",
+    "game_date": "2024-03-22",
+    "team": "LAL",
+    "matchup": "LAL vs. PHI"
+  },
+  {
+    "game_id": "0022301017",
+    "game_date": "2024-03-22",
+    "team": "LAC",
+    "matchup": "LAC @ POR"
+  },
+  {
+    "game_id": "0022301029",
+    "game_date": "2024-03-24",
+    "team": "MIA",
+    "matchup": "MIA vs. CLE"
+  },
+  {
+    "game_id": "0022301032",
+    "game_date": "2024-03-24",
+    "team": "IND",
+    "matchup": "IND @ LAL"
+  },
+  {
+    "game_id": "0022301032",
+    "game_date": "2024-03-24",
+    "team": "LAL",
+    "matchup": "LAL vs. IND"
+  },
+  {
+    "game_id": "0022301028",
+    "game_date": "2024-03-24",
+    "team": "LAC",
+    "matchup": "LAC vs. PHI"
+  },
+  {
+    "game_id": "0022301027",
+    "game_date": "2024-03-24",
+    "team": "NOP",
+    "matchup": "NOP @ DET"
+  },
+  {
+    "game_id": "0022301043",
+    "game_date": "2024-03-25",
+    "team": "IND",
+    "matchup": "IND @ LAC"
+  },
+  {
+    "game_id": "0022301043",
+    "game_date": "2024-03-25",
+    "team": "LAC",
+    "matchup": "LAC vs. IND"
+  },
+  {
+    "game_id": "0022301044",
+    "game_date": "2024-03-26",
+    "team": "MIA",
+    "matchup": "MIA vs. GSW"
+  },
+  {
+    "game_id": "0022301045",
+    "game_date": "2024-03-26",
+    "team": "LAL",
+    "matchup": "LAL @ MIL"
+  },
+  {
+    "game_id": "0022301046",
+    "game_date": "2024-03-26",
+    "team": "NOP",
+    "matchup": "NOP vs. OKC"
+  },
+  {
+    "game_id": "0022301054",
+    "game_date": "2024-03-27",
+    "team": "IND",
+    "matchup": "IND @ CHI"
+  },
+  {
+    "game_id": "0022301052",
+    "game_date": "2024-03-27",
+    "team": "LAC",
+    "matchup": "LAC @ PHI"
+  },
+  {
+    "game_id": "0022301055",
+    "game_date": "2024-03-27",
+    "team": "LAL",
+    "matchup": "LAL @ MEM"
+  },
+  {
+    "game_id": "0022301061",
+    "game_date": "2024-03-28",
+    "team": "NOP",
+    "matchup": "NOP vs. MIL"
+  },
+  {
+    "game_id": "0022301063",
+    "game_date": "2024-03-29",
+    "team": "IND",
+    "matchup": "IND vs. LAL"
+  },
+  {
+    "game_id": "0022301064",
+    "game_date": "2024-03-29",
+    "team": "LAC",
+    "matchup": "LAC @ ORL"
+  },
+  {
+    "game_id": "0022301063",
+    "game_date": "2024-03-29",
+    "team": "LAL",
+    "matchup": "LAL @ IND"
+  },
+  {
+    "game_id": "0022301068",
+    "game_date": "2024-03-29",
+    "team": "MIA",
+    "matchup": "MIA vs. POR"
+  },
+  {
+    "game_id": "0022301074",
+    "game_date": "2024-03-30",
+    "team": "NOP",
+    "matchup": "NOP vs. BOS"
+  },
+  {
+    "game_id": "0022301078",
+    "game_date": "2024-03-31",
+    "team": "LAL",
+    "matchup": "LAL @ BKN"
+  },
+  {
+    "game_id": "0022301081",
+    "game_date": "2024-03-31",
+    "team": "MIA",
+    "matchup": "MIA @ WAS"
+  },
+  {
+    "game_id": "0022301079",
+    "game_date": "2024-03-31",
+    "team": "LAC",
+    "matchup": "LAC @ CHA"
+  },
+  {
+    "game_id": "0022301089",
+    "game_date": "2024-04-01",
+    "team": "IND",
+    "matchup": "IND vs. BKN"
+  },
+  {
+    "game_id": "0022301092",
+    "game_date": "2024-04-01",
+    "team": "NOP",
+    "matchup": "NOP vs. PHX"
+  },
+  {
+    "game_id": "0022301096",
+    "game_date": "2024-04-02",
+    "team": "MIA",
+    "matchup": "MIA vs. NYK"
+  },
+  {
+    "game_id": "0022301101",
+    "game_date": "2024-04-02",
+    "team": "LAC",
+    "matchup": "LAC @ SAC"
+  },
+  {
+    "game_id": "0022301094",
+    "game_date": "2024-04-02",
+    "team": "LAL",
+    "matchup": "LAL @ TOR"
+  },
+  {
+    "game_id": "0022301106",
+    "game_date": "2024-04-03",
+    "team": "IND",
+    "matchup": "IND @ BKN"
+  },
+  {
+    "game_id": "0022301109",
+    "game_date": "2024-04-03",
+    "team": "NOP",
+    "matchup": "NOP vs. ORL"
+  },
+  {
+    "game_id": "0022301103",
+    "game_date": "2024-04-03",
+    "team": "LAL",
+    "matchup": "LAL @ WAS"
+  },
+  {
+    "game_id": "0022301114",
+    "game_date": "2024-04-04",
+    "team": "LAC",
+    "matchup": "LAC vs. DEN"
+  },
+  {
+    "game_id": "0022301111",
+    "game_date": "2024-04-04",
+    "team": "MIA",
+    "matchup": "MIA vs. PHI"
+  },
+  {
+    "game_id": "0022301120",
+    "game_date": "2024-04-05",
+    "team": "MIA",
+    "matchup": "MIA @ HOU"
+  },
+  {
+    "game_id": "0022301123",
+    "game_date": "2024-04-05",
+    "team": "NOP",
+    "matchup": "NOP vs. SAS"
+  },
+  {
+    "game_id": "0022301116",
+    "game_date": "2024-04-05",
+    "team": "IND",
+    "matchup": "IND vs. OKC"
+  },
+  {
+    "game_id": "0022301126",
+    "game_date": "2024-04-05",
+    "team": "LAC",
+    "matchup": "LAC vs. UTA"
+  },
+  {
+    "game_id": "0022301127",
+    "game_date": "2024-04-06",
+    "team": "LAL",
+    "matchup": "LAL vs. CLE"
+  },
+  {
+    "game_id": "0022301132",
+    "game_date": "2024-04-07",
+    "team": "LAC",
+    "matchup": "LAC vs. CLE"
+  },
+  {
+    "game_id": "0022301133",
+    "game_date": "2024-04-07",
+    "team": "IND",
+    "matchup": "IND vs. MIA"
+  },
+  {
+    "game_id": "0022301143",
+    "game_date": "2024-04-07",
+    "team": "LAL",
+    "matchup": "LAL vs. MIN"
+  },
+  {
+    "game_id": "0022301133",
+    "game_date": "2024-04-07",
+    "team": "MIA",
+    "matchup": "MIA @ IND"
+  },
+  {
+    "game_id": "0022301138",
+    "game_date": "2024-04-07",
+    "team": "NOP",
+    "matchup": "NOP @ PHX"
+  },
+  {
+    "game_id": "0022301147",
+    "game_date": "2024-04-09",
+    "team": "MIA",
+    "matchup": "MIA @ ATL"
+  },
+  {
+    "game_id": "0022301155",
+    "game_date": "2024-04-09",
+    "team": "LAL",
+    "matchup": "LAL vs. GSW"
+  },
+  {
+    "game_id": "0022301156",
+    "game_date": "2024-04-09",
+    "team": "LAC",
+    "matchup": "LAC @ PHX"
+  },
+  {
+    "game_id": "0022301157",
+    "game_date": "2024-04-09",
+    "team": "NOP",
+    "matchup": "NOP @ POR"
+  },
+  {
+    "game_id": "0022301146",
+    "game_date": "2024-04-09",
+    "team": "IND",
+    "matchup": "IND @ TOR"
+  },
+  {
+    "game_id": "0022301161",
+    "game_date": "2024-04-10",
+    "team": "MIA",
+    "matchup": "MIA vs. DAL"
+  },
+  {
+    "game_id": "0022301165",
+    "game_date": "2024-04-10",
+    "team": "LAC",
+    "matchup": "LAC vs. PHX"
+  },
+  {
+    "game_id": "0022301170",
+    "game_date": "2024-04-11",
+    "team": "NOP",
+    "matchup": "NOP @ SAC"
+  },
+  {
+    "game_id": "0022301174",
+    "game_date": "2024-04-12",
+    "team": "IND",
+    "matchup": "IND @ CLE"
+  },
+  {
+    "game_id": "0022301182",
+    "game_date": "2024-04-12",
+    "team": "NOP",
+    "matchup": "NOP @ GSW"
+  },
+  {
+    "game_id": "0022301176",
+    "game_date": "2024-04-12",
+    "team": "MIA",
+    "matchup": "MIA vs. TOR"
+  },
+  {
+    "game_id": "0022301184",
+    "game_date": "2024-04-12",
+    "team": "LAC",
+    "matchup": "LAC vs. UTA"
+  },
+  {
+    "game_id": "0022301177",
+    "game_date": "2024-04-12",
+    "team": "LAL",
+    "matchup": "LAL @ MEM"
+  },
+  {
+    "game_id": "0022301188",
+    "game_date": "2024-04-14",
+    "team": "IND",
+    "matchup": "IND vs. ATL"
+  },
+  {
+    "game_id": "0022301195",
+    "game_date": "2024-04-14",
+    "team": "LAL",
+    "matchup": "LAL @ NOP"
+  },
+  {
+    "game_id": "0022301199",
+    "game_date": "2024-04-14",
+    "team": "LAC",
+    "matchup": "LAC vs. HOU"
+  },
+  {
+    "game_id": "0022301195",
+    "game_date": "2024-04-14",
+    "team": "NOP",
+    "matchup": "NOP vs. LAL"
+  },
+  {
+    "game_id": "0022301189",
+    "game_date": "2024-04-14",
+    "team": "MIA",
+    "matchup": "MIA vs. TOR"
+  }
+]

@@ -1,0 +1,93 @@
+{
+  "batch": 2,
+  "saved_at": "2026-10-20T01:45:22.645778+00:00",
+  "completed_teams": [
+    "WAS",
+    "MIN",
+    "CHA",
+    "POR",
+    "MIL",
+    "UTA",
+    "CHI",
+    "PHX",
+    "BKN",
+    "GSW",
+    "HOU",
+    "TOR"
+  ],
+  "pending_teams": [
+    "IND",
+    "MIA",
+    "NOP",
+    "LAL",
+    "LAC"
+  ],
+  "batch_teams": [
+    "CHI",
+    "PHX",
+    "BKN",
+    "GSW",
+    "HOU",
+    "TOR"
+  ],
+  "state": "completed_same_agent_review_pending_human",
+  "negative_original_source_reviews": 60,
+  "independent_human_reviews": 0,
+  "request_usage_at_checkpoint": {
+    "actual_http": 125,
+    "statuses": {
+      "obtained": 124,
+      "failed": 1
+    },
+    "bytes": 37924407,
+    "sum_request_seconds": 87.87200000000001,
+    "duplicate_canonical_requests": 0,
+    "core_budget": 125
+  },
+  "results": [
+    {
+      "batch": 2,
+      "extra_lag_days": "0",
+      "games": 120,
+      "team_games": 133,
+      "players": 114,
+      "candidate_appearances": 1409,
+      "included": 1380,
+      "excluded": 18,
+      "eligibility_unknown": 11,
+      "positive": 16,
+      "negative": 1291,
+      "outcome_unknown": 73,
+      "distinct_events": 8,
+      "event_players": 8,
+      "events_with_eligible_prediction": 6,
+      "missing_workload": 34,
+      "surveillance_gap": 52,
+      "followup_gap": 17,
+      "A_verified": 0,
+      "B_feature_rows": 1380
+    },
+    {
+      "batch": 2,
+      "extra_lag_days": "1",
+      "games": 120,
+      "team_games": 133,
+      "players": 114,
+      "candidate_appearances": 1409,
+      "included": 1319,
+      "excluded": 23,
+      "eligibility_unknown": 67,
+      "positive": 15,
+      "negative": 1230,
+      "outcome_unknown": 74,
+      "distinct_events": 8,
+      "event_players": 8,
+      "events_with_eligible_prediction": 6,
+      "missing_workload": 30,
+      "surveillance_gap": 55,
+      "followup_gap": 17,
+      "A_verified": 0,
+      "B_feature_rows": 1319
+    }
+  ]
+}

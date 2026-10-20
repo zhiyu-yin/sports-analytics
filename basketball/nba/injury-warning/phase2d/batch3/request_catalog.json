@@ -1,0 +1,4832 @@
+[
+  {
+    "source_id": "page_0022301202",
+    "date": "2023-12-04",
+    "kind": "page",
+    "url": "https://www.nba.com/game/bos-vs-ind-0022301202/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301202",
+    "date": "2023-12-04",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231204/20231204_BOSIND_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301204",
+    "date": "2023-12-04",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nop-vs-sac-0022301204/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301204",
+    "date": "2023-12-04",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231204/20231204_NOPSAC_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301203",
+    "date": "2023-12-05",
+    "kind": "page",
+    "url": "https://www.nba.com/game/phx-vs-lal-0022301203/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301203",
+    "date": "2023-12-05",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231205/20231205_PHXLAL_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301215",
+    "date": "2023-12-06",
+    "kind": "page",
+    "url": "https://www.nba.com/game/den-vs-lac-0022301215/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301215",
+    "date": "2023-12-06",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231206/20231206_DENLAC_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301207",
+    "date": "2023-12-06",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mia-vs-tor-0022301207/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301207",
+    "date": "2023-12-06",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231206/20231206_MIATOR_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301230",
+    "date": "2023-12-07",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nop-vs-lal-0022301230/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301230",
+    "date": "2023-12-07",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231207/20231207_NOPLAL_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301229",
+    "date": "2023-12-07",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-mil-0022301229/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301229",
+    "date": "2023-12-07",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231207/20231207_INDMIL_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301220",
+    "date": "2023-12-08",
+    "kind": "page",
+    "url": "https://www.nba.com/game/cle-vs-mia-0022301220/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301220",
+    "date": "2023-12-08",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231208/20231208_CLEMIA_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301225",
+    "date": "2023-12-08",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lac-vs-uta-0022301225/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301225",
+    "date": "2023-12-08",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231208/20231208_LACUTA_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300301",
+    "date": "2023-12-11",
+    "kind": "page",
+    "url": "https://www.nba.com/game/min-vs-nop-0022300301/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300301",
+    "date": "2023-12-11",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231211/20231211_MINNOP_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300304",
+    "date": "2023-12-11",
+    "kind": "page",
+    "url": "https://www.nba.com/game/por-vs-lac-0022300304/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300304",
+    "date": "2023-12-11",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231211/20231211_PORLAC_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300293",
+    "date": "2023-12-11",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-det-0022300293/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300293",
+    "date": "2023-12-11",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231211/20231211_INDDET_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300292",
+    "date": "2023-12-11",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mia-vs-cha-0022300292/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300292",
+    "date": "2023-12-11",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231211/20231211_MIACHA_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300306",
+    "date": "2023-12-12",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lal-vs-dal-0022300306/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300306",
+    "date": "2023-12-12",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231212/20231212_LALDAL_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300309",
+    "date": "2023-12-12",
+    "kind": "page",
+    "url": "https://www.nba.com/game/sac-vs-lac-0022300309/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300309",
+    "date": "2023-12-12",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231212/20231212_SACLAC_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300315",
+    "date": "2023-12-13",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-mil-0022300315/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300315",
+    "date": "2023-12-13",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231213/20231213_INDMIL_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300316",
+    "date": "2023-12-13",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lal-vs-sas-0022300316/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300316",
+    "date": "2023-12-13",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231213/20231213_LALSAS_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300311",
+    "date": "2023-12-13",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nop-vs-was-0022300311/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300311",
+    "date": "2023-12-13",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231213/20231213_NOPWAS_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300312",
+    "date": "2023-12-13",
+    "kind": "page",
+    "url": "https://www.nba.com/game/cha-vs-mia-0022300312/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300312",
+    "date": "2023-12-13",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231213/20231213_CHAMIA_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300320",
+    "date": "2023-12-14",
+    "kind": "page",
+    "url": "https://www.nba.com/game/chi-vs-mia-0022300320/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300320",
+    "date": "2023-12-14",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231214/20231214_CHIMIA_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300325",
+    "date": "2023-12-14",
+    "kind": "page",
+    "url": "https://www.nba.com/game/gsw-vs-lac-0022300325/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300325",
+    "date": "2023-12-14",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231214/20231214_GSWLAC_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300331",
+    "date": "2023-12-15",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lal-vs-sas-0022300331/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300331",
+    "date": "2023-12-15",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231215/20231215_LALSAS_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300328",
+    "date": "2023-12-15",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-was-0022300328/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300328",
+    "date": "2023-12-15",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231215/20231215_INDWAS_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300326",
+    "date": "2023-12-15",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nop-vs-cha-0022300326/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300326",
+    "date": "2023-12-15",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231215/20231215_NOPCHA_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300337",
+    "date": "2023-12-16",
+    "kind": "page",
+    "url": "https://www.nba.com/game/chi-vs-mia-0022300337/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300337",
+    "date": "2023-12-16",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231216/20231216_CHIMIA_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300338",
+    "date": "2023-12-16",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-min-0022300338/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300338",
+    "date": "2023-12-16",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231216/20231216_INDMIN_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300343",
+    "date": "2023-12-16",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nyk-vs-lac-0022300343/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300343",
+    "date": "2023-12-16",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231216/20231216_NYKLAC_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300345",
+    "date": "2023-12-17",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nop-vs-sas-0022300345/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300345",
+    "date": "2023-12-17",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231217/20231217_NOPSAS_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300350",
+    "date": "2023-12-18",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lac-vs-ind-0022300350/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300350",
+    "date": "2023-12-18",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231218/20231218_LACIND_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300353",
+    "date": "2023-12-18",
+    "kind": "page",
+    "url": "https://www.nba.com/game/min-vs-mia-0022300353/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300353",
+    "date": "2023-12-18",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231218/20231218_MINMIA_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300359",
+    "date": "2023-12-18",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nyk-vs-lal-0022300359/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300359",
+    "date": "2023-12-18",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231218/20231218_NYKLAL_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300360",
+    "date": "2023-12-19",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mem-vs-nop-0022300360/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300360",
+    "date": "2023-12-19",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231219/20231219_MEMNOP_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300370",
+    "date": "2023-12-20",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lal-vs-chi-0022300370/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300370",
+    "date": "2023-12-20",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231220/20231220_LALCHI_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300372",
+    "date": "2023-12-20",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lac-vs-dal-0022300372/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300372",
+    "date": "2023-12-20",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231220/20231220_LACDAL_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300366",
+    "date": "2023-12-20",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mia-vs-orl-0022300366/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300366",
+    "date": "2023-12-20",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231220/20231220_MIAORL_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300365",
+    "date": "2023-12-20",
+    "kind": "page",
+    "url": "https://www.nba.com/game/cha-vs-ind-0022300365/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300365",
+    "date": "2023-12-20",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231220/20231220_CHAIND_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300375",
+    "date": "2023-12-21",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nop-vs-cle-0022300375/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300375",
+    "date": "2023-12-21",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231221/20231221_NOPCLE_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300380",
+    "date": "2023-12-21",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lal-vs-min-0022300380/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300380",
+    "date": "2023-12-21",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231221/20231221_LALMIN_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300379",
+    "date": "2023-12-21",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lac-vs-okc-0022300379/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300379",
+    "date": "2023-12-21",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231221/20231221_LACOKC_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300377",
+    "date": "2023-12-21",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-mem-0022300377/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300377",
+    "date": "2023-12-21",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231221/20231221_INDMEM_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300384",
+    "date": "2023-12-22",
+    "kind": "page",
+    "url": "https://www.nba.com/game/atl-vs-mia-0022300384/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300384",
+    "date": "2023-12-22",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231222/20231222_ATLMIA_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300389",
+    "date": "2023-12-23",
+    "kind": "page",
+    "url": "https://www.nba.com/game/bos-vs-lac-0022300389/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300389",
+    "date": "2023-12-23",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231223/20231223_BOSLAC_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300392",
+    "date": "2023-12-23",
+    "kind": "page",
+    "url": "https://www.nba.com/game/hou-vs-nop-0022300392/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300392",
+    "date": "2023-12-23",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231223/20231223_HOUNOP_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300391",
+    "date": "2023-12-23",
+    "kind": "page",
+    "url": "https://www.nba.com/game/orl-vs-ind-0022300391/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300391",
+    "date": "2023-12-23",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231223/20231223_ORLIND_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300397",
+    "date": "2023-12-23",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lal-vs-okc-0022300397/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300397",
+    "date": "2023-12-23",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231223/20231223_LALOKC_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300403",
+    "date": "2023-12-25",
+    "kind": "page",
+    "url": "https://www.nba.com/game/bos-vs-lal-0022300403/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300403",
+    "date": "2023-12-25",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231225/20231225_BOSLAL_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300404",
+    "date": "2023-12-25",
+    "kind": "page",
+    "url": "https://www.nba.com/game/phi-vs-mia-0022300404/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300404",
+    "date": "2023-12-25",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231225/20231225_PHIMIA_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300409",
+    "date": "2023-12-26",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-hou-0022300409/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300409",
+    "date": "2023-12-26",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231226/20231226_INDHOU_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300410",
+    "date": "2023-12-26",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mem-vs-nop-0022300410/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300410",
+    "date": "2023-12-26",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231226/20231226_MEMNOP_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300414",
+    "date": "2023-12-26",
+    "kind": "page",
+    "url": "https://www.nba.com/game/cha-vs-lac-0022300414/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300414",
+    "date": "2023-12-26",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231226/20231226_CHALAC_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300422",
+    "date": "2023-12-28",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-chi-0022300422/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300422",
+    "date": "2023-12-28",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231228/20231228_INDCHI_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300426",
+    "date": "2023-12-28",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mia-vs-gsw-0022300426/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300426",
+    "date": "2023-12-28",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231228/20231228_MIAGSW_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300424",
+    "date": "2023-12-28",
+    "kind": "page",
+    "url": "https://www.nba.com/game/uta-vs-nop-0022300424/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300424",
+    "date": "2023-12-28",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231228/20231228_UTANOP_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300428",
+    "date": "2023-12-28",
+    "kind": "page",
+    "url": "https://www.nba.com/game/cha-vs-lal-0022300428/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300428",
+    "date": "2023-12-28",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231228/20231228_CHALAL_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300438",
+    "date": "2023-12-29",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mem-vs-lac-0022300438/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300438",
+    "date": "2023-12-29",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231229/20231229_MEMLAC_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300443",
+    "date": "2023-12-30",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lal-vs-min-0022300443/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300443",
+    "date": "2023-12-30",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231230/20231230_LALMIN_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300441",
+    "date": "2023-12-30",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nyk-vs-ind-0022300441/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300441",
+    "date": "2023-12-30",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231230/20231230_NYKIND_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300439",
+    "date": "2023-12-30",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mia-vs-uta-0022300439/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300439",
+    "date": "2023-12-30",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231230/20231230_MIAUTA_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300446",
+    "date": "2023-12-31",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lal-vs-nop-0022300446/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300446",
+    "date": "2023-12-31",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20231231/20231231_LALNOP_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300458",
+    "date": "2024-01-01",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mia-vs-lac-0022300458/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300458",
+    "date": "2024-01-01",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240101/20240101_MIALAC_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300454",
+    "date": "2024-01-01",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-mil-0022300454/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300454",
+    "date": "2024-01-01",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240101/20240101_INDMIL_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300461",
+    "date": "2024-01-02",
+    "kind": "page",
+    "url": "https://www.nba.com/game/bkn-vs-nop-0022300461/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300461",
+    "date": "2024-01-02",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240102/20240102_BKNNOP_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300475",
+    "date": "2024-01-03",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mia-vs-lal-0022300475/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300475",
+    "date": "2024-01-03",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240103/20240103_MIALAL_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300466",
+    "date": "2024-01-03",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mil-vs-ind-0022300466/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300466",
+    "date": "2024-01-03",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240103/20240103_MILIND_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300471",
+    "date": "2024-01-03",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nop-vs-min-0022300471/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300471",
+    "date": "2024-01-03",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240103/20240103_NOPMIN_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300473",
+    "date": "2024-01-03",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lac-vs-phx-0022300473/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300473",
+    "date": "2024-01-03",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240103/20240103_LACPHX_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300480",
+    "date": "2024-01-05",
+    "kind": "page",
+    "url": "https://www.nba.com/game/atl-vs-ind-0022300480/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300480",
+    "date": "2024-01-05",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240105/20240105_ATLIND_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300486",
+    "date": "2024-01-05",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lac-vs-nop-0022300486/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300486",
+    "date": "2024-01-05",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240105/20240105_LACNOP_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300489",
+    "date": "2024-01-05",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mia-vs-phx-0022300489/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300489",
+    "date": "2024-01-05",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240105/20240105_MIAPHX_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300491",
+    "date": "2024-01-05",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mem-vs-lal-0022300491/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300491",
+    "date": "2024-01-05",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240105/20240105_MEMLAL_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300493",
+    "date": "2024-01-06",
+    "kind": "page",
+    "url": "https://www.nba.com/game/bos-vs-ind-0022300493/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300493",
+    "date": "2024-01-06",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240106/20240106_BOSIND_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300505",
+    "date": "2024-01-07",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lac-vs-lal-0022300505/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300505",
+    "date": "2024-01-07",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240107/20240107_LACLAL_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300500",
+    "date": "2024-01-07",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nop-vs-sac-0022300500/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300500",
+    "date": "2024-01-07",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240107/20240107_NOPSAC_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300507",
+    "date": "2024-01-08",
+    "kind": "page",
+    "url": "https://www.nba.com/game/bos-vs-ind-0022300507/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300507",
+    "date": "2024-01-08",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240108/20240108_BOSIND_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300509",
+    "date": "2024-01-08",
+    "kind": "page",
+    "url": "https://www.nba.com/game/hou-vs-mia-0022300509/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300509",
+    "date": "2024-01-08",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240108/20240108_HOUMIA_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300511",
+    "date": "2024-01-08",
+    "kind": "page",
+    "url": "https://www.nba.com/game/phx-vs-lac-0022300511/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300511",
+    "date": "2024-01-08",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240108/20240108_PHXLAC_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300516",
+    "date": "2024-01-09",
+    "kind": "page",
+    "url": "https://www.nba.com/game/tor-vs-lal-0022300516/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300516",
+    "date": "2024-01-09",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240109/20240109_TORLAL_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300525",
+    "date": "2024-01-10",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nop-vs-gsw-0022300525/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300525",
+    "date": "2024-01-10",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240110/20240110_NOPGSW_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300522",
+    "date": "2024-01-10",
+    "kind": "page",
+    "url": "https://www.nba.com/game/okc-vs-mia-0022300522/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300522",
+    "date": "2024-01-10",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240110/20240110_OKCMIA_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300526",
+    "date": "2024-01-10",
+    "kind": "page",
+    "url": "https://www.nba.com/game/tor-vs-lac-0022300526/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300526",
+    "date": "2024-01-10",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240110/20240110_TORLAC_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300520",
+    "date": "2024-01-10",
+    "kind": "page",
+    "url": "https://www.nba.com/game/was-vs-ind-0022300520/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300520",
+    "date": "2024-01-10",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240110/20240110_WASIND_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300531",
+    "date": "2024-01-11",
+    "kind": "page",
+    "url": "https://www.nba.com/game/phx-vs-lal-0022300531/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300531",
+    "date": "2024-01-11",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240111/20240111_PHXLAL_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300533",
+    "date": "2024-01-12",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-atl-0022300533/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300533",
+    "date": "2024-01-12",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240112/20240112_INDATL_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300539",
+    "date": "2024-01-12",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nop-vs-den-0022300539/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300539",
+    "date": "2024-01-12",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240112/20240112_NOPDEN_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300535",
+    "date": "2024-01-12",
+    "kind": "page",
+    "url": "https://www.nba.com/game/orl-vs-mia-0022300535/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300535",
+    "date": "2024-01-12",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240112/20240112_ORLMIA_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300537",
+    "date": "2024-01-12",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lac-vs-mem-0022300537/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300537",
+    "date": "2024-01-12",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240112/20240112_LACMEM_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300547",
+    "date": "2024-01-13",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nop-vs-dal-0022300547/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300547",
+    "date": "2024-01-13",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240113/20240113_NOPDAL_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300549",
+    "date": "2024-01-13",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lal-vs-uta-0022300549/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300549",
+    "date": "2024-01-13",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240113/20240113_LALUTA_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300550",
+    "date": "2024-01-14",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-den-0022300550/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300550",
+    "date": "2024-01-14",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240114/20240114_INDDEN_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300553",
+    "date": "2024-01-14",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lac-vs-min-0022300553/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300553",
+    "date": "2024-01-14",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240114/20240114_LACMIN_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300551",
+    "date": "2024-01-14",
+    "kind": "page",
+    "url": "https://www.nba.com/game/cha-vs-mia-0022300551/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300551",
+    "date": "2024-01-14",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240114/20240114_CHAMIA_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300556",
+    "date": "2024-01-15",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nop-vs-dal-0022300556/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300556",
+    "date": "2024-01-15",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240115/20240115_NOPDAL_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300562",
+    "date": "2024-01-15",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mia-vs-bkn-0022300562/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300562",
+    "date": "2024-01-15",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240115/20240115_MIABKN_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300565",
+    "date": "2024-01-15",
+    "kind": "page",
+    "url": "https://www.nba.com/game/okc-vs-lal-0022300565/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300565",
+    "date": "2024-01-15",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240115/20240115_OKCLAL_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300564",
+    "date": "2024-01-15",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-uta-0022300564/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300564",
+    "date": "2024-01-15",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240115/20240115_INDUTA_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300568",
+    "date": "2024-01-16",
+    "kind": "page",
+    "url": "https://www.nba.com/game/okc-vs-lac-0022300568/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300568",
+    "date": "2024-01-16",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240116/20240116_OKCLAC_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300577",
+    "date": "2024-01-17",
+    "kind": "page",
+    "url": "https://www.nba.com/game/dal-vs-lal-0022300577/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300577",
+    "date": "2024-01-17",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240117/20240117_DALLAL_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300574",
+    "date": "2024-01-17",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mia-vs-tor-0022300574/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300574",
+    "date": "2024-01-17",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240117/20240117_MIATOR_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300575",
+    "date": "2024-01-17",
+    "kind": "page",
+    "url": "https://www.nba.com/game/cha-vs-nop-0022300575/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300575",
+    "date": "2024-01-17",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240117/20240117_CHANOP_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300583",
+    "date": "2024-01-18",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-sac-0022300583/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300583",
+    "date": "2024-01-18",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240118/20240118_INDSAC_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300587",
+    "date": "2024-01-19",
+    "kind": "page",
+    "url": "https://www.nba.com/game/atl-vs-mia-0022300587/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300587",
+    "date": "2024-01-19",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240119/20240119_ATLMIA_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300591",
+    "date": "2024-01-19",
+    "kind": "page",
+    "url": "https://www.nba.com/game/bkn-vs-lal-0022300591/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300591",
+    "date": "2024-01-19",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240119/20240119_BKNLAL_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300588",
+    "date": "2024-01-19",
+    "kind": "page",
+    "url": "https://www.nba.com/game/phx-vs-nop-0022300588/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300588",
+    "date": "2024-01-19",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240119/20240119_PHXNOP_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300590",
+    "date": "2024-01-19",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-por-0022300590/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300590",
+    "date": "2024-01-19",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240119/20240119_INDPOR_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300600",
+    "date": "2024-01-21",
+    "kind": "page",
+    "url": "https://www.nba.com/game/bkn-vs-lac-0022300600/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300600",
+    "date": "2024-01-21",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240121/20240121_BKNLAC_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300601",
+    "date": "2024-01-21",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mia-vs-orl-0022300601/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300601",
+    "date": "2024-01-21",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240121/20240121_MIAORL_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300604",
+    "date": "2024-01-21",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-phx-0022300604/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300604",
+    "date": "2024-01-21",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240121/20240121_INDPHX_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300605",
+    "date": "2024-01-21",
+    "kind": "page",
+    "url": "https://www.nba.com/game/por-vs-lal-0022300605/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300605",
+    "date": "2024-01-21",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240121/20240121_PORLAL_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300614",
+    "date": "2024-01-23",
+    "kind": "page",
+    "url": "https://www.nba.com/game/den-vs-ind-0022300614/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300614",
+    "date": "2024-01-23",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240123/20240123_DENIND_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300618",
+    "date": "2024-01-23",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lal-vs-lac-0022300618/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300618",
+    "date": "2024-01-23",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240123/20240123_LALLAC_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300616",
+    "date": "2024-01-23",
+    "kind": "page",
+    "url": "https://www.nba.com/game/uta-vs-nop-0022300616/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300616",
+    "date": "2024-01-23",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240123/20240123_UTANOP_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300621",
+    "date": "2024-01-24",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mem-vs-mia-0022300621/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300621",
+    "date": "2024-01-24",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240124/20240124_MEMMIA_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300630",
+    "date": "2024-01-25",
+    "kind": "page",
+    "url": "https://www.nba.com/game/bos-vs-mia-0022300630/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300630",
+    "date": "2024-01-25",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240125/20240125_BOSMIA_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300633",
+    "date": "2024-01-25",
+    "kind": "page",
+    "url": "https://www.nba.com/game/chi-vs-lal-0022300633/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300633",
+    "date": "2024-01-25",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240125/20240125_CHILAL_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300627",
+    "date": "2024-01-25",
+    "kind": "page",
+    "url": "https://www.nba.com/game/phi-vs-ind-0022300627/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300627",
+    "date": "2024-01-25",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240125/20240125_PHIIND_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300636",
+    "date": "2024-01-26",
+    "kind": "page",
+    "url": "https://www.nba.com/game/phx-vs-ind-0022300636/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300636",
+    "date": "2024-01-26",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240126/20240126_PHXIND_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300640",
+    "date": "2024-01-26",
+    "kind": "page",
+    "url": "https://www.nba.com/game/okc-vs-nop-0022300640/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300640",
+    "date": "2024-01-26",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240126/20240126_OKCNOP_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300637",
+    "date": "2024-01-26",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lac-vs-tor-0022300637/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300637",
+    "date": "2024-01-26",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240126/20240126_LACTOR_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300646",
+    "date": "2024-01-27",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lac-vs-bos-0022300646/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300646",
+    "date": "2024-01-27",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240127/20240127_LACBOS_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300650",
+    "date": "2024-01-27",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lal-vs-gsw-0022300650/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300650",
+    "date": "2024-01-27",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240127/20240127_LALGSW_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300648",
+    "date": "2024-01-27",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nop-vs-mil-0022300648/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300648",
+    "date": "2024-01-27",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240127/20240127_NOPMIL_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300643",
+    "date": "2024-01-27",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mia-vs-nyk-0022300643/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300643",
+    "date": "2024-01-27",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240127/20240127_MIANYK_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300652",
+    "date": "2024-01-28",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mem-vs-ind-0022300652/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300652",
+    "date": "2024-01-28",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240128/20240128_MEMIND_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300659",
+    "date": "2024-01-29",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nop-vs-bos-0022300659/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300659",
+    "date": "2024-01-29",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240129/20240129_NOPBOS_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300658",
+    "date": "2024-01-29",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lac-vs-cle-0022300658/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300658",
+    "date": "2024-01-29",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240129/20240129_LACCLE_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300662",
+    "date": "2024-01-29",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lal-vs-hou-0022300662/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300662",
+    "date": "2024-01-29",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240129/20240129_LALHOU_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300661",
+    "date": "2024-01-29",
+    "kind": "page",
+    "url": "https://www.nba.com/game/phx-vs-mia-0022300661/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300661",
+    "date": "2024-01-29",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240129/20240129_PHXMIA_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300669",
+    "date": "2024-01-30",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lal-vs-atl-0022300669/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300669",
+    "date": "2024-01-30",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240130/20240130_LALATL_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300670",
+    "date": "2024-01-30",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-bos-0022300670/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300670",
+    "date": "2024-01-30",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240130/20240130_INDBOS_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300679",
+    "date": "2024-01-31",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nop-vs-hou-0022300679/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300679",
+    "date": "2024-01-31",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240131/20240131_NOPHOU_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300678",
+    "date": "2024-01-31",
+    "kind": "page",
+    "url": "https://www.nba.com/game/sac-vs-mia-0022300678/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300678",
+    "date": "2024-01-31",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240131/20240131_SACMIA_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300676",
+    "date": "2024-01-31",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lac-vs-was-0022300676/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300676",
+    "date": "2024-01-31",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240131/20240131_LACWAS_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300684",
+    "date": "2024-02-01",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lal-vs-bos-0022300684/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300684",
+    "date": "2024-02-01",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240201/20240201_LALBOS_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300685",
+    "date": "2024-02-01",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-nyk-0022300685/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300685",
+    "date": "2024-02-01",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240201/20240201_INDNYK_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300691",
+    "date": "2024-02-02",
+    "kind": "page",
+    "url": "https://www.nba.com/game/sac-vs-ind-0022300691/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300691",
+    "date": "2024-02-02",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240202/20240202_SACIND_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300696",
+    "date": "2024-02-02",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nop-vs-sas-0022300696/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300696",
+    "date": "2024-02-02",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240202/20240202_NOPSAS_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300689",
+    "date": "2024-02-02",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mia-vs-was-0022300689/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300689",
+    "date": "2024-02-02",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240202/20240202_MIAWAS_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300688",
+    "date": "2024-02-02",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lac-vs-det-0022300688/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300688",
+    "date": "2024-02-02",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240202/20240202_LACDET_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300701",
+    "date": "2024-02-03",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lal-vs-nyk-0022300701/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300701",
+    "date": "2024-02-03",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240203/20240203_LALNYK_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300708",
+    "date": "2024-02-04",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lac-vs-mia-0022300708/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300708",
+    "date": "2024-02-04",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240204/20240204_LACMIA_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300707",
+    "date": "2024-02-04",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-cha-0022300707/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300707",
+    "date": "2024-02-04",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240204/20240204_INDCHA_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300716",
+    "date": "2024-02-05",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lac-vs-atl-0022300716/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300716",
+    "date": "2024-02-05",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240205/20240205_LACATL_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300718",
+    "date": "2024-02-05",
+    "kind": "page",
+    "url": "https://www.nba.com/game/tor-vs-nop-0022300718/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300718",
+    "date": "2024-02-05",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240205/20240205_TORNOP_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300713",
+    "date": "2024-02-05",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lal-vs-cha-0022300713/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300713",
+    "date": "2024-02-05",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240205/20240205_LALCHA_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300719",
+    "date": "2024-02-06",
+    "kind": "page",
+    "url": "https://www.nba.com/game/hou-vs-ind-0022300719/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300719",
+    "date": "2024-02-06",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240206/20240206_HOUIND_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300721",
+    "date": "2024-02-06",
+    "kind": "page",
+    "url": "https://www.nba.com/game/orl-vs-mia-0022300721/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300721",
+    "date": "2024-02-06",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240206/20240206_ORLMIA_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300731",
+    "date": "2024-02-07",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nop-vs-lac-0022300731/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300731",
+    "date": "2024-02-07",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240207/20240207_NOPLAC_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300730",
+    "date": "2024-02-07",
+    "kind": "page",
+    "url": "https://www.nba.com/game/sas-vs-mia-0022300730/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300730",
+    "date": "2024-02-07",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240207/20240207_SASMIA_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300740",
+    "date": "2024-02-08",
+    "kind": "page",
+    "url": "https://www.nba.com/game/den-vs-lal-0022300740/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300740",
+    "date": "2024-02-08",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240208/20240208_DENLAL_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300733",
+    "date": "2024-02-08",
+    "kind": "page",
+    "url": "https://www.nba.com/game/gsw-vs-ind-0022300733/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300733",
+    "date": "2024-02-08",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240208/20240208_GSWIND_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300747",
+    "date": "2024-02-09",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nop-vs-lal-0022300747/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300747",
+    "date": "2024-02-09",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240209/20240209_NOPLAL_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300755",
+    "date": "2024-02-10",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-nyk-0022300755/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300755",
+    "date": "2024-02-10",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240210/20240210_INDNYK_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300758",
+    "date": "2024-02-10",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nop-vs-por-0022300758/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300758",
+    "date": "2024-02-10",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240210/20240210_NOPPOR_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300749",
+    "date": "2024-02-10",
+    "kind": "page",
+    "url": "https://www.nba.com/game/det-vs-lac-0022300749/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300749",
+    "date": "2024-02-10",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240210/20240210_DETLAC_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300759",
+    "date": "2024-02-11",
+    "kind": "page",
+    "url": "https://www.nba.com/game/bos-vs-mia-0022300759/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300759",
+    "date": "2024-02-11",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240211/20240211_BOSMIA_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300770",
+    "date": "2024-02-12",
+    "kind": "page",
+    "url": "https://www.nba.com/game/min-vs-lac-0022300770/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300770",
+    "date": "2024-02-12",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240212/20240212_MINLAC_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300766",
+    "date": "2024-02-12",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nop-vs-mem-0022300766/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300766",
+    "date": "2024-02-12",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240212/20240212_NOPMEM_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300761",
+    "date": "2024-02-12",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-cha-0022300761/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300761",
+    "date": "2024-02-12",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240212/20240212_INDCHA_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300773",
+    "date": "2024-02-13",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mia-vs-mil-0022300773/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300773",
+    "date": "2024-02-13",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240213/20240213_MIAMIL_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300776",
+    "date": "2024-02-13",
+    "kind": "page",
+    "url": "https://www.nba.com/game/det-vs-lal-0022300776/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300776",
+    "date": "2024-02-13",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240213/20240213_DETLAL_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300789",
+    "date": "2024-02-14",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lac-vs-gsw-0022300789/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300789",
+    "date": "2024-02-14",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240214/20240214_LACGSW_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300779",
+    "date": "2024-02-14",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mia-vs-phi-0022300779/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300779",
+    "date": "2024-02-14",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240214/20240214_MIAPHI_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300782",
+    "date": "2024-02-14",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-tor-0022300782/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300782",
+    "date": "2024-02-14",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240214/20240214_INDTOR_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300788",
+    "date": "2024-02-14",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lal-vs-uta-0022300788/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300788",
+    "date": "2024-02-14",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240214/20240214_LALUTA_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300784",
+    "date": "2024-02-14",
+    "kind": "page",
+    "url": "https://www.nba.com/game/was-vs-nop-0022300784/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300784",
+    "date": "2024-02-14",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240214/20240214_WASNOP_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300802",
+    "date": "2024-02-22",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lal-vs-gsw-0022300802/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300802",
+    "date": "2024-02-22",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240222/20240222_LALGSW_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300798",
+    "date": "2024-02-22",
+    "kind": "page",
+    "url": "https://www.nba.com/game/hou-vs-nop-0022300798/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300798",
+    "date": "2024-02-22",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240222/20240222_HOUNOP_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300799",
+    "date": "2024-02-22",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lac-vs-okc-0022300799/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300799",
+    "date": "2024-02-22",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240222/20240222_LACOKC_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300793",
+    "date": "2024-02-22",
+    "kind": "page",
+    "url": "https://www.nba.com/game/det-vs-ind-0022300793/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300793",
+    "date": "2024-02-22",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240222/20240222_DETIND_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300810",
+    "date": "2024-02-23",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mia-vs-nop-0022300810/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300810",
+    "date": "2024-02-23",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240223/20240223_MIANOP_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300813",
+    "date": "2024-02-23",
+    "kind": "page",
+    "url": "https://www.nba.com/game/sas-vs-lal-0022300813/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300813",
+    "date": "2024-02-23",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240223/20240223_SASLAL_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300807",
+    "date": "2024-02-23",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lac-vs-mem-0022300807/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300807",
+    "date": "2024-02-23",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240223/20240223_LACMEM_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300823",
+    "date": "2024-02-25",
+    "kind": "page",
+    "url": "https://www.nba.com/game/chi-vs-nop-0022300823/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300823",
+    "date": "2024-02-25",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240225/20240225_CHINOP_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300819",
+    "date": "2024-02-25",
+    "kind": "page",
+    "url": "https://www.nba.com/game/dal-vs-ind-0022300819/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300819",
+    "date": "2024-02-25",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240225/20240225_DALIND_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300818",
+    "date": "2024-02-25",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lal-vs-phx-0022300818/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300818",
+    "date": "2024-02-25",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240225/20240225_LALPHX_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300827",
+    "date": "2024-02-25",
+    "kind": "page",
+    "url": "https://www.nba.com/game/sac-vs-lac-0022300827/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300827",
+    "date": "2024-02-25",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240225/20240225_SACLAC_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300831",
+    "date": "2024-02-26",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mia-vs-sac-0022300831/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300831",
+    "date": "2024-02-26",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240226/20240226_MIASAC_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300829",
+    "date": "2024-02-26",
+    "kind": "page",
+    "url": "https://www.nba.com/game/tor-vs-ind-0022300829/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300829",
+    "date": "2024-02-26",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240226/20240226_TORIND_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300837",
+    "date": "2024-02-27",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nop-vs-nyk-0022300837/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300837",
+    "date": "2024-02-27",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240227/20240227_NOPNYK_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300842",
+    "date": "2024-02-27",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mia-vs-por-0022300842/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300842",
+    "date": "2024-02-27",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240227/20240227_MIAPOR_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300843",
+    "date": "2024-02-28",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nop-vs-ind-0022300843/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300843",
+    "date": "2024-02-28",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240228/20240228_NOPIND_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300848",
+    "date": "2024-02-28",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lal-vs-lac-0022300848/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300848",
+    "date": "2024-02-28",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240228/20240228_LALLAC_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300855",
+    "date": "2024-02-29",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mia-vs-den-0022300855/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300855",
+    "date": "2024-02-29",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240229/20240229_MIADEN_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300856",
+    "date": "2024-02-29",
+    "kind": "page",
+    "url": "https://www.nba.com/game/was-vs-lal-0022300856/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300856",
+    "date": "2024-02-29",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240229/20240229_WASLAL_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300863",
+    "date": "2024-03-01",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-nop-0022300863/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300863",
+    "date": "2024-03-01",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240301/20240301_INDNOP_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300865",
+    "date": "2024-03-01",
+    "kind": "page",
+    "url": "https://www.nba.com/game/was-vs-lac-0022300865/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300865",
+    "date": "2024-03-01",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240301/20240301_WASLAC_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300869",
+    "date": "2024-03-02",
+    "kind": "page",
+    "url": "https://www.nba.com/game/den-vs-lal-0022300869/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300869",
+    "date": "2024-03-02",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240302/20240302_DENLAL_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300867",
+    "date": "2024-03-02",
+    "kind": "page",
+    "url": "https://www.nba.com/game/uta-vs-mia-0022300867/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300867",
+    "date": "2024-03-02",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240302/20240302_UTAMIA_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300873",
+    "date": "2024-03-03",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lac-vs-min-0022300873/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300873",
+    "date": "2024-03-03",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240303/20240303_LACMIN_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300877",
+    "date": "2024-03-03",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-sas-0022300877/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300877",
+    "date": "2024-03-03",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240303/20240303_INDSAS_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300880",
+    "date": "2024-03-04",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lac-vs-mil-0022300880/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300880",
+    "date": "2024-03-04",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240304/20240304_LACMIL_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300884",
+    "date": "2024-03-04",
+    "kind": "page",
+    "url": "https://www.nba.com/game/okc-vs-lal-0022300884/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300884",
+    "date": "2024-03-04",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240304/20240304_OKCLAL_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300892",
+    "date": "2024-03-05",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-dal-0022300892/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300892",
+    "date": "2024-03-05",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240305/20240305_INDDAL_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300890",
+    "date": "2024-03-05",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nop-vs-tor-0022300890/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300890",
+    "date": "2024-03-05",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240305/20240305_NOPTOR_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300888",
+    "date": "2024-03-05",
+    "kind": "page",
+    "url": "https://www.nba.com/game/det-vs-mia-0022300888/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300888",
+    "date": "2024-03-05",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240305/20240305_DETMIA_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300897",
+    "date": "2024-03-06",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lac-vs-hou-0022300897/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300897",
+    "date": "2024-03-06",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240306/20240306_LACHOU_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300901",
+    "date": "2024-03-06",
+    "kind": "page",
+    "url": "https://www.nba.com/game/sac-vs-lal-0022300901/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300901",
+    "date": "2024-03-06",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240306/20240306_SACLAL_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300904",
+    "date": "2024-03-07",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mia-vs-dal-0022300904/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300904",
+    "date": "2024-03-07",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240307/20240307_MIADAL_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300903",
+    "date": "2024-03-07",
+    "kind": "page",
+    "url": "https://www.nba.com/game/min-vs-ind-0022300903/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300903",
+    "date": "2024-03-07",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240307/20240307_MININD_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300915",
+    "date": "2024-03-08",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mil-vs-lal-0022300915/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300915",
+    "date": "2024-03-08",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240308/20240308_MILLAL_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300909",
+    "date": "2024-03-08",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nop-vs-phi-0022300909/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300909",
+    "date": "2024-03-08",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240308/20240308_NOPPHI_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300914",
+    "date": "2024-03-08",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mia-vs-okc-0022300914/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300914",
+    "date": "2024-03-08",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240308/20240308_MIAOKC_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300917",
+    "date": "2024-03-09",
+    "kind": "page",
+    "url": "https://www.nba.com/game/chi-vs-lac-0022300917/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300917",
+    "date": "2024-03-09",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240309/20240309_CHILAC_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300925",
+    "date": "2024-03-10",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nop-vs-atl-0022300925/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300925",
+    "date": "2024-03-10",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240310/20240310_NOPATL_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300924",
+    "date": "2024-03-10",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mil-vs-lac-0022300924/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300924",
+    "date": "2024-03-10",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240310/20240310_MILLAC_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300932",
+    "date": "2024-03-10",
+    "kind": "page",
+    "url": "https://www.nba.com/game/min-vs-lal-0022300932/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300932",
+    "date": "2024-03-10",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240310/20240310_MINLAL_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300928",
+    "date": "2024-03-10",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-orl-0022300928/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300928",
+    "date": "2024-03-10",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240310/20240310_INDORL_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300926",
+    "date": "2024-03-10",
+    "kind": "page",
+    "url": "https://www.nba.com/game/was-vs-mia-0022300926/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300926",
+    "date": "2024-03-10",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240310/20240310_WASMIA_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300944",
+    "date": "2024-03-12",
+    "kind": "page",
+    "url": "https://www.nba.com/game/min-vs-lac-0022300944/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300944",
+    "date": "2024-03-12",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240312/20240312_MINLAC_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300941",
+    "date": "2024-03-12",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-okc-0022300941/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300941",
+    "date": "2024-03-12",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240312/20240312_INDOKC_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300951",
+    "date": "2024-03-13",
+    "kind": "page",
+    "url": "https://www.nba.com/game/cle-vs-nop-0022300951/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300951",
+    "date": "2024-03-13",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240313/20240313_CLENOP_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300948",
+    "date": "2024-03-13",
+    "kind": "page",
+    "url": "https://www.nba.com/game/chi-vs-ind-0022300948/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300948",
+    "date": "2024-03-13",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240313/20240313_CHIIND_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300949",
+    "date": "2024-03-13",
+    "kind": "page",
+    "url": "https://www.nba.com/game/den-vs-mia-0022300949/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300949",
+    "date": "2024-03-13",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240313/20240313_DENMIA_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300954",
+    "date": "2024-03-13",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lal-vs-sac-0022300954/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300954",
+    "date": "2024-03-13",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240313/20240313_LALSAC_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300956",
+    "date": "2024-03-14",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lac-vs-chi-0022300956/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300956",
+    "date": "2024-03-14",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240314/20240314_LACCHI_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300964",
+    "date": "2024-03-15",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lac-vs-nop-0022300964/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300964",
+    "date": "2024-03-15",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240315/20240315_LACNOP_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300962",
+    "date": "2024-03-15",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mia-vs-det-0022300962/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300962",
+    "date": "2024-03-15",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240315/20240315_MIADET_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300973",
+    "date": "2024-03-16",
+    "kind": "page",
+    "url": "https://www.nba.com/game/gsw-vs-lal-0022300973/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300973",
+    "date": "2024-03-16",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240316/20240316_GSWLAL_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300968",
+    "date": "2024-03-16",
+    "kind": "page",
+    "url": "https://www.nba.com/game/bkn-vs-ind-0022300968/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300968",
+    "date": "2024-03-16",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240316/20240316_BKNIND_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300970",
+    "date": "2024-03-16",
+    "kind": "page",
+    "url": "https://www.nba.com/game/por-vs-nop-0022300970/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300970",
+    "date": "2024-03-16",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240316/20240316_PORNOP_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300982",
+    "date": "2024-03-17",
+    "kind": "page",
+    "url": "https://www.nba.com/game/atl-vs-lac-0022300982/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300982",
+    "date": "2024-03-17",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240317/20240317_ATLLAC_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300977",
+    "date": "2024-03-17",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mia-vs-det-0022300977/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300977",
+    "date": "2024-03-17",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240317/20240317_MIADET_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300990",
+    "date": "2024-03-18",
+    "kind": "page",
+    "url": "https://www.nba.com/game/atl-vs-lal-0022300990/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300990",
+    "date": "2024-03-18",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240318/20240318_ATLLAL_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300983",
+    "date": "2024-03-18",
+    "kind": "page",
+    "url": "https://www.nba.com/game/cle-vs-ind-0022300983/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300983",
+    "date": "2024-03-18",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240318/20240318_CLEIND_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300985",
+    "date": "2024-03-18",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mia-vs-phi-0022300985/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300985",
+    "date": "2024-03-18",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240318/20240318_MIAPHI_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300993",
+    "date": "2024-03-19",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nop-vs-bkn-0022300993/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300993",
+    "date": "2024-03-19",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240319/20240319_NOPBKN_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300996",
+    "date": "2024-03-20",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mia-vs-cle-0022300996/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300996",
+    "date": "2024-03-20",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240320/20240320_MIACLE_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301003",
+    "date": "2024-03-20",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lac-vs-por-0022301003/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301003",
+    "date": "2024-03-20",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240320/20240320_LACPOR_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022300997",
+    "date": "2024-03-20",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-det-0022300997/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022300997",
+    "date": "2024-03-20",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240320/20240320_INDDET_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301004",
+    "date": "2024-03-21",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nop-vs-orl-0022301004/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301004",
+    "date": "2024-03-21",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240321/20240321_NOPORL_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301013",
+    "date": "2024-03-22",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nop-vs-mia-0022301013/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301013",
+    "date": "2024-03-22",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240322/20240322_NOPMIA_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301016",
+    "date": "2024-03-22",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-gsw-0022301016/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301016",
+    "date": "2024-03-22",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240322/20240322_INDGSW_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301018",
+    "date": "2024-03-22",
+    "kind": "page",
+    "url": "https://www.nba.com/game/phi-vs-lal-0022301018/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301018",
+    "date": "2024-03-22",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240322/20240322_PHILAL_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301017",
+    "date": "2024-03-22",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lac-vs-por-0022301017/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301017",
+    "date": "2024-03-22",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240322/20240322_LACPOR_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301029",
+    "date": "2024-03-24",
+    "kind": "page",
+    "url": "https://www.nba.com/game/cle-vs-mia-0022301029/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301029",
+    "date": "2024-03-24",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240324/20240324_CLEMIA_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301032",
+    "date": "2024-03-24",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-lal-0022301032/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301032",
+    "date": "2024-03-24",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240324/20240324_INDLAL_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301028",
+    "date": "2024-03-24",
+    "kind": "page",
+    "url": "https://www.nba.com/game/phi-vs-lac-0022301028/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301028",
+    "date": "2024-03-24",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240324/20240324_PHILAC_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301027",
+    "date": "2024-03-24",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nop-vs-det-0022301027/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301027",
+    "date": "2024-03-24",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240324/20240324_NOPDET_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301043",
+    "date": "2024-03-25",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-lac-0022301043/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301043",
+    "date": "2024-03-25",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240325/20240325_INDLAC_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301044",
+    "date": "2024-03-26",
+    "kind": "page",
+    "url": "https://www.nba.com/game/gsw-vs-mia-0022301044/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301044",
+    "date": "2024-03-26",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240326/20240326_GSWMIA_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301045",
+    "date": "2024-03-26",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lal-vs-mil-0022301045/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301045",
+    "date": "2024-03-26",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240326/20240326_LALMIL_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301046",
+    "date": "2024-03-26",
+    "kind": "page",
+    "url": "https://www.nba.com/game/okc-vs-nop-0022301046/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301046",
+    "date": "2024-03-26",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240326/20240326_OKCNOP_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301054",
+    "date": "2024-03-27",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-chi-0022301054/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301054",
+    "date": "2024-03-27",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240327/20240327_INDCHI_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301052",
+    "date": "2024-03-27",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lac-vs-phi-0022301052/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301052",
+    "date": "2024-03-27",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240327/20240327_LACPHI_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301055",
+    "date": "2024-03-27",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lal-vs-mem-0022301055/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301055",
+    "date": "2024-03-27",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240327/20240327_LALMEM_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301061",
+    "date": "2024-03-28",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mil-vs-nop-0022301061/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301061",
+    "date": "2024-03-28",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240328/20240328_MILNOP_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301063",
+    "date": "2024-03-29",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lal-vs-ind-0022301063/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301063",
+    "date": "2024-03-29",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240329/20240329_LALIND_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301064",
+    "date": "2024-03-29",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lac-vs-orl-0022301064/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301064",
+    "date": "2024-03-29",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240329/20240329_LACORL_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301068",
+    "date": "2024-03-29",
+    "kind": "page",
+    "url": "https://www.nba.com/game/por-vs-mia-0022301068/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301068",
+    "date": "2024-03-29",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240329/20240329_PORMIA_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301074",
+    "date": "2024-03-30",
+    "kind": "page",
+    "url": "https://www.nba.com/game/bos-vs-nop-0022301074/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301074",
+    "date": "2024-03-30",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240330/20240330_BOSNOP_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301078",
+    "date": "2024-03-31",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lal-vs-bkn-0022301078/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301078",
+    "date": "2024-03-31",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240331/20240331_LALBKN_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301081",
+    "date": "2024-03-31",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mia-vs-was-0022301081/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301081",
+    "date": "2024-03-31",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240331/20240331_MIAWAS_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301079",
+    "date": "2024-03-31",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lac-vs-cha-0022301079/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301079",
+    "date": "2024-03-31",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240331/20240331_LACCHA_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301089",
+    "date": "2024-04-01",
+    "kind": "page",
+    "url": "https://www.nba.com/game/bkn-vs-ind-0022301089/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301089",
+    "date": "2024-04-01",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240401/20240401_BKNIND_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301092",
+    "date": "2024-04-01",
+    "kind": "page",
+    "url": "https://www.nba.com/game/phx-vs-nop-0022301092/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301092",
+    "date": "2024-04-01",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240401/20240401_PHXNOP_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301096",
+    "date": "2024-04-02",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nyk-vs-mia-0022301096/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301096",
+    "date": "2024-04-02",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240402/20240402_NYKMIA_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301101",
+    "date": "2024-04-02",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lac-vs-sac-0022301101/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301101",
+    "date": "2024-04-02",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240402/20240402_LACSAC_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301094",
+    "date": "2024-04-02",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lal-vs-tor-0022301094/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301094",
+    "date": "2024-04-02",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240402/20240402_LALTOR_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301106",
+    "date": "2024-04-03",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-bkn-0022301106/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301106",
+    "date": "2024-04-03",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240403/20240403_INDBKN_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301109",
+    "date": "2024-04-03",
+    "kind": "page",
+    "url": "https://www.nba.com/game/orl-vs-nop-0022301109/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301109",
+    "date": "2024-04-03",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240403/20240403_ORLNOP_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301103",
+    "date": "2024-04-03",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lal-vs-was-0022301103/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301103",
+    "date": "2024-04-03",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240403/20240403_LALWAS_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301114",
+    "date": "2024-04-04",
+    "kind": "page",
+    "url": "https://www.nba.com/game/den-vs-lac-0022301114/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301114",
+    "date": "2024-04-04",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240404/20240404_DENLAC_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301111",
+    "date": "2024-04-04",
+    "kind": "page",
+    "url": "https://www.nba.com/game/phi-vs-mia-0022301111/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301111",
+    "date": "2024-04-04",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240404/20240404_PHIMIA_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301120",
+    "date": "2024-04-05",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mia-vs-hou-0022301120/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301120",
+    "date": "2024-04-05",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240405/20240405_MIAHOU_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301123",
+    "date": "2024-04-05",
+    "kind": "page",
+    "url": "https://www.nba.com/game/sas-vs-nop-0022301123/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301123",
+    "date": "2024-04-05",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240405/20240405_SASNOP_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301116",
+    "date": "2024-04-05",
+    "kind": "page",
+    "url": "https://www.nba.com/game/okc-vs-ind-0022301116/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301116",
+    "date": "2024-04-05",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240405/20240405_OKCIND_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301126",
+    "date": "2024-04-05",
+    "kind": "page",
+    "url": "https://www.nba.com/game/uta-vs-lac-0022301126/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301126",
+    "date": "2024-04-05",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240405/20240405_UTALAC_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301127",
+    "date": "2024-04-06",
+    "kind": "page",
+    "url": "https://www.nba.com/game/cle-vs-lal-0022301127/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301127",
+    "date": "2024-04-06",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240406/20240406_CLELAL_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301132",
+    "date": "2024-04-07",
+    "kind": "page",
+    "url": "https://www.nba.com/game/cle-vs-lac-0022301132/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301132",
+    "date": "2024-04-07",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240407/20240407_CLELAC_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301133",
+    "date": "2024-04-07",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mia-vs-ind-0022301133/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301133",
+    "date": "2024-04-07",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240407/20240407_MIAIND_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301143",
+    "date": "2024-04-07",
+    "kind": "page",
+    "url": "https://www.nba.com/game/min-vs-lal-0022301143/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301143",
+    "date": "2024-04-07",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240407/20240407_MINLAL_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301138",
+    "date": "2024-04-07",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nop-vs-phx-0022301138/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301138",
+    "date": "2024-04-07",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240407/20240407_NOPPHX_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301147",
+    "date": "2024-04-09",
+    "kind": "page",
+    "url": "https://www.nba.com/game/mia-vs-atl-0022301147/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301147",
+    "date": "2024-04-09",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240409/20240409_MIAATL_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301155",
+    "date": "2024-04-09",
+    "kind": "page",
+    "url": "https://www.nba.com/game/gsw-vs-lal-0022301155/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301155",
+    "date": "2024-04-09",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240409/20240409_GSWLAL_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301156",
+    "date": "2024-04-09",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lac-vs-phx-0022301156/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301156",
+    "date": "2024-04-09",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240409/20240409_LACPHX_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301157",
+    "date": "2024-04-09",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nop-vs-por-0022301157/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301157",
+    "date": "2024-04-09",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240409/20240409_NOPPOR_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301146",
+    "date": "2024-04-09",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-tor-0022301146/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301146",
+    "date": "2024-04-09",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240409/20240409_INDTOR_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301161",
+    "date": "2024-04-10",
+    "kind": "page",
+    "url": "https://www.nba.com/game/dal-vs-mia-0022301161/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301161",
+    "date": "2024-04-10",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240410/20240410_DALMIA_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301165",
+    "date": "2024-04-10",
+    "kind": "page",
+    "url": "https://www.nba.com/game/phx-vs-lac-0022301165/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301165",
+    "date": "2024-04-10",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240410/20240410_PHXLAC_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301170",
+    "date": "2024-04-11",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nop-vs-sac-0022301170/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301170",
+    "date": "2024-04-11",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240411/20240411_NOPSAC_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301174",
+    "date": "2024-04-12",
+    "kind": "page",
+    "url": "https://www.nba.com/game/ind-vs-cle-0022301174/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301174",
+    "date": "2024-04-12",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240412/20240412_INDCLE_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301182",
+    "date": "2024-04-12",
+    "kind": "page",
+    "url": "https://www.nba.com/game/nop-vs-gsw-0022301182/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301182",
+    "date": "2024-04-12",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240412/20240412_NOPGSW_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301176",
+    "date": "2024-04-12",
+    "kind": "page",
+    "url": "https://www.nba.com/game/tor-vs-mia-0022301176/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301176",
+    "date": "2024-04-12",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240412/20240412_TORMIA_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301184",
+    "date": "2024-04-12",
+    "kind": "page",
+    "url": "https://www.nba.com/game/uta-vs-lac-0022301184/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301184",
+    "date": "2024-04-12",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240412/20240412_UTALAC_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301177",
+    "date": "2024-04-12",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lal-vs-mem-0022301177/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301177",
+    "date": "2024-04-12",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240412/20240412_LALMEM_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301188",
+    "date": "2024-04-14",
+    "kind": "page",
+    "url": "https://www.nba.com/game/atl-vs-ind-0022301188/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301188",
+    "date": "2024-04-14",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240414/20240414_ATLIND_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301195",
+    "date": "2024-04-14",
+    "kind": "page",
+    "url": "https://www.nba.com/game/lal-vs-nop-0022301195/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301195",
+    "date": "2024-04-14",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240414/20240414_LALNOP_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301199",
+    "date": "2024-04-14",
+    "kind": "page",
+    "url": "https://www.nba.com/game/hou-vs-lac-0022301199/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301199",
+    "date": "2024-04-14",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240414/20240414_HOULAC_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "page_0022301189",
+    "date": "2024-04-14",
+    "kind": "page",
+    "url": "https://www.nba.com/game/tor-vs-mia-0022301189/box-score",
+    "scope": "core"
+  },
+  {
+    "source_id": "book_0022301189",
+    "date": "2024-04-14",
+    "kind": "book",
+    "url": "https://statsdmz.nba.com/pdfs/20240414/20240414_TORMIA_book.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-01_11AM",
+    "date": "2024-01-01",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-01_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-01_11PM",
+    "date": "2024-01-01",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-01_11PM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-02_11AM",
+    "date": "2024-01-02",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-02_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-02_11PM",
+    "date": "2024-01-02",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-02_11PM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-03_11AM",
+    "date": "2024-01-03",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-03_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-03_11PM",
+    "date": "2024-01-03",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-03_11PM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-04_11AM",
+    "date": "2024-01-04",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-04_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-04_11PM",
+    "date": "2024-01-04",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-04_11PM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-05_11AM",
+    "date": "2024-01-05",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-05_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-05_11PM",
+    "date": "2024-01-05",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-05_11PM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-06_11AM",
+    "date": "2024-01-06",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-06_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-06_11PM",
+    "date": "2024-01-06",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-06_11PM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-07_11AM",
+    "date": "2024-01-07",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-07_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-07_11PM",
+    "date": "2024-01-07",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-07_11PM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-08_11AM",
+    "date": "2024-01-08",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-08_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-08_11PM",
+    "date": "2024-01-08",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-08_11PM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-09_11AM",
+    "date": "2024-01-09",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-09_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-09_11PM",
+    "date": "2024-01-09",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-09_11PM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-10_11AM",
+    "date": "2024-01-10",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-10_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-10_11PM",
+    "date": "2024-01-10",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-10_11PM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-11_11AM",
+    "date": "2024-01-11",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-11_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-11_11PM",
+    "date": "2024-01-11",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-11_11PM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-12_11AM",
+    "date": "2024-01-12",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-12_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-12_11PM",
+    "date": "2024-01-12",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-12_11PM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-13_11AM",
+    "date": "2024-01-13",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-13_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-13_11PM",
+    "date": "2024-01-13",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-13_11PM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-14_11AM",
+    "date": "2024-01-14",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-14_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-14_11PM",
+    "date": "2024-01-14",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-14_11PM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-15_11AM",
+    "date": "2024-01-15",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-15_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-15_11PM",
+    "date": "2024-01-15",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-15_11PM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-16_11AM",
+    "date": "2024-01-16",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-16_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-16_11PM",
+    "date": "2024-01-16",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-16_11PM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-17_11AM",
+    "date": "2024-01-17",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-17_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-17_11PM",
+    "date": "2024-01-17",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-17_11PM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-18_11AM",
+    "date": "2024-01-18",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-18_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-18_11PM",
+    "date": "2024-01-18",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-18_11PM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-19_11AM",
+    "date": "2024-01-19",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-19_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-19_11PM",
+    "date": "2024-01-19",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-19_11PM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-20_11AM",
+    "date": "2024-01-20",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-20_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-20_11PM",
+    "date": "2024-01-20",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-20_11PM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-21_11AM",
+    "date": "2024-01-21",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-21_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-21_11PM",
+    "date": "2024-01-21",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-21_11PM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-22_11AM",
+    "date": "2024-01-22",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-22_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-22_11PM",
+    "date": "2024-01-22",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-22_11PM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-23_11AM",
+    "date": "2024-01-23",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-23_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-23_11PM",
+    "date": "2024-01-23",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-23_11PM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-24_11AM",
+    "date": "2024-01-24",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-24_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-24_11PM",
+    "date": "2024-01-24",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-24_11PM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-25_11AM",
+    "date": "2024-01-25",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-25_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-25_11PM",
+    "date": "2024-01-25",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-25_11PM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-26_11AM",
+    "date": "2024-01-26",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-26_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-26_11PM",
+    "date": "2024-01-26",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-26_11PM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-27_11AM",
+    "date": "2024-01-27",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-27_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-27_11PM",
+    "date": "2024-01-27",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-27_11PM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-28_11AM",
+    "date": "2024-01-28",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-28_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-28_11PM",
+    "date": "2024-01-28",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-28_11PM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-29_11AM",
+    "date": "2024-01-29",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-29_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-29_11PM",
+    "date": "2024-01-29",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-29_11PM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-30_11AM",
+    "date": "2024-01-30",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-30_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-30_11PM",
+    "date": "2024-01-30",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-30_11PM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-31_11AM",
+    "date": "2024-01-31",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-31_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-01-31_11PM",
+    "date": "2024-01-31",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-01-31_11PM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-02-01_11AM",
+    "date": "2024-02-01",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-01_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-02-01_11PM",
+    "date": "2024-02-01",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-01_11PM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-02-02_11AM",
+    "date": "2024-02-02",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-02_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-02-02_11PM",
+    "date": "2024-02-02",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-02_11PM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-02-03_11AM",
+    "date": "2024-02-03",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-03_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-02-03_11PM",
+    "date": "2024-02-03",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-03_11PM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-02-04_11AM",
+    "date": "2024-02-04",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-04_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-02-04_11PM",
+    "date": "2024-02-04",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-04_11PM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-02-05_11AM",
+    "date": "2024-02-05",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-05_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-02-05_11PM",
+    "date": "2024-02-05",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-05_11PM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-02-06_11AM",
+    "date": "2024-02-06",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-06_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-02-06_11PM",
+    "date": "2024-02-06",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-06_11PM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-02-07_11AM",
+    "date": "2024-02-07",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-07_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-02-07_11PM",
+    "date": "2024-02-07",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-07_11PM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-02-08_11AM",
+    "date": "2024-02-08",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-08_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-02-08_11PM",
+    "date": "2024-02-08",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-08_11PM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-02-09_11AM",
+    "date": "2024-02-09",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-09_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-02-09_11PM",
+    "date": "2024-02-09",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-09_11PM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-02-10_11AM",
+    "date": "2024-02-10",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-10_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-02-10_11PM",
+    "date": "2024-02-10",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-10_11PM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-02-11_11AM",
+    "date": "2024-02-11",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-11_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-02-11_11PM",
+    "date": "2024-02-11",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-11_11PM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-02-12_11AM",
+    "date": "2024-02-12",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-12_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-02-12_11PM",
+    "date": "2024-02-12",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-12_11PM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-02-13_11AM",
+    "date": "2024-02-13",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-13_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-02-13_11PM",
+    "date": "2024-02-13",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-13_11PM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-02-14_11AM",
+    "date": "2024-02-14",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-14_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-02-14_11PM",
+    "date": "2024-02-14",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-14_11PM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-02-15_11AM",
+    "date": "2024-02-15",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-15_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-02-15_11PM",
+    "date": "2024-02-15",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-15_11PM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-02-16_11AM",
+    "date": "2024-02-16",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-16_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-02-16_11PM",
+    "date": "2024-02-16",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-16_11PM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-02-17_11AM",
+    "date": "2024-02-17",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-17_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-02-17_11PM",
+    "date": "2024-02-17",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-17_11PM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-02-18_11AM",
+    "date": "2024-02-18",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-18_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-02-18_11PM",
+    "date": "2024-02-18",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-18_11PM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-02-19_11AM",
+    "date": "2024-02-19",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-19_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-02-20_11AM",
+    "date": "2024-02-20",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-20_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-02-21_11AM",
+    "date": "2024-02-21",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-21_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-02-22_11AM",
+    "date": "2024-02-22",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-22_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-02-23_11AM",
+    "date": "2024-02-23",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-23_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-02-24_11AM",
+    "date": "2024-02-24",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-24_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-02-25_11AM",
+    "date": "2024-02-25",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-25_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-02-26_11AM",
+    "date": "2024-02-26",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-26_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-02-27_11AM",
+    "date": "2024-02-27",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-27_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-02-28_11AM",
+    "date": "2024-02-28",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-28_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-02-29_11AM",
+    "date": "2024-02-29",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-02-29_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-03-01_11AM",
+    "date": "2024-03-01",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-03-01_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-03-02_11AM",
+    "date": "2024-03-02",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-03-02_11AM.pdf",
+    "scope": "core"
+  },
+  {
+    "source_id": "report_2024-03-03_11AM",
+    "date": "2024-03-03",
+    "kind": "report",
+    "url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2024-03-03_11AM.pdf",
+    "scope": "core"
+  }
+]

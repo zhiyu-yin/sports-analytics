@@ -1,0 +1,5 @@
+team,player_id,player_name,transaction_date,basis,source_id,historical_availability
+SAC,201577,Robin Lopez,2024-02-08,Official trade tracker; acquired in transaction but no acquired game roster/appearance observed. Waiver intraday boundary unverified; no prediction row or workload invented.,p2_trade_tracker,C
+DET,1627853,Ryan Arcidiacono,2024-02-08,Registered NYK player traded to DET; no acquired DET game roster/appearance observed. Targeted actual schedule retained with uncertain onboarding/waiver boundary.,p2_trade_tracker,C
+MEM,1629002,Chimezie Metu,2024-02-08,Official three-team trade tracker lists acquisition; no acquired MEM game roster/appearance. Waiver boundary not inferred and no prediction or zero-workload row invented.,p2_trade_tracker,C
+DET,1627863,Danuel House Jr.,2024-02-08,transaction_only_contract_inventory; no game roster or appearance inferred,p2_trade_tracker,C

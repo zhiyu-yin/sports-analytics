@@ -1,0 +1,14 @@
+scope,dimension,value,events,fraction
+phase2d_batch1,team,CHA,1,0.2
+phase2d_batch1,team,MIL,1,0.2
+phase2d_batch1,team,POR,2,0.4
+phase2d_batch1,team,WAS,1,0.2
+phase2d_batch1,collection_origin_team,CHA,1,0.2
+phase2d_batch1,collection_origin_team,MIL,1,0.2
+phase2d_batch1,collection_origin_team,POR,2,0.4
+phase2d_batch1,collection_origin_team,WAS,1,0.2
+phase2d_batch1,player,1629650,1,0.2
+phase2d_batch1,player,1630163,1,0.2
+phase2d_batch1,player,1630587,1,0.2
+phase2d_batch1,player,1631101,1,0.2
+phase2d_batch1,player,203114,1,0.2

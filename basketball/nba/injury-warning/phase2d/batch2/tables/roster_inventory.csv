@@ -1,0 +1,119 @@
+team,player_id,player_name,roster_game_records,period_appearances,first_roster_game,last_roster_game,role
+BKN,1626220,Royce O'Neale,18,17,2024-01-02,2024-02-08,all_roster_inventory; appearance population applied separately
+BKN,1627732,Ben Simmons,21,6,2024-01-02,2024-02-14,all_roster_inventory; appearance population applied separately
+BKN,1627827,Dorian Finney-Smith,21,15,2024-01-02,2024-02-14,all_roster_inventory; appearance population applied separately
+BKN,1628372,Dennis Smith Jr.,21,19,2024-01-02,2024-02-14,all_roster_inventory; appearance population applied separately
+BKN,1628385,Harry Giles III,17,7,2024-01-02,2024-02-06,all_roster_inventory; appearance population applied separately
+BKN,1628966,Keita Bates-Diop,3,2,2024-02-10,2024-02-14,all_roster_inventory; appearance population applied separately
+BKN,1628969,Mikal Bridges,21,21,2024-01-02,2024-02-14,all_roster_inventory; appearance population applied separately
+BKN,1629022,Lonnie Walker IV,21,17,2024-01-02,2024-02-14,all_roster_inventory; appearance population applied separately
+BKN,1629651,Nic Claxton,21,21,2024-01-02,2024-02-14,all_roster_inventory; appearance population applied separately
+BKN,1629661,Cameron Johnson,21,16,2024-01-02,2024-02-14,all_roster_inventory; appearance population applied separately
+BKN,1629717,Armoni Brooks,3,2,2024-01-02,2024-01-05,all_roster_inventory; appearance population applied separately
+BKN,1630549,Day'Ron Sharpe,21,6,2024-01-02,2024-02-14,all_roster_inventory; appearance population applied separately
+BKN,1630553,Keon Johnson,21,2,2024-01-02,2024-02-14,all_roster_inventory; appearance population applied separately
+BKN,1630560,Cam Thomas,21,21,2024-01-02,2024-02-14,all_roster_inventory; appearance population applied separately
+BKN,1630570,Trendon Watford,21,15,2024-01-02,2024-02-14,all_roster_inventory; appearance population applied separately
+BKN,1630592,Jalen Wilson,21,7,2024-01-02,2024-02-14,all_roster_inventory; appearance population applied separately
+BKN,1641727,Dariq Whitehead,21,0,2024-01-02,2024-02-14,all_roster_inventory; appearance population applied separately
+BKN,1641730,Noah Clowney,21,5,2024-01-02,2024-02-14,all_roster_inventory; appearance population applied separately
+BKN,201152,Thaddeus Young,1,0,2024-02-08,2024-02-08,all_roster_inventory; appearance population applied separately
+BKN,203471,Dennis Schröder,4,3,2024-02-08,2024-02-14,all_roster_inventory; appearance population applied separately
+BKN,203915,Spencer Dinwiddie,17,17,2024-01-02,2024-02-06,all_roster_inventory; appearance population applied separately
+CHI,1627936,Alex Caruso,21,19,2024-01-02,2024-02-14,all_roster_inventory; appearance population applied separately
+CHI,1628366,Lonzo Ball,21,0,2024-01-02,2024-02-14,all_roster_inventory; appearance population applied separately
+CHI,1628470,Torrey Craig,21,6,2024-01-02,2024-02-14,all_roster_inventory; appearance population applied separately
+CHI,1628975,Jevon Carter,21,18,2024-01-02,2024-02-14,all_roster_inventory; appearance population applied separately
+CHI,1629632,Coby White,21,21,2024-01-02,2024-02-14,all_roster_inventory; appearance population applied separately
+CHI,1630172,Patrick Williams,21,9,2024-01-02,2024-02-14,all_roster_inventory; appearance population applied separately
+CHI,1630245,Ayo Dosunmu,21,21,2024-01-02,2024-02-14,all_roster_inventory; appearance population applied separately
+CHI,1630678,Terry Taylor,21,7,2024-01-02,2024-02-14,all_roster_inventory; appearance population applied separately
+CHI,1630929,Henri Drell,21,0,2024-01-02,2024-02-14,all_roster_inventory; appearance population applied separately
+CHI,1631207,Dalen Terry,21,17,2024-01-02,2024-02-14,all_roster_inventory; appearance population applied separately
+CHI,1641763,Julian Phillips,21,11,2024-01-02,2024-02-14,all_roster_inventory; appearance population applied separately
+CHI,1641766,Adama Sanogo,21,2,2024-01-02,2024-02-14,all_roster_inventory; appearance population applied separately
+CHI,1641931,Onuralp Bitim,21,0,2024-01-02,2024-02-14,all_roster_inventory; appearance population applied separately
+CHI,201942,DeMar DeRozan,21,21,2024-01-02,2024-02-14,all_roster_inventory; appearance population applied separately
+CHI,202696,Nikola Vučević,21,19,2024-01-02,2024-02-14,all_roster_inventory; appearance population applied separately
+CHI,203083,Andre Drummond,21,21,2024-01-02,2024-02-14,all_roster_inventory; appearance population applied separately
+CHI,203897,Zach LaVine,21,7,2024-01-02,2024-02-14,all_roster_inventory; appearance population applied separately
+GSW,101108,Chris Paul,21,3,2024-01-02,2024-02-15,all_roster_inventory; appearance population applied separately
+GSW,1626172,Kevon Looney,21,21,2024-01-02,2024-02-15,all_roster_inventory; appearance population applied separately
+GSW,1627780,Gary Payton II,21,5,2024-01-02,2024-02-15,all_roster_inventory; appearance population applied separately
+GSW,1629010,Jerome Robinson,21,5,2024-01-02,2024-02-15,all_roster_inventory; appearance population applied separately
+GSW,1630228,Jonathan Kuminga,21,21,2024-01-02,2024-02-15,all_roster_inventory; appearance population applied separately
+GSW,1630541,Moses Moody,21,8,2024-01-02,2024-02-15,all_roster_inventory; appearance population applied separately
+GSW,1630586,Usman Garuba,21,0,2024-01-02,2024-02-15,all_roster_inventory; appearance population applied separately
+GSW,1630611,Gui Santos,21,8,2024-01-02,2024-02-15,all_roster_inventory; appearance population applied separately
+GSW,1631218,Trayce Jackson-Davis,21,18,2024-01-02,2024-02-15,all_roster_inventory; appearance population applied separately
+GSW,1631311,Lester Quinones,21,15,2024-01-02,2024-02-15,all_roster_inventory; appearance population applied separately
+GSW,1641764,Brandin Podziemski,21,21,2024-01-02,2024-02-15,all_roster_inventory; appearance population applied separately
+GSW,201939,Stephen Curry,21,20,2024-01-02,2024-02-15,all_roster_inventory; appearance population applied separately
+GSW,202691,Klay Thompson,21,19,2024-01-02,2024-02-15,all_roster_inventory; appearance population applied separately
+GSW,202709,Cory Joseph,16,11,2024-01-02,2024-02-07,all_roster_inventory; appearance population applied separately
+GSW,203110,Draymond Green,21,14,2024-01-02,2024-02-15,all_roster_inventory; appearance population applied separately
+GSW,203952,Andrew Wiggins,21,20,2024-01-02,2024-02-15,all_roster_inventory; appearance population applied separately
+GSW,203967,Dario Šarić,21,19,2024-01-02,2024-02-15,all_roster_inventory; appearance population applied separately
+HOU,1626246,Boban Marjanović,24,6,2024-01-01,2024-02-14,all_roster_inventory; appearance population applied separately
+HOU,1627832,Fred VanVleet,24,18,2024-01-01,2024-02-14,all_roster_inventory; appearance population applied separately
+HOU,1628415,Dillon Brooks,24,17,2024-01-01,2024-02-14,all_roster_inventory; appearance population applied separately
+HOU,1628988,Aaron Holiday,24,23,2024-01-01,2024-02-14,all_roster_inventory; appearance population applied separately
+HOU,1629111,Jock Landale,24,10,2024-01-01,2024-02-14,all_roster_inventory; appearance population applied separately
+HOU,1630207,Nate Hinton,24,6,2024-01-01,2024-02-14,all_roster_inventory; appearance population applied separately
+HOU,1630224,Jalen Green,24,24,2024-01-01,2024-02-14,all_roster_inventory; appearance population applied separately
+HOU,1630256,Jae'Sean Tate,24,23,2024-01-01,2024-02-14,all_roster_inventory; appearance population applied separately
+HOU,1630578,Alperen Sengun,24,23,2024-01-01,2024-02-14,all_roster_inventory; appearance population applied separately
+HOU,1631095,Jabari Smith Jr.,24,20,2024-01-01,2024-02-14,all_roster_inventory; appearance population applied separately
+HOU,1631106,Tari Eason,24,1,2024-01-01,2024-02-14,all_roster_inventory; appearance population applied separately
+HOU,1631257,Jermaine Samuels Jr.,24,5,2024-01-01,2024-02-14,all_roster_inventory; appearance population applied separately
+HOU,1631466,Nate Williams,24,6,2024-01-01,2024-02-14,all_roster_inventory; appearance population applied separately
+HOU,1641708,Amen Thompson,24,24,2024-01-01,2024-02-14,all_roster_inventory; appearance population applied separately
+HOU,1641715,Cam Whitmore,24,21,2024-01-01,2024-02-14,all_roster_inventory; appearance population applied separately
+HOU,201145,Jeff Green,24,23,2024-01-01,2024-02-14,all_roster_inventory; appearance population applied separately
+HOU,203493,Reggie Bullock Jr.,24,10,2024-01-01,2024-02-14,all_roster_inventory; appearance population applied separately
+HOU,203500,Steven Adams,7,0,2024-02-02,2024-02-14,all_roster_inventory; appearance population applied separately
+HOU,203506,Victor Oladipo,17,0,2024-01-01,2024-01-31,all_roster_inventory; appearance population applied separately
+PHX,1626164,Devin Booker,23,22,2024-01-01,2024-02-14,all_roster_inventory; appearance population applied separately
+PHX,1626220,Royce O'Neale,3,3,2024-02-10,2024-02-14,all_roster_inventory; appearance population applied separately
+PHX,1627814,Damion Lee,23,0,2024-01-01,2024-02-14,all_roster_inventory; appearance population applied separately
+PHX,1628960,Grayson Allen,23,22,2024-01-01,2024-02-14,all_roster_inventory; appearance population applied separately
+PHX,1628962,Udoka Azubuike,23,7,2024-01-01,2024-02-14,all_roster_inventory; appearance population applied separately
+PHX,1628966,Keita Bates-Diop,20,17,2024-01-01,2024-02-08,all_roster_inventory; appearance population applied separately
+PHX,1629002,Chimezie Metu,20,15,2024-01-01,2024-02-08,all_roster_inventory; appearance population applied separately
+PHX,1629006,Josh Okogie,23,23,2024-01-01,2024-02-14,all_roster_inventory; appearance population applied separately
+PHX,1629139,Yuta Watanabe,20,8,2024-01-01,2024-02-08,all_roster_inventory; appearance population applied separately
+PHX,1629234,Drew Eubanks,23,21,2024-01-01,2024-02-14,all_roster_inventory; appearance population applied separately
+PHX,1629626,Bol Bol,23,10,2024-01-01,2024-02-14,all_roster_inventory; appearance population applied separately
+PHX,1629642,Nassir Little,23,9,2024-01-01,2024-02-14,all_roster_inventory; appearance population applied separately
+PHX,1630177,Theo Maledon,23,2,2024-01-01,2024-02-14,all_roster_inventory; appearance population applied separately
+PHX,1630240,Saben Lee,23,6,2024-01-01,2024-02-14,all_roster_inventory; appearance population applied separately
+PHX,1630692,Jordan Goodwin,20,10,2024-01-01,2024-02-08,all_roster_inventory; appearance population applied separately
+PHX,1631223,David Roddy,3,1,2024-02-10,2024-02-14,all_roster_inventory; appearance population applied separately
+PHX,201142,Kevin Durant,23,20,2024-01-01,2024-02-14,all_roster_inventory; appearance population applied separately
+PHX,201569,Eric Gordon,23,19,2024-01-01,2024-02-14,all_roster_inventory; appearance population applied separately
+PHX,203078,Bradley Beal,23,22,2024-01-01,2024-02-14,all_roster_inventory; appearance population applied separately
+PHX,203994,Jusuf Nurkić,23,22,2024-01-01,2024-02-14,all_roster_inventory; appearance population applied separately
+TOR,1626159,Justise Winslow,3,0,2024-02-10,2024-02-14,all_roster_inventory; appearance population applied separately
+TOR,1627751,Jakob Poeltl,23,12,2024-01-01,2024-02-14,all_roster_inventory; appearance population applied separately
+TOR,1627783,Pascal Siakam,9,7,2024-01-01,2024-01-17,all_roster_inventory; appearance population applied separately
+TOR,1628449,Chris Boucher,23,17,2024-01-01,2024-02-14,all_roster_inventory; appearance population applied separately
+TOR,1628971,Bruce Brown,14,14,2024-01-18,2024-02-14,all_roster_inventory; appearance population applied separately
+TOR,1629007,Jontay Porter,23,17,2024-01-01,2024-02-14,all_roster_inventory; appearance population applied separately
+TOR,1629018,Gary Trent Jr.,23,21,2024-01-01,2024-02-14,all_roster_inventory; appearance population applied separately
+TOR,1629628,RJ Barrett,23,19,2024-01-01,2024-02-14,all_roster_inventory; appearance population applied separately
+TOR,1629667,Jalen McDaniels,23,13,2024-01-01,2024-02-14,all_roster_inventory; appearance population applied separately
+TOR,1629670,Jordan Nwora,14,10,2024-01-18,2024-02-14,all_roster_inventory; appearance population applied separately
+TOR,1630184,Kira Lewis Jr.,10,1,2024-01-18,2024-02-07,all_roster_inventory; appearance population applied separately
+TOR,1630193,Immanuel Quickley,23,20,2024-01-01,2024-02-14,all_roster_inventory; appearance population applied separately
+TOR,1630534,Ochai Agbaji,4,3,2024-02-09,2024-02-14,all_roster_inventory; appearance population applied separately
+TOR,1630567,Scottie Barnes,23,23,2024-01-01,2024-02-14,all_roster_inventory; appearance population applied separately
+TOR,1631132,Christian Koloko,9,0,2024-01-01,2024-01-17,all_roster_inventory; appearance population applied separately
+TOR,1631241,Javon Freeman-Liberty,23,2,2024-01-01,2024-02-14,all_roster_inventory; appearance population applied separately
+TOR,1631338,Mouhamadou Gueye,3,1,2024-02-10,2024-02-14,all_roster_inventory; appearance population applied separately
+TOR,1641711,Gradey Dick,23,15,2024-01-01,2024-02-14,all_roster_inventory; appearance population applied separately
+TOR,1641806,Markquis Nowell,23,0,2024-01-01,2024-02-14,all_roster_inventory; appearance population applied separately
+TOR,201152,Thaddeus Young,19,17,2024-01-01,2024-02-07,all_roster_inventory; appearance population applied separately
+TOR,202066,Garrett Temple,23,10,2024-01-01,2024-02-14,all_roster_inventory; appearance population applied separately
+TOR,203471,Dennis Schröder,19,19,2024-01-01,2024-02-07,all_roster_inventory; appearance population applied separately
+TOR,203482,Kelly Olynyk,4,3,2024-02-09,2024-02-14,all_roster_inventory; appearance population applied separately
+TOR,203490,Otto Porter Jr.,19,0,2024-01-01,2024-02-07,all_roster_inventory; appearance population applied separately

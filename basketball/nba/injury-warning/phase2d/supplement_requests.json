@@ -1,0 +1,74 @@
+[
+  {
+    "source_id": "d_brown_surgery",
+    "date": "2024-01-10",
+    "kind": "news",
+    "url": "https://www.nba.com/blazers/news/moses-brown-injury-update-2"
+  },
+  {
+    "source_id": "d_sharpe_surgery",
+    "date": "2024-02-06",
+    "kind": "news",
+    "url": "https://www.nba.com/blazers/news/shaedon-sharpe-to-undergo-surgery"
+  },
+  {
+    "source_id": "d_ball_shutdown",
+    "date": "2024-03-28",
+    "kind": "news",
+    "url": "https://www.nba.com/news/hornets-lamelo-ball-out-remainder-2023-24-season"
+  },
+  {
+    "source_id": "d_patrick_surgery",
+    "date": "2024-02-23",
+    "kind": "news",
+    "url": "https://www.nba.com/news/bulls-patrick-williams-to-have-season-ending-foot-surgery"
+  },
+  {
+    "source_id": "d_simmons_surgery",
+    "date": "2024-03-14",
+    "kind": "news",
+    "url": "https://www.nba.com/news/nets-ben-simmons-back-surgery"
+  },
+  {
+    "source_id": "d_eason_coach",
+    "date": "2024-03-03",
+    "kind": "news",
+    "url": "https://sports.yahoo.com/tari-eason-undergo-leg-surgery-052622908.html"
+  },
+  {
+    "source_id": "d_vanderbilt",
+    "date": "2024-02-05",
+    "kind": "news",
+    "url": "https://www.nba.com/news/lakers-jarred-vanderbilt-out-foot-sprain"
+  },
+  {
+    "source_id": "d_wood",
+    "date": "2024-03-20",
+    "kind": "news",
+    "url": "https://www.nba.com/news/lakers-christian-wood-surgery"
+  },
+  {
+    "source_id": "d_daniels",
+    "date": "2024-02-15",
+    "kind": "news",
+    "url": "https://www.nba.com/pelicans/news/dyson-daniels-medical-update-new-orleans-pelicans-injury-status-2-15-2024"
+  },
+  {
+    "source_id": "d_daniels_progress",
+    "date": "2024-03-18",
+    "kind": "news",
+    "url": "https://www.nba.com/pelicans/news/pelicans-try-to-continue-rampant-success-on-road-during-four-game-east-trip"
+  },
+  {
+    "source_id": "d_castleton",
+    "date": "2024-02-25",
+    "kind": "news",
+    "url": "https://www.nba.com/lakers/news/colin-castleton-injury-update-022624"
+  },
+  {
+    "source_id": "d_lavine_distinct",
+    "date": "2024-02-03",
+    "kind": "news",
+    "url": "https://www.nba.com/news/bulls-zach-lavine-foot-surgery"
+  }
+]

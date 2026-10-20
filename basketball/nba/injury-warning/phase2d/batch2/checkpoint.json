@@ -1,0 +1,97 @@
+{
+  "batch": 2,
+  "saved_at": "2026-10-20T01:52:57.973352+00:00",
+  "completed_teams": [
+    "WAS",
+    "MIN",
+    "CHA",
+    "POR",
+    "MIL",
+    "UTA",
+    "CHI",
+    "PHX",
+    "BKN",
+    "GSW",
+    "HOU",
+    "TOR"
+  ],
+  "pending_teams": [
+    "IND",
+    "MIA",
+    "NOP",
+    "LAL",
+    "LAC"
+  ],
+  "batch_teams": [
+    "CHI",
+    "PHX",
+    "BKN",
+    "GSW",
+    "HOU",
+    "TOR"
+  ],
+  "state": "completed_same_agent_review_pending_human",
+  "negative_original_source_reviews": 60,
+  "independent_human_reviews": 0,
+  "request_usage_at_checkpoint": {
+    "actual_http": 137,
+    "core": 125,
+    "supplement": 12,
+    "bytes": 40949351,
+    "statuses": {
+      "obtained": 136,
+      "failed": 1
+    },
+    "receipt_time_filter": "actual retrieved_at no later than checkpoint saved_at"
+  },
+  "results": [
+    {
+      "batch": 2,
+      "extra_lag_days": "0",
+      "games": 120,
+      "team_games": 133,
+      "players": 114,
+      "candidate_appearances": 1409,
+      "included": 1380,
+      "excluded": 18,
+      "eligibility_unknown": 11,
+      "positive": 16,
+      "negative": 1291,
+      "outcome_unknown": 73,
+      "distinct_events": 8,
+      "event_players": 8,
+      "events_with_eligible_prediction": 6,
+      "missing_workload": 34,
+      "surveillance_gap": 52,
+      "followup_gap": 17,
+      "A_verified": 0,
+      "B_feature_rows": 1380
+    },
+    {
+      "batch": 2,
+      "extra_lag_days": "1",
+      "games": 120,
+      "team_games": 133,
+      "players": 114,
+      "candidate_appearances": 1409,
+      "included": 1319,
+      "excluded": 23,
+      "eligibility_unknown": 67,
+      "positive": 15,
+      "negative": 1230,
+      "outcome_unknown": 74,
+      "distinct_events": 8,
+      "event_players": 8,
+      "events_with_eligible_prediction": 6,
+      "missing_workload": 30,
+      "surveillance_gap": 55,
+      "followup_gap": 17,
+      "A_verified": 0,
+      "B_feature_rows": 1319
+    }
+  ],
+  "lead_time_table": "tables/lead_time_summary.csv",
+  "knowledge_table": "tables/knowledge_summary.csv",
+  "event_concentration_table": "tables/event_concentration.csv",
+  "final_source_coverage_table": "../tables/source_coverage.csv"
+}
