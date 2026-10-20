@@ -1,0 +1,21 @@
+{
+  "version": "phase3a_post_inspection_protocol_v1",
+  "designed_after_development_data_inspection": true,
+  "fitting_authorized": false,
+  "predictor_allowlist": ["recent_evidence_28d", "older_or_recent_history", "past_mean_minutes", "workload_change_minutes_7d", "index_back_to_back"],
+  "folds": 5,
+  "fold_function": "int(sha256('phase3a-20240221:' + player_id),16) % 5",
+  "models": {
+    "M0": {"features": [], "prediction": "positive training decisions / known-label training decisions"},
+    "M1": {"features": ["recent_evidence_28d", "older_or_recent_history", "past_mean_minutes"], "penalty": "L2", "C": 0.1, "solver": "lbfgs", "max_iter": 2000, "tol": 0.000001, "class_weight": null},
+    "M2": {"features": ["recent_evidence_28d", "older_or_recent_history", "past_mean_minutes", "workload_change_minutes_7d", "index_back_to_back"], "penalty": "L2", "C": 0.1, "solver": "lbfgs", "max_iter": 2000, "tol": 0.000001, "class_weight": null}
+  },
+  "weights": "one per observed decision; no class or event weights",
+  "preprocessing": {"fit_scope": "known-label training rows only", "imputation": "training median; all-missing training column uses fixed 0 with missing indicator", "indicators": "one fixed missing indicator per allowed feature", "scaling": "training mean and population SD for imputed base features; SD 0 becomes 1; indicators unscaled", "transformations": "all base features untransformed before scaling"},
+  "metrics": ["average_precision_step_PR_AUC", "Brier", "fixed_bin_calibration", "paired_M2_minus_M1"],
+  "unknown_labels": "excluded from supervised training and binary metrics; retained in population and selection summaries",
+  "uncertainty": {"unit": "player", "replicates": 2000, "seed": 20240222, "method": "paired player bootstrap of fixed out-of-fold predictions; percentiles 2.5 and 97.5; undefined replicates reported"},
+  "alerts": {"training_only_alert_fraction": 0.05, "threshold": "smallest distinct training OOF score with fraction(score>=threshold)<=0.05; if none, +infinity", "inner_folds": "hash same player key modulo 4 with prefix phase3a-alert-20240221; no redraw", "merge_days": 7, "matching_days": 14, "denominator": "100 observed eligible decisions; no player-week rate"},
+  "sensitivity": ["additional local calendar day timing; same player folds", "exclude all observations of any player with an included MEM decision; no fold redraw", "exclude retrospectively linked already disclosed same-acute positive opportunities; report outcome-conditioned population limitation"],
+  "prospective_candidate": {"index_start": "2024-10-22", "index_end": "2024-12-31", "history_start": "2024-09-24", "onset_through": "2025-01-14", "severity_followup_through": "2025-04-13", "accessed": false, "requires_separate_authorization": true}
+}
