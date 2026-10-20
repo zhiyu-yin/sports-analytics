@@ -1,0 +1,13 @@
+{
+  "config_sha256": "6a4ee97f5dec5edb3c32cde723295542ffa5997932b53140ad1e19c74e856e0a",
+  "corrections": 0,
+  "folds_workable_for_descriptive_planning": true,
+  "independent_human_reviews": 0,
+  "models_fitted": 0,
+  "preprocessing_fitted": 0,
+  "protected_periods_accessed": false,
+  "review_status": "pending",
+  "snapshot_verified": true,
+  "status": "prepared_only",
+  "timing_issues": 0
+}

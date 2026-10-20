@@ -1,0 +1,17 @@
+{
+  "phase3a_tests": {
+    "count": 13,
+    "result": "passed"
+  },
+  "historical_tests": {
+    "count": 112,
+    "result": "passed",
+    "scientific_commit": "1d6fd5c9d9e52edffa96cc6488037b504c7ab95e",
+    "isolation": "git archive plus matching ignored raw cache, exact 2023-24 schedule receipt/body, original local root README and three preserved bytecode files; PYTHONDONTWRITEBYTECODE=1",
+    "initial_setup_failures": "Missing local bytecode/schedule prerequisites, then bytecode regeneration; resolved by restoring exact bytes and disabling writes. No scientific artifact or registration altered."
+  },
+  "privacy_scan": "no raw PDF/HTML, credential signatures or files over 10MB in Phase3A artifacts",
+  "root_readme_sha256": "b9a0a38563ece5c86d466e6f1f38b5378890981cec4c0ff965c1dd373ecc6992",
+  "no_fitting": true,
+  "no_new_retrieval": true
+}

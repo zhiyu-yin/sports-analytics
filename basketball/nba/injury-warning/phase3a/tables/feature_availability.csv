@@ -1,0 +1,11 @@
+lag,feature,rows,missing,min,max,availability
+0,recent_evidence_28d,7108,244,0.0,1.0,B assumed; no preprocessing fitted
+0,older_or_recent_history,7108,244,0.0,1.0,B assumed; no preprocessing fitted
+0,past_mean_minutes,7108,196,0.5,41.0241,B assumed; no preprocessing fitted
+0,workload_change_minutes_7d,7108,131,-124.5333,146.25,B assumed; no preprocessing fitted
+0,index_back_to_back,7108,131,0.0,1.0,B assumed; no preprocessing fitted
+1,recent_evidence_28d,6862,234,0.0,1.0,B assumed; no preprocessing fitted
+1,older_or_recent_history,6862,234,0.0,1.0,B assumed; no preprocessing fitted
+1,past_mean_minutes,6862,189,0.5,41.0241,B assumed; no preprocessing fitted
+1,workload_change_minutes_7d,6862,125,-115.45,145.05,B assumed; no preprocessing fitted
+1,index_back_to_back,6862,125,0.0,1.0,B assumed; no preprocessing fitted

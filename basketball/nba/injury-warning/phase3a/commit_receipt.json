@@ -1,0 +1,11 @@
+{
+  "protocol_commit": "96d912e664f70992f54343ab42655df1e6828137",
+  "designed_after_development_inspection": true,
+  "models_fitted": 0,
+  "preprocessing_fitted": 0,
+  "independent_human_reviews": 0,
+  "protocol_hashes": {
+    "protocol/config.json": "6a4ee97f5dec5edb3c32cde723295542ffa5997932b53140ad1e19c74e856e0a",
+    "protocol/study_protocol.md": "41961776e96d1241585e061bd136c2268a886b0ecc695768108d1212c0d9d86f"
+  }
+}
